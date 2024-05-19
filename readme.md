@@ -1,6 +1,6 @@
-# TechiDaily
+# Visual Screen Recording Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://visual-screen-recording.techidaily.com](https://visual-screen-recording.techidaily.com)
 
 ## Publish
 
