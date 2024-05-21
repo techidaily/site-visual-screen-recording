@@ -678,3 +678,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://techidaily.com/is-your-motorola-defy-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Defy 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
 
+

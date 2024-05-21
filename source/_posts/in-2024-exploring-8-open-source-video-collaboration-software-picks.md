@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring 8 Open Source Video Collaboration Software Picks"
-date: 2024-05-18T17:51:32.814Z
-updated: 2024-05-19T17:51:32.814Z
+date: 2024-05-20T06:45:54.824Z
+updated: 2024-05-21T06:45:54.824Z
 tags: 
   - screen-recording
   - ai video
@@ -709,4 +709,5 @@ Follow @Richard Bennett
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12R Phone Without Password?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-online-video-editing-top-10-trimming-tools/"><u>Updated 2024 Approved Free Online Video Editing Top 10 Trimming Tools</u></a></li>
 </ul></div>
+
 

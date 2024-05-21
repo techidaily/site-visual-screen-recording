@@ -342,3 +342,4 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://techidaily.com/hard-resetting-an-nokia-xr21-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia XR21 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

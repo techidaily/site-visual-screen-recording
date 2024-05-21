@@ -220,3 +220,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100t Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

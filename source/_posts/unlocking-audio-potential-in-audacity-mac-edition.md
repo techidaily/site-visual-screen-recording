@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Audio Potential in Audacity, Mac Edition"
-date: 2024-05-18T18:11:36.345Z
-updated: 2024-05-19T18:11:36.345Z
+date: 2024-05-20T06:46:47.376Z
+updated: 2024-05-21T06:46:47.376Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-12-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 12 Pro with iTunes</u></a></li>
 <li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

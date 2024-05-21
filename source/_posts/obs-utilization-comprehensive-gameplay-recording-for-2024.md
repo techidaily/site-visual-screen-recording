@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Utilization  Comprehensive Gameplay Recording for 2024\""
-date: 2024-05-18T18:13:09.529Z
-updated: 2024-05-19T18:13:09.529Z
+date: 2024-05-20T06:46:51.654Z
+updated: 2024-05-21T06:46:51.654Z
 tags: 
   - screen-recording
   - ai video
@@ -401,4 +401,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy S24 ?</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 15 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

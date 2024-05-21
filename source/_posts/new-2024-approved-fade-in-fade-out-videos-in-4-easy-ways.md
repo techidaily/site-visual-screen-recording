@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fade In Fade Out Videos in 4 Easy Ways\""
-date: 2024-05-18T18:10:16.937Z
-updated: 2024-05-19T18:10:16.937Z
+date: 2024-05-20T06:46:43.946Z
+updated: 2024-05-21T06:46:43.946Z
 tags: 
   - screen-recording
   - ai video
@@ -500,4 +500,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-slow-zoom-effect-in-your-video/"><u>In 2024, How To Use Slow Zoom Effect in Your Video?</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

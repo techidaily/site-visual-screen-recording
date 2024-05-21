@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Full Screen Fiasco Resolved in Obs"
-date: 2024-05-18T18:13:31.211Z
-updated: 2024-05-19T18:13:31.211Z
+date: 2024-05-20T06:46:52.495Z
+updated: 2024-05-21T06:46:52.495Z
 tags: 
   - screen-recording
   - ai video
@@ -313,4 +313,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-6-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 6 from iCloud</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-redmi-k70-pro-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi K70 Pro support MKV video files?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Correcting Audio Absence in OBS Recordings Quickly"
-date: 2024-05-18T18:05:08.797Z
-updated: 2024-05-19T18:05:08.797Z
+date: 2024-05-20T06:46:30.379Z
+updated: 2024-05-21T06:46:30.379Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 14 Pro Max</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/in-2024-discovering-comical-noise-sounds-digitally/"><u>In 2024, Discovering Comical Noise Sounds Digitally</u></a></li>
 </ul></div>
+
 

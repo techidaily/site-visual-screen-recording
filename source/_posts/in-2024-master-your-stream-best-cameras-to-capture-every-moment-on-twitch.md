@@ -766,3 +766,4 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/updated-mute-audio-and-add-new-sound-in-windows-movie-maker/"><u>Updated Mute Audio and Add New Sound in Windows Movie Maker</u></a></li>
 </ul></div>
 
+

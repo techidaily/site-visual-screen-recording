@@ -1,7 +1,7 @@
 ---
 title: "\"Small Spaces, Big Flavor  6 Miniature East Asian Houses for 2024\""
-date: 2024-05-18T18:02:40.128Z
-updated: 2024-05-19T18:02:40.128Z
+date: 2024-05-20T06:46:24.298Z
+updated: 2024-05-21T06:46:24.298Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-powerdirector-not-your-cup-of-tea-try-these-alternatives-for-android-and-ios/"><u>New 2024 Approved PowerDirector Not Your Cup of Tea? Try These Alternatives for Android & iOS</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-vivo-y78t-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y78t phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

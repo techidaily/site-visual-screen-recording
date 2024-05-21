@@ -1,7 +1,7 @@
 ---
 title: "\"Game-to-Video Magic  Full OBS Guide for PS4 Recording\""
-date: 2024-05-18T17:52:39.623Z
-updated: 2024-05-19T17:52:39.623Z
+date: 2024-05-20T06:45:58.012Z
+updated: 2024-05-21T06:45:58.012Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-gt-10-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix GT 10 Pro and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

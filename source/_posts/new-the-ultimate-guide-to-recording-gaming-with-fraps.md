@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Recording Gaming with Fraps"
-date: 2024-05-18T17:47:47.402Z
-updated: 2024-05-19T17:47:47.402Z
+date: 2024-05-20T06:45:45.053Z
+updated: 2024-05-21T06:45:45.053Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27s-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27s If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/the-only-guide-youll-ever-need-to-learn-gif-design-that-get-shared-like-crazy-for-2024/"><u>The Only Guide Youll Ever Need to Learn GIF Design That Get Shared Like Crazy for 2024</u></a></li>
 </ul></div>
+
 

@@ -492,3 +492,4 @@ If you are looking for a proper platform to record my voice online without insta
 <li><a href="https://audio-editing.techidaily.com/new-davinci-resolve-audio-processing-101-a-comprehensive-guide-to-normalization/"><u>New DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization</u></a></li>
 </ul></div>
 
+

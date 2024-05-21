@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capture Gaming Sessions in HD - Using OBS\""
-date: 2024-05-18T18:13:28.749Z
-updated: 2024-05-19T18:13:28.749Z
+date: 2024-05-20T06:46:52.380Z
+updated: 2024-05-21T06:46:52.380Z
 tags: 
   - screen-recording
   - ai video
@@ -417,4 +417,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Plus | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Poco X5 | Dr.fone</u></a></li>
 </ul></div>
+
 

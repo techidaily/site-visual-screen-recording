@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Record Skype with OBS"
-date: 2024-05-18T17:46:38.248Z
-updated: 2024-05-19T17:46:38.248Z
+date: 2024-05-20T06:45:42.163Z
+updated: 2024-05-21T06:45:42.163Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Itel A60 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 15?</u></a></li>
 </ul></div>
+
 

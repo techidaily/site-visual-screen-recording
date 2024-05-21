@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Excellent Screenshot & Videography Solutions  Ubuntu Edition for 2024\""
-date: 2024-05-18T17:47:19.621Z
-updated: 2024-05-19T17:47:19.621Z
+date: 2024-05-20T06:45:43.911Z
+updated: 2024-05-21T06:45:43.911Z
 tags: 
   - screen-recording
   - ai video
@@ -724,4 +724,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-13-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 13 Pro Max When Its Locked Within Seconds</u></a></li>
 </ul></div>
+
 

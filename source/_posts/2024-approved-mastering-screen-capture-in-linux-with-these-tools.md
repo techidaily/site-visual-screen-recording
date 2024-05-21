@@ -569,3 +569,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/new-cropping-videos-in-final-cut-pro-step-by-step/"><u>New Cropping Videos in Final Cut Pro Step by Step</u></a></li>
 </ul></div>
 
+

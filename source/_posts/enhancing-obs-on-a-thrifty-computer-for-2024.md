@@ -1,7 +1,7 @@
 ---
 title: "Enhancing OBS on a Thrifty Computer for 2024"
-date: 2024-05-18T18:06:13.622Z
-updated: 2024-05-19T18:06:13.622Z
+date: 2024-05-20T06:46:33.279Z
+updated: 2024-05-21T06:46:33.279Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://voice-adjusting.techidaily.com/revealing-the-invisible-sounds-in-visual-media-the-pinnacle-of-technology-for-2024/"><u>Revealing the Invisible Sounds in Visual Media The Pinnacle of Technology for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-unlock-cinematic-storytelling-using-ken-burns-effect-in-final-cut-pro/"><u>In 2024, Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
+
 

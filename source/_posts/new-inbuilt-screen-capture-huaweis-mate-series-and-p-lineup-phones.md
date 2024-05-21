@@ -382,3 +382,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-detailed-steps-to-resize-video-in-davinci-resolve/"><u>New 2024 Approved Detailed Steps to Resize Video in Davinci Resolve</u></a></li>
 </ul></div>
 
+

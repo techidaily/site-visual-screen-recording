@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Complete Screencast Cheat Sheet  Must-Knows\""
-date: 2024-05-18T17:58:57.818Z
-updated: 2024-05-19T17:58:57.818Z
+date: 2024-05-20T06:46:14.033Z
+updated: 2024-05-21T06:46:14.033Z
 tags: 
   - screen-recording
   - ai video
@@ -315,4 +315,5 @@ In our complete review of Screencast-O-Matic, we have provided you with Screenca
 <li><a href="https://audio-editing.techidaily.com/updated-the-quintessential-quality-control-for-sound-customization/"><u>Updated The Quintessential Quality Control for Sound Customization</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-image-jpgpng-to-gif-converters/"><u>New In 2024, Best Image (JPG/PNG) to GIF Converters</u></a></li>
 </ul></div>
+
 

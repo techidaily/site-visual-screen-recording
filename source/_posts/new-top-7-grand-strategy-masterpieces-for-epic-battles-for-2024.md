@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 7 Grand Strategy Masterpieces for Epic Battles for 2024"
-date: 2024-05-18T17:51:14.663Z
-updated: 2024-05-19T17:51:14.663Z
+date: 2024-05-20T06:45:54.075Z
+updated: 2024-05-21T06:45:54.075Z
 tags: 
   - screen-recording
   - ai video
@@ -552,4 +552,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://audio-shaping.techidaily.com/the-one-stop-shop-for-podcast-platforms-and-directories-for-2024/"><u>The One-Stop Shop for Podcast Platforms and Directories for 2024</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-make-movies-for-free-top-online-video-makers/"><u>New Make Movies for Free Top Online Video Makers</u></a></li>
 </ul></div>
+
 

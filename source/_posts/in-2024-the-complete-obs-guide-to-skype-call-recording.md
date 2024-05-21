@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete OBS Guide to Skype Call Recording"
-date: 2024-05-18T18:09:56.572Z
-updated: 2024-05-19T18:09:56.572Z
+date: 2024-05-20T06:46:43.136Z
+updated: 2024-05-21T06:46:43.136Z
 tags: 
   - screen-recording
   - ai video
@@ -336,4 +336,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Ace 2V | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/instagram-video-size-matters-understanding-aspect-ratios-for-better-engagement/"><u>Instagram Video Size Matters Understanding Aspect Ratios for Better Engagement</u></a></li>
 </ul></div>
+
 

@@ -294,3 +294,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Itel A60 Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
 
+

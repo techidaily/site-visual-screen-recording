@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fraps as a Video Recorder  What You Need To Know\""
-date: 2024-05-18T17:53:25.291Z
-updated: 2024-05-19T17:53:25.291Z
+date: 2024-05-20T06:45:59.815Z
+updated: 2024-05-21T06:45:59.815Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-explore-whispered-complaint-samples/"><u>Updated In 2024, Explore Whispered Complaint Samples</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-emoji-on-mac-that-take-less-than-10-mins/"><u>How to Create Emoji on Mac That Take Less Than 10 Mins</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)\""
-date: 2024-05-18T17:52:29.617Z
-updated: 2024-05-19T17:52:29.617Z
+date: 2024-05-20T06:45:57.610Z
+updated: 2024-05-21T06:45:57.610Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/cut-and-split-wmv-videos-for-free-top-software-picks/"><u>Cut and Split WMV Videos for Free Top Software Picks</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

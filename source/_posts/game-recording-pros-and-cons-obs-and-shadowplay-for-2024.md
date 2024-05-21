@@ -1,7 +1,7 @@
 ---
 title: "\"Game Recording Pros & Cons  OBS and ShadowPlay for 2024\""
-date: 2024-05-18T17:59:09.570Z
-updated: 2024-05-19T17:59:09.570Z
+date: 2024-05-20T06:46:14.490Z
+updated: 2024-05-21T06:46:14.490Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-x100-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo X100 is off? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-blaze-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Blaze Pro 5G in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

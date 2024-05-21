@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Download to Implementation  Installing OBS on a MacPC\""
-date: 2024-05-18T18:04:19.592Z
-updated: 2024-05-19T18:04:19.592Z
+date: 2024-05-20T06:46:28.540Z
+updated: 2024-05-21T06:46:28.540Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-11-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 11 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-exploring-key-components-and-creation-process-of-ai-face-generators/"><u>Updated 2024 Approved Exploring Key Components and Creation Process of AI Face Generators</u></a></li>
 </ul></div>
+
 

@@ -171,3 +171,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
 
+

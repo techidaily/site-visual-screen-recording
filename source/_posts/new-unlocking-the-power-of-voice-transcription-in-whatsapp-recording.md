@@ -470,3 +470,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-started-with-windows-movie-maker-download-and-installation-tutorial/"><u>Updated In 2024, Get Started with Windows Movie Maker Download and Installation Tutorial</u></a></li>
 </ul></div>
 
+

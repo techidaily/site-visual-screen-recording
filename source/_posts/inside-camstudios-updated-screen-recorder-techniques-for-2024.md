@@ -257,3 +257,4 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://ai-video-editing.techidaily.com/new-step-by-step-to-add-border-to-video-using-premiere-pro/"><u>New Step by Step to Add Border to Video Using Premiere Pro</u></a></li>
 </ul></div>
 
+

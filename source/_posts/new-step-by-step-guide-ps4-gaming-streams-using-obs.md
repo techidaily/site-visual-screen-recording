@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide  PS4 Gaming Streams Using OBS\""
-date: 2024-05-18T18:06:39.218Z
-updated: 2024-05-19T18:06:39.218Z
+date: 2024-05-20T06:46:34.328Z
+updated: 2024-05-21T06:46:34.328Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://video-creation-software.techidaily.com/updated-add-wow-factor-to-your-videos-top-free-special-effects-apps-for-2024/"><u>Updated Add Wow Factor to Your Videos Top Free Special Effects Apps for 2024</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New 2024 Approved How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
 </ul></div>
+
 

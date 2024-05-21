@@ -447,3 +447,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-show-audio-waveform-and-add-waveform-animation-in-final-cut-protuto/"><u>New In 2024, Show Audio Waveform and Add Waveform Animation in Final Cut ProTuto</u></a></li>
 </ul></div>
 
+

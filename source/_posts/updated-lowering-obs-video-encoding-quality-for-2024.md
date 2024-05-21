@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lowering OBS Video Encoding Quality for 2024"
-date: 2024-05-18T18:11:48.208Z
-updated: 2024-05-19T18:11:48.208Z
+date: 2024-05-20T06:46:47.891Z
+updated: 2024-05-21T06:46:47.891Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oneplus-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of OnePlus Without PUK Codes</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Pop 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

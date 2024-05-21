@@ -802,3 +802,4 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oppo-a18-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Oppo A18?</u></a></li>
 </ul></div>
 
+

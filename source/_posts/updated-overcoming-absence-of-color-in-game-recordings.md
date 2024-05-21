@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Overcoming Absence of Color in Game Recordings"
-date: 2024-05-18T17:49:30.751Z
-updated: 2024-05-19T17:49:30.751Z
+date: 2024-05-20T06:45:49.610Z
+updated: 2024-05-21T06:45:49.610Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Note 30 VIP | Dr.fone</u></a></li>
 </ul></div>
+
 

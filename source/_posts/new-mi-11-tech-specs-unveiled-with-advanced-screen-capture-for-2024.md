@@ -1,7 +1,7 @@
 ---
 title: "[New] Mi 11 Tech Specs Unveiled with Advanced Screen Capture for 2024"
-date: 2024-05-18T17:55:26.082Z
-updated: 2024-05-19T17:55:26.082Z
+date: 2024-05-20T06:46:05.046Z
+updated: 2024-05-21T06:46:05.046Z
 tags: 
   - screen-recording
   - ai video
@@ -571,4 +571,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-video-grabbers-for-chrome-for-2024/"><u>Updated Best Video Grabbers for Chrome for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

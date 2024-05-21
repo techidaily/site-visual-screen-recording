@@ -535,3 +535,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/2d-character-animation-everything-you-should-know-about-it/"><u>2D Character Animation Everything You Should Know About It</u></a></li>
 </ul></div>
 
+

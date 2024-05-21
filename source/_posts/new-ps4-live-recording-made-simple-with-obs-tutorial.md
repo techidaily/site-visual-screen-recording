@@ -1,7 +1,7 @@
 ---
 title: "[New] PS4 Live Recording Made Simple with OBS Tutorial"
-date: 2024-05-18T18:09:06.953Z
-updated: 2024-05-19T18:09:06.953Z
+date: 2024-05-20T06:46:40.979Z
+updated: 2024-05-21T06:46:40.979Z
 tags: 
   - screen-recording
   - ai video
@@ -392,4 +392,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-seeking-out-ingenious-flatulence-audio-plugins/"><u>New In 2024, Seeking Out Ingenious Flatulence Audio Plugins</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
 </ul></div>
+
 

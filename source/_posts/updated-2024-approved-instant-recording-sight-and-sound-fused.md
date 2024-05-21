@@ -499,3 +499,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-smart-8-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Smart 8 without backup.</u></a></li>
 </ul></div>
 
+

@@ -697,3 +697,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
 
+

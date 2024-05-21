@@ -1,7 +1,7 @@
 ---
 title: "\"Silencing Sound  OBS Audio Solution for 2024\""
-date: 2024-05-18T18:13:26.025Z
-updated: 2024-05-19T18:13:26.025Z
+date: 2024-05-20T06:46:52.290Z
+updated: 2024-05-21T06:46:52.290Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A25 5G</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-blade-a73-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock ZTE Blade A73 5G PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

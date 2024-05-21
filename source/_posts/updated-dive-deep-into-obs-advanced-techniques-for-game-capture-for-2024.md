@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Dive Deep Into OBS  Advanced Techniques for Game Capture for 2024\""
-date: 2024-05-18T18:13:46.570Z
-updated: 2024-05-19T18:13:46.570Z
+date: 2024-05-20T06:46:53.674Z
+updated: 2024-05-21T06:46:53.674Z
 tags: 
   - screen-recording
   - ai video
@@ -385,4 +385,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Smart 8 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-11-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus 11 5G Devices</u></a></li>
 </ul></div>
+
 

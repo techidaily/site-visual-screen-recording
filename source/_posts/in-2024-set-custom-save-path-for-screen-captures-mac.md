@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Set Custom Save Path for Screen Captures (Mac)"
-date: 2024-05-18T17:52:27.993Z
-updated: 2024-05-19T17:52:27.993Z
+date: 2024-05-20T06:45:57.539Z
+updated: 2024-05-21T06:45:57.539Z
 tags: 
   - screen-recording
   - ai video
@@ -381,4 +381,5 @@ Follow @Max Wales
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-c65-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco C65 Phone | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/9-best-sparkle-effects-photo-and-video-editors-you-should-know/"><u>9 Best Sparkle Effects Photo and Video Editors You Should Know</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop OBS From Skipping Audio for 2024"
-date: 2024-05-18T17:58:25.416Z
-updated: 2024-05-19T17:58:25.416Z
+date: 2024-05-20T06:46:12.868Z
+updated: 2024-05-21T06:46:12.868Z
 tags: 
   - screen-recording
   - ai video
@@ -571,4 +571,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-cross-platform-video-editing-35-top-tools-for-any-device/"><u>Updated Cross-Platform Video Editing 35 Top Tools for Any Device</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme Narzo N55? | Dr.fone</u></a></li>
 </ul></div>
+
 

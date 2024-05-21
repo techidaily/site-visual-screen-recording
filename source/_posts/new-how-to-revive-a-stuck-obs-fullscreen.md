@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Revive a Stuck OBS Fullscreen"
-date: 2024-05-18T18:07:21.995Z
-updated: 2024-05-19T18:07:21.995Z
+date: 2024-05-20T06:46:36.367Z
+updated: 2024-05-21T06:46:36.367Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-find-x6-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Find X6 Device</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-pixel-power-a-beginners-guide-to-hd-video-production/"><u>Updated 2024 Approved Pixel Power A Beginners Guide to HD Video Production</u></a></li>
 </ul></div>
+
 

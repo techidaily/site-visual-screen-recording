@@ -525,3 +525,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-a-video-by-mouse-in-filmora/"><u>In 2024, How To Make a Video by Mouse in Filmora?</u></a></li>
 </ul></div>
 
+

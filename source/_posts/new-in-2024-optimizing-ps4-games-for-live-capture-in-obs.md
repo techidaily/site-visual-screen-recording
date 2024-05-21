@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Optimizing PS4 Games for Live Capture in OBS"
-date: 2024-05-18T17:58:16.895Z
-updated: 2024-05-19T17:58:16.895Z
+date: 2024-05-20T06:46:12.541Z
+updated: 2024-05-21T06:46:12.541Z
 tags: 
   - screen-recording
   - ai video
@@ -400,4 +400,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo K11 5G | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-ditch-the-search-get-your-filmora-discount-code-here/"><u>New Ditch the Search Get Your Filmora Discount Code Here</u></a></li>
 </ul></div>
+
 

@@ -433,3 +433,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-12-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi 12? | Dr.fone</u></a></li>
 </ul></div>
 
+

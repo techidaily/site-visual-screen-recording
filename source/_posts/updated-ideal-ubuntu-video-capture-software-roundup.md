@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ideal Ubuntu Video Capture Software Roundup"
-date: 2024-05-18T18:00:19.272Z
-updated: 2024-05-19T18:00:19.272Z
+date: 2024-05-20T06:46:18.035Z
+updated: 2024-05-21T06:46:18.035Z
 tags: 
   - screen-recording
   - ai video
@@ -688,4 +688,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://smart-video-creator.techidaily.com/new-tiktok-screen-real-estate-optimizing-aspect-ratio-for-2024/"><u>New TikTok Screen Real Estate Optimizing Aspect Ratio for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-pova-5-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Pova 5 Pro Is Unlocked</u></a></li>
 </ul></div>
+
 

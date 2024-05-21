@@ -256,3 +256,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-g2-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from G2</u></a></li>
 </ul></div>
 
+

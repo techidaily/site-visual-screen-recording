@@ -406,3 +406,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-made-easy-a-yosemite-users-handbook/"><u>Mac Video Editing Made Easy A Yosemite Users Handbook</u></a></li>
 </ul></div>
 
+

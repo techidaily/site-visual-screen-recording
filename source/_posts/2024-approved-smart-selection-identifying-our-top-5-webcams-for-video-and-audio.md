@@ -645,3 +645,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/in-2024-cartoon-fundamentals-how-to-learn-cartoon-characters-sketch-quickly/"><u>In 2024, Cartoon Fundamentals How to Learn Cartoon Characters Sketch Quickly</u></a></li>
 </ul></div>
 
+

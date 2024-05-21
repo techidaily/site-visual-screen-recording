@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  History's Heaviest Battles  RTS Review of 7 Epic Games\""
-date: 2024-05-18T18:06:50.128Z
-updated: 2024-05-19T18:06:50.128Z
+date: 2024-05-20T06:46:34.746Z
+updated: 2024-05-21T06:46:34.746Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://audio-editing.techidaily.com/new-understanding-amplitude-adjustments-in-audacity-a-comprehensive-overview/"><u>New Understanding Amplitude Adjustments in Audacity A Comprehensive Overview</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-an-overview-of-the-best-free-luts-to-use-for-2024/"><u>Updated An Overview of the Best Free LUTs to Use for 2024</u></a></li>
 </ul></div>
+
 

@@ -476,3 +476,4 @@ After documenting, you might need to make your video more interesting. iPhone pr
 <li><a href="https://video-creation-software.techidaily.com/new-the-10-most-popular-aspect-ratio-adjustment-tools/"><u>New The 10 Most Popular Aspect Ratio Adjustment Tools</u></a></li>
 </ul></div>
 
+

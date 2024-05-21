@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, In-Depth Look at Fraps Screen Capture\""
-date: 2024-05-18T18:04:23.410Z
-updated: 2024-05-19T18:04:23.410Z
+date: 2024-05-20T06:46:28.678Z
+updated: 2024-05-21T06:46:28.678Z
 tags: 
   - screen-recording
   - ai video
@@ -344,4 +344,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://video-ai-editor.techidaily.com/elevate-your-brand-expert-facebook-video-cover-creation-tips-for-2024/"><u>Elevate Your Brand Expert Facebook Video Cover Creation Tips for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-video-trimming-and-combining-software-for-beginners-a-2023-review/"><u>Free Video Trimming and Combining Software for Beginners A 2023 Review</u></a></li>
 </ul></div>
+
 

@@ -380,3 +380,4 @@ V Recorder is a powerful app for recording videos of your smartphone's screen in
 <li><a href="https://howto.techidaily.com/why-your-google-pixel-7a-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Google Pixel 7a Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

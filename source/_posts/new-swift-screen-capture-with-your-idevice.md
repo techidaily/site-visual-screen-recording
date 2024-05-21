@@ -1,7 +1,7 @@
 ---
 title: "[New] Swift Screen Capture with Your iDevice"
-date: 2024-05-18T17:48:54.020Z
-updated: 2024-05-19T17:48:54.020Z
+date: 2024-05-20T06:45:48.161Z
+updated: 2024-05-21T06:45:48.161Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v27-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V27 Pro</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-top-10-ai-avatar-generators/"><u>2024 Approved The Top 10 AI Avatar Generators</u></a></li>
 </ul></div>
+
 

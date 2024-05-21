@@ -405,3 +405,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
 
+

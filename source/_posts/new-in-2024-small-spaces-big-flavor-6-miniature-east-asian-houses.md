@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Small Spaces, Big Flavor  6 Miniature East Asian Houses\""
-date: 2024-05-18T17:57:12.565Z
-updated: 2024-05-19T17:57:12.565Z
+date: 2024-05-20T06:46:09.521Z
+updated: 2024-05-21T06:46:09.521Z
 tags: 
   - screen-recording
   - ai video
@@ -335,4 +335,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/new-7-best-real-time-video-translation-apps/"><u>New 7 Best Real Time Video Translation Apps</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-guide-to-harmonizing-music-and-video-in-creative-projects/"><u>In 2024, The Ultimate Guide to Harmonizing Music and Video in Creative Projects</u></a></li>
 </ul></div>
+
 

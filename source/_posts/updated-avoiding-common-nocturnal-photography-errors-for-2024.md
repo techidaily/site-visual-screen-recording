@@ -201,3 +201,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://voice-adjusting.techidaily.com/new-the-newbies-roadmap-to-successful-podcast-editing/"><u>New The Newbies Roadmap to Successful Podcast Editing</u></a></li>
 </ul></div>
 
+

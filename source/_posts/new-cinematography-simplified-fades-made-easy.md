@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cinematography Simplified  Fades Made Easy\""
-date: 2024-05-18T18:01:44.246Z
-updated: 2024-05-19T18:01:44.246Z
+date: 2024-05-20T06:46:22.029Z
+updated: 2024-05-21T06:46:22.029Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Follow @Max Wales
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-edge-40-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Edge 40 Pro online without jailbreak</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-the-5-key-factors-that-influence-my-video-to-audio-converter-choice/"><u>2024 Approved The 5 Key Factors That Influence My Video to Audio Converter Choice</u></a></li>
 </ul></div>
+
 

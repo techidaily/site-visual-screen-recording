@@ -745,3 +745,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-smart-7-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Smart 7 Phone Now with These Tips</u></a></li>
 </ul></div>
 
+

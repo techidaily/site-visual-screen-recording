@@ -271,3 +271,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-g42-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia G42 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

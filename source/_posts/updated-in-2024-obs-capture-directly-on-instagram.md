@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, OBS Capture Directly on Instagram"
-date: 2024-05-18T18:12:22.529Z
-updated: 2024-05-19T18:12:22.529Z
+date: 2024-05-20T06:46:49.428Z
+updated: 2024-05-21T06:46:49.428Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://video-creation-software.techidaily.com/new-the-best-free-video-repeaters-for-pc-and-laptop/"><u>New The Best Free Video Repeaters for PC and Laptop</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 14 Pro Max</u></a></li>
 </ul></div>
+
 

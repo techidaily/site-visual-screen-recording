@@ -227,3 +227,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://smart-video-editing.techidaily.com/new-unlock-perfect-proportions-a-comprehensive-image-ratio-guide-for-2024/"><u>New Unlock Perfect Proportions A Comprehensive Image Ratio Guide for 2024</u></a></li>
 </ul></div>
 
+

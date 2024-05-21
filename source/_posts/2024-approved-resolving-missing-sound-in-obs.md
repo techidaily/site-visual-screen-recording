@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Resolving Missing Sound in OBS\""
-date: 2024-05-18T17:47:31.407Z
-updated: 2024-05-19T17:47:31.407Z
+date: 2024-05-20T06:45:44.413Z
+updated: 2024-05-21T06:45:44.413Z
 tags: 
   - screen-recording
   - ai video
@@ -548,4 +548,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://techidaily.com/hard-resetting-an-oppo-a18-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A18 Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Moto G14</u></a></li>
 </ul></div>
+
 

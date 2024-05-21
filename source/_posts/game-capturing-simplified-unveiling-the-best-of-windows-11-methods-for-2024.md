@@ -419,3 +419,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
 
+

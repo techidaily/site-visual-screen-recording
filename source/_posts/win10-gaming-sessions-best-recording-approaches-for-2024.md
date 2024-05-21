@@ -422,3 +422,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

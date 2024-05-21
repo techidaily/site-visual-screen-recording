@@ -652,3 +652,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-tutorial-changing-aspect-ratio-for-social-media-and-more-for-2024/"><u>Updated Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Ken Burns Method in Camtasia 9 Explained Simply\""
-date: 2024-05-18T17:54:56.571Z
-updated: 2024-05-19T17:54:56.571Z
+date: 2024-05-20T06:46:03.945Z
+updated: 2024-05-21T06:46:03.945Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-top-6-chrome-browser-sound-capture-apps/"><u>2024 Approved Top 6 Chrome Browser Sound Capture Apps</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-art-of-silence-strategies-for-achieving-pristine-unobstructed-recordings/"><u>Updated 2024 Approved Art of Silence Strategies for Achieving Pristine, Unobstructed Recordings</u></a></li>
 </ul></div>
+
 

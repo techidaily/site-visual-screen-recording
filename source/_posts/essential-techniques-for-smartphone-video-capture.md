@@ -1,7 +1,7 @@
 ---
 title: "Essential Techniques for Smartphone Video Capture"
-date: 2024-05-18T17:50:02.011Z
-updated: 2024-05-19T17:50:02.011Z
+date: 2024-05-20T06:45:51.306Z
+updated: 2024-05-21T06:45:51.306Z
 tags: 
   - screen-recording
   - ai video
@@ -408,4 +408,5 @@ Recording all of your favorite movies on your Mac or PC is now easy and enjoyabl
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-10-best-2d-animation-software-freepaid/"><u>New 2024 Approved 10 Best 2D Animation Software Free/Paid</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users-for-2024/"><u>Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users for 2024</u></a></li>
 </ul></div>
+
 

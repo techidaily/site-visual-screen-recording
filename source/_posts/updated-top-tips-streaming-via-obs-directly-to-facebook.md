@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Tips  Streaming via OBS Directly to Facebook\""
-date: 2024-05-18T17:47:32.778Z
-updated: 2024-05-19T17:47:32.778Z
+date: 2024-05-20T06:45:44.448Z
+updated: 2024-05-21T06:45:44.448Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Facebook Live provides an exciting and entertaining opportunity to connect with 
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-sony-xperia-5-v-by-drfone-android/"><u>Full Guide to Unlock Your Sony Xperia 5 V</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-70-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor 70 Lite 5G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

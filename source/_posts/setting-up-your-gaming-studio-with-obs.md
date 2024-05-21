@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Gaming Studio with OBS"
-date: 2024-05-18T17:57:32.051Z
-updated: 2024-05-19T17:57:32.051Z
+date: 2024-05-20T06:46:10.306Z
+updated: 2024-05-21T06:46:10.306Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Lava Blaze Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

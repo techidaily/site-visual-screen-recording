@@ -301,3 +301,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Poco X5 | Dr.fone</u></a></li>
 </ul></div>
 
+

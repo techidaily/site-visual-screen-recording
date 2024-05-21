@@ -517,3 +517,4 @@ Regardless of your platform, you might still want to utilize an audio editing ap
 <li><a href="https://sound-optimizing.techidaily.com/how-to-record-on-garageband-step-by-step-guide/"><u>How to Record on GarageBand? Step by Step Guide</u></a></li>
 </ul></div>
 
+

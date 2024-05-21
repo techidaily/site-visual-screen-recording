@@ -620,3 +620,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
 
+

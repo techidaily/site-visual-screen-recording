@@ -428,3 +428,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pop-7-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pop 7 Pro to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

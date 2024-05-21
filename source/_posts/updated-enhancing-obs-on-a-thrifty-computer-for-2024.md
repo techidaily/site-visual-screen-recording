@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Enhancing OBS on a Thrifty Computer for 2024"
-date: 2024-05-18T17:51:26.856Z
-updated: 2024-05-19T17:51:26.856Z
+date: 2024-05-20T06:45:54.518Z
+updated: 2024-05-21T06:45:54.518Z
 tags: 
   - screen-recording
   - ai video
@@ -233,4 +233,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 15 Pro Max to Android? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-music-enabled-video-editors-the-top-10/"><u>Updated 2024 Approved Music-Enabled Video Editors The Top 10</u></a></li>
 </ul></div>
+
 

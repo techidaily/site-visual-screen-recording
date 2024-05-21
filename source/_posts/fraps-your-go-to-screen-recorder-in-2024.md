@@ -1,7 +1,7 @@
 ---
 title: "\"Fraps  Your Go-To Screen Recorder, In 2024\""
-date: 2024-05-18T17:57:44.825Z
-updated: 2024-05-19T17:57:44.825Z
+date: 2024-05-20T06:46:11.236Z
+updated: 2024-05-21T06:46:11.236Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-voice-clone.techidaily.com/new-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>New 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

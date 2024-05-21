@@ -400,3 +400,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-12-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme 12 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

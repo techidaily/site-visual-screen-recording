@@ -1,7 +1,7 @@
 ---
 title: "[New] Xiaomi 11 Series Brings Cinema Quality Into Mobile Devices"
-date: 2024-05-18T17:46:42.284Z
-updated: 2024-05-19T17:46:42.284Z
+date: 2024-05-20T06:45:42.320Z
+updated: 2024-05-21T06:45:42.320Z
 tags: 
   - screen-recording
   - ai video
@@ -583,4 +583,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-art-of-leveraging-tension-evoking-soundtracks-in-cinematic-compositions/"><u>2024 Approved The Art of Leveraging Tension-Evoking Soundtracks in Cinematic Compositions</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-how-to-enable-the-text-to-speech-function-on-iphone/"><u>Updated How to Enable the Text to Speech Function on iPhone</u></a></li>
 </ul></div>
+
 

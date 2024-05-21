@@ -590,3 +590,4 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/all-about-the-wave-editor-essential-features-user-experiences-and-learning-modules/"><u>All About the Wave Editor Essential Features, User Experiences, and Learning Modules</u></a></li>
 </ul></div>
 
+

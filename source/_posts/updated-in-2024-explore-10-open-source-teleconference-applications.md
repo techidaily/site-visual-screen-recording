@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Explore 10 Open Source Teleconference Applications"
-date: 2024-05-18T17:49:51.960Z
-updated: 2024-05-19T17:49:51.960Z
+date: 2024-05-20T06:45:50.852Z
+updated: 2024-05-21T06:45:50.852Z
 tags: 
   - screen-recording
   - ai video
@@ -658,4 +658,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-apps.techidaily.com/new-say-goodbye-to-imovie-top-windows-video-editing-software/"><u>New Say Goodbye to iMovie Top Windows Video Editing Software</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-animate-your-phone-videos-best-text-animation-apps/"><u>Updated 2024 Approved Animate Your Phone Videos Best Text Animation Apps</u></a></li>
 </ul></div>
+
 

@@ -267,3 +267,4 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-editing.techidaily.com/essential-techniques-for-adding-voice-to-microsoft-powerpoint-projects-windows-and-macos/"><u>Essential Techniques for Adding Voice to Microsoft PowerPoint Projects (Windows & macOS)</u></a></li>
 </ul></div>
 
+

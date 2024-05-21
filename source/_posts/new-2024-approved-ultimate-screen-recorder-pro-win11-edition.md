@@ -534,3 +534,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x100-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X100</u></a></li>
 </ul></div>
 
+

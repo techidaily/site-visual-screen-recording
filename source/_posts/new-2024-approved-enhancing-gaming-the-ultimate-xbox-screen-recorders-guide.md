@@ -600,3 +600,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-creating-soundtrack-enhanced-media-at-little-or-no-cost-for-2024/"><u>Updated The Art of Creating Soundtrack-Enhanced Media at Little or No Cost for 2024</u></a></li>
 </ul></div>
 
+

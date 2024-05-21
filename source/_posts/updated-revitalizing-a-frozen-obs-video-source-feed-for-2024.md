@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revitalizing a Frozen OBS Video Source Feed for 2024"
-date: 2024-05-18T18:13:16.267Z
-updated: 2024-05-19T18:13:16.267Z
+date: 2024-05-20T06:46:51.901Z
+updated: 2024-05-21T06:46:51.901Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://sound-tweaking.techidaily.com/essential-tips-for-efficiently-gathering-podcast-files-onto-personal-computers-for-2024/"><u>Essential Tips for Efficiently Gathering Podcast Files Onto Personal Computers for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-camon-20-premier-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Camon 20 Premier 5G Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

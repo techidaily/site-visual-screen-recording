@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Record Hearthstone Decks in Minutes"
-date: 2024-05-18T17:47:51.469Z
-updated: 2024-05-19T17:47:51.469Z
+date: 2024-05-20T06:45:45.241Z
+updated: 2024-05-21T06:45:45.241Z
 tags: 
   - screen-recording
   - ai video
@@ -482,4 +482,5 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-optimize-your-linkedin-video-how-to-create-custom-thumbnails/"><u>New 2024 Approved Optimize Your LinkedIn Video How to Create Custom Thumbnails</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-15-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
 </ul></div>
+
 

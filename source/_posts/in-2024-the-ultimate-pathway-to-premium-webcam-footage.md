@@ -467,3 +467,4 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Poco C50? | Dr.fone</u></a></li>
 </ul></div>
 
+

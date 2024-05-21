@@ -1,7 +1,7 @@
 ---
 title: "\"Achieving Precision with OBS  Implementing Timer Functionality\""
-date: 2024-05-18T17:57:45.365Z
-updated: 2024-05-19T17:57:45.365Z
+date: 2024-05-20T06:46:11.250Z
+updated: 2024-05-21T06:46:11.250Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-10-essential-aspect-ratio-conversion-solutions/"><u>New In 2024, 10 Essential Aspect Ratio Conversion Solutions</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/nokia-c32-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C32 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -204,3 +204,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://sound-optimizing.techidaily.com/updated-quick-and-easy-techniques-for-standardizing-sound-amplitude/"><u>Updated Quick and Easy Techniques for Standardizing Sound Amplitude</u></a></li>
 </ul></div>
 
+

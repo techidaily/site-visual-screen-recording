@@ -905,3 +905,4 @@ Follow @Richard Bennett
 <li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-hot-30i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Hot 30i Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
 
+

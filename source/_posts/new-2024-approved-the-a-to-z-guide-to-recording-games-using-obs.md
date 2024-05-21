@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The A-to-Z Guide to Recording Games Using OBS\""
-date: 2024-05-18T17:48:28.324Z
-updated: 2024-05-19T17:48:28.324Z
+date: 2024-05-20T06:45:47.058Z
+updated: 2024-05-21T06:45:47.058Z
 tags: 
   - screen-recording
   - ai video
@@ -385,4 +385,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus 11 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-14-pro-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 14 Pro Max with iTunes</u></a></li>
 </ul></div>
+
 

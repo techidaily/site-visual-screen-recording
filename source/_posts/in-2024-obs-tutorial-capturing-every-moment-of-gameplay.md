@@ -391,3 +391,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-adjusting-decibels-fine-tuning-sound-on-audacity/"><u>New In 2024, Adjusting Decibels Fine-Tuning Sound on Audacity</u></a></li>
 </ul></div>
 
+

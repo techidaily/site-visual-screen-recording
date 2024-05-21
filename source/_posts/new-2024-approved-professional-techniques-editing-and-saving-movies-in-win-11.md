@@ -688,3 +688,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-x6-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Poco X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

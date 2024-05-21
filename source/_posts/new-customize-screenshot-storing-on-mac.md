@@ -1,7 +1,7 @@
 ---
 title: "[New] Customize Screenshot Storing on Mac"
-date: 2024-05-18T17:57:03.622Z
-updated: 2024-05-19T17:57:03.622Z
+date: 2024-05-20T06:46:09.056Z
+updated: 2024-05-21T06:46:09.056Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-lava-storm-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Lava Storm 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 2V | Dr.fone</u></a></li>
 </ul></div>
+
 

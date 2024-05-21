@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Solved  Dead OBS Camera\""
-date: 2024-05-18T18:13:49.517Z
-updated: 2024-05-19T18:13:49.517Z
+date: 2024-05-20T06:46:53.797Z
+updated: 2024-05-21T06:46:53.797Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco F5 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-90-gt-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of 90 GT</u></a></li>
 </ul></div>
+
 

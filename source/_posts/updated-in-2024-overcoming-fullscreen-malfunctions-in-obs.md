@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Overcoming Fullscreen Malfunctions in OBS"
-date: 2024-05-18T18:10:38.046Z
-updated: 2024-05-19T18:10:38.046Z
+date: 2024-05-20T06:46:44.773Z
+updated: 2024-05-21T06:46:44.773Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-video-effects-with-movavi-slideshow-maker/"><u>New 2024 Approved How to Add Video Effects with Movavi Slideshow Maker</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-10-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 10 4G</u></a></li>
 </ul></div>
+
 

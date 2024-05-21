@@ -217,3 +217,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-play-8t-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Play 8T to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

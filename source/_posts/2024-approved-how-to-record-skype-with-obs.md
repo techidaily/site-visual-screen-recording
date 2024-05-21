@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Record Skype with OBS\""
-date: 2024-05-18T18:08:33.018Z
-updated: 2024-05-19T18:08:33.018Z
+date: 2024-05-20T06:46:39.309Z
+updated: 2024-05-21T06:46:39.309Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-remove-background-music-in-audacity-for-2024/"><u>Updated The Ultimate Guide To Remove Background Music In Audacity for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
+
 

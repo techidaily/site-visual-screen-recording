@@ -1,7 +1,7 @@
 ---
 title: "\"Real-Time Game Capture  APS4 Strategies in OBS\""
-date: 2024-05-18T18:08:48.030Z
-updated: 2024-05-19T18:08:48.030Z
+date: 2024-05-20T06:46:39.921Z
+updated: 2024-05-21T06:46:39.921Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-prime-video-picture-format-guide-for-2024/"><u>Updated Prime Video Picture Format Guide for 2024</u></a></li>
 </ul></div>
+
 

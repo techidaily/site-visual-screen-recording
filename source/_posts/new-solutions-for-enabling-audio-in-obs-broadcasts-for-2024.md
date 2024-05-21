@@ -565,3 +565,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-editing.techidaily.com/in-2024-leveraging-free-audio-sources-in-your-photos-a-guide-for-windows-and-ios-users/"><u>In 2024, Leveraging Free Audio Sources in Your Photos A Guide for Windows and iOS Users</u></a></li>
 </ul></div>
 
+

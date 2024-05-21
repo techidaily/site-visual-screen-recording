@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Elevate Video Editing  Expert Use of OBS on Mobile Devices\""
-date: 2024-05-18T17:49:08.329Z
-updated: 2024-05-19T17:49:08.329Z
+date: 2024-05-20T06:45:48.763Z
+updated: 2024-05-21T06:45:48.763Z
 tags: 
   - screen-recording
   - ai video
@@ -512,4 +512,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://ai-video-editing.techidaily.com/how-to-rotate-videos-with-media-player-classic-for-2024/"><u>How to Rotate Videos With Media Player Classic for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

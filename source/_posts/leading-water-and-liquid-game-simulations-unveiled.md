@@ -550,3 +550,4 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-13-mini-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 13 mini Screen on PC Easily? | Dr.fone</u></a></li>
 </ul></div>
 
+

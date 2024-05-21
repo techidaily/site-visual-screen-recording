@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Zoom Meeting Fundamentals for the Uninitiated\""
-date: 2024-05-18T17:53:32.849Z
-updated: 2024-05-19T17:53:32.849Z
+date: 2024-05-20T06:46:00.141Z
+updated: 2024-05-21T06:46:00.141Z
 tags: 
   - screen-recording
   - ai video
@@ -586,4 +586,5 @@ Follow @Richard Bennett
 <li><a href="https://sound-optimizing.techidaily.com/complete-list-of-podcast-directories-for-2024/"><u>Complete List of Podcast Directories for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-the-hush-technique-audio-removal-expertise-for-mp4-mkv-avi-mov-wmv-video-files/"><u>Updated The Hush Technique Audio Removal Expertise for MP4, MKV, AVI, MOV, WMV Video Files</u></a></li>
 </ul></div>
+
 

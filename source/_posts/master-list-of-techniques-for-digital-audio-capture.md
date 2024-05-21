@@ -1,7 +1,7 @@
 ---
 title: "Master List of Techniques for Digital Audio Capture"
-date: 2024-05-18T17:47:26.723Z
-updated: 2024-05-19T17:47:26.723Z
+date: 2024-05-20T06:45:44.216Z
+updated: 2024-05-21T06:45:44.216Z
 tags: 
   - screen-recording
   - ai video
@@ -800,4 +800,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A58 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

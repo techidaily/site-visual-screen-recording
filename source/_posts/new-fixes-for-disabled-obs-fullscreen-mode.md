@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixes for Disabled OBS Fullscreen Mode"
-date: 2024-05-18T18:06:14.722Z
-updated: 2024-05-19T18:06:14.722Z
+date: 2024-05-20T06:46:33.339Z
+updated: 2024-05-21T06:46:33.339Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y55s-5g-2023-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y55s 5G (2023) Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-edit-videos-like-a-pro-download-splice-for-mac/"><u>2024 Approved Edit Videos Like a Pro Download Splice for Mac</u></a></li>
 </ul></div>
+
 

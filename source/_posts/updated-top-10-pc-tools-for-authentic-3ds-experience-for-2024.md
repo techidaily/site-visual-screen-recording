@@ -1230,3 +1230,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-driven-video-production.techidaily.com/mastering-audio-transitions-2-methods-for-fading-in-and-out-in-final-cut-pro/"><u>Mastering Audio Transitions 2 Methods for Fading In and Out in Final Cut Pro</u></a></li>
 </ul></div>
 
+

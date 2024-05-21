@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Capture a Screenshot or Video of What's Showing On Your Mac Computer"
-date: 2024-05-18T17:52:39.083Z
-updated: 2024-05-19T17:52:39.083Z
+date: 2024-05-20T06:45:57.995Z
+updated: 2024-05-21T06:45:57.995Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Liza Brown
 <li><a href="https://voice-adjusting.techidaily.com/new-unveiling-the-leading-5-android-apps-for-professional-audio-post-production/"><u>New Unveiling the Leading 5 Android Apps for Professional Audio Post Production</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-invitation-video-maker-websites-top-10-reviews/"><u>Updated In 2024, Free Invitation Video Maker Websites Top 10 Reviews</u></a></li>
 </ul></div>
+
 

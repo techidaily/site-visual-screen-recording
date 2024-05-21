@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Adding a Cinematic Touch  Ken Burns in Camtasa 9\""
-date: 2024-05-18T17:50:22.167Z
-updated: 2024-05-19T17:50:22.167Z
+date: 2024-05-20T06:45:52.053Z
+updated: 2024-05-21T06:45:52.053Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/new-introductory-summary-to-the-wave-editor-core-characteristics-consumer-feedback-and-educational-resources-for-2024/"><u>New Introductory Summary to the Wave Editor Core Characteristics, Consumer Feedback, and Educational Resources for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo V30 Lite 5G FRP</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Video Editing  Mastery of Strikethrough Annotations for 2024\""
-date: 2024-05-18T18:12:59.555Z
-updated: 2024-05-19T18:12:59.555Z
+date: 2024-05-20T06:46:51.230Z
+updated: 2024-05-21T06:46:51.230Z
 tags: 
   - screen-recording
   - ai video
@@ -482,4 +482,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-x-not-responding-heres-how-to-fix-it-for-2024/"><u>Updated Final Cut Pro X Not Responding? Heres How to Fix It for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 15 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
+
 

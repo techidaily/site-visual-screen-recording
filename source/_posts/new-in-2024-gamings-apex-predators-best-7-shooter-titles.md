@@ -502,3 +502,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix</u></a></li>
 </ul></div>
 
+

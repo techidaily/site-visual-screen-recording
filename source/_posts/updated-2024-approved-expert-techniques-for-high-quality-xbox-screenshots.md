@@ -593,3 +593,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-15-pro-max-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 15 Pro Max and iPad Without Apple ID | Stellar</u></a></li>
 </ul></div>
 
+

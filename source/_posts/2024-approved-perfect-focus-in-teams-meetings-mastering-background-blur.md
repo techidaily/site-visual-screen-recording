@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Focus in Teams Meetings  Mastering Background Blur\""
-date: 2024-05-18T17:49:46.785Z
-updated: 2024-05-19T17:49:46.785Z
+date: 2024-05-20T06:45:50.296Z
+updated: 2024-05-21T06:45:50.296Z
 tags: 
   - screen-recording
   - ai video
@@ -802,4 +802,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-a-video-slideshow-in-imovie/"><u>Updated How to Create a Video Slideshow in iMovie</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/from-footage-to-film-a-mac-users-guide-to-movie-making-for-2024/"><u>From Footage to Film A Mac Users Guide to Movie Making for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fraps as a Video Recorder  What You Need To Know\""
-date: 2024-05-18T18:02:33.611Z
-updated: 2024-05-19T18:02:33.611Z
+date: 2024-05-20T06:46:24.009Z
+updated: 2024-05-21T06:46:24.009Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-12-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 12 Pro Max Randomly Asking for Apple ID Password</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/best-video-editing-apps-to-sync-video-to-the-beat-of-a-song/"><u>Best Video Editing Apps to Sync Video to the Beat of a Song</u></a></li>
 </ul></div>
+
 

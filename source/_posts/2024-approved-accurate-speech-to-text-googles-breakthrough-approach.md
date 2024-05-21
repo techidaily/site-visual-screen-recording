@@ -280,3 +280,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-isolating-rhythms-a-guide-to-online-beat-extraction/"><u>New Mastering the Art of Isolating Rhythms A Guide to Online Beat Extraction</u></a></li>
 </ul></div>
 
+

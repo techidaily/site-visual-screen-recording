@@ -1,7 +1,7 @@
 ---
 title: "\"Taking Control of a Stopped-Up OBS Capture Device\""
-date: 2024-05-18T17:57:17.973Z
-updated: 2024-05-19T17:57:17.973Z
+date: 2024-05-20T06:46:09.695Z
+updated: 2024-05-21T06:46:09.695Z
 tags: 
   - screen-recording
   - ai video
@@ -315,4 +315,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-of-the-best-3d-video-production-tools-you-must-use/"><u>New 2024 Approved The Best of the Best 3D Video Production Tools You Must Use</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 to Windows 10? | Dr.fone</u></a></li>
 </ul></div>
+
 

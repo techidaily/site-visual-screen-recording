@@ -1,7 +1,7 @@
 ---
 title: "[New] Zoom Room Basics for Newbies"
-date: 2024-05-18T17:55:59.024Z
-updated: 2024-05-19T17:55:59.024Z
+date: 2024-05-20T06:46:06.629Z
+updated: 2024-05-21T06:46:06.629Z
 tags: 
   - screen-recording
   - ai video
@@ -531,4 +531,5 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-m14-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy M14 5G Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-reno-11-pro-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Reno 11 Pro 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

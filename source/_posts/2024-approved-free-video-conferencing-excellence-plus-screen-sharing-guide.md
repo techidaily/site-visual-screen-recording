@@ -660,3 +660,4 @@ Follow @Richard Bennett
 <li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-motorola-moto-g04-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Moto G04 Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
+

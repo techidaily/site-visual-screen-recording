@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Utilizing OBS in Android Setups  A Beginner's Manual\""
-date: 2024-05-18T17:53:56.896Z
-updated: 2024-05-19T17:53:56.896Z
+date: 2024-05-20T06:46:01.486Z
+updated: 2024-05-21T06:46:01.486Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-14-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 14 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

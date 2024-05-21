@@ -547,3 +547,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-mastering-image-proportions-a-step-by-step-ratio-guide/"><u>In 2024, Mastering Image Proportions A Step-by-Step Ratio Guide</u></a></li>
 </ul></div>
 
+

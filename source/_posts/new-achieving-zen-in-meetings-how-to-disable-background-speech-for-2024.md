@@ -697,3 +697,4 @@ Follow @Richard Bennett
 <li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-c53-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme C53</u></a></li>
 </ul></div>
 
+

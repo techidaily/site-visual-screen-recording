@@ -412,3 +412,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-itel-a70-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Itel A70 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

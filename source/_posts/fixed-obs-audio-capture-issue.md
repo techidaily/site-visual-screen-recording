@@ -1,7 +1,7 @@
 ---
 title: "Fixed OBS Audio Capture Issue"
-date: 2024-05-18T18:13:20.875Z
-updated: 2024-05-19T18:13:20.875Z
+date: 2024-05-20T06:46:52.039Z
+updated: 2024-05-21T06:46:52.039Z
 tags: 
   - screen-recording
   - ai video
@@ -567,4 +567,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y78t | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-effective-approaches-for-transferring-audacity-productions-into-mp3-format-for-2024/"><u>Updated Effective Approaches for Transferring Audacity Productions Into MP3 Format for 2024</u></a></li>
 </ul></div>
+
 

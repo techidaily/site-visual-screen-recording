@@ -398,3 +398,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://audio-editing.techidaily.com/new-recording-your-system-sounds-with-audacity-for-2024/"><u>New Recording Your System Sounds with Audacity for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Correcting Missed Audio Segments in OBS Recordings"
-date: 2024-05-18T17:53:16.143Z
-updated: 2024-05-19T17:53:16.143Z
+date: 2024-05-20T06:45:59.447Z
+updated: 2024-05-21T06:45:59.447Z
 tags: 
   - screen-recording
   - ai video
@@ -560,4 +560,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia 130 Music | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-13-mini-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 13 mini Online</u></a></li>
 </ul></div>
+
 

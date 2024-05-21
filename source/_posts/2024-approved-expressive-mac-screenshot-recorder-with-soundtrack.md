@@ -495,3 +495,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel A05s | Dr.fone</u></a></li>
 </ul></div>
 
+

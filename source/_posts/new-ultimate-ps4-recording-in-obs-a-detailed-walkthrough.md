@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate PS4 Recording in OBS - A Detailed Walkthrough\""
-date: 2024-05-18T17:51:39.850Z
-updated: 2024-05-19T17:51:39.850Z
+date: 2024-05-20T06:45:55.168Z
+updated: 2024-05-21T06:45:55.168Z
 tags: 
   - screen-recording
   - ai video
@@ -400,4 +400,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-of-the-best-video-editing-apps-for-windows-mac-ios-android-and-linux/"><u>Updated In 2024, Best of the Best Video Editing Apps for Windows, Mac, iOS, Android, and Linux</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-5-different-animation-styles-a-simple-but-complete-guide/"><u>New In 2024, 5 Different Animation Styles A Simple but Complete Guide</u></a></li>
 </ul></div>
+
 

@@ -895,3 +895,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-color-perfection-in-final-cut-pro-2023-tips-and-techniques-for-2024/"><u>Updated Color Perfection in Final Cut Pro 2023 Tips and Techniques for 2024</u></a></li>
 </ul></div>
 
+

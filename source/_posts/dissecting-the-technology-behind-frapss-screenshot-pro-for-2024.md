@@ -1,7 +1,7 @@
 ---
 title: "Dissecting the Technology Behind Fraps's Screenshot Pro for 2024"
-date: 2024-05-18T18:09:05.331Z
-updated: 2024-05-19T18:09:05.331Z
+date: 2024-05-20T06:46:40.892Z
+updated: 2024-05-21T06:46:40.892Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-7-plus-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 7 Plus Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

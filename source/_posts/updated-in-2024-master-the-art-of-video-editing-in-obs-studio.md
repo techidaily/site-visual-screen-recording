@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Master the Art of Video Editing in OBS Studio"
-date: 2024-05-18T17:54:20.938Z
-updated: 2024-05-19T17:54:20.938Z
+date: 2024-05-20T06:46:02.463Z
+updated: 2024-05-21T06:46:02.463Z
 tags: 
   - screen-recording
   - ai video
@@ -517,4 +517,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-achieving-tiktok-peace-effective-strategies-for-dialing-down-volume/"><u>Updated 2024 Approved Achieving TikTok Peace Effective Strategies for Dialing Down Volume</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-for-dark-luts-premiere-pro-free-this-article-discusses-the-dark-moody-luts-with-top-recommendations-for-beginning-visual-editing/"><u>Updated Are You Looking for Dark LUTs Premiere Pro Free? This Article Discusses the Dark Moody LUTs with Top Recommendations for Beginning Visual Editing</u></a></li>
 </ul></div>
+
 

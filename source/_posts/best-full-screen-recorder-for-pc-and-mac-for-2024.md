@@ -422,3 +422,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://smart-video-editing.techidaily.com/updated-resize-crop-and-optimize-mastering-linkedin-video-thumbnails/"><u>Updated Resize, Crop, and Optimize Mastering LinkedIn Video Thumbnails</u></a></li>
 </ul></div>
 
+

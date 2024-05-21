@@ -406,3 +406,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-fast-and-furious-top-8-lightweight-video-editing-solutions/"><u>Updated Fast and Furious Top 8 Lightweight Video Editing Solutions</u></a></li>
 </ul></div>
 
+

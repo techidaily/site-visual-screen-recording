@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Bur Background in Google Meet for 2024"
-date: 2024-05-18T17:53:08.337Z
-updated: 2024-05-19T17:53:08.337Z
+date: 2024-05-20T06:45:59.120Z
+updated: 2024-05-21T06:45:59.120Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/how-to-export-video-from-imovie-for-2024/"><u>How to Export Video From iMovie for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y78plus-t1-edition-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y78+ (T1) Edition FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

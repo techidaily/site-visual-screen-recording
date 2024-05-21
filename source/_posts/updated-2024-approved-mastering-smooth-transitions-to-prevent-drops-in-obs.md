@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Smooth Transitions to Prevent Drops in OBS\""
-date: 2024-05-18T18:10:36.420Z
-updated: 2024-05-19T18:10:36.420Z
+date: 2024-05-20T06:46:44.715Z
+updated: 2024-05-21T06:46:44.715Z
 tags: 
   - screen-recording
   - ai video
@@ -583,4 +583,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-13-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-best-10-animated-templates-in-canva/"><u>In 2024, Best 10 Animated Templates in Canva</u></a></li>
 </ul></div>
+
 

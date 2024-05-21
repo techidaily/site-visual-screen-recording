@@ -210,3 +210,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-driven-video-production.techidaily.com/in-2024-transform-your-images-a-beginners-guide-to-the-ken-burns-effect/"><u>In 2024, Transform Your Images A Beginners Guide to the Ken Burns Effect</u></a></li>
 </ul></div>
 
+

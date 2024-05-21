@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Game Capture Faceoff  Evaluate OBS & ShadowPlay\""
-date: 2024-05-18T17:51:17.099Z
-updated: 2024-05-19T17:51:17.099Z
+date: 2024-05-20T06:45:54.142Z
+updated: 2024-05-21T06:45:54.142Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-rapid-video-size-adjustment-a-beginners-guide/"><u>Updated 2024 Approved Rapid Video Size Adjustment A Beginners Guide</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix .</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Detailed Walkthrough  Timer Creation in OBS Broadcasts for 2024\""
-date: 2024-05-18T17:51:25.490Z
-updated: 2024-05-19T17:51:25.490Z
+date: 2024-05-20T06:45:54.450Z
+updated: 2024-05-21T06:45:54.450Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-step-by-step-audio-mastery-on-windows-10-easy-techniques-for-quality-sound-capture/"><u>2024 Approved Step-by-Step Audio Mastery on Windows 10 Easy Techniques for Quality Sound Capture</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-speed-up-video-on-splice/"><u>2024 Approved Speed up Video on Splice</u></a></li>
 </ul></div>
+
 

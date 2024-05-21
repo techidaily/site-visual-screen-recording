@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Capture  Audiovisual Screen Shot\""
-date: 2024-05-18T17:49:14.689Z
-updated: 2024-05-19T17:49:14.689Z
+date: 2024-05-20T06:45:49.020Z
+updated: 2024-05-21T06:45:49.020Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://voice-adjusting.techidaily.com/comprehensive-directory-of-podcast-hosting-platforms-for-2024/"><u>Comprehensive Directory of Podcast Hosting Platforms for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-virtualdub-alternatives-which-one-is-right-for-you-for-2024/"><u>New Virtualdub Alternatives Which One Is Right for You for 2024</u></a></li>
 </ul></div>
+
 

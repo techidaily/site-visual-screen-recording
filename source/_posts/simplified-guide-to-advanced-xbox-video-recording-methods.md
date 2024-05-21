@@ -603,3 +603,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

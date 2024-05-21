@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Immediate Actions  Reactivating OBS Audio Track\""
-date: 2024-05-18T17:49:20.508Z
-updated: 2024-05-19T17:49:20.508Z
+date: 2024-05-20T06:45:49.237Z
+updated: 2024-05-21T06:45:49.237Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-find-x7-ultra-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Find X7 Ultra</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-ways-to-radial-blur-to-images-iphoneandroidmacwindows/"><u>2024 Approved 11 Ways To Radial Blur To Images (iPhone/Android/Mac/Windows)</u></a></li>
 </ul></div>
+
 

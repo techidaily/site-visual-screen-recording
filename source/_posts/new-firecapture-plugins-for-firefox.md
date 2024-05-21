@@ -1,7 +1,7 @@
 ---
 title: "[New] FireCapture Plugins for Firefox"
-date: 2024-05-18T18:04:56.752Z
-updated: 2024-05-19T18:04:56.752Z
+date: 2024-05-20T06:46:29.962Z
+updated: 2024-05-21T06:46:29.962Z
 tags: 
   - screen-recording
   - ai video
@@ -684,4 +684,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-transform-your-footage-into-a-blockbuster-mac-video-editing-essentials-for-2024/"><u>New Transform Your Footage Into a Blockbuster Mac Video Editing Essentials for 2024</u></a></li>
 </ul></div>
+
 

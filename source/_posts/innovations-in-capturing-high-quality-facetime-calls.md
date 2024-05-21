@@ -633,3 +633,4 @@ Hopefully, you have the answer to your question “Can you record FaceTime on Ma
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-xcover-6-pro-tactical-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy XCover 6 Pro Tactical Edition without Losing Data | Dr.fone</u></a></li>
 </ul></div>
 
+

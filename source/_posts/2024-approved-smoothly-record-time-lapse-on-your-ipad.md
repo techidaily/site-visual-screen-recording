@@ -269,3 +269,4 @@ There is no doubt that taking a timelapse video with iPhone is a cakewalk Howeve
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-note-12r-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi Note 12R to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Elite Scripting  Developing a Countdown Mechanism in OBS\""
-date: 2024-05-18T18:04:18.221Z
-updated: 2024-05-19T18:04:18.221Z
+date: 2024-05-20T06:46:28.504Z
+updated: 2024-05-21T06:46:28.504Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unleashing-the-power-of-lower-thirds-in-final-cut-pro-x/"><u>Updated 2024 Approved Unleashing the Power of Lower Thirds in Final Cut Pro X</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-the-most-popular-text-motion-tracking-software-2023-update-for-2024/"><u>New The Most Popular Text Motion Tracking Software 2023 Update for 2024</u></a></li>
 </ul></div>
+
 

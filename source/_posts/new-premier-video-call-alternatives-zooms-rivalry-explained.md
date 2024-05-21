@@ -1332,3 +1332,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/new-whats-my-aspect-ratio-calculator-and-tutorial-for-2024/"><u>New Whats My Aspect Ratio? Calculator and Tutorial for 2024</u></a></li>
 </ul></div>
 
+

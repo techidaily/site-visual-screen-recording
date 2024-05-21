@@ -429,3 +429,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-note-30-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Note 30 Pro PC | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Decreasing Bitrate in High-Quality OBS\""
-date: 2024-05-18T18:04:10.570Z
-updated: 2024-05-19T18:04:10.570Z
+date: 2024-05-20T06:46:28.246Z
+updated: 2024-05-21T06:46:28.246Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-hidden-gems-top-rated-mac-apps-for-speech-to-text-conversion-no-cost-no-hassle/"><u>New 2024 Approved Hidden Gems Top-Rated Mac Apps for Speech to Text Conversion (No Cost, No Hassle)</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor X8b | Dr.fone</u></a></li>
 </ul></div>
+
 

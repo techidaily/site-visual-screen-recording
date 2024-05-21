@@ -1036,3 +1036,4 @@ Follow @Richard Bennett
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-tecno-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Tecno</u></a></li>
 </ul></div>
 
+

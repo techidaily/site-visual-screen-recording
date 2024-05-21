@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Avoid Common Mistakes in Nighttime Photography"
-date: 2024-05-18T17:56:43.921Z
-updated: 2024-05-19T17:56:43.921Z
+date: 2024-05-20T06:46:08.341Z
+updated: 2024-05-21T06:46:08.341Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-10-proplus-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Reno 10 Pro+ 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-turn-any-video-into-a-live-photo-with-these-top-rated-apps/"><u>Updated 2024 Approved Turn Any Video Into a Live Photo with These Top-Rated Apps</u></a></li>
 </ul></div>
+
 

@@ -530,3 +530,4 @@ Bandicam is a versatile recorder for Windows users. It has all the necessary fea
 <li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-10c-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark 10C Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
 
+

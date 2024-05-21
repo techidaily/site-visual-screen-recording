@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fighting on the Go  Nintendo's Best Switch Fighters\""
-date: 2024-05-18T18:03:25.714Z
-updated: 2024-05-19T18:03:25.714Z
+date: 2024-05-20T06:46:26.382Z
+updated: 2024-05-21T06:46:26.382Z
 tags: 
   - screen-recording
   - ai video
@@ -775,4 +775,5 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-avi-video-editor-for-windows-8-latest-2023-features/"><u>Updated 2024 Approved Best AVI Video Editor for Windows 8 Latest 2023 Features</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-tecno-camon-20-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Tecno Camon 20 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

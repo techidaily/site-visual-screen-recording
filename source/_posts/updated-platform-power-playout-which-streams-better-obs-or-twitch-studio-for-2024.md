@@ -494,3 +494,4 @@ Screen recording and streaming may be used for an almost unlimited variety of re
 <li><a href="https://ai-editing-video.techidaily.com/s-log-is-a-gamma-curve-optimized-for-digital-cameras-to-maximize-the-image-sensors-performance-although-these-videos-may-look-flat-and-washed-out-they-conta/"><u>S-Log Is a Gamma Curve Optimized for Digital Cameras to Maximize the Image Sensors Performance. Although These Videos May Look Flat and Washed Out, They Contain Lots of Color Information</u></a></li>
 </ul></div>
 
+

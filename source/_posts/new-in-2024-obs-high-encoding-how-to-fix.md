@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, OBS High Encoding - How to Fix\""
-date: 2024-05-18T18:02:47.716Z
-updated: 2024-05-19T18:02:47.716Z
+date: 2024-05-20T06:46:24.582Z
+updated: 2024-05-21T06:46:24.582Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-7-converting-audio-to-text-tools/"><u>Updated 2024 Approved Top 7 Converting Audio to Text Tools</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/mastering-mobile-audio-recordings-the-10-leading-iphone-apps-for-2024/"><u>Mastering Mobile Audio Recordings The 10 Leading iPhone Apps for 2024</u></a></li>
 </ul></div>
+
 

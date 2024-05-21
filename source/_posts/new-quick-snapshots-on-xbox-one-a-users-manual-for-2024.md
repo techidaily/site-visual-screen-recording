@@ -439,3 +439,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-smart-8-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Smart 8</u></a></li>
 </ul></div>
 
+

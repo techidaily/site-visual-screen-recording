@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Essential Steps for Recording Games via OBS\""
-date: 2024-05-18T18:12:26.913Z
-updated: 2024-05-19T18:12:26.913Z
+date: 2024-05-20T06:46:49.601Z
+updated: 2024-05-21T06:46:49.601Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-driven-video-production.techidaily.com/new-reduce-video-size-online-10-best-free-compression-tools-for-2024/"><u>New Reduce Video Size Online 10 Best Free Compression Tools for 2024</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-c51-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Visualizing Google Meet  Introduction to Effects & Filtering\""
-date: 2024-05-18T18:03:16.123Z
-updated: 2024-05-19T18:03:16.123Z
+date: 2024-05-20T06:46:25.968Z
+updated: 2024-05-21T06:46:25.969Z
 tags: 
   - screen-recording
   - ai video
@@ -600,4 +600,5 @@ Follow @Richard Bennett
 <li><a href="https://sound-tweaking.techidaily.com/new-top-3-budget-friendly-methods-to-transcribe-sound-into-words-detailed-processes-2023-for-2024/"><u>New Top 3 Budget-Friendly Methods to Transcribe Sound Into Words Detailed Processes - 2023 for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/the-essential-checklist-for-audacity-setup-on-ubuntu-desktop/"><u>The Essential Checklist for Audacity Setup on Ubuntu Desktop</u></a></li>
 </ul></div>
+
 

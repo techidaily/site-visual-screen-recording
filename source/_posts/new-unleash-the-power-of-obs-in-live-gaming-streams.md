@@ -1,7 +1,7 @@
 ---
 title: "[New] Unleash the Power of OBS in Live Gaming Streams"
-date: 2024-05-18T18:12:01.343Z
-updated: 2024-05-19T18:12:01.343Z
+date: 2024-05-20T06:46:48.426Z
+updated: 2024-05-21T06:46:48.427Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-15-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 15 Plus Passcode Change Itself? Unlock It Now</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/the-definitive-list-of-the-top-5-high-precision-instantaneous-speech-modifiers/"><u>The Definitive List of the Top 5 High-Precision Instantaneous Speech Modifiers</u></a></li>
 </ul></div>
+
 

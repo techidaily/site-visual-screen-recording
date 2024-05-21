@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Elite Collection  Best Kung Fu Arcade Games\""
-date: 2024-05-18T17:54:03.392Z
-updated: 2024-05-19T17:54:03.392Z
+date: 2024-05-20T06:46:01.799Z
+updated: 2024-05-21T06:46:01.799Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ Follow @Richard Bennett
 <li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-unlock-youtube-music-the-ultimate-audio-download-tutorial/"><u>Updated In 2024, Unlock YouTube Music The Ultimate Audio Download Tutorial</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y200e-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y200e 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

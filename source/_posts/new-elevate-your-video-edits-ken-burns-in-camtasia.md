@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-05-18T17:58:19.098Z
-updated: 2024-05-19T17:58:19.098Z
+date: 2024-05-20T06:46:12.612Z
+updated: 2024-05-21T06:46:12.612Z
 tags: 
   - screen-recording
   - ai video
@@ -333,4 +333,5 @@ Follow @Max Wales
 <li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

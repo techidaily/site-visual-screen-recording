@@ -690,3 +690,4 @@ You may choose any of these recorders from the list above to help you capture HD
 <li><a href="https://video-creation-software.techidaily.com/new-xml-demystified-unlocking-fcpxs-full-potential/"><u>New XML Demystified Unlocking FCPXs Full Potential</u></a></li>
 </ul></div>
 
+

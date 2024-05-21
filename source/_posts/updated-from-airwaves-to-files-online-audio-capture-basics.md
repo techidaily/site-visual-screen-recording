@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Airwaves to Files  Online Audio Capture Basics\""
-date: 2024-05-18T18:08:46.951Z
-updated: 2024-05-19T18:08:46.951Z
+date: 2024-05-20T06:46:39.859Z
+updated: 2024-05-21T06:46:39.859Z
 tags: 
   - screen-recording
   - ai video
@@ -429,4 +429,5 @@ We have stated how to record online streaming video as well as to record online 
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-text-animation-intro-tutorial-in-filmora-for-2024/"><u>New Text Animation Intro Tutorial in Filmora for 2024</u></a></li>
 </ul></div>
+
 

@@ -1007,3 +1007,4 @@ By reading this passage, you must know how easy could be to capture and record y
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-sony-xperia-1-v-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Sony Xperia 1 V to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

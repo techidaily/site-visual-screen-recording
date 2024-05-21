@@ -2013,3 +2013,4 @@ This is definitely easy. Almost all the screen recorders on the market are able 
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel A60s | Dr.fone</u></a></li>
 </ul></div>
 
+

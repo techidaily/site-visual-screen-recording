@@ -572,3 +572,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-optimizing.techidaily.com/full-spectrum-insight-into-nero-audiowaveeditor-for-2024/"><u>Full Spectrum Insight Into Nero AudioWaveEditor for 2024</u></a></li>
 </ul></div>
 
+

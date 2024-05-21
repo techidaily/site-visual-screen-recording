@@ -437,3 +437,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-photoshop-gif-the-100-easy-way/"><u>How to Create Photoshop GIF The 100 Easy Way</u></a></li>
 </ul></div>
 
+

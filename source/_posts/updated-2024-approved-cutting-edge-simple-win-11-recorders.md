@@ -473,3 +473,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-c12-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia C12 Pro Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

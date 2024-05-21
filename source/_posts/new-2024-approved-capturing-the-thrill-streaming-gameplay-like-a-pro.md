@@ -600,3 +600,4 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y100-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y100 Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -327,3 +327,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-animate-your-designs-with-canva-gif/"><u>New How to Animate Your Designs With Canva GIF</u></a></li>
 </ul></div>
 
+

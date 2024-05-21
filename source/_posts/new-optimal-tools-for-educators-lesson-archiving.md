@@ -911,3 +911,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://voice-adjusting.techidaily.com/new-top-10-windows-compatible-speech-recognition-tools/"><u>New Top 10 Windows-Compatible Speech Recognition Tools</u></a></li>
 </ul></div>
 
+

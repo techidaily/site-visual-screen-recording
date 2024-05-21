@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mobile Mastery  Using Phone as a Camera for Recording\""
-date: 2024-05-18T18:06:29.329Z
-updated: 2024-05-19T18:06:29.329Z
+date: 2024-05-20T06:46:33.901Z
+updated: 2024-05-21T06:46:33.901Z
 tags: 
   - screen-recording
   - ai video
@@ -636,4 +636,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XR Without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-from-speakers-to-files-storing-system-sounds-using-audacity-for-2024/"><u>New From Speakers to Files Storing System Sounds Using Audacity for 2024</u></a></li>
 </ul></div>
+
 

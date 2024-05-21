@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Studio vs Fraps  Performance Showdown\""
-date: 2024-05-18T18:02:37.956Z
-updated: 2024-05-19T18:02:37.956Z
+date: 2024-05-20T06:46:24.212Z
+updated: 2024-05-21T06:46:24.212Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-top-5-avchd-video-editing-software/"><u>2024 Approved Top 5 AVCHD Video Editing Software</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-resizing-videos-like-a-pro-quick-and-painless-methods/"><u>New Resizing Videos Like a Pro Quick and Painless Methods</u></a></li>
 </ul></div>
+
 

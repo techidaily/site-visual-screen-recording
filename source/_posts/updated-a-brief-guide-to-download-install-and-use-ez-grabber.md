@@ -293,3 +293,4 @@ Where you were facing problems recording videos on your screen and could not cho
 <li><a href="https://animation-videos.techidaily.com/in-2024-animate-graphics-in-canva/"><u>In 2024, Animate Graphics in Canva</u></a></li>
 </ul></div>
 
+

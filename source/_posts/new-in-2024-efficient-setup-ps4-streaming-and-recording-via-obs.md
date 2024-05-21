@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Efficient Setup  PS4 Streaming and Recording via OBS\""
-date: 2024-05-18T17:47:50.658Z
-updated: 2024-05-19T17:47:50.658Z
+date: 2024-05-20T06:45:45.192Z
+updated: 2024-05-21T06:45:45.192Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-voice.techidaily.com/new-top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>New Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
 <li><a href="https://ai-video.techidaily.com/9-best-french-video-translators-online-and-download-options/"><u>9 Best French Video Translators Online and Download Options</u></a></li>
 </ul></div>
+
 

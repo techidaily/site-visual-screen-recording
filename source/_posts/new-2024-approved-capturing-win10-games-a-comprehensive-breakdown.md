@@ -420,3 +420,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-enhancing-accessibility-documenting-computer-audio-in-audacity/"><u>New In 2024, Enhancing Accessibility Documenting Computer Audio in Audacity</u></a></li>
 </ul></div>
 
+

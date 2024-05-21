@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Fixes for Missing Sound in OBS"
-date: 2024-05-18T18:06:21.370Z
-updated: 2024-05-19T18:06:21.370Z
+date: 2024-05-20T06:46:33.564Z
+updated: 2024-05-21T06:46:33.564Z
 tags: 
   - screen-recording
   - ai video
@@ -576,4 +576,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G04 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Google Pixel 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

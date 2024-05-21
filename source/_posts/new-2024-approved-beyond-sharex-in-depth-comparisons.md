@@ -264,3 +264,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ai-video-translation.techidaily.com/the-best-translator-to-translate-videos-online/"><u>The Best Translator to Translate Videos Online</u></a></li>
 </ul></div>
 
+

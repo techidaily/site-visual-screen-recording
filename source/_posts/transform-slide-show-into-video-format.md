@@ -630,3 +630,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Lava Blaze 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

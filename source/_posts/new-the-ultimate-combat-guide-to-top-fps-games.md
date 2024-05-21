@@ -481,3 +481,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-fcpx-cropping-guide-resize-and-refine-your-images/"><u>New 2024 Approved The Ultimate FCPX Cropping Guide Resize and Refine Your Images</u></a></li>
 </ul></div>
 
+

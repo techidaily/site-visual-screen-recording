@@ -1,7 +1,7 @@
 ---
 title: "\"The A-to-Z Guide to Recording Games Using OBS\""
-date: 2024-05-18T18:00:17.379Z
-updated: 2024-05-19T18:00:17.379Z
+date: 2024-05-20T06:46:17.976Z
+updated: 2024-05-21T06:46:17.976Z
 tags: 
   - screen-recording
   - ai video
@@ -425,4 +425,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My ZTE Blade A73 5G? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-a59-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo A59 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

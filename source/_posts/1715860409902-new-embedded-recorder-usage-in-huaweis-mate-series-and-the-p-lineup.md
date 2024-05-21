@@ -1,7 +1,7 @@
 ---
 title: "[New] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup."
-date: 2024-05-18T18:00:23.066Z
-updated: 2024-05-19T18:00:23.066Z
+date: 2024-05-20T06:46:18.160Z
+updated: 2024-05-21T06:46:18.160Z
 tags: 
   - screen-recording
   - ai video
@@ -393,4 +393,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y28-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y28 5G Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Hot 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

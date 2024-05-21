@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capturing Skype Chats  An OBS Guide\""
-date: 2024-05-18T17:58:12.766Z
-updated: 2024-05-19T17:58:12.766Z
+date: 2024-05-20T06:46:12.357Z
+updated: 2024-05-21T06:46:12.357Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-realme-c51-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Realme C51 Phones with/without a PC</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-12t-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 12T Pro Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

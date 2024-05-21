@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Video Editing Software Comparison  OBS vs Fraps\""
-date: 2024-05-18T17:49:27.247Z
-updated: 2024-05-19T17:49:27.247Z
+date: 2024-05-20T06:45:49.484Z
+updated: 2024-05-21T06:45:49.484Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-moto-g84-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Moto G84 5G?</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-brighten-up-the-best-video-editing-apps-for-mobile-devices/"><u>New Brighten Up The Best Video Editing Apps for Mobile Devices</u></a></li>
 </ul></div>
+
 

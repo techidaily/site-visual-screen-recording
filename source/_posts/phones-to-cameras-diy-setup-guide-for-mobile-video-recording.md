@@ -1,7 +1,7 @@
 ---
 title: "\"Phones to Cameras  DIY Setup Guide for Mobile Video Recording\""
-date: 2024-05-18T17:52:22.316Z
-updated: 2024-05-19T17:52:22.316Z
+date: 2024-05-20T06:45:57.265Z
+updated: 2024-05-21T06:45:57.265Z
 tags: 
   - screen-recording
   - ai video
@@ -593,4 +593,5 @@ Follow @Max Wales
 <li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a15-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A15 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-avs-video-editor-review-does-it-live-up-to-the-hype/"><u>Updated In 2024, AVS Video Editor Review Does It Live Up to the Hype?</u></a></li>
 </ul></div>
+
 

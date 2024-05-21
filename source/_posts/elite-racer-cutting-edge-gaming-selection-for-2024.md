@@ -615,3 +615,4 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 
+

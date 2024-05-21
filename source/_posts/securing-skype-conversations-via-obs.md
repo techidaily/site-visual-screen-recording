@@ -1,7 +1,7 @@
 ---
 title: "Securing Skype Conversations via OBS"
-date: 2024-05-18T18:08:28.950Z
-updated: 2024-05-19T18:08:28.950Z
+date: 2024-05-20T06:46:39.141Z
+updated: 2024-05-21T06:46:39.141Z
 tags: 
   - screen-recording
   - ai video
@@ -325,4 +325,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Huawei P60? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone SE (2022)</u></a></li>
 </ul></div>
+
 

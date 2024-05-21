@@ -417,3 +417,4 @@ This is an amazing app as it does everything that you want it to and more. Altho
 <li><a href="https://techidaily.com/will-motorola-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Motorola  play AVCHD mts files?</u></a></li>
 </ul></div>
 
+

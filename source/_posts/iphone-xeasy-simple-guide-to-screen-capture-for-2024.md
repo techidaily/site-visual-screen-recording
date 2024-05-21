@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Xeasy  Simple Guide to Screen Capture for 2024\""
-date: 2024-05-18T17:52:10.693Z
-updated: 2024-05-19T17:52:10.693Z
+date: 2024-05-20T06:45:56.821Z
+updated: 2024-05-21T06:45:56.821Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-7-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

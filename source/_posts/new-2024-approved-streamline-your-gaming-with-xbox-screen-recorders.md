@@ -592,3 +592,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://ai-video-editing.techidaily.com/new-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>New Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
 </ul></div>
 
+

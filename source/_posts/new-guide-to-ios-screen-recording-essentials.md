@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to iOS Screen Recording Essentials"
-date: 2024-05-18T17:47:41.712Z
-updated: 2024-05-19T17:47:41.712Z
+date: 2024-05-20T06:45:44.795Z
+updated: 2024-05-21T06:45:44.796Z
 tags: 
   - screen-recording
   - ai video
@@ -624,4 +624,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-se-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone SE Properly | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-customize-video-playback-rate-in-camtasia/"><u>2024 Approved Customize Video Playback Rate in Camtasia</u></a></li>
 </ul></div>
+
 

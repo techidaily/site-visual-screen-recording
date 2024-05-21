@@ -209,3 +209,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a38-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A38</u></a></li>
 </ul></div>
 
+

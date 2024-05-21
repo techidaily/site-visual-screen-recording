@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn Audio Recording in Audacity with Your Mac"
-date: 2024-05-18T18:08:31.661Z
-updated: 2024-05-19T18:08:31.661Z
+date: 2024-05-20T06:46:39.243Z
+updated: 2024-05-21T06:46:39.243Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola Defy 2 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a15-4g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy A15 4G Phone Network-Ready</u></a></li>
 </ul></div>
+
 

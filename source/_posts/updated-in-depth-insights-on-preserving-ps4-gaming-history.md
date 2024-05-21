@@ -360,3 +360,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://ai-video-editing.techidaily.com/new-guide-to-create-freeze-frame-clone-effect-video/"><u>New Guide to Create Freeze Frame Clone Effect Video</u></a></li>
 </ul></div>
 
+

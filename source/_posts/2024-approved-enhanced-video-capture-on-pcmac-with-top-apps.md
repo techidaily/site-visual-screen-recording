@@ -414,3 +414,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-12-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 12 to TV or PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

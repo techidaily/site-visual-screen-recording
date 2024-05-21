@@ -391,3 +391,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-adding-a-spooky-shadow-effect-with-filmora/"><u>New In 2024, Adding a Spooky Shadow Effect with Filmora</u></a></li>
 </ul></div>
 
+

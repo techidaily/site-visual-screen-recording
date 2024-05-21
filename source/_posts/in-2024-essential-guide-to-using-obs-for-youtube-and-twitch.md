@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Essential Guide to Using OBS for YouTube & Twitch"
-date: 2024-05-18T17:51:48.297Z
-updated: 2024-05-19T17:51:48.297Z
+date: 2024-05-20T06:45:55.879Z
+updated: 2024-05-21T06:45:55.879Z
 tags: 
   - screen-recording
   - ai video
@@ -191,4 +191,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://animation-videos.techidaily.com/animate-graphics-in-canva-for-2024/"><u>Animate Graphics in Canva for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-quick-fix-techniques-to-eliminate-unwanted-vocals-from-video-recordings/"><u>New In 2024, Quick Fix Techniques to Eliminate Unwanted Vocals From Video Recordings</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bring Footage Together  Ken Burns Technique for Camtasa Users\""
-date: 2024-05-18T17:55:53.880Z
-updated: 2024-05-19T17:55:53.880Z
+date: 2024-05-20T06:46:06.429Z
+updated: 2024-05-21T06:46:06.429Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-guide-to-cloud-based-stop-motion-animation-software/"><u>2024 Approved The Ultimate Guide to Cloud-Based Stop Motion Animation Software</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-m14-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy M14 5G Black and White | Dr.fone</u></a></li>
 </ul></div>
+
 

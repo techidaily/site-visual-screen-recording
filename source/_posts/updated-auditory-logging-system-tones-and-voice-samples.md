@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Auditory Logging  System Tones & Voice Samples\""
-date: 2024-05-18T18:02:54.464Z
-updated: 2024-05-19T18:02:54.464Z
+date: 2024-05-20T06:46:24.824Z
+updated: 2024-05-21T06:46:24.824Z
 tags: 
   - screen-recording
   - ai video
@@ -772,4 +772,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://sound-tweaking.techidaily.com/new-design-an-animated-scene-powered-by-sound-without-spending-money/"><u>New Design an Animated Scene Powered by Sound Without Spending Money</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-breaking-down-beats-to-words-effective-online-mp3-to-text-transcription-methods/"><u>2024 Approved Breaking Down Beats to Words Effective Online MP3-to-Text Transcription Methods</u></a></li>
 </ul></div>
+
 

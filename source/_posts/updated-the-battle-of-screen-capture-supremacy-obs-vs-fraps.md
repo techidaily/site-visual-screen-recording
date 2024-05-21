@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Battle of Screen Capture Supremacy  OBS vs Fraps\""
-date: 2024-05-18T17:47:15.521Z
-updated: 2024-05-19T17:47:15.521Z
+date: 2024-05-20T06:45:43.746Z
+updated: 2024-05-21T06:45:43.746Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-lava-blaze-pro-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Lava Blaze Pro 5G.</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/a-step-by-step-approach-to-implementing-audio-volume-diminuation/"><u>A Step-by-Step Approach to Implementing Audio Volume Diminuation</u></a></li>
 </ul></div>
+
 

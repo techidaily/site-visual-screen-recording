@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Preventing Frame Gaps in OBS Recordings for 2024"
-date: 2024-05-18T18:11:11.139Z
-updated: 2024-05-19T18:11:11.139Z
+date: 2024-05-20T06:46:46.447Z
+updated: 2024-05-21T06:46:46.447Z
 tags: 
   - screen-recording
   - ai video
@@ -586,4 +586,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-8-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Asus ROG Phone 8 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-honor-90-lite-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Honor 90 Lite</u></a></li>
 </ul></div>
+
 

@@ -1128,3 +1128,4 @@ Follow @Liza Brown
 <li><a href="https://audio-editing.techidaily.com/updated-perfecting-soft-audio-edges-a-guide-to-smooth-transitioning-in-imovie/"><u>Updated Perfecting Soft Audio Edges A Guide to Smooth Transitioning in iMovie</u></a></li>
 </ul></div>
 
+

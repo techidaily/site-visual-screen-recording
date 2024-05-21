@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Avoiding Pitfalls in Low-Light Portrait Photography\""
-date: 2024-05-18T17:47:58.798Z
-updated: 2024-05-19T17:47:58.798Z
+date: 2024-05-20T06:45:45.817Z
+updated: 2024-05-21T06:45:45.817Z
 tags: 
   - screen-recording
   - ai video
@@ -195,4 +195,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/ubuntus-finest-top-10-free-video-editing-software-for-2024/"><u>Ubuntus Finest Top 10 Free Video Editing Software for 2024</u></a></li>
 </ul></div>
+
 

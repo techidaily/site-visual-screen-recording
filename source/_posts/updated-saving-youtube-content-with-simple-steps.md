@@ -722,3 +722,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Xiaomi Redmi 12</u></a></li>
 </ul></div>
 
+

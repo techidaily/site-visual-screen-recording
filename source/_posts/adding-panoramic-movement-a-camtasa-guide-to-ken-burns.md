@@ -1,7 +1,7 @@
 ---
 title: "\"Adding Panoramic Movement  A Camtasa Guide to Ken Burns\""
-date: 2024-05-18T18:05:16.370Z
-updated: 2024-05-19T18:05:16.370Z
+date: 2024-05-20T06:46:30.990Z
+updated: 2024-05-21T06:46:30.990Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-asus-rog-phone-7-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Asus ROG Phone 7</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-8-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 8 Plus Location | Dr.fone</u></a></li>
 </ul></div>
+
 

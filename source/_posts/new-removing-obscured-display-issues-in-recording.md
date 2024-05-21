@@ -1,7 +1,7 @@
 ---
 title: "[New] Removing Obscured Display Issues in Recording"
-date: 2024-05-18T18:04:43.369Z
-updated: 2024-05-19T18:04:43.369Z
+date: 2024-05-20T06:46:29.452Z
+updated: 2024-05-21T06:46:29.452Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-a25-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy A25 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-best-top-10-intro-maker-websites-for-creators/"><u>New 2024 Approved Discover the Best Top 10 Intro Maker Websites for Creators</u></a></li>
 </ul></div>
+
 

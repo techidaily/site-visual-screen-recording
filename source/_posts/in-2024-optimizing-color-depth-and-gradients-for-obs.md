@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimizing Color Depth and Gradients for OBS"
-date: 2024-05-18T17:49:30.481Z
-updated: 2024-05-19T17:49:30.481Z
+date: 2024-05-20T06:45:49.606Z
+updated: 2024-05-21T06:45:49.606Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-loop-creator-top-picks-and-reviews-for-2024/"><u>New Free Video Loop Creator Top Picks and Reviews for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

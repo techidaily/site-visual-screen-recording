@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Tips for Recording PS4 Games with OBS"
-date: 2024-05-18T17:52:05.558Z
-updated: 2024-05-19T17:52:05.558Z
+date: 2024-05-20T06:45:56.621Z
+updated: 2024-05-21T06:45:56.621Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-g54-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola G54 5G to PC? | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-best-free-online-montage-track-collections/"><u>New In 2024, Best Free Online Montage Track Collections</u></a></li>
 </ul></div>
+
 

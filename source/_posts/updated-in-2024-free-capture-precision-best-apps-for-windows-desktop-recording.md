@@ -492,3 +492,4 @@ Follow @Liza Brown
 <li><a href="https://video-creation-software.techidaily.com/capture-life-in-high-definition-1080p-video-editing-software-guide/"><u>Capture Life in High Definition 1080P Video Editing Software Guide</u></a></li>
 </ul></div>
 
+

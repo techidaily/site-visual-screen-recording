@@ -473,3 +473,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-13t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 13T Pro</u></a></li>
 </ul></div>
 
+

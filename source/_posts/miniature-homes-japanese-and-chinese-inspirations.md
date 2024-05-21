@@ -1,7 +1,7 @@
 ---
 title: "\"Miniature Homes  Japanese & Chinese Inspirations\""
-date: 2024-05-18T18:04:02.393Z
-updated: 2024-05-19T18:04:02.393Z
+date: 2024-05-20T06:46:27.890Z
+updated: 2024-05-21T06:46:27.890Z
 tags: 
   - screen-recording
   - ai video
@@ -349,4 +349,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-xs-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone XS Swipe-Up? Try These 11 Solutions</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/in-2024-3d-animation-on-a-budget-free-and-affordable-software-options-you-need-to-know/"><u>In 2024, 3D Animation on a Budget Free and Affordable Software Options You Need to Know</u></a></li>
 </ul></div>
+
 

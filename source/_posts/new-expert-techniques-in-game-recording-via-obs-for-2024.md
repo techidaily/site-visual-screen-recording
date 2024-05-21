@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Techniques in Game Recording via OBS for 2024"
-date: 2024-05-18T18:04:32.706Z
-updated: 2024-05-19T18:04:32.706Z
+date: 2024-05-20T06:46:29.077Z
+updated: 2024-05-21T06:46:29.077Z
 tags: 
   - screen-recording
   - ai video
@@ -426,4 +426,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-animation-mastery-the-best-professional-software-for-macwindows/"><u>New 2024 Approved Animation Mastery The Best Professional Software for Mac/Windows</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-s-log-is-a-gamma-curve-optimized-for-digital-cameras-to-maximize-the-image-sensors-performance-although-these-videos-may-look-flat-and-washed-out-th/"><u>Updated S-Log Is a Gamma Curve Optimized for Digital Cameras to Maximize the Image Sensors Performance. Although These Videos May Look Flat and Washed Out, They Contain Lots of Color Information</u></a></li>
 </ul></div>
+
 

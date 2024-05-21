@@ -460,3 +460,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://phone-solutions.techidaily.com/gt-3-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>GT 3 support - Forgotten screen lock.</u></a></li>
 </ul></div>
 
+

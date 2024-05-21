@@ -500,3 +500,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-get-videoleap-on-your-macbook-download-and-installation-tutorial-for-2024/"><u>New Get Videoleap on Your MacBook Download and Installation Tutorial for 2024</u></a></li>
 </ul></div>
 
+

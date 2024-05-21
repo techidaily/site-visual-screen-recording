@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Samurai's Modern Journey  10 Games Similar to Ghost of Tsushima\""
-date: 2024-05-18T18:07:03.335Z
-updated: 2024-05-19T18:07:03.335Z
+date: 2024-05-20T06:46:35.341Z
+updated: 2024-05-21T06:46:35.341Z
 tags: 
   - screen-recording
   - ai video
@@ -652,4 +652,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia G310 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic 6 Lite? | Dr.fone</u></a></li>
 </ul></div>
+
 

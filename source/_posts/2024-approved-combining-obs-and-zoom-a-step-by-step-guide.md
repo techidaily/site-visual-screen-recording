@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Combining OBS and Zoom  A Step-by-Step Guide\""
-date: 2024-05-18T18:09:04.251Z
-updated: 2024-05-19T18:09:04.251Z
+date: 2024-05-20T06:46:40.857Z
+updated: 2024-05-21T06:46:40.857Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-stunning-slow-mo-effects-on-kapwing-a-step-by-step-tutorial/"><u>New 2024 Approved Create Stunning Slow-Mo Effects on Kapwing A Step-by-Step Tutorial</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-video-editors-to-add-text-to-a-video/"><u>Updated In 2024, Best Video Editors to Add Text to a Video</u></a></li>
 </ul></div>
+
 

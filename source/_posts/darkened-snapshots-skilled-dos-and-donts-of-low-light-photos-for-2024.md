@@ -174,3 +174,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a05-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
 
+

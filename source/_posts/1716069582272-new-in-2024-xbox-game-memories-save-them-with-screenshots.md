@@ -439,3 +439,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-a05s-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy A05s Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
 
+

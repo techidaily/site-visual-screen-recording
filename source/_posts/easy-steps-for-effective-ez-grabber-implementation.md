@@ -309,3 +309,4 @@ Where you were facing problems recording videos on your screen and could not cho
 <li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-xcover-7-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy XCover 7 Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

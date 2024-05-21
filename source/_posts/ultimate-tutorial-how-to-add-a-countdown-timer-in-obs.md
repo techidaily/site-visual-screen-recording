@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Tutorial  How To Add a Countdown Timer in OBS\""
-date: 2024-05-18T17:55:33.748Z
-updated: 2024-05-19T17:55:33.748Z
+date: 2024-05-20T06:46:05.373Z
+updated: 2024-05-21T06:46:05.373Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x50i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X50i</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

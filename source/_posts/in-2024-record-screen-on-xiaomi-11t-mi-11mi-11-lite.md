@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite"
-date: 2024-05-18T17:50:49.528Z
-updated: 2024-05-19T17:50:49.528Z
+date: 2024-05-20T06:45:53.026Z
+updated: 2024-05-21T06:45:53.026Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-depth-analysis-of-sound-purification-with-adobe-audition-tools-for-2024/"><u>Updated In-Depth Analysis of Sound Purification with Adobe Audition Tools for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 with iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Optimizing Latency for Real-Time OBS Viewing\""
-date: 2024-05-18T18:07:01.960Z
-updated: 2024-05-19T18:07:01.960Z
+date: 2024-05-20T06:46:35.252Z
+updated: 2024-05-21T06:46:35.252Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini Without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

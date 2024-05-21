@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Miniature Homes  Japanese & Chinese Inspirations for 2024\""
-date: 2024-05-18T17:50:35.233Z
-updated: 2024-05-19T17:50:35.233Z
+date: 2024-05-20T06:45:52.483Z
+updated: 2024-05-21T06:45:52.483Z
 tags: 
   - screen-recording
   - ai video
@@ -348,4 +348,5 @@ Follow @Ollie Mattison
 <li><a href="https://sound-optimizing.techidaily.com/new-your-ultimate-resource-for-score-free-vst-upgrades-updated-annually/"><u>New Your Ultimate Resource for Score-Free VST Upgrades, Updated Annually</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-converting-amr-files-with-ease-a-compre-written-by-dr-alexandra-stone/"><u>Updated Converting AMR Files with Ease A Compre Written by Dr. Alexandra Stone</u></a></li>
 </ul></div>
+
 

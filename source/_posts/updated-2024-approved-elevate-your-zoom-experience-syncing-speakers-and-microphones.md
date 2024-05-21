@@ -579,3 +579,4 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-smart-8-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Smart 8 Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

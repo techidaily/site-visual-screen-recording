@@ -679,3 +679,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://audio-shaping.techidaily.com/achieving-balanced-sound-with-vlc-an-in-depth-look-at-volume-normalization/"><u>Achieving Balanced Sound with VLC An In-Depth Look at Volume Normalization</u></a></li>
 </ul></div>
 
+

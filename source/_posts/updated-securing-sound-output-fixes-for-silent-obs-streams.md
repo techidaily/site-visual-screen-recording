@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Securing Sound Output  Fixes for Silent OBS Streams\""
-date: 2024-05-18T17:50:07.958Z
-updated: 2024-05-19T17:50:07.958Z
+date: 2024-05-20T06:45:51.506Z
+updated: 2024-05-21T06:45:51.506Z
 tags: 
   - screen-recording
   - ai video
@@ -589,4 +589,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y200e 5G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-poco-x5-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Poco X5 Pro to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

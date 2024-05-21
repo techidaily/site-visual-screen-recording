@@ -257,3 +257,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone SE Apple ID and Apple Pay</u></a></li>
 </ul></div>
 
+

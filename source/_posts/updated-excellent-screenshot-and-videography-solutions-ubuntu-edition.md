@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Excellent Screenshot & Videography Solutions  Ubuntu Edition\""
-date: 2024-05-18T17:47:06.609Z
-updated: 2024-05-19T17:47:06.609Z
+date: 2024-05-20T06:45:43.370Z
+updated: 2024-05-21T06:45:43.370Z
 tags: 
   - screen-recording
   - ai video
@@ -722,4 +722,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 7 Plus</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a05s-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A05s? | Dr.fone</u></a></li>
 </ul></div>
+
 

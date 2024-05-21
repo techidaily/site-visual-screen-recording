@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding the Difference in 30 and 60 FPS Videography"
-date: 2024-05-18T17:50:48.718Z
-updated: 2024-05-19T17:50:48.718Z
+date: 2024-05-20T06:45:52.982Z
+updated: 2024-05-21T06:45:52.982Z
 tags: 
   - screen-recording
   - ai video
@@ -224,4 +224,5 @@ As a content creator, you now understand how important frame rates are and how c
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-all-about-gif-keyboard-that-you-may-want-to-know/"><u>New 2024 Approved All About GIF Keyboard That You May Want to Know</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/top-rated-mp3-symphony-integrator-for-mac-users-for-2024/"><u>Top-Rated MP3 Symphony Integrator for Mac Users for 2024</u></a></li>
 </ul></div>
+
 

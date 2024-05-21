@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mobile Mastery  Using Phone as a Camera for Recording\""
-date: 2024-05-18T17:47:30.311Z
-updated: 2024-05-19T17:47:30.311Z
+date: 2024-05-20T06:45:44.380Z
+updated: 2024-05-21T06:45:44.380Z
 tags: 
   - screen-recording
   - ai video
@@ -619,4 +619,5 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-meizu-21-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Meizu 21 to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 11 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

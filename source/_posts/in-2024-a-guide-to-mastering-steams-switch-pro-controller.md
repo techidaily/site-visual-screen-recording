@@ -496,3 +496,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/understanding-aspect-ratios-a-beginners-guide-to-image-sizing/"><u>Understanding Aspect Ratios A Beginners Guide to Image Sizing</u></a></li>
 </ul></div>
 
+

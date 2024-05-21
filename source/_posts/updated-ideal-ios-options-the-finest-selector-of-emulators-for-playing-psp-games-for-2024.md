@@ -439,3 +439,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>New 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
 </ul></div>
 
+

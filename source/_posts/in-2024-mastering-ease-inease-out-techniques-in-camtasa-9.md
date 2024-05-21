@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Ease In/Ease Out Techniques in Camtasa 9"
-date: 2024-05-18T17:57:03.892Z
-updated: 2024-05-19T17:57:03.892Z
+date: 2024-05-20T06:46:09.067Z
+updated: 2024-05-21T06:46:09.067Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-x7-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find X7 Ultra Devices | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/what-is-the-best-collage-photo-grid-maker-experts-choice/"><u>What Is the Best Collage Photo Grid Maker - Experts Choice</u></a></li>
 </ul></div>
+
 

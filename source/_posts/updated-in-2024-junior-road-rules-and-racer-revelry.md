@@ -652,3 +652,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-the-science-behind-instagram-video-dimensions-understanding-aspect-ratios/"><u>2024 Approved The Science Behind Instagram Video Dimensions Understanding Aspect Ratios</u></a></li>
 </ul></div>
 
+

@@ -289,3 +289,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://techidaily.com/how-do-i-reset-my-itel-a70-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel A70 Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

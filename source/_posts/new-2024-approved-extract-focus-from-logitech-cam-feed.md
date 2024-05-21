@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Extract Focus From Logitech Cam Feed\""
-date: 2024-05-18T18:09:12.368Z
-updated: 2024-05-19T18:09:12.368Z
+date: 2024-05-20T06:46:41.228Z
+updated: 2024-05-21T06:46:41.228Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor V Purse | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-video-post-production-on-mac-yosemite-best-practices/"><u>2024 Approved Video Post-Production on Mac Yosemite Best Practices</u></a></li>
 </ul></div>
+
 

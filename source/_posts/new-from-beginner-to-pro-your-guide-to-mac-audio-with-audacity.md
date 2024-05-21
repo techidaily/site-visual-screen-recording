@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Beginner to Pro  Your Guide to Mac Audio with Audacity\""
-date: 2024-05-18T17:46:50.048Z
-updated: 2024-05-19T17:46:50.048Z
+date: 2024-05-20T06:45:42.667Z
+updated: 2024-05-21T06:45:42.667Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-editing.techidaily.com/1714909400480-new-how-to-add-audio-fade-in-effect/"><u>New How to Add Audio Fade In Effect?</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/in-2024-resize-crop-and-convert-top-online-image-ratio-tools/"><u>In 2024, Resize, Crop, and Convert Top Online Image Ratio Tools</u></a></li>
 </ul></div>
+
 

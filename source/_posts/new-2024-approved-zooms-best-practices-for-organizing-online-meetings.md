@@ -398,3 +398,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/sign-dot-file-online-add-signature-to-dot-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dot file Online - Add Signature to .dot file for Free</u></a></li>
 </ul></div>
 
+

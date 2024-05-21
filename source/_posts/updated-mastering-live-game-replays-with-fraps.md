@@ -356,3 +356,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-apps.techidaily.com/updated-this-article-shows-you-how-to-do-freeze-frames-and-slow-motion-in-final-cut-pro-x/"><u>Updated This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Foundations of Video Editing in the Gaming World"
-date: 2024-05-18T17:52:39.354Z
-updated: 2024-05-19T17:52:39.354Z
+date: 2024-05-20T06:45:58.000Z
+updated: 2024-05-21T06:45:58.000Z
 tags: 
   - screen-recording
   - ai video
@@ -866,4 +866,5 @@ Follow @Richard Bennett
 <li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-note-12-proplus-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi Note 12 Pro+ 5G Through Google Earth?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-15-pro-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 15 Pro to Chromecast? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Studio vs Camper's Arena"
-date: 2024-05-18T17:53:35.550Z
-updated: 2024-05-19T17:53:35.550Z
+date: 2024-05-20T06:46:00.289Z
+updated: 2024-05-21T06:46:00.289Z
 tags: 
   - screen-recording
   - ai video
@@ -475,4 +475,5 @@ To sum it up for you, OBS is completely free while Bandicam is a premium softwar
 <li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Hot 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-ai-avatars-online-for-2024/"><u>Updated AI Avatars | Online for 2024</u></a></li>
 </ul></div>
+
 

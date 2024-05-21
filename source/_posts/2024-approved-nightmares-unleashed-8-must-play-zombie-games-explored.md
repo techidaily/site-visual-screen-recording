@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nightmares Unleashed  8 Must-Play Zombie Games Explored\""
-date: 2024-05-18T18:04:05.661Z
-updated: 2024-05-19T18:04:05.661Z
+date: 2024-05-20T06:46:28.034Z
+updated: 2024-05-21T06:46:28.034Z
 tags: 
   - screen-recording
   - ai video
@@ -349,4 +349,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-fold-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Fold without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-custom-lower-thirds-in-filmora/"><u>Updated How to Create Custom Lower Thirds in Filmora</u></a></li>
 </ul></div>
+
 

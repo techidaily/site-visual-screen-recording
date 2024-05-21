@@ -1,7 +1,7 @@
 ---
 title: "\"Brighten Up Your Gameplay  Tips to Fix a Black Screen on OBS\""
-date: 2024-05-18T18:09:35.943Z
-updated: 2024-05-19T18:09:35.943Z
+date: 2024-05-20T06:46:42.295Z
+updated: 2024-05-21T06:46:42.295Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-pixel-8-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Pixel 8.</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-techniques-for-creating-animated-logo-that-few-people-know-about/"><u>New 2024 Approved Techniques for Creating Animated Logo That Few People Know About</u></a></li>
 </ul></div>
+
 

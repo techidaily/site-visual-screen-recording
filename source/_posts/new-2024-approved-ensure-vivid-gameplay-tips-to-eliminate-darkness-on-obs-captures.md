@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Ensure Vivid Gameplay  Tips to Eliminate Darkness on OBS Captures\""
-date: 2024-05-18T17:53:06.719Z
-updated: 2024-05-19T17:53:06.719Z
+date: 2024-05-20T06:45:59.044Z
+updated: 2024-05-21T06:45:59.044Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://bypass-frp.techidaily.com/top-5-vivo-v27-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo V27 Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-free-split-screen-video-editor-online-and-offline/"><u>Updated 2024 Approved Best Free Split Screen Video Editor Online & Offline</u></a></li>
 </ul></div>
+
 

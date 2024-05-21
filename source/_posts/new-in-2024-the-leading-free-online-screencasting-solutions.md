@@ -981,3 +981,4 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a05-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A05 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

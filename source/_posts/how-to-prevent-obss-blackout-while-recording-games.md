@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent OBS's Blackout While Recording Games"
-date: 2024-05-18T18:06:35.918Z
-updated: 2024-05-19T18:06:35.918Z
+date: 2024-05-20T06:46:34.188Z
+updated: 2024-05-21T06:46:34.188Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-achieving-sonic-excellence-incorporating-auto-tune-into-your-audacity-workflow/"><u>2024 Approved Achieving Sonic Excellence Incorporating Auto-Tune Into Your Audacity Workflow</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17t-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S17t to New Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

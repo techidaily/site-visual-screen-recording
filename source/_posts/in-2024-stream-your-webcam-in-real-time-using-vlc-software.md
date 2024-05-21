@@ -543,3 +543,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://techidaily.com/hard-resetting-an-tecno-pova-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Pova 5 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

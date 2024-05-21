@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Elevate Gaming on TV - OBS Guide\""
-date: 2024-05-18T17:53:32.580Z
-updated: 2024-05-19T17:53:32.580Z
+date: 2024-05-20T06:46:00.138Z
+updated: 2024-05-21T06:46:00.138Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 14?</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/2024-approved-7-best-transition-sound-effects-free-download-that-you-dont-know/"><u>2024 Approved 7 Best Transition Sound Effects (Free Download) That You Dont Know</u></a></li>
 </ul></div>
+
 

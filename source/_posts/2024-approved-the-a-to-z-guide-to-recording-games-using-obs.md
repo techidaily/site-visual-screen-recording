@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The A-to-Z Guide to Recording Games Using OBS\""
-date: 2024-05-18T17:50:47.100Z
-updated: 2024-05-19T17:50:47.100Z
+date: 2024-05-20T06:45:52.917Z
+updated: 2024-05-21T06:45:52.917Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17 ProFRP Lock</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Lava Blaze 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

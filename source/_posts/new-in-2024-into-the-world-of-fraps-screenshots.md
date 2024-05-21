@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Into the World of Fraps Screenshots"
-date: 2024-05-18T18:10:35.333Z
-updated: 2024-05-19T18:10:35.333Z
+date: 2024-05-20T06:46:44.665Z
+updated: 2024-05-21T06:46:44.665Z
 tags: 
   - screen-recording
   - ai video
@@ -349,4 +349,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-merge-multiple-mov-files-for-free-top-tools/"><u>New 2024 Approved Merge Multiple MOV Files for Free Top Tools</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-11x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on 11X 5G</u></a></li>
 </ul></div>
+
 

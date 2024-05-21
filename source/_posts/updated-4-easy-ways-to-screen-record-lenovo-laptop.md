@@ -509,3 +509,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://techidaily.com/hard-reset-nubia-red-magic-8s-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nubia Red Magic 8S Pro in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
 
+

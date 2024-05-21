@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Full-Screen Fix for OBS Enthusiasts\""
-date: 2024-05-18T17:52:05.829Z
-updated: 2024-05-19T17:52:05.829Z
+date: 2024-05-20T06:45:56.633Z
+updated: 2024-05-21T06:45:56.633Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-s17e-phone-by-drfone-android/"><u>How to Reset a Locked Vivo S17e Phone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-note-30-vip-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Note 30 VIP Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

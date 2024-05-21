@@ -494,3 +494,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://techidaily.com/how-to-reset-nubia-red-magic-9-proplus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Red Magic 9 Pro+ Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

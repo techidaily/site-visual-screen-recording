@@ -682,3 +682,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://smart-video-creator.techidaily.com/top-20-adobe-premiere-shortcuts-you-will-use-when-editing-video-files/"><u>Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files</u></a></li>
 </ul></div>
 
+

@@ -550,3 +550,4 @@ If you are thinking about uploading your gameplay on online platforms, you have 
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-note-30i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Note 30i Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

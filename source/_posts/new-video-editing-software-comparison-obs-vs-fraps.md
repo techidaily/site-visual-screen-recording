@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Video Editing Software Comparison  OBS vs Fraps\""
-date: 2024-05-18T18:00:55.989Z
-updated: 2024-05-19T18:00:55.989Z
+date: 2024-05-20T06:46:19.630Z
+updated: 2024-05-21T06:46:19.630Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-narzo-n53-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme Narzo N53 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-ken-burns-effect-in-final-cut-pro-a-beginners-guide-to-advanced-video-editing-techniques-for-2024/"><u>New Ken Burns Effect in Final Cut Pro A Beginners Guide to Advanced Video Editing Techniques for 2024</u></a></li>
 </ul></div>
+
 

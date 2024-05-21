@@ -532,3 +532,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/will-mov-files-play-on-g24-power-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on G24 Power ?</u></a></li>
 </ul></div>
 
+

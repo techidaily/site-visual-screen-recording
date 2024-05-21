@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Fix OBS Camera Not Working\""
-date: 2024-05-18T17:57:38.297Z
-updated: 2024-05-19T17:57:38.297Z
+date: 2024-05-20T06:46:10.926Z
+updated: 2024-05-21T06:46:10.926Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo T2 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -681,3 +681,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction/"><u>2024 Approved Demystifying the Vectorscope A Comprehensive Guide for Premiere Pro Color Correction</u></a></li>
 </ul></div>
 
+

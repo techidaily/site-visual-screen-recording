@@ -714,3 +714,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-to-cut-a-video-in-lightworks/"><u>Updated Step by Step to Cut a Video in Lightworks</u></a></li>
 </ul></div>
 
+

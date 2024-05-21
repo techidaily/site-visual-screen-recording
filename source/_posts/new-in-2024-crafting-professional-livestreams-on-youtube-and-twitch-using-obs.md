@@ -174,3 +174,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://voice-adjusting.techidaily.com/mastering-the-art-of-vocal-modulation-a-guide-to-altering-your-tone/"><u>Mastering the Art of Vocal Modulation A Guide to Altering Your Tone</u></a></li>
 </ul></div>
 
+

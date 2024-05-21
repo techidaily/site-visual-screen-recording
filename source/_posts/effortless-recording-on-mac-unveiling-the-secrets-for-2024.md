@@ -1138,3 +1138,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-subtitles-in-vlc-media-play-for-2024/"><u>How to Add Subtitles in VLC Media Play for 2024</u></a></li>
 </ul></div>
 
+

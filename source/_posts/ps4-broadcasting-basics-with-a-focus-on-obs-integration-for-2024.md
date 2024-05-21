@@ -1,7 +1,7 @@
 ---
 title: "PS4 Broadcasting Basics with a Focus on OBS Integration for 2024"
-date: 2024-05-18T18:05:05.459Z
-updated: 2024-05-19T18:05:05.459Z
+date: 2024-05-20T06:46:30.269Z
+updated: 2024-05-21T06:46:30.269Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-12-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi 12 5G Without Password | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

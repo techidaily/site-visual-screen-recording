@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make a Group Chat on Skype [For Windows and Mac] for 2024"
-date: 2024-05-18T18:03:36.638Z
-updated: 2024-05-19T18:03:36.638Z
+date: 2024-05-20T06:46:26.837Z
+updated: 2024-05-21T06:46:26.837Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ Follow @Richard Bennett
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro Max</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-hot-30-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Hot 30 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

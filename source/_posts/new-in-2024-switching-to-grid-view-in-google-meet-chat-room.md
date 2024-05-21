@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Switching to Grid View in Google Meet Chat Room"
-date: 2024-05-18T17:49:06.671Z
-updated: 2024-05-19T17:49:06.671Z
+date: 2024-05-20T06:45:48.724Z
+updated: 2024-05-21T06:45:48.724Z
 tags: 
   - screen-recording
   - ai video
@@ -605,4 +605,5 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-3d-animation-on-a-budget-free-and-affordable-software-options-you-need-to-know/"><u>2024 Approved 3D Animation on a Budget Free and Affordable Software Options You Need to Know</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality-for-2024/"><u>Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality for 2024</u></a></li>
 </ul></div>
+
 

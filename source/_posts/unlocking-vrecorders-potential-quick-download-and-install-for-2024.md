@@ -381,3 +381,4 @@ V Recorder is a powerful app for recording videos of your smartphone's screen in
 <li><a href="https://techidaily.com/hard-reset-infinix-smart-7-hd-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 7 HD in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
 
+

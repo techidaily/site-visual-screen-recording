@@ -1,7 +1,7 @@
 ---
 title: "Improve OBS Rendering Speed and Quality"
-date: 2024-05-18T18:02:51.769Z
-updated: 2024-05-19T18:02:51.769Z
+date: 2024-05-20T06:46:24.734Z
+updated: 2024-05-21T06:46:24.734Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-avs-video-editor-2023-is-it-worth-the-hype/"><u>2024 Approved AVS Video Editor 2023 Is It Worth the Hype?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT 3 to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 
