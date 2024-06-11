@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Essential Firefox Screen Capturing Plugins\""
-date: 2024-05-20T06:46:51.408Z
-updated: 2024-05-21T06:46:51.408Z
+date: 2024-06-10T06:53:56.840Z
+updated: 2024-06-11T06:53:56.840Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Essential Firefox Screen Capturing Plugins\""
 excerpt: "\"This Article Describes 2024 Approved: Essential Firefox Screen Capturing Plugins\""
 keywords: "FireFox SnapPlugin,QuickCapture Firefox,ScreenShot Firefox Extra,Firefox Capture Plugin,EasyScreenMoz,MozPlugins Screenshots,FastCapture FF"
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Essential Firefox Screen Capturing Plugins

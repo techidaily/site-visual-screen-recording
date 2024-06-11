@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Midgard Alliance  The Ragnarök Saga Begins\""
-date: 2024-05-18T18:37:59.361Z
-updated: 2024-05-19T18:37:59.361Z
+date: 2024-06-10T06:53:56.588Z
+updated: 2024-06-11T06:53:56.588Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Midgard Alliance: The Ragnarök Saga Begins\""
 excerpt: "\"This Article Describes [Updated] Midgard Alliance: The Ragnarök Saga Begins\""
 keywords: "Midgard Alliance Ragnarok,Ragnarök Mythology Start,Saga Begins Midgard,Alliance and Ragnarök,The Ragnarök Adventure,Midgard's Heroic Journey,Ragnarök Epic Story"
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## Midgard Alliance: The Ragnarök Saga Begins

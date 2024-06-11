@@ -1,7 +1,7 @@
 ---
 title: "\"Desktop Recording Head-to-Head  OBS Vs. ShadowPlay for 2024\""
-date: 2024-05-20T06:46:24.839Z
-updated: 2024-05-21T06:46:24.839Z
+date: 2024-06-10T06:53:51.624Z
+updated: 2024-06-11T06:53:51.624Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Desktop Recording Head-to-Head: OBS Vs. ShadowPlay for 2024\""
 excerpt: "\"This Article Describes Desktop Recording Head-to-Head: OBS Vs. ShadowPlay for 2024\""
 keywords: "\"OBS vs Shadow,Desktop Recording Duel,OBS Showdown,ShadowPlay Comparison,Head-to-Head Tech Tussle,Streaming Software Faceoff,Capture Rivalry: OBS/Shadow\""
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## Desktop Recording Head-to-Head: OBS Vs. ShadowPlay

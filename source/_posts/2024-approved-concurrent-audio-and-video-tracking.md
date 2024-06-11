@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Concurrent Audio and Video Tracking\""
-date: 2024-05-18T18:30:38.499Z
-updated: 2024-05-19T18:30:38.499Z
+date: 2024-06-10T06:53:56.406Z
+updated: 2024-06-11T06:53:56.406Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Concurrent Audio and Video Tracking\""
 excerpt: "\"This Article Describes 2024 Approved: Concurrent Audio and Video Tracking\""
 keywords: "\"Audiovisual Sync,Audio-Video Conversion,Real-Time Tracking,Multimedia Monitoring,Cross-Modal Synchronization,Live Video Editing,Dynamic Tracker Software\""
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Concurrent Audio and Video Tracking

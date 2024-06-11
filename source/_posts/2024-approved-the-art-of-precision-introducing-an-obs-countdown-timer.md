@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Precision  Introducing an OBS Countdown Timer\""
-date: 2024-05-20T06:46:22.157Z
-updated: 2024-05-21T06:46:22.157Z
+date: 2024-06-10T06:53:49.968Z
+updated: 2024-06-11T06:53:49.968Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: The Art of Precision: Introducing an OBS Countdown Timer\""
 excerpt: "\"This Article Describes 2024 Approved: The Art of Precision: Introducing an OBS Countdown Timer\""
 keywords: "Voice OV Production,Video Voice Mastery,Producing Video Vocals,Audio VO Techniques,Voice Articulation for Videos,Professional Voice over Craft,Video Voice Mechanics"
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## The Art of Precision: Introducing an OBS Countdown Timer

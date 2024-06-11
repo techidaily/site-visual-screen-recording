@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 12 Offline Screen Recorders for Windows and Mac"
-date: 2024-05-20T06:46:40.955Z
-updated: 2024-05-21T06:46:40.955Z
+date: 2024-06-10T06:53:48.126Z
+updated: 2024-06-11T06:53:48.126Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Top 12 Offline Screen Recorders for Windows and Mac"
 excerpt: "This Article Describes In 2024, Top 12 Offline Screen Recorders for Windows and Mac"
 keywords: "\"Free Windows Recorder,Mac Screen Capture Tools,Top Windows Recorder Apps,Best Free Recording Software,Free PC Screen Recorder,Affordable Mac Recorders,No-Cost Windows Screen Recording\""
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## Top 12 Offline Screen Recorders for Windows and Mac

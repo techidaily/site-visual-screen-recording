@@ -1,7 +1,7 @@
 ---
 title: "SplitScreen Study for 2024"
-date: 2024-05-20T06:45:47.420Z
-updated: 2024-05-21T06:45:47.420Z
+date: 2024-06-10T06:53:57.764Z
+updated: 2024-06-11T06:53:57.764Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes SplitScreen Study for 2024"
 excerpt: "This Article Describes SplitScreen Study for 2024"
 keywords: "SplitView Learning,Screenside Study,DualDisplay Reading,SideBySide Study,PartScreen Education,DuoScreen Research,Bifocal Study Mode"
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## SplitScreen Study

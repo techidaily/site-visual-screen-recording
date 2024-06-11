@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Low-Cost Screen Recorder Guide for Old Computers\""
-date: 2024-05-20T06:46:26.620Z
-updated: 2024-05-21T06:46:26.620Z
+date: 2024-06-10T06:53:46.658Z
+updated: 2024-06-11T06:53:46.658Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Low-Cost Screen Recorder Guide for Old Computers\""
 excerpt: "\"This Article Describes [New] Low-Cost Screen Recorder Guide for Old Computers\""
 keywords: "Top Screen Recorder Tools,Best PC Screen Capture Software,Leading Screen Recorders Reviews,Essential Recording Apps,Prime Screen Capturing Picks,Best Computer Screen Recorder,Ultimate List of Screen Recorders"
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Low-Cost Screen Recorder Guide for Old Computers

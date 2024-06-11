@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cost-Effective OBS Setup Tips\""
-date: 2024-05-20T06:45:44.357Z
-updated: 2024-05-21T06:45:44.357Z
+date: 2024-06-10T06:53:48.298Z
+updated: 2024-06-11T06:53:48.298Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Cost-Effective OBS Setup Tips\""
 excerpt: "\"This Article Describes [Updated] Cost-Effective OBS Setup Tips\""
 keywords: "\"Budget-Friendly OBS Guide,Low Cost OBS Configuration,Efficient OBS Strategies,Affordable OBS Tools,Economical Broadcast Setup,Savvy OBS Tips,Value-Driven OBS Methods\""
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## Cost-Effective OBS Setup Tips

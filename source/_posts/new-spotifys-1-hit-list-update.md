@@ -1,7 +1,7 @@
 ---
 title: "[New] Spotify's #1 Hit List Update"
-date: 2024-05-18T18:43:58.169Z
-updated: 2024-05-19T18:43:58.169Z
+date: 2024-06-10T06:53:49.533Z
+updated: 2024-06-11T06:53:49.533Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Spotify's #1 Hit List Update"
 excerpt: "This Article Describes [New] Spotify's #1 Hit List Update"
 keywords: "Spotify Hits News,Spotify Playlist Shift,Top Spotify Songs,1 Spotify Song Chart,Spotify Hit List Update,Latest Spotify Tracks,Updated Spotify Hits"
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Spotify's #1 Hit List Update

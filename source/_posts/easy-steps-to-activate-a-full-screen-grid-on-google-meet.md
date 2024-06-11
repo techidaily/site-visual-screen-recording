@@ -1,7 +1,7 @@
 ---
 title: "\"Easy Steps to Activate a Full-Screen Grid on Google Meet\""
-date: 2024-05-18T18:55:25.483Z
-updated: 2024-05-19T18:55:25.483Z
+date: 2024-06-10T06:53:54.315Z
+updated: 2024-06-11T06:53:54.315Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Easy Steps to Activate a Full-Screen Grid on Google Meet\""
 excerpt: "\"This Article Describes Easy Steps to Activate a Full-Screen Grid on Google Meet\""
 keywords: "Grid Meet Start,Screen Grid Activate,Fullscreen Grid OnMeet,Enable Grid View,Meet Grid Step,Grid Activation Google,GoGoogleGridFullScreen"
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Easy Steps to Activate a Full-Screen Grid on Google Meet

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Skype Learning Logs\""
-date: 2024-05-18T18:17:35.726Z
-updated: 2024-05-19T18:17:35.726Z
+date: 2024-06-10T06:53:51.008Z
+updated: 2024-06-11T06:53:51.008Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Skype Learning Logs\""
 excerpt: "\"This Article Describes 2024 Approved: Skype Learning Logs\""
 keywords: "\"Skype Education Records,Online Class Transcripts,Video Conferencing Academic Files,Remote Lecture Documentation,Digital Course History,Interactive Learning Archive,E-Learning Activity Logs\""
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Skype Learning Logs

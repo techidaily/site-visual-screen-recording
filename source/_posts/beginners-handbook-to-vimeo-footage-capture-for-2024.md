@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Handbook to Vimeo Footage Capture for 2024"
-date: 2024-05-18T18:17:19.210Z
-updated: 2024-05-19T18:17:19.210Z
+date: 2024-06-10T06:53:49.237Z
+updated: 2024-06-11T06:53:49.237Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Beginner's Handbook to Vimeo Footage Capture for 2024"
 excerpt: "This Article Describes Beginner's Handbook to Vimeo Footage Capture for 2024"
 keywords: "\"Beginner's Guide Vimeo Tips,Vimeo Capture For Newbies,Entry-Level Vimeo Editing,Start with Vimeo Recording,Novice's Video Capturing Tech,First Steps in Vimeo Footage,Simple Vimeo Filming Guide\""
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## Beginner's Handbook to Vimeo Footage Capture

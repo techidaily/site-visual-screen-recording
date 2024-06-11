@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Stop Video Capture  A QuickTime Guide\""
-date: 2024-05-18T18:27:23.660Z
-updated: 2024-05-19T18:27:23.660Z
+date: 2024-06-10T06:53:50.002Z
+updated: 2024-06-11T06:53:50.002Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Stop Video Capture: A QuickTime Guide\""
 excerpt: "\"This Article Describes [Updated] In 2024, Stop Video Capture: A QuickTime Guide\""
 keywords: "Quit QuickTime Movie,Stop Time Capsule Recording,Cease Media Saving,Halt Video Capturing,Disable Screen Grabs,End File Transfer,Prevent Videostreaming"
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## Stop Video Capture: A QuickTime Guide

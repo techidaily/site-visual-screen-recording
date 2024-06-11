@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Mac Integration  Step-by-Step Installation Walkthrough\""
-date: 2024-05-18T18:17:42.924Z
-updated: 2024-05-19T18:17:42.924Z
+date: 2024-06-10T06:53:54.817Z
+updated: 2024-06-11T06:53:54.817Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, OBS Mac Integration: Step-by-Step Installation Walkthrough\""
 excerpt: "\"This Article Describes [Updated] In 2024, OBS Mac Integration: Step-by-Step Installation Walkthrough\""
 keywords: "OBS Mac Setup,Mac OBS Inst,ObsMac Guide,Mac Live Streaming,OBS on Mac,OBS Mac Install,Mac Video Capture"
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## OBS Mac Integration: Step-by-Step Installation Walkthrough

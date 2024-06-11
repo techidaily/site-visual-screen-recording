@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step FBX Capture For Gamers\""
-date: 2024-05-18T18:32:19.553Z
-updated: 2024-05-19T18:32:19.553Z
+date: 2024-06-10T06:53:57.990Z
+updated: 2024-06-11T06:53:57.990Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Step-by-Step FBX Capture For Gamers\""
 excerpt: "\"This Article Describes Step-by-Step FBX Capture For Gamers\""
 keywords: "Gamer FBX Guide,FBX File Capture Steps,FBX Export Tutorial,Capture FBX in Games,Game Design FBX Techniques,Pro Gamers FBX Methods,Effective FBX Extraction"
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## Step-by-Step FBX Capture For Gamers

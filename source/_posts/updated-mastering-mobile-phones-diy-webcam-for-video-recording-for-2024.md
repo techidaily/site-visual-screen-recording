@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Mobile Phones  DIY Webcam for Video Recording for 2024\""
-date: 2024-05-18T18:46:03.012Z
-updated: 2024-05-19T18:46:03.012Z
+date: 2024-06-10T06:53:50.919Z
+updated: 2024-06-11T06:53:50.919Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Mastering Mobile Phones: DIY Webcam for Video Recording for 2024\""
 excerpt: "\"This Article Describes [Updated] Mastering Mobile Phones: DIY Webcam for Video Recording for 2024\""
 keywords: "Mobile Webcam DIY,Webcam Setup Guide,Video Recording Tech,Homemade Phone Cam,Phones Webcam Tips,Simple Webcam Build,Mobile Video Technique"
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Mastering Mobile Phones: DIY Webcam for Video Recording

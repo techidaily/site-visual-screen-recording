@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Silence  Disabling Participants in GMeet Calls for 2024\""
-date: 2024-05-18T18:17:26.659Z
-updated: 2024-05-19T18:17:26.659Z
+date: 2024-06-10T06:53:48.823Z
+updated: 2024-06-11T06:53:48.823Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Mastering Silence: Disabling Participants in GMeet Calls for 2024\""
 excerpt: "\"This Article Describes [Updated] Mastering Silence: Disabling Participants in GMeet Calls for 2024\""
 keywords: "Master Silence,Silence In Meetings,Turn Off Talkers,Quiet Meeting Room,Stop Chatter,Mute Participants,Noise Control Call"
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Mastering Silence: Disabling Participants in GMeet Calls

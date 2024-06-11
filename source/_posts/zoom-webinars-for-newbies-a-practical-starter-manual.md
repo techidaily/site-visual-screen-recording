@@ -1,7 +1,7 @@
 ---
 title: "\"Zoom Webinars for Newbies  A Practical Starter Manual\""
-date: 2024-05-18T18:56:56.945Z
-updated: 2024-05-19T18:56:56.945Z
+date: 2024-06-10T06:53:50.539Z
+updated: 2024-06-11T06:53:50.539Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Zoom Webinars for Newbies: A Practical Starter Manual\""
 excerpt: "\"This Article Describes Zoom Webinars for Newbies: A Practical Starter Manual\""
 keywords: "Zoom Webinar Basics,Newbie Webinar Guide,Online Learning Strategies,Easy Webinar Tips,Introduction to Webinars,Beginner's Webinar,Start Webinar Techniques"
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## Zoom Webinars for Newbies: A Practical Starter Manual

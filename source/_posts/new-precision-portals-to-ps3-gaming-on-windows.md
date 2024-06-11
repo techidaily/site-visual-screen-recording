@@ -1,7 +1,7 @@
 ---
 title: "[New] Precision Portals to Ps3 Gaming on Windows"
-date: 2024-05-18T18:48:56.437Z
-updated: 2024-05-19T18:48:56.437Z
+date: 2024-06-10T06:53:48.944Z
+updated: 2024-06-11T06:53:48.944Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Precision Portals to Ps3 Gaming on Windows"
 excerpt: "This Article Describes [New] Precision Portals to Ps3 Gaming on Windows"
 keywords: "\"PS3 Gaming Windows,PC PS3 Games,Precision Gaming Portals,PS3 Windows Access,High-Performance PS3,Portal PS3 Gameplay,Optimal PS3 Experience\""
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## Precision Portals to Ps3 Gaming on Windows

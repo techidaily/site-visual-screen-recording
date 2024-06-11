@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Open World Opus  Top 10 Similar Video Games\""
-date: 2024-05-20T06:49:48.321Z
-updated: 2024-05-21T06:49:48.321Z
+date: 2024-06-10T06:53:56.471Z
+updated: 2024-06-11T06:53:56.471Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Open World Opus: Top 10 Similar Video Games\""
 excerpt: "\"This Article Describes In 2024, Open World Opus: Top 10 Similar Video Games\""
 keywords: "\"Open-World Gaming #10,VR Game Comparisons,Top RPG Games List,Classic Open World Titles,Best Indie Games Series,Similar Adventure Games,Epic Quest Games Comparison\""
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## Open World Opus: Top 10 Similar Video Games

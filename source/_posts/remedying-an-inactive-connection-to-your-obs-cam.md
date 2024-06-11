@@ -1,7 +1,7 @@
 ---
 title: "Remedying an Inactive Connection to Your OBS Cam"
-date: 2024-05-20T06:46:48.226Z
-updated: 2024-05-21T06:46:48.226Z
+date: 2024-06-10T06:53:57.746Z
+updated: 2024-06-11T06:53:57.746Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Remedying an Inactive Connection to Your OBS Cam"
 excerpt: "This Article Describes Remedying an Inactive Connection to Your OBS Cam"
 keywords: "Fix OBS Disconnect,Active OBS Linking,Reestablish OBS Stream,Resume OBS Connection,Restore OBS Connectivity,Reactivate OBS Stream,Enhance OBS Link Speed"
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## Remedying an Inactive Connection to Your OBS Cam
