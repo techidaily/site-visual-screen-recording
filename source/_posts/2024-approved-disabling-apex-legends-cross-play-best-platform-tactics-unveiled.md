@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Disabling Apex Legends Cross-Play  Best Platform Tactics Unveiled\""
-date: 2024-05-18T18:58:17.882Z
-updated: 2024-05-19T18:58:17.882Z
+date: 2024-06-19T09:07:12.713Z
+updated: 2024-06-20T09:07:12.713Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Disabling Apex Legends Cross-Play: Best Platform Tactics Unveiled\""
 excerpt: "\"This Article Describes 2024 Approved: Disabling Apex Legends Cross-Play: Best Platform Tactics Unveiled\""
 keywords: "Apex Disable Crosplay,Legends Play Off Switch,Xbox vs PS Console,Best Gameplay Strategies,Optimal Platform Tactics,Crossover Gaming Prevention,Unveil Gameplay Hacks"
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## Disabling Apex Legends Cross-Play: Best Platform Tactics Unveiled

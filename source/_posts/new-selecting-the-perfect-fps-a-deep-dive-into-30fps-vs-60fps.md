@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Selecting the Perfect FPS  A Deep Dive Into 30Fps Vs. 60Fps\""
-date: 2024-05-18T18:48:40.367Z
-updated: 2024-05-19T18:48:40.367Z
+date: 2024-06-19T09:07:09.593Z
+updated: 2024-06-20T09:07:09.593Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Selecting the Perfect FPS: A Deep Dive Into 30Fps Vs. 60Fps\""
 excerpt: "\"This Article Describes [New] Selecting the Perfect FPS: A Deep Dive Into 30Fps Vs. 60Fps\""
 keywords: "Minecraft Recording Tips,Best Minecraft Documentation,Minecraft Save Techniques,Effective Minecraft Saves,Realms Mincraft Ways,Capture Minecraft Worlds,Proper Minecraft Record"
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Selecting the Perfect FPS: A Deep Dive Into 30Fps Vs. 60Fps

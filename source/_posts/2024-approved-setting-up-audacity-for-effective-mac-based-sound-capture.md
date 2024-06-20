@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Setting Up Audacity for Effective Mac-Based Sound Capture\""
-date: 2024-05-18T18:44:51.421Z
-updated: 2024-05-19T18:44:51.421Z
+date: 2024-06-19T09:07:11.303Z
+updated: 2024-06-20T09:07:11.303Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Setting Up Audacity for Effective Mac-Based Sound Capture\""
 excerpt: "\"This Article Describes 2024 Approved: Setting Up Audacity for Effective Mac-Based Sound Capture\""
 keywords: "\"Audacity Mac Setup,Mac Audio Capture Guide,Sound Recording on Mac,MacAudacity Configuration,Efficient Mac Audio,Mac-Based SoundCapture,Effective Mac Audacity Use\""
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Setting Up Audacity for Effective Mac-Based Sound Capture

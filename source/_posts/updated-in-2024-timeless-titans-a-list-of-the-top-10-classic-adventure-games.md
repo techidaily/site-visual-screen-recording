@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Timeless Titans  A List of the Top 10 Classic Adventure Games\""
-date: 2024-05-18T18:42:31.769Z
-updated: 2024-05-19T18:42:31.769Z
+date: 2024-06-19T09:07:07.972Z
+updated: 2024-06-20T09:07:07.972Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Timeless Titans: A List of the Top 10 Classic Adventure Games\""
 excerpt: "\"This Article Describes [Updated] In 2024, Timeless Titans: A List of the Top 10 Classic Adventure Games\""
 keywords: "Timeless Titan Gaming,Classics Adventure Games,Top Adventure Game Hits,Vintage Adventure Titans,Retro Adventure Game List,Classic Gaming Quests,Legendary Adventure RPGs"
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## Timeless Titans: A List of the Top 10 Classic Adventure Games

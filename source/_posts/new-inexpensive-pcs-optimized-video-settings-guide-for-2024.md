@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Inexpensive PCs  Optimized Video Settings Guide for 2024\""
-date: 2024-05-20T06:46:15.830Z
-updated: 2024-05-21T06:46:15.830Z
+date: 2024-06-19T09:07:14.911Z
+updated: 2024-06-20T09:07:14.911Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Inexpensive PCs: Optimized Video Settings Guide for 2024\""
 excerpt: "\"This Article Describes [New] Inexpensive PCs: Optimized Video Settings Guide for 2024\""
 keywords: "\"Budget PC Gaming,Cost-Effective Graphics,Economical PC Upgrades,Affordable PC Specs,Low-Cost PC Options,Value PC Settings Guide,Cheap PC Performance Tips\""
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Inexpensive PCs: Optimized Video Settings Guide

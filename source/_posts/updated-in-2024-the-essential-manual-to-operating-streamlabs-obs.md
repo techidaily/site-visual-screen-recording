@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Essential Manual to Operating Streamlabs OBS"
-date: 2024-05-18T18:46:44.279Z
-updated: 2024-05-19T18:46:44.279Z
+date: 2024-06-19T09:07:08.594Z
+updated: 2024-06-20T09:07:08.594Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, The Essential Manual to Operating Streamlabs OBS"
 excerpt: "This Article Describes [Updated] In 2024, The Essential Manual to Operating Streamlabs OBS"
 keywords: "StreamLabs OBS Guide,Streamlabs OBS Setup,Mastering StreamLabs OBS,StreamObs Basics,OBS StreamLabs Tips,Beginner's StreamLabs OBS,Optimizing StreamLabs OBS"
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## The Essential Manual to Operating Streamlabs OBS

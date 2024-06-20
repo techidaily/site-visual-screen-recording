@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Glitch Fix  Stop Frames From Dropping\""
-date: 2024-05-20T06:46:12.761Z
-updated: 2024-05-21T06:46:12.761Z
+date: 2024-06-19T09:07:11.064Z
+updated: 2024-06-20T09:07:11.064Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes OBS Glitch Fix: Stop Frames From Dropping\""
 excerpt: "\"This Article Describes OBS Glitch Fix: Stop Frames From Dropping\""
 keywords: "Fix OBS Glitch,Frame Drop Stopper,OBS Troubleshoot,Stabilize OBS Screen,Prevent OBS Loss,Stop Video Lag,OBS Performance Tips"
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## OBS Glitch Fix: Stop Frames From Dropping

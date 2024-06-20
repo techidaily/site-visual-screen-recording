@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Instantaneous Screen Logger for Chrome"
-date: 2024-05-18T18:14:20.751Z
-updated: 2024-05-19T18:14:20.751Z
+date: 2024-06-19T09:07:07.827Z
+updated: 2024-06-20T09:07:07.827Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Instantaneous Screen Logger for Chrome"
 excerpt: "This Article Describes [New] In 2024, Instantaneous Screen Logger for Chrome"
 keywords: "\"Chrome Screen Logger Instant,Immediate Browser Logging Chrome,Real-Time Chromium Monitoring,Quick Chrome Activity Logger,Rapid Web Tracker Chrome,Speedy Chrome Session Logger,Flash Screen Logger Chrome\""
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Instantaneous Screen Logger for Chrome
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

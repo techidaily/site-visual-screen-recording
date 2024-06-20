@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Full-Screen Fix for OBS Enthusiasts\""
-date: 2024-05-20T06:45:56.633Z
-updated: 2024-05-21T06:45:56.633Z
+date: 2024-06-19T09:07:12.017Z
+updated: 2024-06-20T09:07:12.017Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Full-Screen Fix for OBS Enthusiasts\""
 excerpt: "\"This Article Describes 2024 Approved: Full-Screen Fix for OBS Enthusiasts\""
 keywords: "\"OBS Fullscreen Fix,Screen Resolution OBS,Enhanced OBS Viewing,Clear OBS Display,OBS Optimization Tools,HDTV in OBS,Full-Screen OBS Trick\""
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## Full-Screen Fix for OBS Enthusiasts

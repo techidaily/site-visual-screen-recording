@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Screencast Primer  Fundamental Knowledge for Video Enthusiasts\""
-date: 2024-05-18T18:28:52.910Z
-updated: 2024-05-19T18:28:52.910Z
+date: 2024-06-19T09:07:13.212Z
+updated: 2024-06-20T09:07:13.212Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, The Screencast Primer: Fundamental Knowledge for Video Enthusiasts\""
 excerpt: "\"This Article Describes In 2024, The Screencast Primer: Fundamental Knowledge for Video Enthusiasts\""
 keywords: "Screencast Basics,Video Production Guide,Tech Tutorial Introduction,Digital Media Insight,Media Creation Fundamentals,Video Crafting Essentials,Enthusiasts' Tech Screencast"
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## The Screencast Primer: Fundamental Knowledge for Video Enthusiasts

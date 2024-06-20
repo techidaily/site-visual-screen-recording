@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vidma Scratch  Assessing the Screen Capture Tool\""
-date: 2024-05-18T18:34:58.036Z
-updated: 2024-05-19T18:34:58.036Z
+date: 2024-06-19T09:07:10.273Z
+updated: 2024-06-20T09:07:10.273Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Vidma Scratch: Assessing the Screen Capture Tool\""
 excerpt: "\"This Article Describes [Updated] Vidma Scratch: Assessing the Screen Capture Tool\""
 keywords: "Scratch Analysis,ScreenCapture Review,Screen Tools Insight,Assessing Capture Software,Screen Capture Evaluation,Scratch Tool Benefits,Screen Capture Usability"
-thumbnail: https://www.lifewire.com/thmb/Dp9islCb9GD3RtQaIU23WoKYMSs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-92c9bcd3792548908be32c420bc4fa27.jpg
+thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997cdcaec1704f07c09aed014e.jpg
 ---
 
 ## Vidma Scratch: Assessing the Screen Capture Tool

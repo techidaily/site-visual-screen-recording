@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)\""
-date: 2024-05-20T06:45:57.610Z
-updated: 2024-05-21T06:45:57.610Z
+date: 2024-06-19T09:07:13.242Z
+updated: 2024-06-20T09:07:13.242Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)\""
 excerpt: "\"This Article Describes 2024 Approved: Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)\""
 keywords: "\"Mate/P Series Screen Record,Inbuilt Phone Cameras for Recording,Smartphones with Built-In Recorder,Mate X Series Screen Capture,P Series Video Recording Tech,Mobile Phones Inbuilt Screen Grab,Mate/P Series Smartphone Recording\""
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)
