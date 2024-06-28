@@ -1,7 +1,7 @@
 ---
 title: "PS4 Broadcasting Basics with a Focus on OBS Integration for 2024"
-date: 2024-05-20T06:46:30.269Z
-updated: 2024-05-21T06:46:30.269Z
+date: 2024-06-27T05:14:18.808Z
+updated: 2024-06-28T05:14:18.808Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes PS4 Broadcasting Basics with a Focus on OBS Integration for 2024"
 excerpt: "This Article Describes PS4 Broadcasting Basics with a Focus on OBS Integration for 2024"
 keywords: "PS4 Broadcasting Guide,OBS for PS4,OBS Integration PS4,Basic PS4 Broadcasting,OBS Studio PS4,PS4 Live Streaming Basics,OBS Setup PS4"
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## PS4 Broadcasting Basics with a Focus on OBS Integration

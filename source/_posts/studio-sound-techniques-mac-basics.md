@@ -1,7 +1,7 @@
 ---
 title: "\"Studio Sound Techniques  Mac Basics\""
-date: 2024-05-20T06:46:14.516Z
-updated: 2024-05-21T06:46:14.516Z
+date: 2024-06-27T05:14:14.470Z
+updated: 2024-06-28T05:14:14.470Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Studio Sound Techniques: Mac Basics\""
 excerpt: "\"This Article Describes Studio Sound Techniques: Mac Basics\""
 keywords: "Mac Studio Sounds,Audio Basics MAC,Studio Recording MAC,Basic MAC Sounds,MAudio Tech Basics,Sound MAC Fundamentals,MAC Audio Probas"
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Studio Sound Techniques: Mac Basics

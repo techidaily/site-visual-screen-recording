@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Essential Guide to Using OBS for YouTube & Twitch"
-date: 2024-05-20T06:45:55.879Z
-updated: 2024-05-21T06:45:55.879Z
+date: 2024-06-27T05:14:16.184Z
+updated: 2024-06-28T05:14:16.184Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Essential Guide to Using OBS for YouTube & Twitch"
 excerpt: "This Article Describes In 2024, Essential Guide to Using OBS for YouTube & Twitch"
 keywords: "\"OBS Streaming Basics,OBS YouTube Broadcast,Twitch OBS Tutorial,OBS Live Production,OBS Capture Screen,OBS Recording for YT/Twitch,OBS Multi-Platform Guide\""
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Essential Guide to Using OBS for YouTube & Twitch

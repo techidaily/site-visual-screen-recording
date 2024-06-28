@@ -1,7 +1,7 @@
 ---
 title: "Fixing Overencoded OBS Videos"
-date: 2024-05-18T18:51:24.368Z
-updated: 2024-05-19T18:51:24.368Z
+date: 2024-06-27T05:14:20.690Z
+updated: 2024-06-28T05:14:20.690Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Fixing Overencoded OBS Videos"
 excerpt: "This Article Describes Fixing Overencoded OBS Videos"
 keywords: "OBS Video Optimization,Encoding OBS Fix,Improve OBS Playback,Correct Overcoding OBS,Enhance OBS Video Quality,Reduce OBS Bitrate,Streamline OBS Output"
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## Fixing Overencoded OBS Videos

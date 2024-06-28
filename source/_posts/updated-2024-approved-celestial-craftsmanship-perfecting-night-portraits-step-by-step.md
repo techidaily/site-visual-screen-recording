@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Celestial Craftsmanship  Perfecting Night Portraits Step-by-Step\""
-date: 2024-05-18T18:19:44.705Z
-updated: 2024-05-19T18:19:44.705Z
+date: 2024-06-27T05:14:12.619Z
+updated: 2024-06-28T05:14:12.619Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Celestial Craftsmanship: Perfecting Night Portraits Step-by-Step\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Celestial Craftsmanship: Perfecting Night Portraits Step-by-Step\""
 keywords: "\"Screencast Quality Tips,Screencast Video Enhancement,Improve Screencast Clarity,High-Quality Screencasts,Enhance Screencast Resolution,Optimize Video Screencasting,Perfect Screencast Output\""
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Celestial Craftsmanship: Perfecting Night Portraits Step-by-Step

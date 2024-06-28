@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ace Screen Recording Tools in the Public Domain for 2024"
-date: 2024-05-18T18:42:44.726Z
-updated: 2024-05-19T18:42:44.726Z
+date: 2024-06-27T05:14:11.764Z
+updated: 2024-06-28T05:14:11.764Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Ace Screen Recording Tools in the Public Domain for 2024"
 excerpt: "This Article Describes [Updated] Ace Screen Recording Tools in the Public Domain for 2024"
 keywords: "Ace Rec. Tool,Public Screen Capture,Free Screen Rec. Tools,Open Screen Recorders,Screen Rec. Dev.,Screen Rec. Ace,Unrestricted Screen Tech"
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Ace Screen Recording Tools in the Public Domain

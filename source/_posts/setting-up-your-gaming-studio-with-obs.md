@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Gaming Studio with OBS"
-date: 2024-05-20T06:46:10.306Z
-updated: 2024-05-21T06:46:10.306Z
+date: 2024-06-27T05:14:18.652Z
+updated: 2024-06-28T05:14:18.652Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Setting Up Your Gaming Studio with OBS"
 excerpt: "This Article Describes Setting Up Your Gaming Studio with OBS"
 keywords: "Gamers Studio Setup,OBS Studio Basics,Live Streaming Essentials,Gaming Studio Tech Tips,OBS Pro Guide,Studio Equipment for Gamers,Game Broadcasting Software"
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Setting Up Your Gaming Studio with OBS

@@ -1,7 +1,7 @@
 ---
 title: "\"E-Education Video Logging\""
-date: 2024-05-18T18:47:43.785Z
-updated: 2024-05-19T18:47:43.785Z
+date: 2024-06-27T05:14:18.772Z
+updated: 2024-06-28T05:14:18.772Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes E-Education Video Logging\""
 excerpt: "\"This Article Describes E-Education Video Logging\""
 keywords: "\"E-Learning Vids,Online Course Record,Educational Video Logs,Digital Class Recording,Virtual Education Saves,E-School Video Archive,EdTech Screen Capture\""
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## E-Education Video Logging
 
-# How to Record a Webinar
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+# How to Record a Webinar ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
 
@@ -44,9 +42,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Record Webinars
 
@@ -58,9 +54,7 @@ Producing your first webinar doesn't require you to be a video-making wizard sin
 
 Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare/filmora/download/) and download this amazing screen recording software. Once the software is installed on your PC, you can launch it and start adjusting the recording settings.
 
-#### 2. Setting up the screen recording session
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
+#### 2. Setting up the screen recording session ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
@@ -70,21 +64,15 @@ Enabling the Camera option will allow you to capture your screen simultaneously 
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
 
-#### 3. Recording a webinar
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+#### 3. Recording a webinar ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
-#### 4. Editing a webinar
-
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+#### 4. Editing a webinar ![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
-#### Exporting and Sharing a webinar
-
-![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
+#### Exporting and Sharing a webinar ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
@@ -129,9 +117,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Record Webinars
 
@@ -143,9 +129,7 @@ Producing your first webinar doesn't require you to be a video-making wizard sin
 
 Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare/filmora/download/) and download this amazing screen recording software. Once the software is installed on your PC, you can launch it and start adjusting the recording settings.
 
-#### 2. Setting up the screen recording session
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
+#### 2. Setting up the screen recording session ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
@@ -155,21 +139,15 @@ Enabling the Camera option will allow you to capture your screen simultaneously 
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
 
-#### 3. Recording a webinar
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+#### 3. Recording a webinar ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
-#### 4. Editing a webinar
-
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+#### 4. Editing a webinar ![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
-#### Exporting and Sharing a webinar
-
-![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
+#### Exporting and Sharing a webinar ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
@@ -214,9 +192,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Record Webinars
 
@@ -228,9 +204,7 @@ Producing your first webinar doesn't require you to be a video-making wizard sin
 
 Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare/filmora/download/) and download this amazing screen recording software. Once the software is installed on your PC, you can launch it and start adjusting the recording settings.
 
-#### 2. Setting up the screen recording session
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
+#### 2. Setting up the screen recording session ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
@@ -240,21 +214,15 @@ Enabling the Camera option will allow you to capture your screen simultaneously 
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
 
-#### 3. Recording a webinar
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+#### 3. Recording a webinar ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
-#### 4. Editing a webinar
-
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+#### 4. Editing a webinar ![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
-#### Exporting and Sharing a webinar
-
-![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
+#### Exporting and Sharing a webinar ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
@@ -299,9 +267,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Record Webinars
 
@@ -313,9 +279,7 @@ Producing your first webinar doesn't require you to be a video-making wizard sin
 
 Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare/filmora/download/) and download this amazing screen recording software. Once the software is installed on your PC, you can launch it and start adjusting the recording settings.
 
-#### 2. Setting up the screen recording session
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
+#### 2. Setting up the screen recording session ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
@@ -325,21 +289,15 @@ Enabling the Camera option will allow you to capture your screen simultaneously 
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
 
-#### 3. Recording a webinar
-
-![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+#### 3. Recording a webinar ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
-#### 4. Editing a webinar
-
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+#### 4. Editing a webinar ![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
-#### Exporting and Sharing a webinar
-
-![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
+#### Exporting and Sharing a webinar ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 

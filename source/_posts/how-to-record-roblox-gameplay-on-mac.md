@@ -1,7 +1,7 @@
 ---
 title: "How to Record Roblox Gameplay on Mac"
-date: 2024-05-20T06:45:51.330Z
-updated: 2024-05-21T06:45:51.330Z
+date: 2024-06-27T05:14:27.150Z
+updated: 2024-06-28T05:14:27.150Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Record Roblox Gameplay on Mac"
 excerpt: "This Article Describes How to Record Roblox Gameplay on Mac"
 keywords: "\"Roblox Recording Guide (Mac),Mac Roblox Gameplay Capture,Roblox Video Recorder for Mac,Streaming Roblox on macOS,Record Games: Mac Roblox Tutorial,Mac Gamers,Easy Roblox Screen Recording (Mac)\""
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## How to Record Roblox Gameplay on Mac

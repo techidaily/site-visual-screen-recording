@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Inexpensive PCs  Mastering Best OBS Arrangements\""
-date: 2024-05-18T18:14:20.484Z
-updated: 2024-05-19T18:14:20.484Z
+date: 2024-06-27T05:14:16.373Z
+updated: 2024-06-28T05:14:16.373Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Inexpensive PCs: Mastering Best OBS Arrangements\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Inexpensive PCs: Mastering Best OBS Arrangements\""
 keywords: "\"Cheap PC Setups,Budget-Friendly OBS,Economical Gaming Rigs,Affordable Capture Software,Low-Cost Tech Assembly,Cost-Effective Video Editing,Value-Priced Computer Build\""
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## Inexpensive PCs: Mastering Best OBS Arrangements
@@ -85,9 +85,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-### Step 2: Audio Tab Settings
-
-![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+### Step 2: Audio Tab Settings ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 
