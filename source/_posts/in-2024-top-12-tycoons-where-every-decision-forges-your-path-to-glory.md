@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 12 Tycoons - Where Every Decision Forges Your Path to Glory\""
-date: 2024-05-18T18:23:45.082Z
-updated: 2024-05-19T18:23:45.082Z
+date: 2024-07-04T16:35:27.208Z
+updated: 2024-07-05T16:35:27.208Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Top 12 Tycoons - Where Every Decision Forges Your Path to Glory\""
 excerpt: "\"This Article Describes In 2024, Top 12 Tycoons - Where Every Decision Forges Your Path to Glory\""
 keywords: "Tycoon Leaders,Top Rich Individuals,Wealthy Elite Mentors,Successful Business Titans,Tycoons' Strategic Moves,Path to Prosperity Steps,Glory Through Decisions"
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## Top 12 Tycoons - Where Every Decision Forges Your Path to Glory
@@ -61,7 +61,7 @@ Unleash your creativity in an industry simulation that will literally take you o
 
 platforms: PC, Mac, Linux, PS4, PS5, Xbox One, Xbox Series X/S
 
-![ planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
+![planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
 
 Features
 
@@ -245,7 +245,7 @@ Unleash your creativity in an industry simulation that will literally take you o
 
 platforms: PC, Mac, Linux, PS4, PS5, Xbox One, Xbox Series X/S
 
-![ planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
+![planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
 
 Features
 
@@ -429,7 +429,7 @@ Unleash your creativity in an industry simulation that will literally take you o
 
 platforms: PC, Mac, Linux, PS4, PS5, Xbox One, Xbox Series X/S
 
-![ planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
+![planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
 
 Features
 
@@ -613,7 +613,7 @@ Unleash your creativity in an industry simulation that will literally take you o
 
 platforms: PC, Mac, Linux, PS4, PS5, Xbox One, Xbox Series X/S
 
-![ planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
+![planet-coaster-poster](https://images.wondershare.com/filmora/article-images/planet-coaster-poster.jpg)
 
 Features
 

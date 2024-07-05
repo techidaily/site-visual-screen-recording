@@ -1,7 +1,7 @@
 ---
 title: "\"Detailed Insight  The Gecata Live Game Tracker\""
-date: 2024-05-18T18:30:37.168Z
-updated: 2024-05-19T18:30:37.168Z
+date: 2024-07-04T16:35:37.096Z
+updated: 2024-07-05T16:35:37.096Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Detailed Insight: The Gecata Live Game Tracker\""
 excerpt: "\"This Article Describes Detailed Insight: The Gecata Live Game Tracker\""
 keywords: "\"Game Track Live,Insight: Gecata Matches,Real-Time Gecata Scores,Gecata Play-by-Play,Tracker: Gecata Online,In-Depth Gecata Analysis,Live Gecata Game Data\""
-thumbnail: https://www.lifewire.com/thmb/b7hSKwI9Oajpbwr32n5Vsf7fcds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/operationcouldnotcomplete-95695abe458d4062a2c2f7e46e656b08.png
+thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7eef6880dc4b8d8fa008ddde2f.png
 ---
 
 ## Detailed Insight: The Gecata Live Game Tracker

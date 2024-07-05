@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simple Scan-Capture Solution - W10 OS for 2024\""
-date: 2024-05-20T06:46:27.012Z
-updated: 2024-05-21T06:46:27.012Z
+date: 2024-07-04T16:35:34.575Z
+updated: 2024-07-05T16:35:34.575Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Simple Scan-Capture Solution - W10 OS for 2024\""
 excerpt: "\"This Article Describes [New] Simple Scan-Capture Solution - W10 OS for 2024\""
 keywords: "\"Simple Scanner App,Windows 10 Capture Tool,Quick Scan to Image,Easy Scan-Save OS,W10 Direct Scan Fix,Basic Scan Solution Win10,Windows 10 Optimal Capture\""
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## Simple Scan-Capture Solution - W10 OS

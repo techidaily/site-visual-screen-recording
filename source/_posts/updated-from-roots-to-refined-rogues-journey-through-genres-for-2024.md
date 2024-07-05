@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Roots to Refined  Rogue's Journey Through Genres for 2024\""
-date: 2024-05-18T18:39:18.173Z
-updated: 2024-05-19T18:39:18.173Z
+date: 2024-07-04T16:35:32.223Z
+updated: 2024-07-05T16:35:32.223Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] From Roots to Refined: Rogue's Journey Through Genres for 2024\""
 excerpt: "\"This Article Describes [Updated] From Roots to Refined: Rogue's Journey Through Genres for 2024\""
 keywords: "Rogues Genre Journey,From Root to Fine,Refined Genre Path,Roots to Polished,Rogue's Genre Shift,Creative Genres Explore,Finesse Through Styles"
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## From Roots to Refined: Rogue's Journey Through Genres

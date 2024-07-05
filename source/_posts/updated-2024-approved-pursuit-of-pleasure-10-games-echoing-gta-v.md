@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Pursuit of Pleasure  10 Games Echoing GTA V\""
-date: 2024-05-18T18:52:47.118Z
-updated: 2024-05-19T18:52:47.118Z
+date: 2024-07-04T16:35:25.486Z
+updated: 2024-07-05T16:35:25.486Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Pursuit of Pleasure: 10 Games Echoing GTA V\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Pursuit of Pleasure: 10 Games Echoing GTA V\""
 keywords: "\"GTA V Inspired Games,Pleasure Pursuit Games,Virtual Escape Adventures,Open World Gameplay,Sandbox Gaming Experience,Action Role-Play Titles,Echoing City Life Games\""
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Pursuit of Pleasure: 10 Games Echoing GTA V

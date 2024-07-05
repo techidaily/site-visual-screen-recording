@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Skype Recording  OBS Integration Guide\""
-date: 2024-05-18T18:46:33.295Z
-updated: 2024-05-19T18:46:33.295Z
+date: 2024-07-04T16:35:38.090Z
+updated: 2024-07-05T16:35:38.090Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Mastering Skype Recording: OBS Integration Guide\""
 excerpt: "\"This Article Describes [New] Mastering Skype Recording: OBS Integration Guide\""
 keywords: "Skype Record Mastery,OBS for Skype Screen,Skype Video Capture Guide,OBS with Skype Recording,Professional Skype Screencasts,Integrate OBS in Skype,Enhanced Skype Screening"
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## Mastering Skype Recording: OBS Integration Guide

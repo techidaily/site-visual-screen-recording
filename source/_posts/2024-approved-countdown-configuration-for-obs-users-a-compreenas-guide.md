@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Countdown Configuration for OBS Users  A Compreenas Guide\""
-date: 2024-05-20T06:46:12.073Z
-updated: 2024-05-21T06:46:12.073Z
+date: 2024-07-04T16:35:29.540Z
+updated: 2024-07-05T16:35:29.540Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Countdown Configuration for OBS Users: A Compreenas Guide\""
 excerpt: "\"This Article Describes 2024 Approved: Countdown Configuration for OBS Users: A Compreenas Guide\""
 keywords: "\"Free Android Snip Recorder,Top Android Screen Capture,Record High-Quality Screenshots,Best Free Screen Capturing App,Screen Record Android Edition,Eight Ed Android Snip Countdown,High-Rated Android Snip Tool\""
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## Countdown Configuration for OBS Users: A Compreenas Guide

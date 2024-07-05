@@ -1,7 +1,7 @@
 ---
 title: "[New] The Evolutionary Path of Roguelike Games for 2024"
-date: 2024-05-18T18:56:53.191Z
-updated: 2024-05-19T18:56:53.191Z
+date: 2024-07-04T16:35:35.278Z
+updated: 2024-07-05T16:35:35.278Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] The Evolutionary Path of Roguelike Games for 2024"
 excerpt: "This Article Describes [New] The Evolutionary Path of Roguelike Games for 2024"
 keywords: "Roguelike Genesis,Roguelike Gaming Trends,Roleplaying Game History,RPGs Evolve Over Time,Gaming Lore Progression,Ludology in Roguelikes,Game Design Adaptation"
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## The Evolutionary Path of Roguelike Games

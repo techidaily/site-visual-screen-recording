@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, DIY iPhone Audio Memos  Step by Step\""
-date: 2024-05-20T06:45:46.894Z
-updated: 2024-05-21T06:45:46.894Z
+date: 2024-07-04T16:35:39.277Z
+updated: 2024-07-05T16:35:39.277Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, DIY iPhone Audio Memos: Step by Step\""
 excerpt: "\"This Article Describes [Updated] In 2024, DIY iPhone Audio Memos: Step by Step\""
 keywords: "\"DIY iPhone Sound Recorder,IPhone Memo Creation Guide,Making Audio Memos on iOS,Simple iPhone Audio Notes,Do It Yourself iPhone Audio,Step-by-Step iPhone Audio Memo,IPhone Audio Memo Tutorial\""
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## DIY iPhone Audio Memos: Step by Step

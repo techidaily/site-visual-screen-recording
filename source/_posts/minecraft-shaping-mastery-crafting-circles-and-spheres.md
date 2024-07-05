@@ -1,7 +1,7 @@
 ---
 title: "\"Minecraft Shaping Mastery  Crafting Circles & Spheres\""
-date: 2024-06-27T05:15:19.317Z
-updated: 2024-06-28T05:15:19.317Z
+date: 2024-07-04T16:35:37.904Z
+updated: 2024-07-05T16:35:37.904Z
 tags: 
   - screen-recording
   - ai video
@@ -17,7 +17,8 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
 ## Minecraft Shaping Mastery: Crafting Circles & Spheres
 
-# How to Build Circles and Spheres in Minecraft ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# How to Build Circles and Spheres in Minecraft
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

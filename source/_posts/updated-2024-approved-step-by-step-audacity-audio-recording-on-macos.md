@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Step-by-Step  Audacity Audio Recording on MacOS\""
-date: 2024-05-20T06:45:57.086Z
-updated: 2024-05-21T06:45:57.086Z
+date: 2024-07-04T16:35:30.031Z
+updated: 2024-07-05T16:35:30.031Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Step-by-Step: Audacity Audio Recording on MacOS\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Step-by-Step: Audacity Audio Recording on MacOS\""
 keywords: "\"Mac OS Audacity Record,Step Audacity Mac Rec,Audacity Macstep Audi,MacAudacity Recorder,Simple MacAudio Save,AudioStep-MacRecording,MacOS Audacity Guide\""
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## Step-by-Step: Audacity Audio Recording on MacOS

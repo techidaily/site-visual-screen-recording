@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Circle Construction Techniques for the Aspiring Minecraft Artist\""
-date: 2024-05-20T06:45:46.850Z
-updated: 2024-05-21T06:45:46.850Z
+date: 2024-07-04T16:35:27.939Z
+updated: 2024-07-05T16:35:27.939Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Circle Construction Techniques for the Aspiring Minecraft Artist\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Circle Construction Techniques for the Aspiring Minecraft Artist\""
 keywords: "MiniMinecraftArt,MinecraftCreationSkills,CraftingGameConstructs,MasterCraftedCircles,MCArtisticTechniques,BuildingInBlocks,BlockCircleBuild"
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## Circle Construction Techniques for the Aspiring Minecraft Artist

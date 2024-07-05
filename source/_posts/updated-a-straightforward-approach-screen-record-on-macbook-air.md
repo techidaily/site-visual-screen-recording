@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Straightforward Approach  Screen Record on Macbook Air\""
-date: 2024-05-18T18:14:29.100Z
-updated: 2024-05-19T18:14:29.100Z
+date: 2024-07-04T16:35:26.045Z
+updated: 2024-07-05T16:35:26.045Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] A Straightforward Approach: Screen Record on Macbook Air\""
 excerpt: "\"This Article Describes [Updated] A Straightforward Approach: Screen Record on Macbook Air\""
 keywords: "MacBook Air Recorder,Simple Screen Capture,AirMac Screencap,Easy MacCapture,StraightScreenRec,ClearmacRecord,QuickMacScreen"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## A Straightforward Approach: Screen Record on Macbook Air

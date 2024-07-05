@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fighting on the Go  Nintendo's Best Switch Fighters\""
-date: 2024-05-20T06:46:26.382Z
-updated: 2024-05-21T06:46:26.382Z
+date: 2024-07-04T16:35:37.790Z
+updated: 2024-07-05T16:35:37.790Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Fighting on the Go: Nintendo's Best Switch Fighters\""
 excerpt: "\"This Article Describes [Updated] Fighting on the Go: Nintendo's Best Switch Fighters\""
 keywords: "\"Switch Fight Titles,Nintendo Fighter Games,Switch Gaming Action,Go-Fighting Nintendo,Best Switch Fighter Series,Nintendo Portable Battles,Duel on Switch Console\""
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## Fighting on the Go: Nintendo's Best Switch Fighters

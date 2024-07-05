@@ -1,7 +1,7 @@
 ---
 title: "The Lore of Roguelites Amidst Classic RPGs"
-date: 2024-05-18T18:30:55.626Z
-updated: 2024-05-19T18:30:55.626Z
+date: 2024-07-04T16:35:30.691Z
+updated: 2024-07-05T16:35:30.691Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Lore of Roguelites Amidst Classic RPGs"
 excerpt: "This Article Describes The Lore of Roguelites Amidst Classic RPGs"
 keywords: "\"Roguelite RPG Lore,Classics in Roguelites,Roguelites' Classic Themes,RPGs with Roguelite Flair,Classic Gaming Narratives,RPG Evolution: Roguelites,Traditional RPGs Meets Roguelites\""
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## The Lore of Roguelites Amidst Classic RPGs

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Video Editing Software Comparison  OBS vs Fraps\""
-date: 2024-05-20T06:45:49.484Z
-updated: 2024-05-21T06:45:49.484Z
+date: 2024-07-04T16:35:38.294Z
+updated: 2024-07-05T16:35:38.294Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Video Editing Software Comparison: OBS vs Fraps\""
 excerpt: "\"This Article Describes [Updated] In 2024, Video Editing Software Comparison: OBS vs Fraps\""
 keywords: "\"OBS Versus Fraps,Video Edits Compare OBS,OBS Vs Fraps Software,Best Editing Tools: OBS & Fraps,OBS vs Fraps Edit Pro,Compare OBS Video Editor,Fraps Versus OBS\""
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Video Editing Software Comparison: OBS vs Fraps

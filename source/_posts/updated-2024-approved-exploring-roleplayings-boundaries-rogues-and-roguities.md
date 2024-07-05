@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Exploring Roleplaying's Boundaries  Rogues & Roguities\""
-date: 2024-05-20T06:45:46.918Z
-updated: 2024-05-21T06:45:46.918Z
+date: 2024-07-04T16:35:33.873Z
+updated: 2024-07-05T16:35:33.873Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Exploring Roleplaying's Boundaries: Rogues & Roguities\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Exploring Roleplaying's Boundaries: Rogues & Roguities\""
 keywords: "RPG Boundaries,Rogue Characters,Roleplay Limits,Roguity Stories,Game Character Ethics,Narrative RPGs,Fantasy Roleplay"
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## Exploring Roleplaying's Boundaries: Rogues & Roguities

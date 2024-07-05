@@ -1,7 +1,7 @@
 ---
 title: "Live Gaming Snapshot with Fraps Analysis for 2024"
-date: 2024-05-20T06:46:15.345Z
-updated: 2024-05-21T06:46:15.345Z
+date: 2024-07-04T16:35:37.047Z
+updated: 2024-07-05T16:35:37.047Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Live Gaming Snapshot with Fraps Analysis for 2024"
 excerpt: "This Article Describes Live Gaming Snapshot with Fraps Analysis for 2024"
 keywords: "\"Live Gaming Snapshot,Fraps Game Analysis,Real-Time Gaming Capture,Gameplay Fraps Report,Gaming Performance Stats,Snapshot with Fraps Tool,Video Game Speed Test\""
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Live Gaming Snapshot with Fraps Analysis

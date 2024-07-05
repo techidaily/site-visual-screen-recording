@@ -1,7 +1,7 @@
 ---
 title: "A Beginner's Guide to Recording Video Calls with Google Meets for 2024"
-date: 2024-05-18T18:28:30.643Z
-updated: 2024-05-19T18:28:30.643Z
+date: 2024-07-04T16:35:29.791Z
+updated: 2024-07-05T16:35:29.791Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes A Beginner's Guide to Recording Video Calls with Google Meets for 2024"
 excerpt: "This Article Describes A Beginner's Guide to Recording Video Calls with Google Meets for 2024"
 keywords: "Beginner's Logitech Camera Tips,Logitech Video Capture Basics,Easy Logitech Video Guides,Setup Logitech Recording,Intro to Logitech Cam Use,Learn Logitech Video Tech,Start with Logitech Camera"
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## A Beginner's Guide to Recording Video Calls with Google Meets

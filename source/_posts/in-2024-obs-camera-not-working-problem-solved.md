@@ -1,7 +1,7 @@
 ---
 title: "In 2024, OBS Camera Not Working Problem [Solved]"
-date: 2024-05-18T18:48:19.024Z
-updated: 2024-05-19T18:48:19.024Z
+date: 2024-07-04T16:35:39.634Z
+updated: 2024-07-05T16:35:39.634Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, OBS Camera Not Working Problem [Solved]"
 excerpt: "This Article Describes In 2024, OBS Camera Not Working Problem [Solved]"
 keywords: "OBS Camera Issue,Fixing OBS Cam Errors,Solving OBS Recording Fail,Troubleshoot OBS Not Capturing,Restart OBS Camera Fix Guide,Stop OBS Camera Malfunction,Repair OBS Recorder Problems"
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## OBS Camera Not Working Problem [Solved]

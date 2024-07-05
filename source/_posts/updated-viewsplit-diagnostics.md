@@ -1,7 +1,7 @@
 ---
 title: "[Updated] ViewSplit Diagnostics"
-date: 2024-05-18T18:56:44.585Z
-updated: 2024-05-19T18:56:44.585Z
+date: 2024-07-04T16:35:33.128Z
+updated: 2024-07-05T16:35:33.128Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] ViewSplit Diagnostics"
 excerpt: "This Article Describes [Updated] ViewSplit Diagnostics"
 keywords: "Split Diag Check,ViewDiag Splits,Diagnostic Viewer,Visual Split Test,Inspect Split Data,Diag View Analysis,Splits HealthView"
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## ViewSplit Diagnostics

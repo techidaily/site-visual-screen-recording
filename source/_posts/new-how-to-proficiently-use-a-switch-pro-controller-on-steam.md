@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Proficiently Use a Switch Pro Controller on Steam"
-date: 2024-05-20T06:46:52.776Z
-updated: 2024-05-21T06:46:52.776Z
+date: 2024-07-04T16:35:27.491Z
+updated: 2024-07-05T16:35:27.491Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Proficiently Use a Switch Pro Controller on Steam"
 excerpt: "This Article Describes [New] How to Proficiently Use a Switch Pro Controller on Steam"
 keywords: "Mastering Steam Controls,Switch Play Gaming,Proficient Steam Games,Controller Tips Steam,Steam Controller Usage,Effective Steam Controls,Optimal Switch Gaming"
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## How to Proficiently Use a Switch Pro Controller on Steam
