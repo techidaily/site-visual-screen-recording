@@ -1,7 +1,7 @@
 ---
 title: "\"Master Controls  Navigating the World of Switch Pro and Steam Gaming\""
-date: 2024-06-19T09:07:22.975Z
-updated: 2024-06-20T09:07:22.975Z
+date: 2024-07-24T15:14:45.915Z
+updated: 2024-07-25T15:14:45.915Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 # How to Use Your Switch Pro Controller on Steam
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,6 +34,9 @@ Utilizing the Nintendo Switch Pro controller for most of your PC games is a bree
 
 This article will tell you how to enable your Nintendo Switch Pro controller to work with Steam or Windows, either through a Bluetooth connection or a wired connection. The first thing you'll need is a Nintendo Switch Pro controller (obviously) and a USB-C cable.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![switch-pro-controller-poster](https://images.wondershare.com/filmora/article-images/switch-pro-controller-poster.jpg)
 
 ---
@@ -42,6 +48,9 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -50,10 +59,16 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 **Step2:** Connect the other end of the cable to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -73,6 +88,9 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 * Once Steam is set up, you can begin using it.
@@ -91,6 +109,9 @@ You should use the gamepad to navigate Big Picture if you have the Pro Controlle
 
 When configured through Steam, you should use the Pro Controller with any Steam game similar to an Xbox gamepad. Vibration can be enabled or disabled by selecting a controller from the "Detected Controllers" list in the same setup screen as before. It is possible to calibrate the analog sticks by clicking the Calibrate button manually. Also, the controller can be set to disconnect after a specified amount of time before going to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
@@ -125,3 +146,25 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-mac-graphics-recorder/"><u>[New] Leading Mac Graphics Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quest-masters-choice-celebrating-gaming-epics-anew/"><u>[New] Quest Masters' Choice  Celebrating Gaming Epics Anew</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-audiotrack-evaluation/"><u>[Updated] AudioTrack Evaluation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-breakdown-of-sharex-scrutiny-and-substitutes/"><u>[Updated] Breakdown of ShareX  Scrutiny & Substitutes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-recording-visuals-plus-verbal-input/"><u>[Updated] Quick Recording  Visuals + Verbal Input</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-comparing-top-tech-does-active-live-up-to-hype/"><u>2024 Approved  Comparing Top Tech  Does Active Live Up to Hype?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-walkthrough-of-recording-gameplay-on-apple-gaming-systems/"><u>2024 Approved  In-Depth Walkthrough of Recording Gameplay on Apple Gaming Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-way-to-record-podcast-remotely/"><u>In 2024, Best Way to Record Podcast Remotely</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-detailed-breakdown-of-camstudio-screencapture-pro/"><u>In 2024, Detailed Breakdown of CamStudio ScreenCapture Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-digital-filmmaking-implementing-callout-lines-in-edits/"><u>In 2024, Digital Filmmaking  Implementing Callout Lines in Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premier-12-video-capture-goes-on-forever/"><u>In 2024, Premier 12 Video Capture - Goes On Forever</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-quick-fixes-for-annoying-ipad-recording-problems/"><u>In 2024, Quick Fixes for Annoying iPad Recording Problems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-smart-strategies-for-securely-saving-movie-moments-across-gadgets/"><u>In 2024, Smart Strategies for Securely Saving Movie Moments Across Gadgets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-complete-package-of-top-zoom-capturing-gear/"><u>In 2024, The Complete Package of Top Zoom Capturing Gear</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-mac-gif-capturer-pro-for-2024/"><u>Premier Mac GIF Capturer Pro for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quickcapture-for-windows-ultimate-for-2024/"><u>QuickCapture for Windows Ultimate for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simple-routines-for-documenting-digital-dialogues-on-os-xpc-for-2024/"><u>Simple Routines for Documenting Digital Dialogues on OS X/PC for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/sweet-indulgence-recording-a-compreran-analysis-for-2024/"><u>Sweet Indulgence Recording  A Compreran Analysis for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-educators-resourceful-recorder-companion-for-2024/"><u>The Educator's Resourceful Recorder Companion for 2024</u></a></li>
+</ul></div>

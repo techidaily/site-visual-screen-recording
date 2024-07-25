@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List of Kung Fu Video Games"
-date: 2024-05-18T18:17:18.411Z
-updated: 2024-05-19T18:17:18.411Z
+date: 2024-07-24T12:58:39.600Z
+updated: 2024-07-25T12:58:39.600Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Ultimate List of Kung Fu Video Games"
 excerpt: "This Article Describes The Ultimate List of Kung Fu Video Games"
 keywords: "Kung Fu Gaming,Martial Arts Titles,Action Fight Videogames,MMA Game Selection,Combat Arcade Classics,Fighters Digital Archive,Brawler Video History"
-thumbnail: https://www.lifewire.com/thmb/_JoO871Fn8djNW5YRDt3xrRs7Kg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-viewed-your-tiktok-5271090-e2cb663541b8484a8a2e80ffbdd98db3.jpg
+thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8db94af4f668119ff4d60331.jpg
 ---
 
 ## The Ultimate List of Kung Fu Video Games
@@ -29,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/_JoO871Fn8djNW5YRDt3xrRs7Kg=/400x300/fi
 
 To begin with, many of you might wonder the right way to say the word "sifu." It is pronounced as "sea fool" rather than "sign fool." By the way, "sifu" means master in Chinese/Cantonese, especially in the martial art field and some craftsmanship field. For example, you can call the teacher who teaches you to make perfect ramen a "sifu."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
 ---
@@ -38,6 +41,9 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 _Platform: Playstation4, Playstation5_  
 _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
@@ -101,8 +107,15 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [Wondershare's Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a multipurpose video software tool with a built-in webcam recorder that allows you to easily capture with your webcam. Audio recording is also made easy, perfect for game players who want to showcase their favorite games with their followers. It offers built-in converters and a video editor supporting converting and editing many different video formats shot either with your camcorder or iPhone or Android. Wondershare Filmora is different from some of the others on the market as it not only allows [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) but also provides a handful of video editing, video uploading choices, and it works with multiple devices. This program has a high-speed processor and lots of varied settings, and a simple and user-friendly interface, along with exceptional video editing tools to make your recording fun and easy.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -119,6 +132,9 @@ Follow @Richard Bennett
 
 To begin with, many of you might wonder the right way to say the word "sifu." It is pronounced as "sea fool" rather than "sign fool." By the way, "sifu" means master in Chinese/Cantonese, especially in the martial art field and some craftsmanship field. For example, you can call the teacher who teaches you to make perfect ramen a "sifu."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
 ---
@@ -128,6 +144,9 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 _Platform: Playstation4, Playstation5_  
 _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
@@ -226,3 +245,29 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-optimizing-your-home-studio-for-online-broadcasts/"><u>[New] 2024 Approved  Optimizing Your Home Studio for Online Broadcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-complete-guide-to-scheduling-and-recording-online-meetings-with-slack-and-filmora/"><u>[New] 2024 Approved  The Complete Guide to Scheduling & Recording Online Meetings with Slack & Filmora</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-list-of-non-fbx-game-recording-solutions/"><u>[New] 2024 Approved  Ultimate List of Non-FBX Game Recording Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-navigate-the-best-practices-for-efficient-hp-notebook-screen-recording/"><u>[New] In 2024, Navigate the Best Practices for Efficient HP Notebook Screen Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-7-voice-changer-recorder-apps/"><u>[New] In 2024, Top 7 Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recording-lenovo-fast-and-fuss-free-tips-for-2024/"><u>[New] Recording Lenovo  Fast and Fuss-Free Tips for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recording-success-the-ultimate-guide-for-facetime-conversations-for-2024/"><u>[New] Recording Success  The Ultimate Guide for FaceTime Conversations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-selecting-your-favorite-free-game-capture-software-for-2024/"><u>[New] Selecting Your Favorite Free Game Capture Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-insiders-guide-to-overwatch-game-recording-for-2024/"><u>[New] The Insider's Guide to Overwatch Game Recording for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-5-economical-game-ready-keyboards-for-2024/"><u>[New] Top 5 Economical Game-Ready Keyboards for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unravel-the-power-of-fbx-elevate-your-game-savings-for-2024/"><u>[New] Unravel the Power of FBX  Elevate Your Game Savings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-webcam-mastery-creating-videos-on-macbook-for-2024/"><u>[New] Webcam Mastery  Creating Videos on MacBook for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-record-video-with-logitech-webcam-guide/"><u>[Updated] 2024 Approved  Record Video with Logitech Webcam [Guide]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-saving-your-hangout-participation/"><u>[Updated] 2024 Approved  Saving Your Hangout Participation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smoothmoves-recordwatcher-study/"><u>[Updated] 2024 Approved  SmoothMoves RecordWatcher Study</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>[Updated] 2024 Approved  The Complete Blueprint  Record WhatsApp Conversations Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-fundamentals-of-fluent-google-meet-conversations/"><u>[Updated] 2024 Approved  The Fundamentals of Fluent Google Meet Conversations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-top-5-pc-screen-grabbers-ranked-1-5/"><u>[Updated] 2024 Approved  The Ultimate List of Top 5 PC Screen Grabbers Ranked #1-#5</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-the-art-of-valheim-gardening-for-2024/"><u>[Updated] Mastering the Art of Valheim Gardening for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-plainvidwin11-intuitive-simple-screen-recorder-for-pcs-for-2024/"><u>[Updated] PlainVidWin11  Intuitive, Simple Screen Recorder for PCs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-recorder-freedom-top-10-no-cost-choices-for-cameras-for-2024/"><u>[Updated] Screen Recorder Freedom  Top 10 No-Cost Choices for Cameras for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-warrior-spirits-rising-comparable-game-suggestions-for-2024/"><u>[Updated] Warrior Spirits Rising  Comparable Game Suggestions for 2024</u></a></li>
+</ul></div>

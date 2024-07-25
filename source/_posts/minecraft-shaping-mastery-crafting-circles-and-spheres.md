@@ -1,7 +1,7 @@
 ---
 title: "\"Minecraft Shaping Mastery  Crafting Circles & Spheres\""
-date: 2024-07-04T16:35:37.904Z
-updated: 2024-07-05T16:35:37.904Z
+date: 2024-07-24T15:16:37.973Z
+updated: 2024-07-25T15:16:37.973Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ Minecraft is famous for its cube-shaped structure. The entire world of Minecraft
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to make a circle in Minecraft: A Step by Step Guide
 
 If you have ever noticed that when we zoom in out images, small pixels are held together to form a perfect image. We have to apply the same method here. We have to take these cubes as pixels and connect them with each other for a complete picture to form a circle.
@@ -38,6 +41,9 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
 
 **Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
@@ -50,6 +56,9 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 **Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
 
 **Step 6:** Since the outer of the circle is complete, now you can either remove the center lines of the circle to make it hollow or fill it with the blocks to make it a complete filled circle and make it a place where you can stand.
@@ -64,20 +73,33 @@ The only difference between making a circle and a sphere is the difference in di
 
 **Step 1:** To get started, create a tall column of the block according to the size of the sphere that you want to make. In this example, we are going to form a 16 blocks long column. You can change it according to your requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
 
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
 These circles and spheres are useful in Minecraft and they play a very vital role in building your own world in Minecraft. They can be very beneficial while creating buildings, houses, and more places. These can be used as curves to give your buildings an aesthetic look and feel. But this whole process needs practice and efforts to master it and use it for your own purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![minecraft-make-sphere4](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere4.jpg)
 
 ---
@@ -104,3 +126,38 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-guide-to-recording-private-whatsapp-communications/"><u>2024 Approved  A Guide to Recording Private WhatsApp Communications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-practical-approach-to-using-screencastify-for-video-capture/"><u>2024 Approved  A Practical Approach to Using Screencastify for Video Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-academic-anchors-identifying-top-10-lecture-preservation-tools/"><u>2024 Approved  Academic Anchors  Identifying Top 10 Lecture Preservation Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-adept-vlc-playback-and-capture-techniques/"><u>2024 Approved  Adept VLC Playback & Capture Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-adv-screen-recorder-full-review/"><u>2024 Approved  ADV Screen Recorder Full Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-advanced-techniques-for-capturing-ps3-gaming-adventures/"><u>2024 Approved  Advanced Techniques for Capturing PS3 Gaming Adventures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-advanced-tips-for-blending-modes-in-vfx/"><u>2024 Approved  Advanced Tips for Blending Modes in VFX</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-android-chat-options-rated-top-ten/"><u>2024 Approved  Affordable Android Chat Options Rated Top Ten</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-agriculture-pals-top-10-friendly-farm-games/"><u>2024 Approved  Agriculture Pals  Top 10 Friendly Farm Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-aiming-high-selecting-the-best-webcams-for-live-gameplay-streams/"><u>2024 Approved  Aiming High  Selecting the Best Webcams for Live Gameplay Streams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-analyzing-active-presenters-advantage-on-screens/"><u>2024 Approved  Analyzing Active Presenter’s Advantage on Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-analyzing-freecampros-webcam-capture-quality/"><u>2024 Approved  Analyzing FreeCamPro's Webcam Capture Quality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-analyzing-vlc-screen-captures/"><u>2024 Approved  Analyzing VLC Screen Captures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-apex-thrill-racers-our-favorites-5/"><u>2024 Approved  Apex Thrill Racers  Our Favorites (5)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-approaches-to-mend-obs-fullscreen-errors/"><u>2024 Approved  Approaches to Mend OBS Fullscreen Errors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-audiovisual-snapshots-made-easy/"><u>2024 Approved  Audiovisual Snapshots Made Easy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-auditory-logging-system-tones-and-voice-samples/"><u>2024 Approved  Auditory Logging  System Tones & Voice Samples</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-barefoot-tape-observation-and-supplementary-selections/"><u>2024 Approved  Barefoot Tape Observation and Supplementary Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-10-battle-royale-games/"><u>2024 Approved  Best 10 Battle Royale Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-action-screen-recorder-review/"><u>2024 Approved  Best Action Screen Recorder Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-eco-savvy-movie-capture-tools-usage-methods/"><u>2024 Approved  Best Eco-Savvy Movie Capture Tools  Usage Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-fun-car-games-for-kids/"><u>2024 Approved  Best Fun Car Games for Kids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-of-the-best-10-leading-video-call-apps-for-iphones-and-android/"><u>2024 Approved  Best of the Best  10 Leading Video Call Apps for iPhones & Android</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-online-deals-on-webcam-protection-kits/"><u>2024 Approved  Best Online Deals on Webcam Protection Kits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-practices-for-filming-screen-captures/"><u>2024 Approved  Best Practices for Filming Screen Captures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-practices-for-high-quality-streaming-of-sporting-games/"><u>2024 Approved  Best Practices for High-Quality Streaming of Sporting Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-practices-for-obs-based-skype-recording/"><u>2024 Approved  Best Practices for OBS-Based Skype Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-video-editor-for-recorded-webcam-videos/"><u>2024 Approved  Best Video Editor for Recorded Webcam Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-brighten-up-your-gaming-setup-eliminate-black-screens-with-obs/"><u>2024 Approved  Brighten Up Your Gaming Setup  Eliminate Black Screens with OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-broadcast-battleground-which-wins-obs-or-twitch/"><u>2024 Approved  Broadcast Battleground  Which Wins, OBS or Twitch?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-build-a-fortified-mc-base-plan-6-10/"><u>2024 Approved  Build a Fortified MC Base  Plan #6-10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-building-harmonious-forms-crafting-circles-and-spheres/"><u>2024 Approved  Building Harmonious Forms  Crafting Circles and Spheres</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Compact OBS Setup for Underpriced PCs\""
-date: 2024-05-20T06:46:51.718Z
-updated: 2024-05-21T06:46:51.718Z
+date: 2024-07-24T12:47:37.653Z
+updated: 2024-07-25T12:47:37.653Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Compact OBS Setup for Underpriced PCs\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Compact OBS Setup for Underpriced PCs\""
 keywords: "\"Compact OBS Gear,Cheap PC OBS,OBS Portable Devices,Affordable OBS Equipment,Low-Cost OBS Setup,Budget-Friendly OBS Accessories,Small-Scale OBS Systems\""
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## Compact OBS Setup for Underpriced PCs
@@ -25,10 +25,16 @@ Therefore, after vast research on the internet, our team came up with an optimal
 
 Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1: Go to Settings
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
 ### Step 2: Settings That You Should Keep
@@ -37,6 +43,9 @@ Starting with base resolution, it is the video resolution that we are going to s
 
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
@@ -75,10 +84,18 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
@@ -87,6 +104,9 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ### Step 2: Audio Tab Settings
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
@@ -109,6 +129,9 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
@@ -129,10 +152,16 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -196,3 +225,29 @@ There may be a lot of other software which serve the same purpose but the best o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-scrutinizing-vsdc-screen-recording-capabilities/"><u>[New] 2024 Approved  Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-simplified-tutorial-mastering-meets-background-blur/"><u>[New] In 2024, Simplified Tutorial  Mastering Meet's Background Blur</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>[New] In 2024, Tech Titans Triumph  Best Online Tools to Record Your Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlock-joyful-hours-essential-list-of-best-offline-ios-titles/"><u>[New] In 2024, Unlock Joyful Hours - Essential List of Best Offline iOS Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-windows-10-gamers-guide-to-effective-video-capture/"><u>[New] In 2024, Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-techniques-for-saving-app-scenes-for-2024/"><u>[New] Prime Techniques for Saving App Scenes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-your-presentation-process-webcam-recording-tips-for-2024/"><u>[New] Streamline Your Presentation Process  Webcam Recording Tips for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-secrets-of-free2x-recording-tech-for-2024/"><u>[New] Unveiling the Secrets of Free2X Recording Tech for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-ranked-switch-console-simulations-online/"><u>[Updated] 2024 Approved  Top-Ranked Switch Console Simulations Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-virtual-meetings-mastering-zoom-filter-tech/"><u>[Updated] Elevate Your Virtual Meetings  Mastering Zoom Filter Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-excellent-ears-in-scholarly-spaces/"><u>[Updated] Excellent Ears in Scholarly Spaces</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-beginners-guide-to-zoom-breakout-rooms/"><u>[Updated] In 2024, Beginners Guide to Zoom Breakout Rooms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-pro-gamers-screen-capture-strategy-for-xbox-one/"><u>[Updated] In 2024, The Pro Gamer's Screen Capture Strategy for Xbox One</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-browser-recording-software-2023-edition/"><u>[Updated] In 2024, The Ultimate List of Browser Recording Software, 2023 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-x-professional-audio-toolkit-personal-computing/"><u>[Updated] In 2024, X-Professional Audio Toolkit, Personal Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-tutorial-saving-screen-movies-from-your-gadgets-for-2024/"><u>[Updated] Tech Tutorial  Saving Screen Movies From Your Gadgets for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-tech-skills-record-on-hangouts/"><u>2024 Approved  Essential Tech Skills  Record on Hangouts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-airwaves-to-files-online-audio-capture-basics/"><u>2024 Approved  From Airwaves to Files  Online Audio Capture Basics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/explore-the-pinnacle-of-hydro-interactive-games-for-2024/"><u>Explore the Pinnacle of Hydro Interactive Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/focus-on-the-frame-master-logitech-cam-edits-for-2024/"><u>Focus on the Frame  Master Logitech Cam Edits for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplifying-video-recording-with-screencastify/"><u>Simplifying Video Recording with Screencastify</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-skype-experience-with-obs-recordings/"><u>Streamline Your Skype Experience with OBS Recordings</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Studio & Skype  A Perfect Duo Explained\""
-date: 2024-05-20T06:46:11.269Z
-updated: 2024-05-21T06:46:11.269Z
+date: 2024-07-24T12:05:28.506Z
+updated: 2024-07-25T12:05:28.506Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes OBS Studio & Skype: A Perfect Duo Explained\""
 excerpt: "\"This Article Describes OBS Studio & Skype: A Perfect Duo Explained\""
 keywords: "OBS + Skype Tutorial,Skype in OBS,Streaming with OBS,OBS Studio Integration,Enhanced Skype Sync,OBS & Skype Combo Guide,Live Stream OBS Skype"
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## OBS Studio & Skype: A Perfect Duo Explained
@@ -21,6 +21,9 @@ Video interviews for remote jobs are quite common these days because of this qui
 
 So in this article I will discuss that how can you record your skype videos using OBS. Skype has been extensively used for quite a long time now and it hasn’t lost its edge over the years but has actually upgraded and improved its services with time. Coming to OBS which is an open-source software used widely for streaming purposes. It provides an incredible experience courtesy of its variety of editing and recording options. The audio can be recorded from the system and the microphone. And video can be fetched from the webcam. Along with the recording of specific section of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Recording Skype Calls with OBS
 
 To begin with shedding some light on the OBS program:
@@ -53,12 +56,18 @@ And clicking on it will open a new window where you have to select the guest fee
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![obs receive the call](https://images.wondershare.com/filmora/article-images/obs-receive-the-call.jpg)
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Part 2: OBS Alternative to Record Skype
 
 ### Filmora
@@ -78,10 +87,16 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -90,6 +105,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -129,6 +147,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -141,6 +163,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -180,10 +205,16 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -192,6 +223,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -231,10 +265,16 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -299,3 +339,40 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-conquer-ez-grabber-in-minutes-download-and-setup-made-simple/"><u>[New] 2024 Approved  Conquer EZ Grabber in Minutes  Download & Setup Made Simple</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-divergence-in-dungeons-classic-and-hybrid-games/"><u>[New] 2024 Approved  Divergence in Dungeons  Classic and Hybrid Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-comprehensive-guide-to-free-cloud-communication-software-for-2024/"><u>[New] Comprehensive Guide to Free Cloud Communication Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-apowersoft-picks-top-pc-screen-recorder-reviewed/"><u>[New] In 2024, Apowersoft Picks  Top PC Screen Recorder Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capture-the-scene-without-breaking-the-bank-with-free-tools/"><u>[New] In 2024, Capture the Scene without Breaking the Bank with Free Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevate-your-chat-with-discord-recording-techniques/"><u>[New] In 2024, Elevate Your Chat with Discord Recording Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harmonic-storage-pc-audio-and-speech/"><u>[New] In 2024, Harmonic Storage  PC Audio and Speech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-photo-your-display-windows-781011-style/"><u>[New] In 2024, Photo Your Display  Windows 7/8/10/11 Style</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pro-level-video-conferencing-picking-the-best-5-recorders/"><u>[New] In 2024, Pro-Level Video Conferencing  Picking the Best 5 Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-rage-raid-and-rebel-without-a-gta-tale/"><u>[New] In 2024, Rage, Raid and Rebel Without a GTA Tale</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-lore-of-roguelites-amidst-classic-rpgs/"><u>[New] In 2024, The Lore of Roguelites Amidst Classic RPGs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-shared-surface-video-chronicling-for-2024/"><u>[New] Shared Surface Video Chronicling for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-straightforward-recorder-app-windows/"><u>[New] Straightforward Recorder App - Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-using-fbx-for-gamers/"><u>[New] The Ultimate Guide to Using FBX for Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-the-best-10-spotify-music-recorder-apps/"><u>[New] Ultimate Guide to the Best 10 Spotify Music Recorder Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-practices-for-distance-dialogue-capture/"><u>[Updated] 2024 Approved  Best Practices for Distance Dialogue Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-obs-setup-use-macos-edition/"><u>[Updated] 2024 Approved  Comprehensive Guide to OBS Setup, Use, macOS Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-low-power-pc-screen-capturing-apps/"><u>[Updated] 2024 Approved  Essential Low-Power PC Screen Capturing Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-schedule-and-record-a-meeting-on-slack-wondershare-filmora/"><u>[Updated] 2024 Approved  How to Schedule and Record a Meeting on Slack-Wondershare Filmora</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-invisible-interviewers-guide-stealthy-ios-and-android-tools/"><u>[Updated] 2024 Approved  Invisible Interviewer's Guide  Stealthy iOS & Android Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-leading-mac-gif-editor/"><u>[Updated] 2024 Approved  Leading Mac GIF Editor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-peepsnapper-screen-grab-examination-and-replacements/"><u>[Updated] 2024 Approved  PeepSnapper Screen Grab Examination & Replacements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-rendering-reawakening-amds-radeon/"><u>[Updated] 2024 Approved  Rendering Reawakening  AMD's Radeon</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screensnappers-journey-navigating-the-latest-recorders/"><u>[Updated] 2024 Approved  ScreenSnapper's Journey  Navigating the Latest Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-sign-upinto-google-meet-from-your-tech/"><u>[Updated] In 2024, How to Sign Up/Into Google Meet From Your Tech?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-plex-vs-streaming-titanique-for-2024/"><u>[Updated] Plex vs Streaming Titanique for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-editors-showdown-filmora-vs-democracy-creator-features-for-2024/"><u>[Updated] Professional Editors Showdown  Filmora Vs. Democracy Creator Features for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screencast-strategies-unleashed-powerful-ideas-inside/"><u>[Updated] Screencast Strategies Unleashed  Powerful Ideas Inside</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-vidmas-technology-in-screen-capturing-spotlighted/"><u>[Updated] Vidma’s Technology in Screen Capturing Spotlighted</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-customizable-screenshot-tools-for-gamers/"><u>2024 Approved  Top 10 Customizable Screenshot Tools for Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stopping-auto-capture-in-apples-recorder-for-2024/"><u>Stopping Auto-Capture in Apple's Recorder for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streaming-software-showdown-choosing-between-obs-and-streamlabs-for-2024/"><u>Streaming Software Showdown  Choosing Between OBS and Streamlabs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-10-favorites-spotify-edition-for-2024/"><u>Top 10 Favorites  Spotify Edition for 2024</u></a></li>
+</ul></div>

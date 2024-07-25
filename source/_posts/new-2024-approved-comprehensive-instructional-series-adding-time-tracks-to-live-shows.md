@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Comprehensive Instructional Series  Adding Time Tracks to Live Shows\""
-date: 2024-05-20T06:46:33.786Z
-updated: 2024-05-21T06:46:33.786Z
+date: 2024-07-24T12:29:08.742Z
+updated: 2024-07-25T12:29:08.742Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Comprehensive Instructional Series: Adding Time Tracks to Live Shows\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Comprehensive Instructional Series: Adding Time Tracks to Live Shows\""
 keywords: "Skype Call Transcription,Productive Work Hacks,Skype Voice Logging,Efficient Meeting Management,Streamlined Communication Guide,Advanced Recording Tools,Boosting Team Collaboration"
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## Comprehensive Instructional Series: Adding Time Tracks to Live Shows
@@ -21,6 +21,9 @@ OBS Studio is arguably the best free, open-source screen recorder for Mac, Windo
 
 So, what is the OBS Studio countdown timer, and why do you need to make one? This article discusses that and how to add a countdown timer overlay to your local videos using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Let’s dig in!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Is OBS Countdown Timers?
 
 You probably don’t need a further introduction to a countdown timer if you’re often watching action movies or marking calendars. But clear doubts, a countdown timer is basically the remaining time in years, weeks, days, hours, minutes, or seconds before a start of an event. A good example is those James Bond movies where a bomb has, let’s say, 60 seconds before exploding.
@@ -41,14 +44,23 @@ Up to this point, you might think that adding an OBS countdown clock is such a c
 
 Step1 Fire up OBS Studio and select a recording scene on which you want to apply the countdown timer. Once the scene is ready, tap the Plus button on the Sources section, then select the Text Source. Now give the source a name. For instance, you can name it Timer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs countdown timer add a text source](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-2.jpg)
 
 Step2 Now you’ll see a pop-up window to customize how the timer will look. For example, click the Select font button to customize the font settings for the countdown timer. You can also customize things like opacity, gradient, background color, alignment, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs countdown timer customize timer details](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-3.jpg)
 
 Step3 Next, click the Tools tab and then tap Scripts. Then, select the countdown.lua file and customize the countdown descriptions on the pop-up window. You can change the countdown duration and the final text after the countdown. Don’t also forget to select Timer as the Text Source. The OBS countdown timer will immediately start counting.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs countdown timer add the timer file](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-4.jpg)
 
 ## Pro Tip: How To Utilize an Overlay To Level Up Your Countdown Timer
@@ -67,6 +79,9 @@ It’s a professional-grade video editor for macOS and Windows systems that allo
 
 Install and run Filmora on your PC, and start a New Project. But before that, select the video aspect ratio. This is important if you’re creating videos for social media sharing. For example, choose 16:1 for YouTube and 4:3 for WhatsApp Status videos.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs countdown timer add new project](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-5.jpg)
 
 ##### Step2 Upload the video to edit
@@ -98,6 +113,15 @@ After adding the perfect countdown timer overlay, preview the video to see how i
 
 As you’ve seen before, adding a countdown timer in OBS is super simple. But unfortunately, you can’t add multiple timers in the same video. For this reason, use Filmora to add multiple countdown scenes to your OBS video before uploading online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 2\. How do I add a Countup timer to Streamlabs OBS?
 
 Streamlabs OBS is an open-source program that allows you to distribute live videos on Facebook Live, YouTube Live, and Twitch. To add a countdown timer ins Streamlabs OBS, select the scene to add the timer and add a “Text” source. Then, label the new source before clicking Add Source.
@@ -110,6 +134,9 @@ Next, install [My Stream Timer](https://apps.microsoft.com/store/detail/my-strea
 
 Meanwhile, minimize the My Stream Timer window and tap the name of the countdown timer source on Streamlabs OBS. Then, check the “Read from file” box and paste the text file into the field provided. Now click the Browse button and open the countup.text file. You’ll see a timer automatically launch on Streamlabs.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs countdown timer launch the streamlabs timer](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-11.jpg)
 
 However, you may notice that the countdown timer looks a bit blurry. To fix that, maximize the font size. You can also retouch the font style and family to give the timer a better look and feel. That’s it!
@@ -118,6 +145,9 @@ However, you may notice that the countdown timer looks a bit blurry. To fix that
 
 You can set OBS to start/stop recording automatically. To do that, click Tools > Output Timer and set a duration for how long you want to capture the video. You can select a start/stop time for live streaming and local recordings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Final Words
 
 OBS Studio can look intimidating at first. But once you learn the ropes, this desktop screen recorder packs a wealth of features to exploit. The **OBS countdown clock** can make your social media videos look more professional and organized. And don’t forget to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to add timer scenes to your video. I hope you enjoyed the read!
@@ -138,6 +168,9 @@ Install and run Filmora on your PC, and start a New Project. But before that, se
 
 Tap Import Media to upload a video from local or external drives. Filmora supports all standard video formats, including Apple ProRes and HDR videos shot using your iPhone camera. Also, you can directly record a webcam or PC screen on this program. Either way, move the video to the timeline by simply dragging it there.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs countdown timer add video](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-6.jpg)
 
 ##### Step3 Add countdown timer effects to the video
@@ -153,16 +186,30 @@ Click the Effects button and search “countdown timer.” You’ll see multiple
 
 ##### Step4 Create the countdown timer video
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![obs countdown timer customize the timer settings](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-8.jpg)
 
 After adding the perfect countdown timer overlay, preview the video to see how it plays and adjust the positioning, text color, opacity, and more. Finally, click Export to save your video as MP4, MOV, AV1, AVI, and other formats. You can also export the countdown video directly to Vimeo or YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Hot FAQs About the OBS Countdown Timer
 
 ### 1\. How do I add multiple timers to OBS?
 
 As you’ve seen before, adding a countdown timer in OBS is super simple. But unfortunately, you can’t add multiple timers in the same video. For this reason, use Filmora to add multiple countdown scenes to your OBS video before uploading online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 2\. How do I add a Countup timer to Streamlabs OBS?
 
 Streamlabs OBS is an open-source program that allows you to distribute live videos on Facebook Live, YouTube Live, and Twitch. To add a countdown timer ins Streamlabs OBS, select the scene to add the timer and add a “Text” source. Then, label the new source before clicking Add Source.
@@ -179,10 +226,16 @@ Meanwhile, minimize the My Stream Timer window and tap the name of the countdown
 
 However, you may notice that the countdown timer looks a bit blurry. To fix that, maximize the font size. You can also retouch the font style and family to give the timer a better look and feel. That’s it!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. How do I set a timer to start recording on OBS?
 
 You can set OBS to start/stop recording automatically. To do that, click Tools > Output Timer and set a duration for how long you want to capture the video. You can select a start/stop time for live streaming and local recordings.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 OBS Studio can look intimidating at first. But once you learn the ropes, this desktop screen recorder packs a wealth of features to exploit. The **OBS countdown clock** can make your social media videos look more professional and organized. And don’t forget to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to add timer scenes to your video. I hope you enjoyed the read!
@@ -216,3 +269,40 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unlock-the-power-of-vocal-performance-in-digital-media-production/"><u>[New] 2024 Approved  Unlock the Power of Vocal Performance in Digital Media Production</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-dividing-devices-top-cam-rating-review/"><u>[New] Dividing Devices  Top Cam Rating Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enhancing-ps3-playthroughs-a-guide-to-effective-capture/"><u>[New] Enhancing PS3 Playthroughs  A Guide to Effective Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>[New] Integrating Virtual Boards Into Remote Discussions  IPhone/iPad/Android and Computers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-alternative-review-to-sharex/"><u>[New] The Ultimate Alternative Review to ShareX</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-the-secrets-to-perfect-zoom-recordings/"><u>[New] Unlocking the Secrets to Perfect Zoom Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-guide-to-free-cloud-communication-software/"><u>[Updated] Comprehensive Guide to Free Cloud Communication Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-learn-to-record-professional-quality-audio-in-audacity-macos/"><u>[Updated] Learn to Record Professional Quality Audio in Audacity, MacOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-studio-masterclass-for-ps4-screen-capture/"><u>[Updated] Obs Studio Masterclass for PS4 Screen Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pcs-premier-ps3-imitators-ranked-top-5-choices/"><u>[Updated] PC's Premier PS3 Imitators Ranked  Top 5 Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-baking-studio-best-cookies-to-try-and-buy/"><u>[Updated] Premier Baking Studio  Best Cookies to Try and Buy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-environmentally-safe-tech-for-2024/"><u>[Updated] Ultimate Guide to Environmentally Safe Tech for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>[Updated] Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/10-best-high-security-androidios-video-calling-tools-available-for-free-for-2024/"><u>10 Best High-Security Android/iOS Video Calling Tools Available for Free for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-efficiently-record-your-screen-with-io-screen-recorder/"><u>2024 Approved  Efficiently Record Your Screen with IO Screen Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-free-video-conferencing-excellence-plus-screen-sharing-guide/"><u>2024 Approved  Free Video Conferencing Excellence + Screen Sharing Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-investigating-user-experiences-with-free2x-webcam-tools/"><u>2024 Approved  Investigating User Experiences with Free2X Webcam Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-precision-and-power-choosing-best-kung-fu-games-ranked/"><u>2024 Approved  Precision & Power  Choosing Best Kung Fu Games Ranked</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-unboxing-logitechs-professional-4k-pro-webcam/"><u>2024 Approved  Ultimate Unboxing  Logitech's Professional 4K Pro Webcam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/clearshot-suite-high-quality-windows-for-2024/"><u>ClearShot Suite - High-Quality Windows for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/deciphering-screen-recorders-bandicam-or-camtasia-in-2024/"><u>Deciphering Screen Recorders  Bandicam or Camtasia, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-become-a-pro-at-capturing-videos-an-in-depth-exploration-of-zds-recorder/"><u>In 2024, Become a Pro at Capturing Videos  An In-Depth Exploration of ZD’s Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cut-the-clutter-advanced-techniques-for-cam-recordings/"><u>In 2024, Cut the Clutter  Advanced Techniques for Cam Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-discover-the-ultimate-5-gaming-webcam-winners-for-streaming/"><u>In 2024, Discover the Ultimate 5 Gaming Webcam Winners for Streaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-8-android-group-calls-over-4-users/"><u>In 2024, Essential 8 Android Group Calls  Over 4 Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-from-airwaves-to-files-online-audio-capture-basics/"><u>In 2024, From Airwaves to Files  Online Audio Capture Basics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-gaming-without-limits-screen-recorder-alternatives-explained/"><u>In 2024, Gaming Without Limits  Screen Recorder Alternatives Explained</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/minecraft-masterpieces-creative-buildings-guide-for-2024/"><u>Minecraft Masterpieces  Creative Buildings Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pinnacle-mac-recording-options-top-5-for-clarity-for-2024/"><u>Pinnacle Mac Recording Options  Top 5 for Clarity for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>Preserving Sims 4 Moments  Effective Strategies for Recording Playthroughs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/professional-pcmac-screen-recorders/"><u>Professional PC/Mac Screen Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-guide-to-precision-crafting-in-minecraft-worlds-for-2024/"><u>The Complete Guide to Precision Crafting in Minecraft Worlds for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-worlds-with-more-to-offer-than-just-gta/"><u>Virtual Worlds with More to Offer than Just GTA</u></a></li>
+</ul></div>

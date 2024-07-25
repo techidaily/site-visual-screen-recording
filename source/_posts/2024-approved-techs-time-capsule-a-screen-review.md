@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tech's Time Capsule  A Screen Review\""
-date: 2024-05-18T18:19:57.451Z
-updated: 2024-05-19T18:19:57.451Z
+date: 2024-07-24T13:05:30.815Z
+updated: 2024-07-25T13:05:30.815Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Tech's Time Capsule: A Screen Review\""
 excerpt: "\"This Article Describes 2024 Approved: Tech's Time Capsule: A Screen Review\""
 keywords: "TechTimeCapsuleScreenReview,TimeCapsuleTechScreen,ScreenTechCapsuleReview,CapsuleTechScreenTest,ReviewTechCapsuleDisplay,DisplayTimeCapsuleTech,TechReviewTimeCapsule"
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Tech's Time Capsule: A Screen Review
@@ -21,6 +21,9 @@ For too long gamers, streamers and online content makers have needed to deal wit
 
 Cyberlink Screen Recorder 4 is a user-friendly stage for catching work area and video web-based. It offers the functionalities for game real time, screen recording, and video altering. It is the across-the-board instrument for streaming ongoing interaction, vlogging, and sharing screen content with a crowd of people on the web. Make content that connects with your Twitch, YouTube, and Facebook supporters. You can incorporate webcam critique into live streams or record and alter interactivity with the resolution that you centre around the greatest aspects. It utilizes top-notch screen catching innovation. It contains the simple to utilize altering elements of PowerDirector. It utilizes responsive and excellent screen projecting and catching innovation. Cyberlink Screen Recorder allows clients to catch a game play, make educational recordings, or record video talks with family and companions at 30 frames each second. With adjustable recording settings, and the capacity to likewise record framework sounds and voice, Screen Recorder adds one more helpful apparatus to a videographer's stockpile.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. When to Use Cyberlink Recorder
 
 You can decide to record your screen video at the first resolution, 1080p, 720p or 480p, which means you don't need to invest energy resampling it with a different video proofreader. It's likewise conceivable to draw a timetable for your recording, which is especially convenient assuming you need to transfer your video on the web and need to keep inside specific boundaries, or need to try not to make an especially huge document. At the point when you're finished catching there's an essential, however genuinely powerful video manager inside the choice adaptation of the application. It's to some degree suggestive of Cyberlink PowerDirector video supervisor, yet a considerably more fundamental rendition.
@@ -33,6 +36,9 @@ You can decide to record your screen video at the first resolution, 1080p, 720p 
 
 **Make Professional Videos:** The focus of the Cyberlink application is having the option to catch whichever video you need, be that from your PC or your games console utilizing a catch card. There are different choices for getting video from the PC, including a full-screen which will pull in all things, explicit window choices or on the other hand if you're catching games or applications, Screen Recorder will recognize these and pull it in naturally.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Record Video with Cyberlink Screen Recorder
 
 With Cyberlink Screen Recorder 4, you can catch your whole screen, a particular application valuable for introductions and video instructional exercises, or a custom region. That is genuinely standard, however, you can likewise record games with equipment speed increase or catch video from an associated gadget like a webcam, all with a few ticks. The product doesn't besiege you with choices from the start, and you can without much of a stretch start recording utilizing the default settings with a solitary snap, however diving into the inclination's menu will open up an abundance of different conceivable outcomes.
@@ -91,10 +97,60 @@ HARDISK CAPACITY: 600 MB accessible space
 
 SOUND CARD: Windows viable sound card is required
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5\. Cyberlink Recorder's Best Alternative
 
 There's no deficiency of premium screen recording and streaming applications for genuine gamers and vloggers, however, as of not long ago, there's been a generous hole between these costly projects and free choices that regularly apply watermarks to your recordings or force-time cutoff points, and need to progress highlights like picture-in-picture that have the effect between an expert looking creation and something set up rapidly for the sake of entertainment. Wondershare Filmora is a flexible [screen recorder application](https://tools.techidaily.com/wondershare/filmora/download/) that supports game and screen catch. The best thing about the product is the 4 HD Ultra UHD game recordings. The product can record up to 144 FPS game videos.
 
+![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+Since the full form of the program joins plenty of devices into the very program that it tends to be confounding. perhaps the best option in contrast to Cyberlink is the Filmora, which handily fit the screen recording devices with the altering apparatuses to make one exceptionally valuable program. The product has one of the most outstanding altering apparatuses that permit adding creative energy to recordings. It allows you to add embellishments like haze, mosaic, channels, stickers, and so on This product upholds skillet/zoom, adjustment, and casing by-outline altering. Furthermore, you can streamline the recordings for the survey on both TV and cell phone. You can share the made recordings online to different channels.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+With a responsive, excellent screen catching innovation. Cyberlink screen recorder has finished streaming, recording, and altering answers for gamers, vloggers, and organizations searching for an edge. Even though, if you're looking to record high-resolution catches from full screen, then we recommend going for Filmora as it's the application you are looking for actually. Amongst several feasibilities, it allows you for a particular region on your work area, and add tweaked markers to address mouse clicks. It likewise gives valuable voice recording instruments to record from your microphone or your PC framework. All things considered; Cyberlink comes up short on a space that is being filled by Filmora arrangement as delineated above clearly.
+
+**Part 4\. Price and Tech Specs**
+
+With the cost of only $40 for the standard bundle or $50 for the exclusive which incorporates the video supervisor, Screen Recorder 3 is genuinely strong worth thinking about its one-time instalment. Further developed decorations will not be influenced, yet assuming you're searching for a simple to-utilize apparatus for screen accounts that conveys great outcomes and high edge rates, it's certainly worth a look.
+
+Cyberlink Screen Recorder is your robust answer for catching ongoing interaction and work area screencasting. The streaming perspective is great to have rushed on, and for those simply testing the water it's a slick extra element to have it is likewise a less asset concentrated than other streaming applications.
+
+OPERATING SYSTEM: MICROSOFT WINDOWS 10, 8.1, 7 SP1
+
+PROCESSOR: Intel Core™ I-series or AMD Phenom® II or more
+
+DESIGNS REQUIREMENTS: Desktop recording: 1GB VGA VRAM or higher
+
+MEMORY: 2 GB RAM
+
+HARDISK CAPACITY: 600 MB accessible space
+
+SOUND CARD: Windows viable sound card is required
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+## Part 5\. Cyberlink Recorder's Best Alternative
+
+There's no deficiency of premium screen recording and streaming applications for genuine gamers and vloggers, however, as of not long ago, there's been a generous hole between these costly projects and free choices that regularly apply watermarks to your recordings or force-time cutoff points, and need to progress highlights like picture-in-picture that have the effect between an expert looking creation and something set up rapidly for the sake of entertainment. Wondershare Filmora is a flexible [screen recorder application](https://tools.techidaily.com/wondershare/filmora/download/) that supports game and screen catch. The best thing about the product is the 4 HD Ultra UHD game recordings. The product can record up to 144 FPS game videos.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Since the full form of the program joins plenty of devices into the very program that it tends to be confounding. perhaps the best option in contrast to Cyberlink is the Filmora, which handily fit the screen recording devices with the altering apparatuses to make one exceptionally valuable program. The product has one of the most outstanding altering apparatuses that permit adding creative energy to recordings. It allows you to add embellishments like haze, mosaic, channels, stickers, and so on This product upholds skillet/zoom, adjustment, and casing by-outline altering. Furthermore, you can streamline the recordings for the survey on both TV and cell phone. You can share the made recordings online to different channels.
@@ -145,6 +201,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 With a responsive, excellent screen catching innovation. Cyberlink screen recorder has finished streaming, recording, and altering answers for gamers, vloggers, and organizations searching for an edge. Even though, if you're looking to record high-resolution catches from full screen, then we recommend going for Filmora as it's the application you are looking for actually. Amongst several feasibilities, it allows you for a particular region on your work area, and add tweaked markers to address mouse clicks. It likewise gives valuable voice recording instruments to record from your microphone or your PC framework. All things considered; Cyberlink comes up short on a space that is being filled by Filmora arrangement as delineated above clearly.
@@ -167,10 +226,16 @@ HARDISK CAPACITY: 600 MB accessible space
 
 SOUND CARD: Windows viable sound card is required
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Cyberlink Recorder's Best Alternative
 
 There's no deficiency of premium screen recording and streaming applications for genuine gamers and vloggers, however, as of not long ago, there's been a generous hole between these costly projects and free choices that regularly apply watermarks to your recordings or force-time cutoff points, and need to progress highlights like picture-in-picture that have the effect between an expert looking creation and something set up rapidly for the sake of entertainment. Wondershare Filmora is a flexible [screen recorder application](https://tools.techidaily.com/wondershare/filmora/download/) that supports game and screen catch. The best thing about the product is the 4 HD Ultra UHD game recordings. The product can record up to 144 FPS game videos.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Since the full form of the program joins plenty of devices into the very program that it tends to be confounding. perhaps the best option in contrast to Cyberlink is the Filmora, which handily fit the screen recording devices with the altering apparatuses to make one exceptionally valuable program. The product has one of the most outstanding altering apparatuses that permit adding creative energy to recordings. It allows you to add embellishments like haze, mosaic, channels, stickers, and so on This product upholds skillet/zoom, adjustment, and casing by-outline altering. Furthermore, you can streamline the recordings for the survey on both TV and cell phone. You can share the made recordings online to different channels.
@@ -183,44 +248,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-## Conclusion
-
-With a responsive, excellent screen catching innovation. Cyberlink screen recorder has finished streaming, recording, and altering answers for gamers, vloggers, and organizations searching for an edge. Even though, if you're looking to record high-resolution catches from full screen, then we recommend going for Filmora as it's the application you are looking for actually. Amongst several feasibilities, it allows you for a particular region on your work area, and add tweaked markers to address mouse clicks. It likewise gives valuable voice recording instruments to record from your microphone or your PC framework. All things considered; Cyberlink comes up short on a space that is being filled by Filmora arrangement as delineated above clearly.
-
-**Part 4\. Price and Tech Specs**
-
-With the cost of only $40 for the standard bundle or $50 for the exclusive which incorporates the video supervisor, Screen Recorder 3 is genuinely strong worth thinking about its one-time instalment. Further developed decorations will not be influenced, yet assuming you're searching for a simple to-utilize apparatus for screen accounts that conveys great outcomes and high edge rates, it's certainly worth a look.
-
-Cyberlink Screen Recorder is your robust answer for catching ongoing interaction and work area screencasting. The streaming perspective is great to have rushed on, and for those simply testing the water it's a slick extra element to have it is likewise a less asset concentrated than other streaming applications.
-
-OPERATING SYSTEM: MICROSOFT WINDOWS 10, 8.1, 7 SP1
-
-PROCESSOR: Intel Core™ I-series or AMD Phenom® II or more
-
-DESIGNS REQUIREMENTS: Desktop recording: 1GB VGA VRAM or higher
-
-MEMORY: 2 GB RAM
-
-HARDISK CAPACITY: 600 MB accessible space
-
-SOUND CARD: Windows viable sound card is required
-
-## Part 5\. Cyberlink Recorder's Best Alternative
-
-There's no deficiency of premium screen recording and streaming applications for genuine gamers and vloggers, however, as of not long ago, there's been a generous hole between these costly projects and free choices that regularly apply watermarks to your recordings or force-time cutoff points, and need to progress highlights like picture-in-picture that have the effect between an expert looking creation and something set up rapidly for the sake of entertainment. Wondershare Filmora is a flexible [screen recorder application](https://tools.techidaily.com/wondershare/filmora/download/) that supports game and screen catch. The best thing about the product is the 4 HD Ultra UHD game recordings. The product can record up to 144 FPS game videos.
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
-
-Since the full form of the program joins plenty of devices into the very program that it tends to be confounding. perhaps the best option in contrast to Cyberlink is the Filmora, which handily fit the screen recording devices with the altering apparatuses to make one exceptionally valuable program. The product has one of the most outstanding altering apparatuses that permit adding creative energy to recordings. It allows you to add embellishments like haze, mosaic, channels, stickers, and so on This product upholds skillet/zoom, adjustment, and casing by-outline altering. Furthermore, you can streamline the recordings for the survey on both TV and cell phone. You can share the made recordings online to different channels.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 With a responsive, excellent screen catching innovation. Cyberlink screen recorder has finished streaming, recording, and altering answers for gamers, vloggers, and organizations searching for an edge. Even though, if you're looking to record high-resolution catches from full screen, then we recommend going for Filmora as it's the application you are looking for actually. Amongst several feasibilities, it allows you for a particular region on your work area, and add tweaked markers to address mouse clicks. It likewise gives valuable voice recording instruments to record from your microphone or your PC framework. All things considered; Cyberlink comes up short on a space that is being filled by Filmora arrangement as delineated above clearly.
@@ -250,3 +280,33 @@ With a responsive, excellent screen catching innovation. Cyberlink screen record
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-15-best-tools-to-capture-classroom-learning-moments-for-2024/"><u>[New] 15 Best Tools to Capture Classroom Learning Moments for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-active-presenter-8-review/"><u>[New] 2024 Approved  Active Presenter 8 Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-analyzing-multi-angle-video-technology-trends-today/"><u>[New] 2024 Approved  Analyzing Multi-Angle Video Technology Trends Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-minimugger-report-onscreen-snaps-reviewed/"><u>[New] 2024 Approved  MiniMugger Report - Onscreen Snaps Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-list-hd-screen-recorders-for-optimal-performance/"><u>[New] In 2024, A-List HD Screen Recorders for Optimal Performance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cost-effective-obs-setup-tips/"><u>[New] In 2024, Cost-Effective OBS Setup Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exquisite-android-screen-capture-solutions-ranked-five/"><u>[New] In 2024, Exquisite Android Screen-Capture Solutions Ranked Five</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-minicam-snapshot-review-and-substitutes/"><u>[New] MiniCam Snapshot Review and Substitutes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>[New] Podcaster's Playground  Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamlining-gaming-sessions-without-microsofts-intervention/"><u>[New] Streamlining Gaming Sessions Without Microsoft's Intervention</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-vlcs-advanced-webcam-functionality-for-video-archiving/"><u>[New] VLC's Advanced Webcam Functionality for Video Archiving</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-2023s-ios-leading-psp-emulators-ranked-the-creme-de-la-creme/"><u>[Updated] 2024 Approved  2023'S iOS Leading PSP Emulators Ranked  The Crème De La Crème</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-camstudio-2023-screen-recorder-insights-and-reviews/"><u>[Updated] 2024 Approved  CamStudio  2023 Screen Recorder Insights & Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-hd-mastery-in-action-top-5-screen-recorders-reviewed/"><u>[Updated] 2024 Approved  HD Mastery in Action  Top 5 Screen Recorders Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-deep-dive-into-freeweb-recorder-v2-interface/"><u>[Updated] In 2024, Deep Dive Into FreeWeb Recorder V2 Interface</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-infinite-space-top-10-external-hard-drives-for-ps5/"><u>[Updated] In 2024, Infinite Space  Top 10 External Hard Drives for PS5</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-vlc-capture-tool-assessment/"><u>[Updated] VLC Capture Tool Assessment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-desktop-and-mobile-video-call-platforms-zoom-replacements/"><u>2024 Approved  Premium Desktop & Mobile Video Call Platforms (Zoom Replacements)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-live-gaming-footage-with-apps/"><u>2024 Approved  Streamlining Live Gaming Footage with Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-affordable-online-communication-apps-for-video-calls/"><u>2024 Approved  Top 10 Affordable Online Communication Apps for Video Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlock-your-phone-camera-free-and-easy/"><u>2024 Approved  Unlock Your Phone Camera, Free & Easy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-perfect-your-virtual-meeting-vibes-google-meet-background-tips/"><u>In 2024, Perfect Your Virtual Meeting Vibes  Google Meet Background Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>In 2024, Streamline Your Filming Journey  A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-rated-ios-applications-for-emulating-popular-psp-games/"><u>In 2024, Top-Rated iOS Applications for Emulating Popular PSP Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ranking-the-finest-five-screen-snipers-in-windows-for-2024/"><u>Ranking the Finest Five Screen Snipers in Windows for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vrecorder-integration-from-download-to-deployment-for-2024/"><u>VRecorder Integration  From Download to Deployment for 2024</u></a></li>
+</ul></div>

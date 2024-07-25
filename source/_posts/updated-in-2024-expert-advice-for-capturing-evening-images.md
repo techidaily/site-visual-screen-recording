@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Expert Advice for Capturing Evening Images"
-date: 2024-07-04T16:35:26.471Z
-updated: 2024-07-05T16:35:26.471Z
+date: 2024-07-24T13:08:53.559Z
+updated: 2024-07-25T13:08:53.559Z
 tags: 
   - screen-recording
   - ai video
@@ -21,12 +21,18 @@ It has been seen that most portrait photography is carried out during the daytim
 
 Well, **night-mode portraits** can be such an opportunity. However, it can be a little challenging for you. Night portrait shoots require the photographer to manipulate shutter speed, aperture, ISO, and more. Besides, there are certain dos and don'ts that you also need to keep in mind. Keep reading to know more about this.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### 1\. Shooting with a topic
 
 One of the most difficult repercussions of **night mode portraits** is that everything in your sight takes on a strange appeal, which can easily make it challenging to understand the composition and picture subject. Well, to avoid such an issue, you need to make yourself familiarized with your topic or subject. So, you can arrive at the location before sunset and begin the setup procedure.
@@ -47,6 +53,9 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -64,16 +73,25 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
 Another thing you need to avoid here is the overuse of light. You need to work on the primary exposure settings, i.e., the ISO, aperture and shutter speed. You should keep in mind that these three configurations will create exposure and influence the photos' overall brightness. One thing to consider while choosing the setting is to have a photo with a lot of detail in the mid-tones, highlights, and shadows.
@@ -86,6 +104,9 @@ Talking about the shutter speed, for stationary subjects, you can go for 1/160s.
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
@@ -94,10 +115,16 @@ However, you can also preset the white balance in your camera or edit the photos
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### What Should You Need to Avoid in Portrait Photography?
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
@@ -137,3 +164,27 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-and-simple-4-ways-to-take-screenshots-on-chromebook/"><u>[New] 2024 Approved  Quick & Simple  4 Ways To Take Screenshots On Chromebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pixelstreamer-pro-enhanced-os-recorder-for-2024/"><u>[New] PixelStreamer Pro  Enhanced OS Recorder for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time-for-2024/"><u>[New] Top 5 Recorder Picks to Freeze Your Web Wanderings in Time for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-visionary-designs-for-future-mojave-dwellings-for-2024/"><u>[New] Visionary Designs for Future Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-ppt-a-comprehensive-voice-guidance-manual/"><u>[Updated] 2024 Approved  Mastering PPT  A Comprehensive Voice Guidance Manual</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-screen-recording-on-your-hp-laptop-effortlessly/"><u>[Updated] 2024 Approved  Navigating Screen Recording on Your HP Laptop Effortlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-overcoming-inaudibility-in-obs-captured-audio/"><u>[Updated] 2024 Approved  Overcoming Inaudibility in OBS Captured Audio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-screen-hulu-on-any-system-seamlessly/"><u>[Updated] How to Screen Hulu On Any System Seamlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-powerpoint-recording-on-camera-for-professionals-for-2024/"><u>[Updated] Mastering PowerPoint Recording on Camera for Professionals for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-privacy-preserving-recordings-methods-to-shield-sensitive-data-for-2024/"><u>[Updated] Privacy-Preserving Recordings  Methods to Shield Sensitive Data for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-sword-and-shield-the-ultimate-10-game-collection-for-2024/"><u>[Updated] Sword and Shield  The Ultimate 10-Game Collection for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-best-practices-for-silent-film-making-for-2024/"><u>[Updated] The Best Practices for Silent Film Making for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-transform-your-tech-skills-mastering-screen-capture-in-macos-for-2024/"><u>[Updated] Transform Your Tech Skills  Mastering Screen Capture in macOS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-beginners-path-to-successful-hp-screen-capturing/"><u>2024 Approved  Beginner's Path to Successful HP Screen Capturing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-insights-for-effective-clips-blending/"><u>2024 Approved  Expert Insights for Effective Clips Blending</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-harnessing-skypes-voice-free-mp3-exclusive/"><u>2024 Approved  Harnessing Skype's Voice - Free MP3 Exclusive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capture-every-click-with-spring-screen-recorder/"><u>Capture Every Click with Spring Screen Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/commanding-voice-scrutiny-refined-version-8/"><u>Commanding Voice Scrutiny  Refined Version 8</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-full-screen-fiasco-resolved-in-obs/"><u>In 2024, Full Screen Fiasco Resolved in Obs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/smart-strategies-for-securely-saving-movie-moments-across-gadgets/"><u>Smart Strategies for Securely Saving Movie Moments Across Gadgets</u></a></li>
+</ul></div>

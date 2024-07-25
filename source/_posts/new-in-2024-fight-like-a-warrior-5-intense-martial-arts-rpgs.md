@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Fight Like a Warrior  5 Intense Martial Arts RPGs\""
-date: 2024-05-18T18:31:02.056Z
-updated: 2024-05-19T18:31:02.056Z
+date: 2024-07-24T13:37:46.750Z
+updated: 2024-07-25T13:37:46.750Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes [New] In 2024, Fight Like a Warrior: 5 Intense Martial Arts RPGs\""
 excerpt: "\"This Article Describes [New] In 2024, Fight Like a Warrior: 5 Intense Martial Arts RPGs\""
 keywords: "Warrior MArtial Quests,Intensity RPG Fights,MArtial Games Heroic,RPG Combat Warrior,Strong Martial Arts RPGs,Epic Combat Quests RPG,Intense Fighter RPG Games"
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Fight Like a Warrior: 5 Intense Martial Arts RPGs
 
 # Top 5 Kung Fu Games Just Like Sifu
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -29,6 +32,9 @@ thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/fi
 
 To begin with, many of you might wonder the right way to say the word "sifu." It is pronounced as "sea fool" rather than "sign fool." By the way, "sifu" means master in Chinese/Cantonese, especially in the martial art field and some craftsmanship field. For example, you can call the teacher who teaches you to make perfect ramen a "sifu."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
 ---
@@ -38,6 +44,9 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 _Platform: Playstation4, Playstation5_  
 _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
@@ -103,6 +112,9 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -119,6 +131,9 @@ Follow @Richard Bennett
 
 To begin with, many of you might wonder the right way to say the word "sifu." It is pronounced as "sea fool" rather than "sign fool." By the way, "sifu" means master in Chinese/Cantonese, especially in the martial art field and some craftsmanship field. For example, you can call the teacher who teaches you to make perfect ramen a "sifu."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
 ---
@@ -193,6 +208,9 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -226,3 +244,35 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-game-saves-with-advanced-overwatch-recording/"><u>[New] 2024 Approved  Elevate Your Game Saves with Advanced Overwatch Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enjoy-games-not-glitches-use-nvidia/"><u>[New] 2024 Approved  Enjoy Games, Not Glitches - Use NVIDIA</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-guide-resolving-obs-skipping-problems/"><u>[New] 2024 Approved  Quick Guide  Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-restoring-your-obs-cameras-integrated-functionality/"><u>[New] 2024 Approved  Restoring Your OBS Camera’s Integrated Functionality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-exploring-the-depth-of-bandicams-recording-features-and-techniques-for-2024/"><u>[New] Exploring the Depth of Bandicam's Recording Features and Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-method-to-record-your-skype-sessions-on-pcmac/"><u>[New] In 2024, Effortless Method to Record Your Skype Sessions on PC/Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exhilarating-freeness-of-screen-pairing-games/"><u>[New] In 2024, Exhilarating Freeness of Screen Pairing Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>[New] In 2024, From Concept to Capture  The Breakdown of Apeak's Recorder Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harmonized-technology-judgments-by-experts/"><u>[New] In 2024, Harmonized Technology Judgments by Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimizing-apex-dive-deep-into-single-platform-solitude/"><u>[New] In 2024, Optimizing Apex  Dive Deep Into Single-Platform Solitude</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pixelpilot-screen-recorder-critique-plus-backups/"><u>[New] In 2024, PixelPilot Screen Recorder Critique + Backups</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-guide-recording-on-itunes/"><u>[New] Step-by-Step Guide  Recording on iTunes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-test-mycam-cams-features-analyzed/"><u>[New] The Ultimate Test  MyCam Cam's Features Analyzed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capture-and-preserve-windows-11-screens/"><u>[Updated] 2024 Approved  Capture & Preserve Windows 11 Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-reimagining-streaming-experience-beyond-manycam/"><u>[Updated] 2024 Approved  Reimagining Streaming Experience Beyond ManyCam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-android-recording-at-your-fingertips-explore-our-top-8-free-choices-for-2024/"><u>[Updated] Android Recording at Your Fingertips – Explore Our Top 8 Free Choices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-in-class-premium-screenshots-and-recorders/"><u>[Updated] In 2024, Best in Class  Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-evaluationcast-breakdown/"><u>[Updated] In 2024, EvaluationCast Breakdown</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-free-video-recorders-for-every-android-user/"><u>[Updated] In 2024, Free Video Recorders for Every Android User</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>[Updated] In 2024, Innovative Techniques  Improve Your HP Laptop Screen Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-livestream-and-record-software-face-off-obs-vs-bandicam-for-2024/"><u>[Updated] Livestream & Record Software Face-Off  OBS vs Bandicam for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-speakers-file-extract-and-analysis/"><u>2024 Approved  Speaker's File Extract & Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>2024 Approved  Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vdsm-video-recorder-prospectus-detailed-study/"><u>2024 Approved  VDSM Video Recorder Prospectus  Detailed Study</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-stream-viewer-unraveler/"><u>In 2024, Stream Viewer Unraveler</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-screen-recording-on-mac-with-these-tools-for-2024/"><u>Streamline Your Screen Recording on Mac with These Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-ranked-4k-screen-recorders-summarized-for-2024/"><u>Top-Ranked 4K Screen Recorders Summarized for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/understanding-and-utilizing-ez-grabber-like-a-pro-for-2024/"><u>Understanding and Utilizing EZ Grabber Like a Pro for 2024</u></a></li>
+</ul></div>

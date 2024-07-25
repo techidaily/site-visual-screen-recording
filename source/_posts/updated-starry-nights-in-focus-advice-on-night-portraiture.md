@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Starry Nights in Focus  Advice on Night Portraiture\""
-date: 2024-05-18T18:38:54.293Z
-updated: 2024-05-19T18:38:54.293Z
+date: 2024-07-24T14:02:05.507Z
+updated: 2024-07-25T14:02:05.507Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Starry Nights in Focus: Advice on Night Portraiture\""
 excerpt: "\"This Article Describes [Updated] Starry Nights in Focus: Advice on Night Portraiture\""
 keywords: "Treasure Map Search,Top Findings Maps,Best TMaps Online,Riches Locations Map,Prime Maps Hunt,Excellent MAPs Guide,Top TMaps Discover"
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## Starry Nights in Focus: Advice on Night Portraiture
@@ -23,6 +23,9 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -62,8 +65,15 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
@@ -82,26 +92,44 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### What Should You Need to Avoid in Portrait Photography?
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### What Are the Best Camera Settings for Night Photography?
 
 You should use your camera in manual mode. Besides, utilizing long camera shutter speeds, around 30 seconds to 60 seconds, will be good. Sometimes, using auto-white balance, you can get great results. The experts also suggest keeping the aperture around f/11 and going for a low ISO, between 100 to 200.
@@ -137,3 +165,38 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/demystifying-screen-recording-how-bandicam-changes-the-game/"><u>Demystifying Screen Recording  How Bandicam Changes the Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/desktop-capture-the-windows-user-guide-for-2024/"><u>Desktop Capture  The Windows User Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/detailed-app-analysis-the-ultimate-az-recorder-guide/"><u>Detailed App Analysis - The Ultimate AZ Recorder Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/detailed-survey-gecatas-game-capture-utility/"><u>Detailed Survey  Gecata's Game Capture Utility</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/digital-diaries-of-a-mini-guy-top-6-techniques-for-recording-games/"><u>Digital Diaries of a Mini-Guy  Top 6 Techniques for Recording Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/digital-documentation-at-its-best-with-ezvide-software/"><u>Digital Documentation at Its Best with EZvide Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/digital-experts-5-favorite-video-recorders/"><u>Digital Experts' 5 Favorite Video Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/digital-room-for-screen-dance-duels/"><u>Digital Room for Screen Dance Duels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/digital-tapes-a-comprehensive-recorder-roundup-for-2024/"><u>Digital Tapes  A Comprehensive Recorder Roundup for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/direct-obs-video-feed-for-instagram/"><u>Direct OBS Video Feed for Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discover-the-art-of-live-discord-recording/"><u>Discover the Art of Live Discord Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discover-your-new-favorites-with-our-best-offline-ios-games-list/"><u>Discover Your New Favorites with Our Best Offline iOS Games List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-superior-alternatives-to-cyberlink/"><u>Discovering Superior Alternatives to Cyberlink</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-the-ultimate-solution-showmores-recording-mastery-for-2024/"><u>Discovering The Ultimate Solution  ShowMore's Recording Mastery for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/durecorder-simplified-essential-guidelines-and-reviews/"><u>DuRecorder Simplified  Essential Guidelines & Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easily-record-lenovo-laptop-screen-activity-for-2024/"><u>Easily Record Lenovo Laptop Screen Activity for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easing-high-encoding-issues-in-obs-for-2024/"><u>Easing High Encoding Issues in OBS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/eastern-mini-homes-top-6-creative-concepts-in-mc-for-2024/"><u>Eastern Mini-Homes  Top 6 Creative Concepts in MC for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-guide-to-documenting-gameplay-sessions-for-2024/"><u>Easy Guide to Documenting Gameplay Sessions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-peasy-guide-to-capturing-online-events-for-mac-and-windows-users/"><u>Easy-Peasy Guide to Capturing Online Events  For Mac & Windows Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/eco-friendly-recorder-ads-absolved/"><u>Eco-Friendly Recorder - Ads Absolved</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effective-strategies-to-mute-unwanted-voices-in-gomeet/"><u>Effective Strategies to Mute Unwanted Voices in GoMeet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effective-strategies-to-mute-unwanted-voices-in-gomeet-for-2024/"><u>Effective Strategies to Mute Unwanted Voices in GoMeet for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficient-meeting-management-with-slack-and-filmora-tools-for-2024/"><u>Efficient Meeting Management with Slack & Filmora Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficient-methods-for-android-screen-recordings-for-2024/"><u>Efficient Methods for Android Screen Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficient-strategies-to-log-facetime-discussions/"><u>Efficient Strategies to Log FaceTime Discussions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficient-ways-to-archive-facetime-chats-for-2024/"><u>Efficient Ways to Archive FaceTime Chats for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficiently-transmit-via-obs-on-fb-live-for-2024/"><u>Efficiently Transmit via OBS on FB Live for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-group-video-chat-with-androids-facetime/"><u>Effortless Group Video Chat with Android's Facetime</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-hulu-recordings-for-windows-mac-and-mobile-users-for-2024/"><u>Effortless Hulu Recordings for Windows, Mac & Mobile Users for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-screen-capturing-with-your-iphone-7/"><u>Effortless Screen Capturing with Your iPhone 7</u></a></li>
+</ul></div>

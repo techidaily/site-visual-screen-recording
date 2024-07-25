@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Enhancing Productivity with Efficient NVIDIA Capture"
-date: 2024-05-18T18:56:55.066Z
-updated: 2024-05-19T18:56:55.066Z
+date: 2024-07-24T14:58:39.451Z
+updated: 2024-07-25T14:58:39.451Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Enhancing Productivity with Efficient NVIDIA Capture"
 excerpt: "This Article Describes In 2024, Enhancing Productivity with Efficient NVIDIA Capture"
 keywords: "Efficiency NVidia Capture,Nvidia Workflow Improvement,Enhanced Productivity Tools,Nvidia Streamline Tech,NVIDIA Efficient Data,Accelerated Workflows NVidia,Optimized Video Capture"
-thumbnail: https://www.lifewire.com/thmb/b7hSKwI9Oajpbwr32n5Vsf7fcds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/operationcouldnotcomplete-95695abe458d4062a2c2f7e46e656b08.png
+thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7eef6880dc4b8d8fa008ddde2f.png
 ---
 
 ## Enhancing Productivity with Efficient NVIDIA Capture
@@ -47,6 +47,9 @@ NVIDIA record screen software is popular because it has all the different featur
 
 **User Interface** \- NVIDIA ShadowPlay has an intuitive and user-friendly interface that users can operate without going through any tutorial. There are not many complicated options and steps required and this enhances the overall user experience as well as the speed of operation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Record Games NVIDIA Screen Recorder
 
 NVIDIA ShadowPlay comes under NVIDIA GeForce recording option. This means you cannot open ShadowPlay directly, and you have to open it via GeForce Experience. Therefore, you need to have GeForce Experience installed on your phone. Apart from ShadowPlay, you get a direct game streaming option, instant game settings optimization and NVIDIA graphics card updates under GeForce Experience. Here are the steps to follow to use NVIDIA record screen software to record gameplay.
@@ -71,6 +74,9 @@ Step 5: Turn on Instant Replay option to save epic moments during the gameplay. 
 
 Step 6: During the gameplay, you can get back NVIDIA ShadowPlay overlay by pressing Alt + Z. Top stop recording, go to Record option and click on Stop and Save option.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Performance and Requirements
 
 There have been concerns raised by professional gamers that when you use NVIDIA ShadowPlay to record gameplay or even broadcast gameplay live, it affects the performance of the game. After thorough experimentation, it has been found that running NVIDIA ShadowPlay to record gameplay or broadcast gameplay leads to the use of system resources. Therefore, there is a dip in the overall performance of the game of 5%-10%. Such a dip is negligible if you have a high-performance gaming computer.
@@ -104,10 +110,16 @@ For macOS 10.12 or later
 
 Step 1: Launch the software and click on new Project. Go to Record and click on Record PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch filmora recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select either entire screen or custom screen to record a specific part of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 3: Finally, click on Record button. You will get a few seconds of buffer time to launch the game that you want to record. Start playing the game and the gameplay will be recorded in the background.
@@ -150,6 +162,9 @@ NVIDIA ShadowPlay comes under NVIDIA GeForce recording option. This means you ca
 
 Step 1: Download and install GeForce Experience from NVIDIA official website. Launch GeForce Experience from Windows Start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![run nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-overlay.jpg)
 
 Step 2: Once GeForce Experience opens, you have to click on the Share button at the top-right corner. This will open NVIDIA Share toolbar at the top of the screen.
@@ -164,10 +179,16 @@ Step 4: Start the game whose gameplay you want to record. You will be asked to p
 
 Step 5: Turn on Instant Replay option to save epic moments during the gameplay. Finally, click on Record option and click on Start option to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![run shadowplay recorder](https://images.wondershare.com/filmora/article-images/run-shadowplay-recorder.jpg)
 
 Step 6: During the gameplay, you can get back NVIDIA ShadowPlay overlay by pressing Alt + Z. Top stop recording, go to Record option and click on Stop and Save option.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Performance and Requirements
 
 There have been concerns raised by professional gamers that when you use NVIDIA ShadowPlay to record gameplay or even broadcast gameplay live, it affects the performance of the game. After thorough experimentation, it has been found that running NVIDIA ShadowPlay to record gameplay or broadcast gameplay leads to the use of system resources. Therefore, there is a dip in the overall performance of the game of 5%-10%. Such a dip is negligible if you have a high-performance gaming computer.
@@ -201,10 +222,16 @@ For macOS 10.12 or later
 
 Step 1: Launch the software and click on new Project. Go to Record and click on Record PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![launch filmora recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select either entire screen or custom screen to record a specific part of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 3: Finally, click on Record button. You will get a few seconds of buffer time to launch the game that you want to record. Start playing the game and the gameplay will be recorded in the background.
@@ -223,6 +250,9 @@ Part 3. [Performance and Requirements](#part3)
 
 Part 4. [A Better Alternative for Screen Recording](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Key Features of NVIDIA Recorder
 
 NVIDIA record screen software is popular because it has all the different features that a user generally looks for while recording gameplay.
@@ -241,12 +271,18 @@ NVIDIA record screen software is popular because it has all the different featur
 
 **User Interface** \- NVIDIA ShadowPlay has an intuitive and user-friendly interface that users can operate without going through any tutorial. There are not many complicated options and steps required and this enhances the overall user experience as well as the speed of operation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Record Games NVIDIA Screen Recorder
 
 NVIDIA ShadowPlay comes under NVIDIA GeForce recording option. This means you cannot open ShadowPlay directly, and you have to open it via GeForce Experience. Therefore, you need to have GeForce Experience installed on your phone. Apart from ShadowPlay, you get a direct game streaming option, instant game settings optimization and NVIDIA graphics card updates under GeForce Experience. Here are the steps to follow to use NVIDIA record screen software to record gameplay.
 
 Step 1: Download and install GeForce Experience from NVIDIA official website. Launch GeForce Experience from Windows Start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![run nvidia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-overlay.jpg)
 
 Step 2: Once GeForce Experience opens, you have to click on the Share button at the top-right corner. This will open NVIDIA Share toolbar at the top of the screen.
@@ -261,6 +297,9 @@ Step 4: Start the game whose gameplay you want to record. You will be asked to p
 
 Step 5: Turn on Instant Replay option to save epic moments during the gameplay. Finally, click on Record option and click on Start option to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![run shadowplay recorder](https://images.wondershare.com/filmora/article-images/run-shadowplay-recorder.jpg)
 
 Step 6: During the gameplay, you can get back NVIDIA ShadowPlay overlay by pressing Alt + Z. Top stop recording, go to Record option and click on Stop and Save option.
@@ -306,6 +345,9 @@ Step 2: Select either entire screen or custom screen to record a specific part o
 
 Step 3: Finally, click on Record button. You will get a few seconds of buffer time to launch the game that you want to record. Start playing the game and the gameplay will be recorded in the background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 In order to stop recording, hover on the top bar and click on Stop button. You will get the saved video file instead Filmora folder.
@@ -320,6 +362,9 @@ Part 3. [Performance and Requirements](#part3)
 
 Part 4. [A Better Alternative for Screen Recording](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Key Features of NVIDIA Recorder
 
 NVIDIA record screen software is popular because it has all the different features that a user generally looks for while recording gameplay.
@@ -338,6 +383,9 @@ NVIDIA record screen software is popular because it has all the different featur
 
 **User Interface** \- NVIDIA ShadowPlay has an intuitive and user-friendly interface that users can operate without going through any tutorial. There are not many complicated options and steps required and this enhances the overall user experience as well as the speed of operation.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Record Games NVIDIA Screen Recorder
 
 NVIDIA ShadowPlay comes under NVIDIA GeForce recording option. This means you cannot open ShadowPlay directly, and you have to open it via GeForce Experience. Therefore, you need to have GeForce Experience installed on your phone. Apart from ShadowPlay, you get a direct game streaming option, instant game settings optimization and NVIDIA graphics card updates under GeForce Experience. Here are the steps to follow to use NVIDIA record screen software to record gameplay.
@@ -350,6 +398,9 @@ Step 2: Once GeForce Experience opens, you have to click on the Share button at 
 
 Step 3: Along with NVIDIA Share toolbar, you will see ShadowPlay overlay UI. There are mainly three options - Instant Replay, Record, and Broadcast.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
 
 If you do not see the overlay containing recording options, click on the Share button at the left of the NVIDIA Share toolbar.
@@ -358,6 +409,9 @@ Step 4: Start the game whose gameplay you want to record. You will be asked to p
 
 Step 5: Turn on Instant Replay option to save epic moments during the gameplay. Finally, click on Record option and click on Start option to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![run shadowplay recorder](https://images.wondershare.com/filmora/article-images/run-shadowplay-recorder.jpg)
 
 Step 6: During the gameplay, you can get back NVIDIA ShadowPlay overlay by pressing Alt + Z. Top stop recording, go to Record option and click on Stop and Save option.
@@ -395,6 +449,10 @@ For macOS 10.12 or later
 
 Step 1: Launch the software and click on new Project. Go to Record and click on Record PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![launch filmora recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select either entire screen or custom screen to record a specific part of the screen.
@@ -403,6 +461,9 @@ Step 2: Select either entire screen or custom screen to record a specific part o
 
 Step 3: Finally, click on Record button. You will get a few seconds of buffer time to launch the game that you want to record. Start playing the game and the gameplay will be recorded in the background.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 In order to stop recording, hover on the top bar and click on Stop button. You will get the saved video file instead Filmora folder.
@@ -436,3 +497,27 @@ NIVIDA game recorder is available for free and there are good enough features to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-live-recording-setup-on-xbox-for-gamers/"><u>[New] 2024 Approved  Live Recording Setup on Xbox for Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-recording-showdown-the-battle-for-the-best-screen-grabber/"><u>[New] 2024 Approved  Recording Showdown  The Battle for the Best Screen Grabber</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-sound-collection-top-10-for-spotify-audiophiles-for-2024/"><u>[New] Elite Sound Collection  Top 10 for Spotify Audiophiles for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-game-recording-on-windows-10-for-2024/"><u>[New] Essential Tips for Game Recording on Windows 10 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-easeus-screen-recorder-featuresreview/"><u>[New] In 2024, EaseUS Screen Recorder Features|Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elite-methods-to-broadcast-and-record-sporting-events/"><u>[New] In 2024, Elite Methods to Broadcast and Record Sporting Events</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-record-online-tv-shows/"><u>[New] In 2024, How to Record Online TV Shows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-valheim-agriculture-seed-selection-insights/"><u>[New] In 2024, Mastering Valheim Agriculture  Seed Selection Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimize-your-workflow-streamlined-processes-for-skype-calls-recording/"><u>[New] In 2024, Optimize Your Workflow  Streamlined Processes for Skype Calls Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamline-media-storage-with-3-tactics/"><u>[New] In 2024, Streamline Media Storage with 3 Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-tips-for-capturing-online-video-conversations-for-2024/"><u>[New] Quick Tips for Capturing Online Video Conversations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-record-to-remember-top-5-best-tools-for-virtual-meeting-capture-for-2024/"><u>[New] Record to Remember  Top 5 Best Tools for Virtual Meeting Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-secure-quick-and-simple-screenshot-techniques-for-w8-users-for-2024/"><u>[New] Secure, Quick & Simple Screenshot Techniques for W8 Users for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-loom-downloader-how-to-loom-screen-record/"><u>[Updated] 2024 Approved  Loom Downloader - How to Loom Screen Record</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-recordings-at-no-extra-cost-guide-to-top-free-tools-for-2024/"><u>[Updated] Effortless Recordings at No Extra Cost – Guide to Top Free Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-google-meet-capture-made-simple-for-mobile-users/"><u>[Updated] In 2024, Google Meet Capture Made Simple for Mobile Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs/"><u>[Updated] In 2024, Live on Air  How to Broadcast on YouTube & Twitch Using OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vrecorder-integration-from-download-to-deployment/"><u>2024 Approved  VRecorder Integration  From Download to Deployment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-xbox-hdd-guide-top-5-essential-reviews/"><u>2024 Approved  Xbox HDD Guide  Top 5 Essential Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-your-ipad-as-a-creative-tool-for-time-lapse/"><u>In 2024, Your iPad as a Creative Tool for Time Lapse</u></a></li>
+</ul></div>

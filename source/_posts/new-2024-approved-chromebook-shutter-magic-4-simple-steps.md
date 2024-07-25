@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Chromebook Shutter Magic - 4 Simple Steps\""
-date: 2024-07-04T16:35:47.636Z
-updated: 2024-07-05T16:35:47.636Z
+date: 2024-07-24T15:16:55.923Z
+updated: 2024-07-25T15:16:55.923Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 # How to Take Screenshots on A Chromebook
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
 Great for those looking for a quick-booting, budget friendly, and auto-updating alternative to the traditional PC or Mac, Chromebooks are swiftly becoming a popular alternative. Boasting a number of quirky features, such as multi-user functionality and a virus-free operating system based on Linux, Chromebooks even showcase the ability to allow users to capture screenshots in a number of different manners with ease. Within this article we’ve composed a 6-section guide on how to take a screenshot on a Chromebook, as well as how to edit them, at the touch of a button.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -44,18 +50,28 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
 Using your Chromebook in tablet mode? If so, then there’s also a handy way to make use of the screenshot feature whilst on the go. Similar to the function offered on most Smart Phone Devices, simply press both the **Power and Volume Down Side Button** to capture a screenshot. Unfortunately, this feature is only useful if you’re looking to capture your entire screen; you’ll need to utilize the keyboard or stylus if you’re planning to crop out a specific section.
@@ -68,6 +84,9 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
 It can often be quite time consuming to capture screenshots, edit, and save them, but there are a number of user-friendly and in-depth third-party applications and extensions on the market to help make the process a little easier. Each allowing you to capture screenshots in a stress-free manner without users even having to leave their browser, here are our Top Picks:
@@ -80,6 +99,9 @@ With a number of simple yet effective editing features built-in, such as further
 
 #### 2. LightShot
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
 
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
@@ -120,3 +142,34 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/home-visionarys-review-best-devices-for-clips-for-2024/"><u>Home Visionary's Review  Best Devices for Clips for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-disable-live-recording-in-quicktime-player-for-2024/"><u>How to Disable Live Recording in QuickTime Player for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-fix-obs-high-encoding-problem-in-2024/"><u>How To Fix OBS High Encoding Problem, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-join-google-meet-on-laptop-and-mobile-in-2024/"><u>How to Join Google Meet On Laptop and Mobile, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-screen-with-ezvid-video-maker/"><u>How to Record Screen with Ezvid Video Maker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-teams-video-meeting/"><u>How to Record Teams Video Meeting?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-save-skype-calls-on-windows-and-os-x-for-2024/"><u>How to Save Skype Calls on Windows and OS X for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-smoothly-incorporate-snap-camera-into-your-meet-calls-for-2024/"><u>How to Smoothly Incorporate Snap Camera Into Your Meet Calls for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-stream-on-youtube-and-twitch-with-obs/"><u>How to Stream on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-take-advantage-of-itunes-for-video-capture-for-2024/"><u>How to Take Advantage of iTunes for Video Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-use-d3dgear-screen-recorder-for-2024/"><u>How to Use D3DGear Screen Recorder for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-guide-for-soundless-video-documentation/"><u>How-To Guide for Soundless Video Documentation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hp-laptop-screen-recording-the-best-approaches-explained/"><u>HP Laptop Screen Recording  The Best Approaches Explained</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hps-simplified-guide-to-capturing-and-storing-pc-screen-content-for-2024/"><u>HP's Simplified Guide to Capturing and Storing PC Screen Content for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hurdlehop-pausevidsnapshot-for-2024/"><u>HurdleHop PauseVidSnapshot for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games/"><u>Ideal iOS Options  The Finest Selector of Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games-for-2024/"><u>Ideal iOS Options  The Finest Selector of Emulators for Playing PSP Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ideal-online-audio-equipment-top-7-picks-2023/"><u>Ideal Online Audio Equipment  Top 7 Picks 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/immersive-odyssey-top-10-best-free-mmorpgs-ever/"><u>Immersive Odyssey  Top 10 Best Free MMORPGs Ever</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-best-webcams-you-should-know/"><u>In 2024, 10 Best Webcams You Should Know</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-2023s-premier-ios-solutions-best-psp-game-simulators/"><u>In 2024, 2023'S Premier iOS Solutions  Best PSP Game Simulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-5-pinnacle-clippers-for-your-mac-experience/"><u>In 2024, 5 Pinnacle Clippers for Your Mac Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-7-amazing-builds-in-creative-mode/"><u>In 2024, 7 Amazing Builds in Creative Mode</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-8-leading-edge-screensnap-solutions/"><u>In 2024, 8 Leading-Edge Screensnap Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-comparative-review-of-filmmaking-apps-filmora-and-democracy-creator/"><u>In 2024, A Comparative Review of Filmmaking Apps  Filmora & Democracy Creator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-complete-walkthrough-of-vlc-capture-settings/"><u>In 2024, A Complete Walkthrough of VLC Capture Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3/"><u>In 2024, A Deeper Dive Into Documenting Gaming Sessions on the PS3</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs/"><u>In 2024, A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS</u></a></li>
+</ul></div>

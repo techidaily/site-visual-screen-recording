@@ -1,7 +1,7 @@
 ---
 title: "Dos and Don'ts in Night Portraits"
-date: 2024-05-18T18:30:04.360Z
-updated: 2024-05-19T18:30:04.360Z
+date: 2024-07-24T13:34:31.625Z
+updated: 2024-07-25T13:34:31.625Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Dos and Don'ts in Night Portraits"
 excerpt: "This Article Describes Dos and Don'ts in Night Portraits"
 keywords: "Top Spotify Tracks,Hottest Spotify Songs,Popular Spotify Tunes,Famous Spotify Melodies,Iconic Spotify Beats,Trending Spotify Lists,Essential Spotify Playlists"
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Dos and Don'ts in Night Portraits
@@ -21,6 +21,18 @@ It has been seen that most portrait photography is carried out during the daytim
 
 Well, **night-mode portraits** can be such an opportunity. However, it can be a little challenging for you. Night portrait shoots require the photographer to manipulate shutter speed, aperture, ISO, and more. Besides, there are certain dos and don'ts that you also need to keep in mind. Keep reading to know more about this.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
 ## Part 1: Must-Dos in Night Portraits
@@ -33,6 +45,10 @@ One of the most difficult repercussions of **night mode portraits** is that ever
 
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 2\. Lighting your Subject
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
@@ -41,6 +57,9 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
@@ -62,14 +81,23 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
@@ -92,8 +120,14 @@ For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
@@ -102,6 +136,9 @@ As per the experts, the lower the aperture, the more light your camera will rece
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Are the Best Camera Settings for Night Photography?
 
 You should use your camera in manual mode. Besides, utilizing long camera shutter speeds, around 30 seconds to 60 seconds, will be good. Sometimes, using auto-white balance, you can get great results. The experts also suggest keeping the aperture around f/11 and going for a low ISO, between 100 to 200.
@@ -137,3 +174,28 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-seamless-slack-filmora-synergy-your-guide-to-meeting-organization/"><u>[New] 2024 Approved  Seamless Slack-Filmora Synergy  Your Guide to Meeting Organization</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enhancing-your-playback-quality-tips-for-roblox-recordings-mac/"><u>[New] Enhancing Your Playback Quality  Tips for Roblox Recordings (Mac)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-top-methods-for-remotely-podcasting-success/"><u>[New] In 2024, The Top Methods for Remotely Podcasting Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-into-the-future-the-best-10-free-video-call-applications-for-2024/"><u>[New] Step Into the Future  The Best 10 FREE Video Call Applications for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>[Updated] 2024 Approved  Simplifying Streaming  Key Tactics for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[Updated] 2024 Approved  Snapshot Spectaculars  An Expert's Review of Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>[Updated] 2024 Approved  Virtual Meetups Made Simple  Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-download-to-usage-setting-up-obs-on-a-mac/"><u>[Updated] From Download to Usage  Setting Up OBS on a Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screen-streaming-showdown-whos-the-champion-obs-or-shadowgl/"><u>[Updated] In 2024, Screen Streaming Showdown  Who's the Champion? OBS or ShadowGL?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-10-stress-relieving-games/"><u>[Updated] In 2024, Top 10 Stress Relieving Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-start-installing-vrecorder-effortlessly-for-2024/"><u>[Updated] Quick Start  Installing VRecorder Effortlessly for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-zero-cost-seminar-capture-for-2024/"><u>[Updated] The Ultimate Guide  Zero-Cost Seminar Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/conquer-business-the-top-12-tycoon-games-for-leaders-in-training/"><u>Conquer Business  The Top 12 Tycoon Games for Leaders-in-Training</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dissecting-the-prospects-of-active-presenter-for-techies/"><u>Dissecting the Prospects of Active Presenter for Techies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fixing-intermittent-frames-in-obs-recordings/"><u>Fixing Intermittent Frames in OBS Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-document-your-nintendo-switch-adventures/"><u>How to Document Your Nintendo Switch Adventures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-enhance-your-gaming-sims-4-on-camera-techniques/"><u>In 2024, Enhance Your Gaming  Sims 4 on Camera Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-everlasting-screenshot-functionality/"><u>In 2024, Everlasting Screenshot Functionality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximizing-harvest-valheims-prime-planting-choices/"><u>Maximizing Harvest  Valheim's Prime Planting Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/phone-as-webcam-a-step-by-step-guide-for-mobile-video-capture/"><u>Phone as Webcam  A Step-by-Step Guide for Mobile Video Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-internet-voice-pads/"><u>Premium Internet Voice Pads</u></a></li>
+</ul></div>

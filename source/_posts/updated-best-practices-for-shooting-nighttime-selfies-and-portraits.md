@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Practices for Shooting Nighttime Selfies & Portraits"
-date: 2024-05-20T06:46:01.996Z
-updated: 2024-05-21T06:46:01.996Z
+date: 2024-07-24T11:57:32.994Z
+updated: 2024-07-25T11:57:32.994Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Best Practices for Shooting Nighttime Selfies & Portraits"
 excerpt: "This Article Describes [Updated] Best Practices for Shooting Nighttime Selfies & Portraits"
 keywords: "\"Sports Game Stream Quality,Top Sports Live Streaming Tips,Optimal Sports Viewing Experience,Best Sports Stream Standards,High-Quality Sport Broadcasting,Premier Sport Stream Techniques,Elite Sports Streaming Practices\""
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## Best Practices for Shooting Nighttime Selfies & Portraits
@@ -21,18 +21,27 @@ It has been seen that most portrait photography is carried out during the daytim
 
 Well, **night-mode portraits** can be such an opportunity. However, it can be a little challenging for you. Night portrait shoots require the photographer to manipulate shutter speed, aperture, ISO, and more. Besides, there are certain dos and don'ts that you also need to keep in mind. Keep reading to know more about this.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Shooting with a topic
 
 One of the most difficult repercussions of **night mode portraits** is that everything in your sight takes on a strange appeal, which can easily make it challenging to understand the composition and picture subject. Well, to avoid such an issue, you need to make yourself familiarized with your topic or subject. So, you can arrive at the location before sunset and begin the setup procedure.
 
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Lighting your Subject
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
@@ -47,6 +56,23 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -58,6 +84,9 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 * Close down the aperture.
 * Allow your subject to move into the focus distance.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
@@ -68,12 +97,21 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
 Another thing you need to avoid here is the overuse of light. You need to work on the primary exposure settings, i.e., the ISO, aperture and shutter speed. You should keep in mind that these three configurations will create exposure and influence the photos' overall brightness. One thing to consider while choosing the setting is to have a photo with a lot of detail in the mid-tones, highlights, and shadows.
@@ -102,6 +140,9 @@ As per the experts, the lower the aperture, the more light your camera will rece
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Are the Best Camera Settings for Night Photography?
 
 You should use your camera in manual mode. Besides, utilizing long camera shutter speeds, around 30 seconds to 60 seconds, will be good. Sometimes, using auto-white balance, you can get great results. The experts also suggest keeping the aperture around f/11 and going for a low ISO, between 100 to 200.
@@ -137,3 +178,40 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-complete-breakdown-of-freelens-cam-software/"><u>[New] 2024 Approved  A Complete Breakdown of Freelens Cam Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-free-no-invasive-android-video-recorders/"><u>[New] 2024 Approved  Best Free, No-Invasive Android Video Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-comprehensive-guide-to-hp-laptops-screen-recording-features-for-2024/"><u>[New] A Comprehensive Guide to HP Laptop's Screen Recording Features for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-mac-screen-recorder-with-audio-for-2024/"><u>[New] Best Mac Screen Recorder with Audio for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-comprehensive-list-of-webinar-recording-methods/"><u>[New] The Comprehensive List of Webinar Recording Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-art-of-itunes-video-capture/"><u>[New] Unveiling the Art of iTunes Video Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-10-outstanding-windows-10-video-capture-solutions-for-2024/"><u>[Updated] 10 Outstanding Windows 10 Video Capture Solutions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-masterful-screen-recordings-on-hp-systems/"><u>[Updated] 2024 Approved  A Step-by-Step Approach to Masterful Screen Recordings on HP Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-of-the-best-a-ranked-list-of-top-10-video-call-apps-for-2024/"><u>[Updated] Best of the Best  A Ranked List of Top 10 Video Call Apps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-bidfarewelltomycam-the-quest-for-improved-options/"><u>[Updated] BidFarewellToMyCam  The Quest for Improved Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cost-effective-video-capture-for-less-expensive-systems/"><u>[Updated] Cost-Effective Video Capture for Less Expensive Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-practices-saving-whatsapp-conversations-audio-wise/"><u>[Updated] In 2024, Best Practices  Saving WhatsApp Conversations Audio-Wise</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-guide-to-game-capturing-roblox-and-mac-integration/"><u>[Updated] In-Depth Guide to Game Capturing  Roblox & Mac Integration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-keeping-the-memories-efficiently-taking-screenshots-on-xbox-one/"><u>[Updated] Keeping the Memories  Efficiently Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-masking-methods-for-confidential-recordings/"><u>[Updated] Masking Methods for Confidential Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-android-screen-grabber/"><u>[Updated] Seamless Android Screen Grabber</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-playlist-best-sandbox-game-choices/"><u>[Updated] The Ultimate Playlist  Best Sandbox Game Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-budget-friendly-gaming-capture-software-revealed/"><u>[Updated] Top Budget-Friendly Gaming Capture Software Revealed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-discover-the-top-tools-to-record-and-share-classroom-content/"><u>2024 Approved  Discover the Top Tools to Record and Share Classroom Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-maximizing-efficiency-video-capturing-in-adobe-presenter/"><u>2024 Approved  Maximizing Efficiency  Video Capturing in Adobe Presenter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ranked-top-ios-solutions-for-playing-classic-psp-games-today/"><u>2024 Approved  Ranked Top iOS Solutions for Playing Classic PSP Games Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-free-guide-to-conducting-flawless-google-meet-sessions/"><u>2024 Approved  The Free Guide to Conducting Flawless Google Meet Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-low-cost-smart-home-devices-for-gaming/"><u>2024 Approved  Ultimate Low-Cost Smart Home Devices for Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-thorough-insight-into-obs-recording-technology-for-2024/"><u>A Thorough Insight Into OBS Recording Technology for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capture-slide-show-as-cinema-ready-media-for-2024/"><u>Capture Slide Show as Cinema-Ready Media for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/chuckles-and-challenges-best-fun-for-young-minds-for-2024/"><u>Chuckles & Challenges - Best Fun for Young Minds for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-accelerate-your-adrenaline-the-ultimate-5-racing-game-list/"><u>In 2024, Accelerate Your Adrenaline  The Ultimate 5 Racing Game List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-debating-the-need-for-itop-screencasting/"><u>In 2024, Debating the Need for ITop Screencasting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-techniques-improve-your-hp-laptop-screen-recordings-for-2024/"><u>Innovative Techniques  Improve Your HP Laptop Screen Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximizing-ipad-audio-record-best-tips-in-2024/"><u>Maximizing iPad Audio Record  Best Tips, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vintage-racing-spectacles-top-five/"><u>Vintage Racing Spectacles  Top Five</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/winning-at-capturing-conversations-windows-vs-mac-recording-tactics/"><u>Winning at Capturing Conversations - Windows vs Mac Recording Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/youtube-mastery-screen-recording-unveiled/"><u>YouTube Mastery  Screen Recording Unveiled</u></a></li>
+</ul></div>
