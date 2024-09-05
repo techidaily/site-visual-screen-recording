@@ -1,7 +1,7 @@
 ---
 title: "Amazon Luna Gaming Console Analysis: Impressive Cloud-Based Play Experience"
-date: 2024-08-30T19:08:23.630Z
-updated: 2024-08-31T19:08:23.630Z
+date: 2024-09-04T04:26:27.654Z
+updated: 2024-09-05T04:26:27.654Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Luna Gaming Console Analysis: Impressive Cloud-Based Play Experience"
@@ -69,9 +69,6 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
@@ -88,9 +85,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
  In addition to the offset analog sticks, the Luna controller also features a fairly standard array of buttons. A somewhat mushy directional pad sits below the left analog stick, and four familiar face buttons sit above the right stick. The triggers are fairly shallow but feel responsive, and shoulder buttons are easily accessed without moving your fingers off the triggers. In addition to the standard array, the Luna controller also includes a microphone button to access Alexa.
@@ -104,7 +98,10 @@ Lifewire / Jeremy Laukkonen
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Setup Process: Quick and easy
 
@@ -114,12 +111,30 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Jeremy Laukkonen
 
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance: Impressive game streaming, but no 4K
 
  I tested Luna with the optional Wi-Fi Luna controller and a wired Xbox Series X/S controller on my Windows laptop and with the Luna controller on my Fire TV Cube,[M1 MacBook](https://www.lifewire.com/macbook-air-13-inch-m1-2020-review-5092793) , Pixel 3 phone, and Fire TV Edition Insignia television. Each of these devices was connected to a 1GB cable internet connection from Mediacom via my Eero mesh 5GHz Wi-Fi network.
@@ -141,12 +156,16 @@ Lifewire / Jeremy Laukkonen
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
@@ -167,7 +186,10 @@ Lifewire / Jeremy Laukkonen
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Price: Affordable fee reflects the thin library
 
@@ -193,15 +215,18 @@ Lifewire / Jeremy Laukkonen
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Luna
