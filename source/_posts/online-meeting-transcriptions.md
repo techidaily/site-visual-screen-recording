@@ -1,7 +1,7 @@
 ---
 title: "Online Meeting Transcriptions"
-date: 2024-09-09T18:21:02.921Z
-updated: 2024-09-10T18:21:02.921Z
+date: 2024-09-09T16:15:28.208Z
+updated: 2024-09-15T21:38:14.563Z
 tags: 
   - screen-recording
   - ai video
@@ -15,12 +15,6 @@ keywords: "\"Remote Meetings Texts,Virtual Conference Notes,Online Gathering Aud
 thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Online Meeting Transcriptions
 
 # How to Record a Webinar
@@ -54,18 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -84,12 +66,6 @@ Select the Quick Capture option in the software's welcome screen and proceed to 
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
@@ -98,12 +74,6 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
@@ -116,24 +86,12 @@ You can stop recording by hitting the F10 key on the keyboard again, and once yo
 
 ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
 Following these simple steps will help you produce insightful and well-rounded webinars that will attract a lot of attention online.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -148,54 +106,36 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cinematic-dialogue-assembler/"><u>[New] 2024 Approved  Cinematic Dialogue Assembler</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-crimson-classic-codec/"><u>[New] Crimson Classic Codec</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-tools-for-quality-4k-video-recording-for-2024/"><u>[New] Essential Tools for Quality 4K Video Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-comprehensive-list-zoom-recording-must-haves/"><u>[New] In 2024, Comprehensive List  Zoom Recording Must-Haves</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-decoding-the-process-of-capturing-facebooks-gifs-on-mobilepc/"><u>[New] In 2024, Decoding the Process of Capturing Facebook's GIFs on Mobile/PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-dynamic-duels-ranking-the-top-street-fighter-titles/"><u>[New] In 2024, Dynamic Duels  Ranking the Top Street Fighter Titles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harmonyheed-evaluating-audio-artifacts/"><u>[New] In 2024, HarmonyHeed  Evaluating Audio Artifacts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-professional-voice-recording-made-easy-with-ipad-for-2024/"><u>[New] Professional Voice Recording Made Easy with iPad for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-revive-the-past-best-ps1-emulation-software-for-modern-systems/"><u>[New] Revive the Past  Best PS1 Emulation Software for Modern Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-reviving-the-past-flipping-iphone-video-streams/"><u>[New] Reviving the Past  Flipping iPhone Video Streams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-filming-your-overwatch-victories/"><u>[New] Step-by-Step  Filming Your Overwatch Victories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streaming-to-the-next-level-the-top-5-game-cameras-reviewed/"><u>[Updated] 2024 Approved  Streaming to the Next Level  The Top 5 Game Cameras Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-perfect-blueprint-recording-google-voice-calls/"><u>[Updated] 2024 Approved  The Perfect Blueprint  Recording Google Voice Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-your-touch-top-8-free-android-recorders/"><u>[Updated] Capturing Your Touch  Top 8 Free Android Recorders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-hulu-recordings-for-windows-mac-and-mobile-users-for-2024/"><u>[Updated] Effortless Hulu Recordings for Windows, Mac & Mobile Users for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-clearing-up-audio-in-skype-conferences/"><u>[Updated] In 2024, Clearing Up Audio in Skype Conferences</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-focus-on-the-main-sound-in-video-capturing-free-advice/"><u>[Updated] In 2024, Focus on the Main Sound in Video Capturing (Free Advice)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pcs-premier-ps3-imitators-ranked-top-5-choices/"><u>[Updated] In 2024, PC's Premier PS3 Imitators Ranked  Top 5 Choices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pinnacle-webinar-software-options/"><u>[Updated] In 2024, Pinnacle Webinar Software Options</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-the-secrets-of-srt-creation-from-text-formats/"><u>[Updated] In 2024, Unveiling the Secrets of SRT Creation From Text Formats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximize-impact-with-proficient-facebook-live-recording-for-2024/"><u>[Updated] Maximize Impact with Proficient Facebook Live Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-logitech-webcam-settings-for-professional-video-outputs/"><u>[Updated] Optimal Logitech Webcam Settings for Professional Video Outputs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-precision-trimming-elevating-your-youtube-video-quality/"><u>[Updated] Precision Trimming  Elevating Your YouTube Video Quality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-device-quality-analysis-for-2024/"><u>[Updated] Recording Device Quality Analysis for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-recordtv-easy-cost-free-windows-software-tips-for-2024/"><u>[Updated] RecordTV  Easy, Cost-Free Windows Software Tips for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unleash-the-virtuoso-in-you-tiktok-videos-made-worthy-by-themed-designs-for-2024/"><u>[Updated] Unleash the Virtuoso in You  TikTok Videos Made Worthy by Themed Designs for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-an-introduction-to-effective-image-previews/"><u>2024 Approved  An Introduction to Effective Image Previews</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-metaverse-vs-omniverse-showdown-a-comprehensive-overview/"><u>2024 Approved  The Metaverse Vs. Omniverse Showdown  A Comprehensive Overview</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-top-performing-scanners-for-high-quality-document-and-photograph-digitization/"><u>2024'S Top-Performing Scanners for High-Quality Document and Photograph Digitization</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-virtual-horizons-with-meaningful-metaverse-sentiments/"><u>Exploring Virtual Horizons with Meaningful Metaverse Sentiments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-inserting-new-words-into-your-android-keyboards-personal-dictionary/"><u>Guide: Inserting New Words Into Your Android Keyboard's Personal Dictionary</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-restore-iphones-vibration-feature-when-silenced-a-step-by-step-guide-for-problem-solving/"><u>How to Restore iPhone's Vibration Feature When Silenced: A Step-by-Step Guide for Problem Solving</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-itel-p55-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Itel P55 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-sony-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Sony Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-compatible-thunderbolt-3-driver-downloads-for-windows-users-step-by-step-tutorial/"><u>Latest Compatible Thunderbolt 3 Driver Downloads for Windows Users: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quantity-of-videos-on-128gb-storage-media-for-2024/"><u>Quantity of Videos on 128GB Storage Media for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/rainbow-six-error-fixing-mastering-solution-techniques-for-code-3-0x0001000b/"><u>Rainbow Six Error Fixing: Mastering Solution Techniques for Code 3-0X0001000B</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-spheres-meld-facebook-and-instagrams-bond-deepens/"><u>Social Spheres Meld: Facebook & Instagram's Bond Deepens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-unresponsive-delete-button-issue-on-pcs/"><u>Solving Unresponsive Delete Button Issue on PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unveiling-differences-amazons-kindle-versus-fire-tablet-devices/"><u>Unveiling Differences: Amazon's Kindle Versus Fire Tablet Devices</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-the-power-of-screen-recording-a-filmora-scrn-tutorial/"><u>Updated In 2024, Unlock the Power of Screen Recording A Filmora Scrn Tutorial</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered/"><u>[New] 2024 Approved Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-troubleshooting-a-non-operational-obs-video-capture-for-2024/"><u>[New] Troubleshooting a Non-Operational OBS Video Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-guide-to-choosing-top-skype-recorder-hats/"><u>[Updated] Essential Guide to Choosing Top Skype Recorder Hats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-recording-google-voice-calls/"><u>[Updated] In 2024, Unlocking the Potential of Recording Google Voice Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-video-editing-showdown-bandicams-capabilities-compared-to-camtasia/"><u>[Updated] In 2024, Video Editing Showdown Bandicam's Capabilities Compared to Camtasia</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings-for-2024/"><u>[Updated] Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>[Updated] Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-explore-premium-download-options-for-mp4/"><u>2024 Approved Explore Premium Download Options for MP4</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-driven-personalization-enhancing-your-websites-user-experience/"><u>Cookiebot-Driven Personalization: Enhancing Your Website's User Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-recording-on-mac-unveiling-the-secrets-for-2024/"><u>Effortless Recording on Mac Unveiling the Secrets for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-screenplay-editing-solutions-for-apps/"><u>Elite Screenplay Editing Solutions for Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>In 2024, Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-essential-watch-top-8-internet-gems/"><u>In 2024, Essential Watch Top 8 Internet Gems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-easter-eggstravaganza-wondershare-filmora-promo-code-inside/"><u>New Easter Eggstravaganza Wondershare Filmora Promo Code Inside</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

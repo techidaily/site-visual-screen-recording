@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mac Screenshots  Transforming Extensions for 2024\""
-date: 2024-09-09T18:21:05.434Z
-updated: 2024-09-10T18:21:05.434Z
+date: 2024-09-11T21:54:17.217Z
+updated: 2024-09-16T00:53:33.351Z
 tags: 
   - screen-recording
   - ai video
@@ -15,24 +15,12 @@ keywords: "Mac Screenshot Tools,Screen Capture Software,Mac Extension Guide,Scre
 thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mac Screenshots: Transforming Extensions
 
 # How to Change Screenshot File Formats on a Mac
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -43,18 +31,6 @@ However, the process of changing the default screenshot file format on a Mac is 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -72,18 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
@@ -96,16 +60,17 @@ Each image file format Mac computer support is designed for different purposes, 
 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
 When the Terminal window appears on the screen you will have to insert the following command:
@@ -142,50 +107,24 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-curb-automated-youtube-content-feeds/"><u>[New] 2024 Approved  Curb Automated YouTube Content Feeds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-live-recording-setup-on-xbox-for-gamers/"><u>[New] 2024 Approved  Live Recording Setup on Xbox for Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-recording-showdown-the-battle-for-the-best-screen-grabber/"><u>[New] 2024 Approved  Recording Showdown  The Battle for the Best Screen Grabber</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elite-sound-collection-top-10-for-spotify-audiophiles-for-2024/"><u>[New] Elite Sound Collection  Top 10 for Spotify Audiophiles for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-game-recording-on-windows-10-for-2024/"><u>[New] Essential Tips for Game Recording on Windows 10 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-easeus-screen-recorder-featuresreview/"><u>[New] In 2024, EaseUS Screen Recorder Features|Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elite-methods-to-broadcast-and-record-sporting-events/"><u>[New] In 2024, Elite Methods to Broadcast and Record Sporting Events</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-record-online-tv-shows/"><u>[New] In 2024, How to Record Online TV Shows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-valheim-agriculture-seed-selection-insights/"><u>[New] In 2024, Mastering Valheim Agriculture  Seed Selection Insights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimize-your-workflow-streamlined-processes-for-skype-calls-recording/"><u>[New] In 2024, Optimize Your Workflow  Streamlined Processes for Skype Calls Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamline-media-storage-with-3-tactics/"><u>[New] In 2024, Streamline Media Storage with 3 Tactics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-open-source-banner-resources-a-gift-to-youtubers/"><u>[New] Open Source Banner Resources  A Gift to YouTubers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-quick-tips-for-capturing-online-video-conversations-for-2024/"><u>[New] Quick Tips for Capturing Online Video Conversations for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-record-to-remember-top-5-best-tools-for-virtual-meeting-capture-for-2024/"><u>[New] Record to Remember  Top 5 Best Tools for Virtual Meeting Capture for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-secure-quick-and-simple-screenshot-techniques-for-w8-users-for-2024/"><u>[New] Secure, Quick & Simple Screenshot Techniques for W8 Users for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-stardews-ultimate-game-changing-mods-a-curated-list-for-2024/"><u>[New] Stardew's Ultimate Game-Changing Mods  A Curated List for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-loom-downloader-how-to-loom-screen-record/"><u>[Updated] 2024 Approved  Loom Downloader - How to Loom Screen Record</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-experts-handbook-on-laptop-screencapture/"><u>[Updated] 2024 Approved  The Expert's Handbook on Laptop ScreenCapture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-recordings-at-no-extra-cost-guide-to-top-free-tools-for-2024/"><u>[Updated] Effortless Recordings at No Extra Cost – Guide to Top Free Tools for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-google-meet-capture-made-simple-for-mobile-users/"><u>[Updated] In 2024, Google Meet Capture Made Simple for Mobile Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-jumpstart-your-collaboration-zooms-screen-share-essentials/"><u>[Updated] In 2024, Jumpstart Your Collaboration  Zoom's Screen-Share Essentials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs/"><u>[Updated] In 2024, Live on Air  How to Broadcast on YouTube & Twitch Using OBS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-video-scaling-on-mac-for-perfect-instagram-posts/"><u>[Updated] In 2024, Mastering Video Scaling on Mac for Perfect Instagram Posts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamline-your-video-capture-on-youtube/"><u>[Updated] In 2024, Streamline Your Video Capture on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-professional-video-tweaks-via-youtube-studio-editor/"><u>[Updated] Professional Video Tweaks via YouTube Studio Editor</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comparing-major-online-communities-insights-into-facebook-twitter-instagram-and-youtube/"><u>Comparing Major Online Communities: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-10-top-options-for-personal-and-professional-use-for-2024/"><u>Free Video Hosting 10 Top Options for Personal and Professional Use for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-13-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 13 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-setup-continuous-auto-video-in-fb-for-2024/"><u>How to Setup Continuous Auto-Video in Fb for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-9-proplus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 9 Pro+ Location by Number | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-find-x7-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Find X7 to iPod | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-your-ipad-as-a-creative-tool-for-time-lapse/"><u>In 2024, Your iPad as a Creative Tool for Time Lapse</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insider-insights-on-teslas-robotaxi-anticipated-pricing-and-launch-timeline-unveiled/"><u>Insider Insights on Tesla's Robotaxi - Anticipated Pricing & Launch Timeline Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-s24-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy S24</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -193,3 +132,19 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-2024s-top-iphone-selfie-assistants-ranked-8/"><u>[New] 2024'S Top iPhone Selfie Assistants Ranked #8</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-igtv-mastery-best-video-editors-for-social-media/"><u>[Updated] IGTV Mastery Best Video Editors for Social Media</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-screensnatchers-guide-to-beautifully-free-bgs-on-tiktok-for-2024/"><u>[Updated] ScreenSnatchers' Guide to Beautifully Free BGs on TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-smart-approach-to-video-marketing-for-smbs/"><u>[Updated] The SMART Approach to Video Marketing for SMBs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-123-drivers-find-and-install-updates-today/"><u>Free CanoScan LiDE 123 Drivers: Find and Install Updates Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-external-monitor-not-responding-in-windows-os/"><u>Resolving External Monitor Not Responding in Windows OS</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stepwise-process-for-connecting-your-canon-printer/"><u>Stepwise Process for Connecting Your Canon Printer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-ways-to-preserve-and-log-youtube-live-streams-for-2024/"><u>Top Ways to Preserve and Log YouTube Live Streams for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-windows-11-bluetooth-not-detected-issue-effectively/"><u>Troubleshoot and Solve Windows 11 Bluetooth Not Detected Issue Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/which-live-stream-software-wins-exploring-obs-vs-streamlabs-for-2024/"><u>Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/win-11s-10-finest-webcams-for-high-quality-capture-for-2024/"><u>Win 11'S 10 Finest Webcams For High-Quality Capture for 2024</u></a></li>
+</ul></div>
+

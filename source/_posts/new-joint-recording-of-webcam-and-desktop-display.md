@@ -1,7 +1,7 @@
 ---
 title: "[New] Joint Recording of Webcam and Desktop Display"
-date: 2024-09-09T18:21:01.567Z
-updated: 2024-09-10T18:21:01.567Z
+date: 2024-09-14T01:03:02.811Z
+updated: 2024-09-16T00:07:50.190Z
 tags: 
   - screen-recording
   - ai video
@@ -15,30 +15,12 @@ keywords: "\"Webcam & Screen Meld,Combined Webcam View,Unified Video Feed,Dual S
 thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Joint Recording of Webcam and Desktop Display
 
 # How to Capture Computer Screens and Webcam Video Simultaneously on Windows10?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -47,34 +29,16 @@ We perform so many different tasks on our computers every day, but we rarely get
 
 You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Capture Screens and Webcam Videos with Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 PC users have a variety of [screen recorders](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal that can either be used free of charge or for a small fee. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that also offers screen capturing functionality, which enables you to record the webcam feed and computer screen at the same time.
 
 Once you’ve installed Fimora on your PC, you should launch the app and create a new project. After Filmora’s main window loads, you should head over to the Media tab, and click on the Record drop-down menu that is located next to the Import drop-down menu.
 
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
 ![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
@@ -91,12 +55,6 @@ Optionally, you can set the keyboard shortcuts that enable you to start, stop, p
 
 After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
 
 All you need to do in order to access the Game Bar on Windows 10 is to use the Win + G keyboard shortcut. The screen capturing options you will have at your disposal are underwhelming at best since you won’t be able to select the resolution or the frame rate of the video you’re recording. However, you just need to enable the microphone and click on the Record button to start capturing the gameplay of the video game you’re playing or any other activity on your computer.
@@ -127,70 +85,36 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-alternative-to-cyberlink-a-comparative-study-of-recording-software/"><u>[New] 2024 Approved  Alternative to Cyberlink  A Comparative Study of Recording Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expert-teamblend-strategies-for-clear-conference-shots/"><u>[New] 2024 Approved  Expert Teamblend Strategies for Clear Conference Shots</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-highest-rated-nintendo-switch-battle-titles-max-156/"><u>[New] 2024 Approved  Highest-Rated Nintendo Switch Battle Titles (Max 156)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/"><u>[New] 2024 Approved  Learn Free Online Methods for Turning Facebook Videos Into MP4 HD</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-sneak-peeks-stealthy-video-capture-techniques/"><u>[New] 2024 Approved  Sneak Peeks  Stealthy Video Capture Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-techniques-to-archivalize-chat-communication-in-whatsapp/"><u>[New] 2024 Approved  Techniques to Archivalize Chat Communication in WhatsApp</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-alter-macs-screen-capture-store-path-for-2024/"><u>[New] Alter Mac's Screen Capture Store Path for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-crafting-ae-titles-with-maximum-impression/"><u>[New] Crafting AE Titles with Maximum Impression</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essentials-checklist-for-evaluating-vidma-recorder-for-2024/"><u>[New] Essentials Checklist for Evaluating Vidma Recorder for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-harvest-heartbeats-top-farm-games-for-friendly-fun-for-2024/"><u>[New] Harvest Heartbeats  Top Farm Games for Friendly Fun for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-viewing-on-facebook-live/"><u>[New] In 2024, Mastering Viewing on Facebook Live</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pixel-perfect-recorder-for-pcs/"><u>[New] In 2024, Pixel Perfect Recorder for PCs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-precision-planning-the-guide-to-online-collaboration/"><u>[New] In 2024, Precision Planning  The Guide to Online Collaboration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-maximize-your-content-with-these-top-5-obs-tips-for-2024/"><u>[New] Maximize Your Content with These Top 5 OBS Tips for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-outstanding-10-screenshot-and-recording-titles-for-gamers-for-2024/"><u>[New] Outstanding 10 Screenshot and Recording Titles for Gamers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premier-audio-archivers-for-teachings-for-2024/"><u>[New] Premier Audio Archivers for Teachings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionize-your-obs-studio-videos-best-practices/"><u>[New] Revolutionize Your OBS Studio Videos  Best Practices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-techniques-to-pull-facebook-videos-easily-for-2024/"><u>[New] Techniques to Pull Facebook Videos Easily for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-essential-guide-to-capturing-switch-on-film/"><u>[New] The Essential Guide to Capturing Switch on Film</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-streamlined-subscription-links-for-video-channels/"><u>[Updated] 2024 Approved  Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-guidelines-for-perfect-nightscape-photography/"><u>[Updated] 2024 Approved  Guidelines for Perfect Nightscape Photography</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-internet-media-our-picks-for-top-browser-recording-tools/"><u>[Updated] 2024 Approved  Mastering Internet Media  Our Picks for Top Browser Recording Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-remote-recording-mastery-a-comprehensive-approach/"><u>[Updated] 2024 Approved  Remote Recording Mastery  A Comprehensive Approach</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-simplysnap-screen-shots-for-w10-users/"><u>[Updated] 2024 Approved  SimplySnap Screen Shots for W10 Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-list-of-12-superior-flipscreen-vlog-cameras/"><u>[Updated] 2024 Approved  The Ultimate List of 12 Superior Flipscreen Vlog Cameras</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-avoiding-legal-issues-best-practices-for-zoom-records-for-2024/"><u>[Updated] Avoiding Legal Issues  Best Practices for Zoom Records for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-discovering-logitechs-top-tier-4k-video-camera-for-2024/"><u>[Updated] Discovering Logitech's Top-Tier 4K Video Camera for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-recommendations-hd-video-recording-software-for-2024/"><u>[Updated] Expert Recommendations  HD Video Recording Software for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-extend-the-moment-filmmaking-in-iphone-slow-mo-for-2024/"><u>[Updated] Extend the Moment  Filmmaking in iPhone Slow Mo for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-game-genre-matchups-titles-alike-to-gta-v-for-2024/"><u>[Updated] Game Genre Matchups  Titles Alike to GTA V for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-mac-screen-images-top-5-techniques/"><u>[Updated] In 2024, Capturing Mac Screen Images  Top 5 Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exclusive-selection-of-elite-race-games/"><u>[Updated] In 2024, Exclusive Selection of Elite Race Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-explore-10-open-source-teleconference-applications/"><u>[Updated] In 2024, Explore 10 Open Source Teleconference Applications</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>[Updated] In 2024, From Novice to Pro  Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-virtual-conversations-a-google-meet-handbook/"><u>[Updated] In 2024, Navigating Virtual Conversations  A Google Meet Handbook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screenrec-101-essential-techniques-for-laptops/"><u>[Updated] In 2024, ScreenRec 101  Essential Techniques for Laptops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-broadcasting-a-guide-to-chroma-key-excellence/"><u>[Updated] Innovative Broadcasting  A Guide to Chroma Key Excellence</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-integrated-systems-approach-for-film-recording-on-diverse-computers-for-2024/"><u>[Updated] Integrated Systems Approach for Film Recording on Diverse Computers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-is-facebook-better-for-vertical-videos-in-2024/"><u>[Updated] Is Facebook Better for Vertical Videos, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-master-iphone-screen-recording-in-minutes/"><u>[Updated] Master iPhone Screen Recording in Minutes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-remote-classroom-video-archive-for-2024/"><u>[Updated] Remote Classroom Video Archive for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-time-saving-tactics-for-saving-google-voice-speeches/"><u>[Updated] Time-Saving Tactics for Saving Google Voice Speeches</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-sandbox-games-titles-you-shouldnt-be-missing/"><u>2024 Approved  Best Sandbox Games  Titles You Shouldn’t Be Missing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-focus-in-teams-meetings-mastering-background-blur/"><u>2024 Approved  Perfect Focus in Teams Meetings  Mastering Background Blur</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-workflow-essential-tips-to-record-on-hp-laptop/"><u>2024 Approved  Streamline Your Workflow  Essential Tips to Record on HP Laptop</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bridging-babel-redefining-language-acquisition-in-the-modern-world/"><u>Bridging Babel: Redefining Language Acquisition in the Modern World</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/crafting-dialogue-and-direction-in-film-scripts-for-2024/"><u>Crafting Dialogue and Direction in Film Scripts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-wintoys-a-brief-dive-into-a-formidable-windows-feature/"><u>Discovering WinToys: A Brief Dive Into a Formidable Windows Feature</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-methods-for-installing-the-latest-drivers-on-your-dell-xps-laptop-windows/"><u>Easy Methods for Installing the Latest Drivers on Your Dell XPS Laptop (Windows)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-apex-legends-gameplay-on-single-platforms-only/"><u>In 2024, Navigating Apex Legends Gameplay on Single Platforms Only</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-pinnacle-12-apps-for-unlimited-screen-recording/"><u>In 2024, Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo Reno 8T 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>Microsoft Unveils HoloLens  The Augmented Reality Evolution</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-check-comparing-bandicams-performance-to-competitors-for-2024/"><u>The Ultimate Check  Comparing Bandicam's Performance to Competitors for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vampire-vignette-virtuoso/"><u>Vampire Vignette Virtuoso</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-twin-screens-archive-capture/"><u>[New] In 2024, Twin Screens Archive Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-in-depth-skype-call-recordings/"><u>[New] In 2024, Unlocking the Potential In-Depth Skype Call Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-5-essential-gameplay-cams-for-live-streamers-for-2024/"><u>[New] Top 5 Essential Gameplay Cams for Live Streamers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts-for-2024/"><u>[New] Your Ultimate Guide to Storing and Saving Live TV Broadcasts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-use-zoom-video-filters-to-make-a-high-quality-zoom-call/"><u>[Updated] 2024 Approved How to Use Zoom Video Filters to Make a High-Quality Zoom Call</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-youtube-channel-lockdowns-device-specific-tips/"><u>[Updated] 2024 Approved Mastering YouTube Channel Lockdowns Device-Specific Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-visual-snippet-retriever/"><u>[Updated] In 2024, Visual Snippet Retriever</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-kiddos-best-gaming-delights-top-girls-adventures-in-2024/"><u>[Updated] Kiddo's Best Gaming Delights - Top Girls' Adventures, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-acer-monitors-drivers-tips-tricks-and-reliable-sources/"><u>How to Update Your Acer Monitor's Drivers: Tips, Tricks & Reliable Sources</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-choices-for-accessible-screen-recorders/"><u>Premier Choices for Accessible Screen Recorders</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/senior-savvy-phone-plans-your-ultimate-list-of-7-excellent-choices/"><u>Senior Savvy Phone Plans: Your Ultimate List of 7 Excellent Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlock-the-power-of-discord-broadcasts/"><u>Unlock the Power of Discord Broadcasts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
