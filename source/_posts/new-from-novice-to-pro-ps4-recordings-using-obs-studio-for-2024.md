@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Novice to Pro  PS4 Recordings Using OBS Studio for 2024\""
-date: 2024-09-13T19:39:50.049Z
-updated: 2024-09-16T02:38:55.251Z
+date: 2024-09-18T21:39:06.919Z
+updated: 2024-09-20T16:41:00.709Z
 tags: 
   - screen-recording
   - ai video
@@ -113,19 +113,6 @@ Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.p
 
 ![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
 
 Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
@@ -137,6 +124,13 @@ Step 4: Launch the game you want to play and make sure that PS4 is working with 
 Step 5: Launch OBS Studio now. From Sources tab located at the bottom, click on “+” icon. Select Display Capture so that you can record your screen while playing the video game with PS4 on your computer.
 
 ![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: You can go to Settings under Controls tab and go to Video tab to ensure all the configuration parameters are perfectly set.
 
@@ -172,22 +166,16 @@ Step 3: Select the recording screen size. For gameplay recording, full screen is
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
 
 You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -253,13 +241,6 @@ Step 3: Select the recording screen size. For gameplay recording, full screen is
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
 
 You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
@@ -269,13 +250,6 @@ You can then trim the video, add video effects and transitions, add audio effect
 If you want to record your gameplay on your computer when you play with PS4, you need a video recorder. OBS Studio is a default choice and we have stated how to go for OBS studio PS4 in simple steps even though OBS’s user interface is complicated to use. If you want to capture gameplay while you play on your TV, you will need a capture card. If you are looking for OBS alternative, we recommend Wondershare Filmora where you can record and edit video like a pro.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. How To Record PS4 with OBS?
 
@@ -288,6 +262,13 @@ Step 1: Download and install OBS Studio on your computer from”obsproject.com�
 Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.playstation.net/remoteplay” as per your operating system.
 
 ![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
 
@@ -307,14 +288,14 @@ Step 7: When you are ready, click on Start Recording button under Controls tab. 
 
 ![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. OBS Alternative To Record Gameplay
 
@@ -341,6 +322,13 @@ Step 2: Open Filmora and click on PC Screen option to record your gameplay that 
 Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
 
@@ -374,16 +362,14 @@ If you want to record your gameplay on your computer when you play with PS4, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ideal-strategies-for-recording-app-activity/"><u>[New] 2024 Approved Ideal Strategies for Recording App Activity</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-farm-frontier-favorites-similar-titles-galore/"><u>[Updated] 2024 Approved Farm Frontier Favorites Similar Titles Galore</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-ways-to-document-your-digital-collaboration-sessions/"><u>[Updated] 2024 Approved Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-art-of-crafting-perfect-boomerangs-in-snap/"><u>[Updated] The Art of Crafting Perfect Boomerangs in Snap</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-13-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 13 Pro Max If Youve Tried Everything</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/master-the-meter-elevate-your-instagram-metrics-by-1kmnth/"><u>Master the Meter Elevate Your Instagram Metrics by 1K/Mnth</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-ds4-connectivity-problems-in-windows-a-guide-to-effective-driver-reinstallation/"><u>Overcoming DS4 Connectivity Problems in Windows - A Guide to Effective Driver Reinstallation</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-discords-gaming-potential-chesspoker-edition/"><u>Unveiling Discord's Gaming Potential: Chess/Poker Edition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-t2x-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo T2x 5G Phone Network-Ready</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-high-quality-live-streaming-games-via-obs/"><u>[New] 2024 Approved High-Quality Live Streaming Games via OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-install-your-complete-guide-to-vrecord/"><u>[New] 2024 Approved How to Install Your Complete Guide to VRecord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-full-analysis-compreenaside-with-camstudio-screencap/"><u>[Updated] 2024 Approved Full Analysis Compreenaside with CamStudio Screencap</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-leverage-youtube-insights-for-sustainable-channel-development/"><u>[Updated] 2024 Approved Leverage YouTube Insights for Sustainable Channel Development</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevating-marketing-through-real-peoples-endorsements-for-2024/"><u>Elevating Marketing Through Real People’s Endorsements for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-mouse-software-and-drivers-for-windows-7-8-and-10/"><u>Free Logitech RX250 Mouse Software & Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-of-the-best-top-5-video-editing-apps-for-iphone-this-year/"><u>New In 2024, Best of the Best Top 5 Video Editing Apps for iPhone This Year</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
 </ul></div>
 

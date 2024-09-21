@@ -1,7 +1,7 @@
 ---
 title: "[New] QuickScreen Recorder + Guided Soundtrack Companion"
-date: 2024-09-12T21:35:02.921Z
-updated: 2024-09-15T16:40:17.443Z
+date: 2024-09-13T22:36:22.254Z
+updated: 2024-09-21T00:15:36.855Z
 tags: 
   - screen-recording
   - ai video
@@ -141,6 +141,13 @@ Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. T
 
 ![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Now, it is time for QuickTime player screen recording with audio. Launch QuickTime and go to File > New Screen Recording option.
 
 Step 6: You can start recording anytime you want by pressing the Record button. Make sure that sound source is selected as SoundFlower(2ch) and quality is selected as high. You can record any video that you are playing on the browser as well as record your gameplay with audio.
@@ -223,6 +230,13 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 
 3. [QuickTime Alternative to Record and Edit Videos](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Steps to Use QuickTime Record Screen and Audio
 
 If you are going to record a video playing on your Mac, QuickTime is a great choice. You can record your screen perfectly but the only issue is that QuickTime player screen recording audio feature is not available. That does not mean you cannot record screen as well as audio with QuickTime. Here are the steps on QuickTime how to record screen with sound.
@@ -234,19 +248,6 @@ Step 2: Once you have installed SoundFlower on your Mac, restart your computer. 
 Step 3: Go to Apple menu and open System Preferences.
 
 ![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
 
@@ -274,11 +275,25 @@ Step 3: You will see a yellow bar at the bottom containing the entire length of 
 
 ![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
 
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
 
 Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. QuickTime Alternative to Record and Edit Videos
 
@@ -321,10 +336,10 @@ Step 3: Drag the imported file to your Timeline and you can import multiple vide
 ![edit video filmora](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: If you want to trim the video, place the mouse point at the beginning or ending of the video from where you want to trim. When the trim icon appears, press and hold the mouse button and move forward or backward.
@@ -353,29 +368,9 @@ Step 3: Go to Apple menu and open System Preferences.
 
 ![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
 
 ![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Now, it is time for QuickTime player screen recording with audio. Launch QuickTime and go to File > New Screen Recording option.
 
@@ -402,13 +397,6 @@ Step 3: You will see a yellow bar at the bottom containing the entire length of 
 Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
 
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
 
@@ -486,17 +474,16 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-high-speed-recording-tool-with-guided-soundtracks/"><u>[New] High-Speed Recording Tool with Guided Soundtracks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-webinar-playback-recordings-for-2024/"><u>[New] Webinar Playback Recordings for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-easy-download-of-youtube-preview-pictures/"><u>[Updated] Easy Download of YouTube Preview Pictures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-steps-for-recording-games-via-obs/"><u>2024 Approved Essential Steps for Recording Games via OBS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-fast-fixes-effortless-screenshots-and-captures-with-dell/"><u>2024 Approved Fast Fixes Effortless Screenshots & Captures with Dell</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-for-youtube-storytelling-a-comprehensive-overview/"><u>ChatGPT for YouTube Storytelling - A Comprehensive Overview</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-budget-gaming-hardware-the-ultimate-keyboard-list-for-2024/"><u>Essential Budget Gaming Hardware The Ultimate Keyboard List for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/explore-asus-newest-computing-frontiers-affordable-entry-at-394-with-the-nuc-14-pro-and-the-pinnacle-of-tech-at-869-for-the-nuc-14-proplus/"><u>Explore Asus' Newest Computing Frontiers: Affordable Entry at $394 with the NUC 14 Pro & The Pinnacle of Tech at $869 for the NUC 14 Pro+</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gaming-fixes-yakuza-3-remaster-glitch-free-performance-enhanced/"><u>PC Gaming Fixes: Yakuza 3 Remaster Glitch-Free Performance Enhanced</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-and-activating-the-facebook-shield/"><u>Understanding and Activating the Facebook Shield</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-ace-video-capturers-guide/"><u>Unveiling Ace Video Capturers Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>[New] 2024 Approved Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-free-business-visual-aids-to-enhance-your-meetings/"><u>[New] 2024 Approved Free Business Visual Aids to Enhance Your Meetings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-cut-to-the-chase-efficient-screen-recording-methods-for-hp-users/"><u>[New] Cut to the Chase Efficient Screen Recording Methods for HP Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-online-livestream-technology/"><u>[New] Ultimate Online Livestream Technology</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-chimecrafted-a-step-by-step-guide-to-creating-your-own-ringtone-tracks/"><u>2024 Approved ChimeCrafted A Step-by-Step Guide to Creating Your Own Ringtone Tracks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-easy-steps-to-transform-iphone-7-into-a-recorder/"><u>2024 Approved Easy Steps to Transform iPhone 7 Into a Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-look-at-fraps-screen-capture/"><u>2024 Approved In-Depth Look at Fraps Screen Capture</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-poco-x5-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Poco X5 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-integrating-secure-recording-in-your-workflow/"><u>In 2024, Integrating Secure Recording in Your Workflow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-videography-for-sims-playtime-for-2024/"><u>Innovative Videography for Sims Playtime for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professional-insights-into-recording-quality-conversations-on-facetime-for-2024/"><u>Professional Insights Into Recording Quality Conversations on FaceTime for 2024</u></a></li>
 </ul></div>
 

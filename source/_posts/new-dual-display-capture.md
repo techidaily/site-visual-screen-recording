@@ -1,7 +1,7 @@
 ---
 title: "[New] Dual Display Capture"
-date: 2024-09-11T19:37:43.990Z
-updated: 2024-09-15T21:15:27.173Z
+date: 2024-09-15T06:21:27.095Z
+updated: 2024-09-21T01:38:53.646Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ Sum up the two values of the wider sides of the screens and insert the value you
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -96,20 +103,13 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -126,19 +126,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-reverse-video-on-instagram/"><u>[New] How to Reverse Video on Instagram</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-how-regular-are-youtube-monetization-payments/"><u>[New] In 2024, How Regular Are YouTube Monetization Payments?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-premium-free-facebook-media-craftsman-suite/"><u>[New] Premium Free Facebook Media Craftsman Suite</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-screen-and-video-recording-for-2024/"><u>[New] The Ultimate Guide to Screen and Video Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncomplicated-approach-for-smooth-iphone-screening/"><u>[Updated] 2024 Approved Uncomplicated Approach for Smooth Iphone Screening</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1716069816635-updated-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series-for-2024/"><u>[Updated] Capturing Screen Content via Built-In Recorders in the Mate and P Series. For 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-androids-best-multiparty-calls/"><u>[Updated] In 2024, The Ultimate Guide to Android's Best Multiparty Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac-for-2024/"><u>[Updated] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-techniques-for-smooth-screen-casting-for-2024/"><u>Expert Techniques for Smooth Screen Casting for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-editors-guide-to-flawless-frame-acceleration/"><u>In 2024, The Editor's Guide to Flawless Frame Acceleration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-ralink-rt3290-network-adapter-problems-on-windows-11-8-and-7/"><u>Resolving Ralink RT3290 Network Adapter Problems on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-authoritative-guide-to-generating-srt-files-with-expert-tips/"><u>The Authoritative Guide to Generating SRT Files with Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-problem-detected-during-pc-reset-on-windows-10-expert-advice/"><u>Troubleshooting and Fixing the 'Problem Detected During PC Reset' On Windows 10 - Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/unifying-data-points-merging-text-from-various-excel-cells-into-a-single-cell/"><u>Unifying Data Points: Merging Text From Various Excel Cells Into a Single Cell</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-novice-to-expert-the-complete-powerdirector-journey-for-2024/"><u>[New] From Novice to Expert The Complete PowerDirector Journey for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-becoming-a-pinning-pro-snapchats-best-practices/"><u>2024 Approved Becoming a Pinning Pro Snapchat's Best Practices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-speech-to-text-conversion-software/"><u>2024 Approved Free Speech-to-Text Conversion Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-instantaneous-screen-logger-for-chrome/"><u>2024 Approved Instantaneous Screen Logger for Chrome</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ios-meets-classic-play-best-ps2-game-emulators-reviewed/"><u>2024 Approved IOS Meets Classic Play Best PS2 Game Emulators Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skills-for-photo-manipulation-mastery/"><u>2024 Approved Skills for Photo Manipulation Mastery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/crystalclear-screenshot-on-w10-for-2024/"><u>CrystalClear Screenshot on W10 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-android-recording-at-your-fingertips-explore-our-top-8-free-choices/"><u>In 2024, Android Recording at Your Fingertips – Explore Our Top 8 Free Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-joining-the-dots-obs-and-zoom-pairing-explained/"><u>In 2024, Joining the Dots OBS & Zoom Pairing Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterful-video-text-techniques-ranked/"><u>Masterful Video Text Techniques - Ranked</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/treacle-tracking-step-by-step-tutorial-on-summer-snack-monitoring/"><u>Treacle Tracking Step-by-Step Tutorial on Summer Snack Monitoring</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Itel A60 | Dr.fone</u></a></li>
 </ul></div>
 

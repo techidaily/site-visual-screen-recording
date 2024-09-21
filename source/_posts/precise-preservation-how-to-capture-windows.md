@@ -1,7 +1,7 @@
 ---
 title: "\"Precise Preservation  How to Capture Windows\""
-date: 2024-09-12T22:28:16.819Z
-updated: 2024-09-15T18:33:03.509Z
+date: 2024-09-16T01:25:55.406Z
+updated: 2024-09-20T16:09:05.675Z
 tags: 
   - screen-recording
   - ai video
@@ -92,18 +92,18 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
@@ -114,10 +114,10 @@ You can launch the app from the Start menu or by typing its name in the Search C
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
@@ -129,10 +129,10 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
@@ -200,20 +200,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-game-time-capture-essential-tips-for-recording-sports/"><u>[New] Game-Time Capture Essential Tips for Recording Sports</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-ultimate-guide-to-unmissable-gaming-worlds/"><u>[Updated] In 2024, Your Ultimate Guide to Unmissable Gaming Worlds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-in-class-mkv-player-for-pc-users/"><u>2024 Approved Best-in-Class MKV Player for PC Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-etiology-of-fetal-alcohol-syndrome/"><u>2024 Approved Etiology of Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exclusive-review-10-best-free-video-meeting-apps-iosandroid/"><u>2024 Approved Exclusive Review 10 Best Free Video Meeting Apps iOS/Android</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-webp-conversion-to-jpeg-format/"><u>2024 Approved Perfecting WebP Conversion to JPEG Format</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-vlc-player-tips-10-hidden-features/"><u>2024 Approved Vlc Player Tips 10 Hidden Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-step-by-step-pathway-to-adding-sound-in-adobe-premiere-for-2024/"><u>A Step-by-Step Pathway to Adding Sound in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/camstudios-screen-recorder-a-deep-dive-into-its-latest-features/"><u>CamStudio's Screen Recorder A Deep Dive Into Its Latest Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/cant-be-patient-for-iphone-16-release-master-the-art-of-picking-the-best-alternative-in-apples-latest-offerings/"><u>Can't Be Patient for iPhone 16 Release? Master the Art of Picking the Best Alternative in Apple's Latest Offerings</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/create-stunning-gifs-from-instagram-videos-discover-the-top-3-simple-methods/"><u>Create Stunning GIFs From Instagram Videos: Discover the Top 3 Simple Methods!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-quit-auto-capture-on-apples-recorder-for-2024/"><u>How To Quit Auto-Capture on Apple's Recorder for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-evaluating-active-presenter-8s-performance/"><u>In 2024, Evaluating Active Presenter 8'S Performance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-wmp-for-effortless-audio-conversion/"><u>In 2024, Navigating WMP for Effortless Audio Conversion</u></a></li>
-<li><a href="https://android-frp.techidaily.com/lava-blaze-2-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze 2 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-5-techniques-for-captivating-your-twitch-audience/"><u>[New] In 2024, Top 5 Techniques for Captivating Your Twitch Audience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-twilight-portraiture-techniques-your-guide-to-stunning-images/"><u>[New] In 2024, Twilight Portraiture Techniques Your Guide to Stunning Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-the-best-ever-ios-platforms-for-ps2-games/"><u>[Updated] Explore the Best-Ever IOS Platforms for PS2 Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-obs-studio-vs-bandicam-a-comprehensive-performance-review/"><u>[Updated] In 2024, OBS Studio Vs. Bandicam A Comprehensive Performance Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-iphone-and-ipad-best-screen-recording-software-for-2024/"><u>[Updated] IPhone & iPad Best Screen Recording Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-5-live-stream-video-recorders-for-remote-sessions/"><u>2024 Approved Essential 5 Live Stream Video Recorders for Remote Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-superior-budget-friendly-cam-viewer/"><u>2024 Approved Superior Budget-Friendly Cam Viewer</u></a></li>
+<li><a href="https://facebook.techidaily.com/decode-the-meta-gateway-to-instagram-and-facebooks-centrality/"><u>Decode the Meta Gateway to Instagram & Facebook's Centrality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-win11-visual-quakes/"><u>Ending Win11 Visual Quakes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-13t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi 13T to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-t1-edition-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ (T1) Edition to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-5-hand-drawing-whiteboard-animation-makers-online-tools-included-for-2024/"><u>Updated Top 5 Hand Drawing Whiteboard Animation Makers Online Tools Included for 2024</u></a></li>
 </ul></div>
 
