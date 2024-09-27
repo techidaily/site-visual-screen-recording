@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-09-19T16:39:06.861Z
-updated: 2024-09-20T18:48:38.846Z
+date: 2024-09-25T02:12:03.942Z
+updated: 2024-09-26T20:23:29.072Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,25 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -61,6 +75,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -84,6 +105,13 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -97,12 +125,17 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-playspectate-screen-recorder/"><u>[New] 2024 Approved PlaySpectate Screen Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphone-photography-excellence-follow-the-top-10-rules/"><u>[New] IPhone Photography Excellence Follow the Top 10 Rules</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-guide-to-vimeo-extractors-top-10-web-tools-reviewed/"><u>[New] Ultimate Guide to Vimeo Extractors Top 10 Web Tools Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-4-ways-to-record-facebook-live-stream/"><u>[Updated] 2024 Approved 4 Ways to Record Facebook Live Stream</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-quick-and-quality-editing-tips-for-obs-studio-aces/"><u>[Updated] 2024 Approved Quick and Quality Editing Tips for OBS Studio Aces</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-correct-obs-blackout-error-in-gaming-capture-for-2024/"><u>[Updated] Correct OBS Blackout Error in Gaming Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts-for-2024/"><u>[Updated] Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-restrictions-enhanced-features-in-google-news-stream-and-tips-for-superior-mobile-internet-while-exploring/"><u>Understanding ChatGPT Restrictions: Enhanced Features in Google News Stream & Tips for Superior Mobile Internet While Exploring</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Conversations  Google Meet Essentials\""
-date: 2024-09-14T19:10:43.597Z
-updated: 2024-09-21T02:00:19.818Z
+date: 2024-09-21T11:50:24.850Z
+updated: 2024-09-26T18:27:06.292Z
 tags: 
   - screen-recording
   - ai video
@@ -78,6 +78,13 @@ When you press the further options button on Google Meet, more options will show
 
 ![ Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
 ![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
@@ -96,16 +103,22 @@ After doing that, paste the email address of the participant that you would like
 
 ![ create group chat on Google Meet  ](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Following that, send them a hangouts link and enable video.
 
 Once that is done individuals can now chat and video conference at the same time.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Create a Private Chat on Google Meet?
 
@@ -117,13 +130,6 @@ For instance, if a participant leaves a meeting and you send a message when they
 
 Google Meet comes fully equipped with numerous features and functions, however, changing the chat font size is not one of them. Participants cannot make any changes to the font of messages sent in the chatbox. They cannot increase the size, spacing, font style, or color of the messages that are being sent. While these options are available in other Google Application features such as Gmail and more. They are still yet to come into play on Google Meet.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6: How to Add Emojis to Google Meet Chat?
 
 Want to make your messages on Google Meet slightly quirky or funny, why not add an emoji to spice things up! Emojis are the perfect way to grab attention to pressing messages, which individuals might overlook otherwise. You may have noticed that the Google Meet chat feature does not have an emoji button visible to you, however, you can still send emojis on Google Meet.
@@ -133,6 +139,13 @@ Simply join the meeting that you would like to become a part of.
 Once you have joined the Google Meet session, make your way over to the bottom right side of your screen and locate the speech bubble icon and click that.
 
 ![ Google Meet chat option ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
@@ -145,10 +158,10 @@ Click the emoji and symbols option and a popup of all the emojis available on yo
 ![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 7: How to Turn off Google Meet Chat?
@@ -168,16 +181,10 @@ A popup will appear on the right-hand side of your screen with options and setti
 ![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 8: How to Retrieve Google Meet Chat History?
@@ -189,6 +196,13 @@ Unlike Google Hangouts, individuals cannot retrieve chats on Google Meet. Once t
 Making use of the Google Meets chat feature can be extremely handy and helpful if a participant in a meeting wants to convey a message, but does not want to interrupt the session. Individuals can share messages, links, and emojis with all participants in the session. Not only that, but individuals can use the chat feature on their laptops as well as their mobile devices. The chat feature is very easy to make use of, just follow a few simple steps and you will be good to go!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -203,5 +217,24 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-ultimate-test-for-every-sports-fan-polaroids-xs-100i-review/"><u>[New] 2024 Approved The Ultimate Test for Every Sports Fan - Polaroid's XS 100I Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-top-rated-windows-10-video-capture-software/"><u>[Updated] Explore Top-Rated Windows 10 Video Capture Software</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-best-live-streaming-apps-discover-manycam-and-other-top-virtual-camera-solutions/"><u>1. Best Live Streaming Apps: Discover ManyCam and Other Top Virtual Camera Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-8-most-reliable-screen-snappers/"><u>2024 Approved 8 Most Reliable Screen Snappers</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-harmony-taking-leisinasse-using-facebook-timer/"><u>Digital Harmony: Taking Leisinasse Using Facebook Timer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fast-fixes-effortless-screenshots-and-captures-with-dell-for-2024/"><u>Fast Fixes Effortless Screenshots & Captures with Dell for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fifth-round-of-top-time-lapse-capture-apps/"><u>Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/grandmaster-gaming-evaluating-the-best-7-total-war-experiences-for-2024/"><u>Grandmaster Gaming Evaluating the Best 7 Total War Experiences for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-mov-files-on-windows-11/"><u>How to Record MOV Files on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-alternative-secrets-to-sharing-files-efficiently/"><u>In 2024, Alternative Secrets to Sharing Files Efficiently</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-unwanted-shaking-in-dynamic-gopro-footage/"><u>In 2024, Avoiding Unwanted Shaking in Dynamic GoPro Footage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-behind-the-scenes-of-carminatis-youtube-earnings/"><u>In 2024, Behind the Scenes of Carminati’s YouTube Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/la-guia-definitiva-para-reducir-el-tamano-de-archivos-voluminosos-con-los-herramientas-de-compactacion-mas-eficaces/"><u>La Guía Definitiva Para Reducir El Tamaño De Archivos Voluminosos Con Los Herramientas De Compactación Más Eficaces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneering-visual-stunts-from-the-ground-up-for-2024/"><u>Pioneering Visual Stunts From the Ground Up for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/uncluttered-program-w10-screenshot-maker/"><u>Uncluttered Program W10 Screenshot Maker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-academic-excellence-the-ultimate-guide-to-homework-apps-for-pupils-and-parents/"><u>Unlock Academic Excellence: The Ultimate Guide to Homework Apps for Pupils & Parents</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-se-2022-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone SE (2022)</u></a></li>
+</ul></div>
 

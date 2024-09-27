@@ -1,7 +1,7 @@
 ---
 title: "[New] Dual Display Capture"
-date: 2024-09-15T06:21:27.095Z
-updated: 2024-09-21T01:38:53.646Z
+date: 2024-09-20T03:45:30.955Z
+updated: 2024-09-26T19:09:14.512Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ The first step towards setting up a screencasting session with multiple displays
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -71,10 +78,10 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -103,13 +110,26 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -124,5 +144,21 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-master-list-of-10-best-video-chat-programs-today/"><u>[New] Master List of 10 Best Video Chat Programs Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionize-your-obs-studio-videos-best-practices/"><u>[New] Revolutionize Your OBS Studio Videos Best Practices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-asuss-mg28uq-a-deep-dive-into-4k-uxga-for-2024/"><u>[Updated] Exploring ASUS's MG28UQ - A Deep Dive Into 4K UXGA for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-high-tech-vr-handhelds-our-top-10-list/"><u>[Updated] High-Tech VR Handhelds Our Top 10 List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-master-iphone-screen-recording-in-minutes/"><u>[Updated] Master iPhone Screen Recording in Minutes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-7-must-try-iphone-vr-experiences-you-cant-miss/"><u>[Updated] Top 7 Must-Try iPhone VR Experiences You Can’t Miss</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-focus-in-teams-meetings-mastering-background-blur/"><u>2024 Approved Perfect Focus in Teams Meetings Mastering Background Blur</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-edge-2023-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Edge 2023 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-apex-legends-gameplay-on-single-platforms-only/"><u>In 2024, Navigating Apex Legends Gameplay on Single Platforms Only</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-pinnacle-12-apps-for-unlimited-screen-recording/"><u>In 2024, Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube/"><u>Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/premium-gadgets-at-budget-prices-essential-devices-you-should-experience/"><u>Premium Gadgets at Budget Prices: Essential Devices You Should Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-gamers-handbook-resolving-latency-problems-in-pc-games-updated-tips/"><u>The Gamer's Handbook: Resolving Latency Problems in PC Games (Updated Tips )</u></a></li>
+</ul></div>
 

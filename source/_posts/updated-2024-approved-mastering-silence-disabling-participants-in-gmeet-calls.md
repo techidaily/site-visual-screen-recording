@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Silence  Disabling Participants in GMeet Calls\""
-date: 2024-09-15T08:45:48.930Z
-updated: 2024-09-20T23:37:06.439Z
+date: 2024-09-20T06:39:32.607Z
+updated: 2024-09-26T20:31:28.119Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ The mute button in Google Meet is like a blessing in disguise, with just one cli
 
 Additionally, if an individual wants to participate in a meeting, they can unmute their microphone and then quickly mute it again once they have contributed. With just one click, the host of the meeting can also mute everyone in the session so there are no extra sounds or distractions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Mute Your Microphone in Google Meet?
 
 While many believe using the mute feature on Google Meet is a tricky task, the question of **how to mute a Google Meet** is fairly simple.
@@ -55,6 +62,13 @@ All an individual has to do is click the microphone button located on the bottom
 If they click that same button again, they will be unmuted.
 
 ![Google Meet unmute](https://images.wondershare.com/filmora/article-images/unmute-yourself-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, if they do not want to make use of the screen to mute and unmute, they can use keyboard key shortcuts. For Mac users, the relevant keys are CTRL - COMMAND - M. If you are making use of a different desktop or laptop then it is simply CTRL - M.
 
@@ -78,6 +92,13 @@ Click on the arrow next to the name of the person you would like to mute. Once y
 
 ![Google Meet participants list](https://images.wondershare.com/filmora/article-images/google-meet-participants-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click the microphone button in the middle, and once a cross appears on the mic, the individual will be muted.
 
 ![Google Meet mute people](https://images.wondershare.com/filmora/article-images/mute-people-on-google-meet.jpg)
@@ -92,14 +113,14 @@ At the button right of your Google Meet window, click on “people” and then c
 
 ![ mute all on Google Meet  ](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Side note:** Once a participant is muted, they do have the option to manually unmute themselves, so remember that.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: Best Chrome Extensions to Mute Everyone in Google Meet
 
@@ -132,22 +153,29 @@ This extension offered by <https://meetextension.com/> is used by teachers, stud
 
 Using this extension, you can do many things, such as record the Google Meeting video calls, mute and unmute microphones. Besides that, you can also use it to admit or deny a meeting joining request automatically, download the chat, and enable the picture-in-picture view to watch other videos and your video call together on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6: How to Remove Someone From Google Meet With/Without Being A Host?
 
 Don’t you just hate it when there is too much distortion or disturbance in a session because of another participant? Well, lucky for everyone, Google Meet has a “remove from the meeting” feature as well. In this, individuals can remove other people from the meeting, if they aren’t meant to be in the session or if they are causing challenges in the meeting. They can do this while being the host and even when they are not the host of the meeting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to Remove Someone While Being The Host?
 
 In the Google Meet window, click on the people icon and a list of participant names will appear on the screen.
 
 ![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
@@ -156,17 +184,10 @@ You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd opti
 ![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
@@ -189,13 +210,6 @@ The mute feature on Google Meet is truly very simplistic and handy to use. All o
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -209,5 +223,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-captivating-content-with-a-click-phones-and-youtube/"><u>[New] 2024 Approved Captivating Content with a Click Phones & YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-snapshot-secrets-iphones-techniques-for-clear-reflections-for-2024/"><u>[New] Snapshot Secrets IPhone's Techniques for Clear Reflections for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-art-of-precision-introducing-an-obs-countdown-timer/"><u>[New] The Art of Precision Introducing an OBS Countdown Timer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-secrets-unveiled-expert-adobe-captive-screen-recording-tips/"><u>[Updated] 2024 Approved Secrets Unveiled Expert Adobe Captive Screen Recording Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-switching-to-grid-view-in-google-meet-chat-room/"><u>[Updated] 2024 Approved Switching to Grid View in Google Meet Chat Room</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-become-a-windows-pro-learn-to-trim-videos-like-an-editor/"><u>[Updated] Become a Windows Pro Learn to Trim Videos Like an Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-recording-capture-your-dell-display-swiftly-for-2024/"><u>[Updated] Efficient Recording Capture Your Dell Display Swiftly for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-simplified-techniques-for-capturing-vimeo-content-for-2024/"><u>[Updated] Simplified Techniques for Capturing Vimeo Content for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-spring-screens-reimagined-a-review-of-modern-tech-for-2024/"><u>[Updated] Spring Screens Reimagined A Review of Modern Tech for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-2024-walkthrough-transforming-physical-dvds-to-editable-files-on-a-pc-with-handbrake-software/"><u>Step-by-Step 2024 Walkthrough: Transforming Physical DVDs to Editable Files on a PC with HandBrake Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/story-2-the-risc-revelation/"><u>Story 2: The RISC Revelation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-c67-4g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme C67 4G FRP</u></a></li>
+</ul></div>
 

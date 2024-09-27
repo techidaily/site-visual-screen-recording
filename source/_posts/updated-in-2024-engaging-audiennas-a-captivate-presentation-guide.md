@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Engaging Audiennas  A Captivate Presentation Guide\""
-date: 2024-09-19T16:51:42.126Z
-updated: 2024-09-21T03:25:50.465Z
+date: 2024-09-25T17:50:23.699Z
+updated: 2024-09-27T06:14:42.734Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
 #### Step 2 - Select the application and designate the area of the screen you'd like to record
@@ -74,6 +81,13 @@ Click on the Settings button if you wish to change the destination on your hard-
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
 Hit the Record button to initiate the video recording session. You can hit the Esc or End buttons to stop recording if you are using a PC, while Mac users can perform the same action by hitting Cmd + Enter keys.
@@ -84,6 +98,13 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
 **Conclusion:**
@@ -91,6 +112,13 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -105,12 +133,20 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigating-device-specific-zoom-configurations/"><u>[New] Navigating Device-Specific Zoom Configurations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>[New] PixelPilot W11 Lightweight Screenshot & Recording App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ion-air-pro-3-visionary-revolutionizing-action-video/"><u>2024 Approved ION Air Pro 3 Visionary - Revolutionizing Action Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-overcoming-quietness-fixes-for-silent-obs-streams/"><u>2024 Approved Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-combat-chronicles-in-the-ring-or-on-screen/"><u>In 2024, Combat Chronicles In the Ring or on Screen?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nubia-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nubia FRP?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-se-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone SE in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leading-green-visual-effects-recorders-operating-guide/"><u>In 2024, Leading Green Visual Effects Recorders Operating Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mac-magic-cost-free-screen-tracker/"><u>In 2024, Mac Magic Cost-Free Screen Tracker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-professional-voice-recording-made-easy-with-ipad/"><u>In 2024, Professional Voice Recording Made Easy with iPad</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamline-channels-effortlessly-top-10-online-design-aids-for-2024/"><u>Streamline Channels Effortlessly Top 10 Online Design Aids for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-liquid-detected-on-your-iphones-usb-c-port-expert-advice/"><u>Troubleshooting 'Liquid Detected' On Your iPhone's USB-C Port: Expert Advice</u></a></li>
+</ul></div>
 

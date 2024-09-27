@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Implementing the Virtual Screen Grid in Google Meet for 2024"
-date: 2024-09-14T01:28:31.943Z
-updated: 2024-09-21T08:16:03.763Z
+date: 2024-09-23T12:40:08.226Z
+updated: 2024-09-27T06:16:44.169Z
 tags: 
   - screen-recording
   - ai video
@@ -73,18 +73,25 @@ Click on the **three dots** at the bottom right corner and select **change layou
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
 
 **Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
 
@@ -99,10 +106,10 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2 : Create or join a meeting room in a Google Meet**
@@ -116,6 +123,20 @@ Click on the **extension** at the top right of the screen corner and tick the **
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
@@ -138,13 +159,6 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Frequently Asked Questions About See Everyone on Google Meet
 
@@ -179,5 +193,23 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-drone-dynamics-yuneecs-4k-flight-exploration/"><u>[New] Drone Dynamics Yuneec's 4K Flight Exploration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-master-the-art-of-broadcasting-optimal-cameras-for-your-twitch-channel/"><u>2024 Approved Master the Art of Broadcasting Optimal Cameras For Your Twitch Channel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-securely-capturing-instagrams-downloadable-videos-explained-computers-and-macs/"><u>2024 Approved Securely Capturing Instagrams Downloadable Videos Explained (Computers & Macs)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-swift-to-stillness-the-art-of-timelapse-with-a-galaxy/"><u>2024 Approved Swift to Stillness The Art of Timelapse with a Galaxy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-madden-19-fantastic-additions-overshadowed-by-predictability/"><u>Comprehensive Review of Madden 19: Fantastic Additions Overshadowed by Predictability</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-7-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acknowledgment-series-free-vs-paid-template-choices/"><u>In 2024, Acknowledgment Series Free vs Paid Template Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-the-role-of-color-in-editing-mastery/"><u>In 2024, Illuminating the Role of Color in Editing Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-streaming-platforms-for-authors/"><u>In 2024, Prime Streaming Platforms for Authors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-real-time-game-capture-aps4-strategies-in-obs/"><u>In 2024, Real-Time Game Capture APS4 Strategies in OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamline-your-presentation-process-webcam-recording-tips/"><u>In 2024, Streamline Your Presentation Process Webcam Recording Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-uncharted-territory-6-secrets-to-documenting-your-minecraft-journey/"><u>In 2024, Uncharted Territory 6 Secrets to Documenting Your Minecraft Journey</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/next-gen-gaming-unleashed-a-comprehensive-review-of-the-alienware-aurora-r9-by-dell/"><u>Next-Gen Gaming Unleashed: A Comprehensive Review of the Alienware Aurora R9 by Dell</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/optimal-low-cost-video-conferencing-software-options-for-2024/"><u>Optimal Low-Cost Video Conferencing Software Options for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-eco-cinema-tech-usage-and-mastery-for-2024/"><u>Premier Eco-Cinema Tech Usage and Mastery for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/smoothrec-video-log-analysis-for-2024/"><u>SmoothRec Video Log Analysis for 2024</u></a></li>
+</ul></div>
 

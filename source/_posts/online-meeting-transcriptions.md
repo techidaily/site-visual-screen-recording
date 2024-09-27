@@ -1,7 +1,7 @@
 ---
 title: "Online Meeting Transcriptions"
-date: 2024-09-15T22:03:40.031Z
-updated: 2024-09-20T20:45:31.233Z
+date: 2024-09-21T20:30:20.235Z
+updated: 2024-09-26T18:15:40.809Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,13 @@ For macOS 10.12 or later
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Producing your first webinar doesn't require you to be a video-making wizard since Filmora Scrn makes this process simple. Let's have a look at the steps you'll need to take in order to record a webinar.
 
 #### 1. Download and Install Filmora Scrn
@@ -65,6 +72,13 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -80,6 +94,13 @@ In order to start recording your webinar, you just need to click on the Record b
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
 #### Exporting and Sharing a webinar
@@ -91,6 +112,13 @@ Click on the Export button after you've finished editing your webinar and procee
 Following these simple steps will help you produce insightful and well-rounded webinars that will attract a lot of attention online.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips for Recording Webinars
 
@@ -113,12 +141,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-high-definition-cameras-perfect-picks-for-live-streaming/"><u>[New] 2024 Approved High-Definition Cameras Perfect Picks for Live Streaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-nextupcameras-venturing-past-mycam/"><u>[New] 2024 Approved NextUpCameras Venturing Past MyCam</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-chuckle-laugh-moments-and-tears-from-these-top-ten-ig-feeds-for-2024/"><u>[New] Chuckle-Laugh Moments & Tears From These Top Ten IG Feeds for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mi-11-tech-specs-unveiled-with-advanced-screen-capture-for-2024/"><u>[New] Mi 11 Tech Specs Unveiled with Advanced Screen Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-origami-like-folded-havens-in-mc-for-2024/"><u>[New] Origami-Like Folded Havens in MC for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expertly-evaluating-webcam-technology-for-professionals/"><u>[Updated] 2024 Approved Expertly Evaluating WebCam Technology for Professionals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premier-10-survival-showdowns/"><u>[Updated] 2024 Approved Premier 10 Survival Showdowns</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-future-of-finance-15-must-watch-market-videos/"><u>[Updated] 2024 Approved The Future of Finance 15 Must-Watch Market Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-home-cinematographers-review-best-video-recorders-for-2024/"><u>[Updated] Home Cinematographer's Review Best Video Recorders for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-practical-tips-for-console-game-recordings/"><u>[Updated] Practical Tips for Console Game Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-12-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-optimal-performance-in-csgo-end-the-battle-with-frame-rate-hiccups-today/"><u>Mastering Optimal Performance in CS:GO - End the Battle with Frame Rate Hiccups Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techno-mystery-thrillers-dive-into-4-innovative-ai-experiences/"><u>Techno-Mystery Thrillers: Dive Into 4 Innovative AI Experiences</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-best-video-language-changers-to-make-your-videos-accessible/"><u>Updated 2024 Approved Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+</ul></div>
 
