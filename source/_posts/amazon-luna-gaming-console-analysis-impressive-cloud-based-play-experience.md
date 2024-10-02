@@ -1,7 +1,7 @@
 ---
 title: "Amazon Luna Gaming Console Analysis: Impressive Cloud-Based Play Experience"
-date: 2024-09-24T07:57:14.458Z
-updated: 2024-09-26T18:41:44.397Z
+date: 2024-09-30T16:07:22.133Z
+updated: 2024-10-02T17:31:27.818Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Luna Gaming Console Analysis: Impressive Cloud-Based Play Experience"
@@ -41,22 +41,15 @@ Lifewire / Jeremy Laukkonen
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -98,6 +91,19 @@ Lifewire / Jeremy Laukkonen
  The controller is similarly unassuming, and Amazon clearly isn’t trying to rock the boat there. It’s extremely similar in profile to an Xbox One controller, right down to the positioning of the offset analog sticks. This configuration has long been my favorite, with the Sony-style side-by-side analogs feeling cramped, so the Luna controller feels instinctually good in my hands. If you’re a fan of the Xbox One controller, you’ll likely feel the same. If you don’t like the Xbox-style design for whatever reason, then you may at least appreciate the fact that the build quality of the controller feels quite solid, and it’s very snappy and responsive in use.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -145,6 +151,13 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -156,13 +169,6 @@ Lifewire / Jeremy Laukkonen
  During the beta period, the basic Luna subscription gets you access to 70 games, with an additional two dozen games locked behind the Ubisoft+ subscription. The 70 games included with the basic subscription offer a ton of entertainment value, but most genres are woefully underrepresented, and others are missing altogether. For example, fans of fighting games won’t find anything to rally behind here.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -177,10 +183,10 @@ Lifewire / Jeremy Laukkonen
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
@@ -202,16 +208,10 @@ Lifewire / Jeremy Laukkonen
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -250,24 +250,24 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expressive-youtube-aesthetics-at-no-cost/"><u>[New] 2024 Approved Expressive YouTube Aesthetics at No Cost</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-from-play-to-view-a-guide-to-recording-overwatch-games/"><u>[New] 2024 Approved From Play to View A Guide to Recording Overwatch Games</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-7-best-monitors-for-photo-editing-worth-trying/"><u>[New] 7 Best Monitors for Photo Editing Worth Trying</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-harmonyhunter-discovering-audio-dimensions-for-2024/"><u>[New] HarmonyHunter Discovering Audio Dimensions for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-use-of-snap-features-to-boost-online-collaboration/"><u>[New] In 2024, Efficient Use of Snap Features to Boost Online Collaboration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elite-watchlist-top-10-advanced-video-capture-programs/"><u>[New] In 2024, Elite Watchlist Top 10 Advanced Video Capture Programs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-successful-hulu-capturing-on-various-platforms/"><u>[New] In 2024, Essential Tips for Successful Hulu Capturing on Various Platforms</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-leading-tips-to-record-videos-in-silence/"><u>[New] In 2024, Leading Tips to Record Videos in Silence</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-live-feed-obs-on-instagram-app/"><u>[New] In 2024, Live Feed OBS on Instagram App</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-discover-the-next-wave-of-effective-facebook-ad-techniques/"><u>[Updated] 2024 Approved Discover the Next Wave of Effective Facebook Ad Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-master-your-pcs-sounds-with-easy-recording-tool-x-recorder/"><u>[Updated] 2024 Approved Master Your PC's Sounds with Easy Recording Tool – X-Recorder</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-6-essential-tips-to-create-instas-most-attractive-unboxings/"><u>[Updated] In 2024, 6 Essential Tips to Create Insta's Most Attractive Unboxings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-iphone-and-ipad-screen-recording-top-methods-of-2023-for-2024/"><u>[Updated] IPhone & iPad Screen Recording Top Methods of 2023 for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-a-pro-sports-youtube-feed-on-macos/"><u>Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expedited-srt-to-txt-conversion-2023s-efficient-method-for-2024/"><u>Expedited SRT to TXT Conversion 2023'S Efficient Method for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-amazons-chatbot-rufus-masters-the-art-of-upselling-for-enhanced-profits/"><u>How Amazon's Chatbot 'Rufus' Masters the Art of Upselling for Enhanced Profits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/keep-it-lighthearted-a-straightforward-guide-to-posting-gifs-on-instagram-for-2024/"><u>Keep It Lighthearted A Straightforward Guide to Posting GIFs on Instagram for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/text-mastery-cutting-edge-effects-guide-for-2024/"><u>Text Mastery Cutting-Edge Effects Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/total-motion-analysis-2023/"><u>Total Motion Analysis 2023</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-masters-choice-10-preeminent-online-tools-for-vimeo-files/"><u>[New] In 2024, Master's Choice 10 Preeminent Online Tools for Vimeo Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-initial-filming-document-evaluation-guide/"><u>[New] Initial Filming Document Evaluation Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>[New] Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-macbook-webcam-recording-tutorial/"><u>[Updated] MacBook Webcam Recording Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-headsets-for-drone-vr-use/"><u>2024 Approved Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-next-gen-options-to-record-high-quality-gaming-footage/"><u>2024 Approved Next Gen Options to Record High-Quality Gaming Footage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-your-presentations-leading-free-mac-screen-capture-tools/"><u>2024 Approved Perfect Your Presentations Leading Free Mac Screen Capture Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-save-verbatim-audio-review-notes/"><u>2024 Approved Save Verbatim Audio, Review Notes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-stealth-video-tactics-for-soundless-capture/"><u>2024 Approved Stealth Video Tactics for Soundless Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-notch-meme-editing-suite/"><u>2024 Approved Top-Notch Meme Editing Suite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-quick-fix-for-your-warzone-directx-troubles-4-easy-methods/"><u>A Quick Fix for Your Warzone DirectX Troubles: 4 Easy Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clear-up-zoom-audio-troubleshoot-distortion-immediately-for-2024/"><u>Clear Up Zoom Audio Troubleshoot Distortion Immediately for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings/"><u>In 2024, Master Mac Audio An In-Depth Look at Using Audacity for Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mp3-recording-guide-exclusive-to-free-skype-calls/"><u>In 2024, MP3 Recording Guide Exclusive to Free Skype Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastery-in-motion-steam-switch-controller-techniques-for-2024/"><u>Mastery in Motion Steam Switch Controller Techniques for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-common-errors-for-diablo-ii-resurrected-launch-problems/"><u>Solving Common Errors for Diablo II: Resurrected Launch Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unpacking-whatsapps-telephony-and-messaging-system/"><u>Unpacking WhatsApp's Telephony and Messaging System</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/yearly-top-tweets-a-viewers-paradise-on-twitter/"><u>Yearly Top Tweets A Viewers' Paradise on Twitter</u></a></li>
 </ul></div>
 

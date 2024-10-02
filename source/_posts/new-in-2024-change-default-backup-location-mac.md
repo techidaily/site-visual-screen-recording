@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-09-25T02:12:03.942Z
-updated: 2024-09-26T20:23:29.072Z
+date: 2024-09-29T17:20:07.500Z
+updated: 2024-10-02T17:41:20.562Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -106,10 +106,16 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,15 +133,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-playspectate-screen-recorder/"><u>[New] 2024 Approved PlaySpectate Screen Recorder</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphone-photography-excellence-follow-the-top-10-rules/"><u>[New] IPhone Photography Excellence Follow the Top 10 Rules</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-guide-to-vimeo-extractors-top-10-web-tools-reviewed/"><u>[New] Ultimate Guide to Vimeo Extractors Top 10 Web Tools Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-4-ways-to-record-facebook-live-stream/"><u>[Updated] 2024 Approved 4 Ways to Record Facebook Live Stream</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-quick-and-quality-editing-tips-for-obs-studio-aces/"><u>[Updated] 2024 Approved Quick and Quality Editing Tips for OBS Studio Aces</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-correct-obs-blackout-error-in-gaming-capture-for-2024/"><u>[Updated] Correct OBS Blackout Error in Gaming Capture for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts-for-2024/"><u>[Updated] Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-restrictions-enhanced-features-in-google-news-stream-and-tips-for-superior-mobile-internet-while-exploring/"><u>Understanding ChatGPT Restrictions: Enhanced Features in Google News Stream & Tips for Superior Mobile Internet While Exploring</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capture-clarity-enjoy-convenience-with-our-top-5-recorder-recommendations/"><u>[New] 2024 Approved Capture Clarity, Enjoy Convenience with Our Top 5 Recorder Recommendations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-follower-fallout-on-instagram-how-to-spot-it/"><u>[New] 2024 Approved Follower Fallout on Instagram How to Spot It</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>[New] In 2024, Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-transform-videos-with-easy-to-use-sound-effects/"><u>[New] In 2024, Transform Videos with Easy-to-Use Sound Effects</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands-for-2024/"><u>[New] The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-beats-studio-mac-basics/"><u>[Updated] 2024 Approved Capturing Beats Studio Mac Basics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-seamless-instagram-story-layering-techniques/"><u>[Updated] 2024 Approved Seamless Instagram Story Layering Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-breakthrough-techniques-for-streaming-success-obs-studio-android-for-2024/"><u>[Updated] Breakthrough Techniques for Streaming Success OBS Studio (Android) for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-warzone-cant-locate-players-dilemma-on-your-gaming-rig/"><u>Solving the 'Warzone Can't Locate Players' Dilemma on Your Gaming Rig</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stop-video-capture-a-quicktime-guide-for-2024/"><u>Stop Video Capture A QuickTime Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
 </ul></div>
 

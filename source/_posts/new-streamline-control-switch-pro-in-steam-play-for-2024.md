@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Control  Switch Pro in Steam Play for 2024\""
-date: 2024-09-26T06:12:02.179Z
-updated: 2024-09-27T02:57:51.305Z
+date: 2024-09-27T17:49:54.063Z
+updated: 2024-10-02T16:32:41.565Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -69,13 +69,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -84,26 +77,19 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -123,6 +109,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -132,6 +125,13 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -154,19 +154,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-exploring-top-ios-psp-emulation-tools-for-gamers/"><u>[New] Exploring Top iOS PSP Emulation Tools for Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-enhancing-your-viewing-experience-recording-overwatch-games/"><u>[Updated] Enhancing Your Viewing Experience Recording Overwatch Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tiletime-effortless-video-mosaics-on-both-oses/"><u>[Updated] In 2024, TileTime Effortless Video Mosaics on Both OSes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-galactic-game-guide-the-top-10-affordable-mmo-titles/"><u>2024 Approved Galactic Game Guide The Top 10 Affordable MMO Titles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-sims-4-gameplay/"><u>2024 Approved How to Record Sims 4 Gameplay</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-asus-rog-phone-7-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Asus ROG Phone 7 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/auto-play-youtube-keep-it-hidden-stay-connected-for-2024/"><u>Auto-Play YouTube - Keep It Hidden, Stay Connected for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/flawless-approach-securing-gotomeeting-recordings-for-2024/"><u>Flawless Approach Securing GoToMeeting Recordings for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-from-live-demos-to-recordings-harness-ezvide-power/"><u>In 2024, From Live Demos to Recordings Harness EZvide Power</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x50-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X50 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-expert-picks-top-speech-transcription-tools-for-android-and-ios-users-for-2024/"><u>New Expert Picks Top Speech Transcription Tools for Android and iOS Users for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premium-sonic-experience-with-a35/"><u>Premium Sonic Experience with A35</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/shing-potential-a-treasury-of-youtube-themes-for-channels/"><u>Unleashing Potential A Treasury of YouTube Themes for Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-effortless-screen-recording-on-modern-pcs/"><u>[New] 2024 Approved Effortless Screen Recording on Modern PCs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>[New] 2024 Approved Enhancing Professionalism Blurring TeamBackgrounds Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-command-and-conquer-triumphant-tales-of-the-best-7-total-wars-for-2024/"><u>[New] Command & Conquer Triumphant Tales of the Best 7 Total Wars for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-call-customization-applications-ranked-for-2024/"><u>[New] Essential Call Customization Applications Ranked for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capturing-the-cloud-techniques-for-digital-show-archives/"><u>[New] In 2024, Capturing the Cloud Techniques for Digital Show Archives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elitemac-perfect-blend-of-screen-and-audio-capturing-features/"><u>[New] In 2024, EliteMac Perfect Blend of Screen and Audio Capturing Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-reposition-mac-picture-cache-destination-for-2024/"><u>[New] Reposition Mac Picture Cache Destination for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-dive-deep-into-obs-advanced-techniques-for-game-capture-for-2024/"><u>[Updated] Dive Deep Into OBS Advanced Techniques for Game Capture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-perfect-pairings-of-sound-and-sight-on-social-platforms/"><u>[Updated] In 2024, Perfect Pairings of Sound and Sight on Social Platforms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>2024 Approved The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-to-adding-hyperlinks-within-a-flip-based-ebook-using-flipbuilder/"><u>Guide to Adding Hyperlinks Within a Flip-Based eBook Using FlipBuilder</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-6-ai-enhanced-notetakers-revolutionizing-how-you-capture-and-organize-information/"><u>Leading 6 AI-Enhanced Notetakers: Revolutionizing How You Capture and Organize Information</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-the-limits-with-gopro-film-techniques/"><u>Pushing the Limits with GoPro Film Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-flawless-video-thumbnails-instantly-for-2024/"><u>Unlock Flawless Video Thumbnails Instantly for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960599880-updated-hp-scanjet-drivers-available-compatible-with-windows-11-8-and-7-get-your-download-here/"><u>Updated HP Scanjet Drivers Available: Compatible with Windows 11, 8 & 7 - Get Your Download Here</u></a></li>
 </ul></div>
 
