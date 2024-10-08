@@ -1,7 +1,7 @@
 ---
 title: "[New] Fast and Flawless Screen Shots for Chromebookers"
-date: 2024-08-30T18:53:09.460Z
-updated: 2024-08-31T18:53:09.460Z
+date: 2024-10-04T16:28:58.564Z
+updated: 2024-10-07T17:59:25.565Z
 tags: 
   - screen-recording
   - ai video
@@ -52,29 +52,34 @@ Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s 
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
 Using your Chromebook in tablet mode? If so, then there’s also a handy way to make use of the screenshot feature whilst on the go. Similar to the function offered on most Smart Phone Devices, simply press both the **Power and Volume Down Side Button** to capture a screenshot. Unfortunately, this feature is only useful if you’re looking to capture your entire screen; you’ll need to utilize the keyboard or stylus if you’re planning to crop out a specific section.
 
 **Note:** No matter whether you’re utilizing the Chromebook in either landscape or portrait mode, the Volume Rockers still remain in the same orientation, so it’s worth noting which button relates to “Volume Down”.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
@@ -98,8 +103,12 @@ Available for both Chrome, Windows, and even Mac devices, this more in-depth ext
 Offering the ability for users to capture scrolling screenshots, Webpage Screenshot is a highly desired extension. Allowing users to store an entire page worth of information thanks to its all-page capture abilities, this application was the original application for Google Chrome. With basic annotation editing, capture cropping, and optional interval inputting, this easy-to-use and straight forward extension is perfect for those looking to capture larger sections of text with ease.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Where Do I Find by Screenshots After They’re Captured?
 
 If you’re wondering where your newly captured screenshots are disappearing to once obtained, then you need look no further than the **Downloads Section** of your **Files App.** Automatically saved, by default, in a format similar to “**Screenshot 2012-08-03 at 5.18.34AM.png**” your recently saved PNG file can be easily renamed as you like.
@@ -107,8 +116,12 @@ If you’re wondering where your newly captured screenshots are disappearing to 
 Using a Guest Account? If so, then always make sure you copy across all your important screenshots to either an SD Card or Google Drive Account before you sign out. It’s important to note that the “Downloads” Section on a Guest Account is emptied each and every time a guest logs out.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Do I Edit My Screenshots on Chromebook?
 
 Once you’ve captured your screenshot and it’s been automatically saved to your downloads, there are a number of simple yet effective features built-in to help you edit your image with ease. To access your saved file, simply click on the **Launcher** (bottom left hand corner), select the **Files App Folder**, then select your recently saved screenshot within the **Downloaded Files** section.
@@ -121,16 +134,11 @@ In summary, there are plenty of ways to successfully capture a screenshot whilst
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,3 +146,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-perfecting-the-art-of-screen-recording-with-step-by-step-instructions-from-adobe-captivate/"><u>[New] 2024 Approved Perfecting the Art of Screen Recording with Step-by-Step Instructions From Adobe Captivate</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-creative-potential-with-luts-in-cs6cc/"><u>[New] 2024 Approved Unlocking Creative Potential with LUTs in CS6/CC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-soundbites-insights-for-youtube-short-tunes/"><u>[New] Elevate Your Soundbites Insights for YouTube Short Tunes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mp4-video-download-companion-booklet/"><u>[New] In 2024, MP4 Video Download Companion Booklet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-screen-recordings-with-gotomeeting/"><u>[Updated] 2024 Approved Navigating Screen Recordings with GoToMeeting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>[Updated] 2024 Approved Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pixelperfect-screen-capture-software/"><u>[Updated] 2024 Approved PixelPerfect Screen Capture Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-screen-recording-top-4-techniques-for-hp-users/"><u>[Updated] In 2024, Mastering the Art of Screen Recording Top 4 Techniques for HP Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-vr-treadmills-review/"><u>[Updated] In 2024, Top VR Treadmills Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-samsungs-2023-revamp-bd-j5900-explored-for-2024/"><u>[Updated] Samsung's 2023 Revamp BD-J5900 Explored for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-banter-battlegrounds-ais-new-era-of-talk/"><u>Bot Banter Battlegrounds: AI's New Era of Talk</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-s23-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel S23 Location | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-zoomers-handbook-for-captivating-video-and-audio-content/"><u>The Complete Zoomer's Handbook for Captivating Video and Audio Content</u></a></li>
+</ul></div>
+

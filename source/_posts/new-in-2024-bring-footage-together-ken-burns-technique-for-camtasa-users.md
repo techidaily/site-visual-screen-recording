@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Bring Footage Together  Ken Burns Technique for Camtasa Users\""
-date: 2024-09-28T18:17:48.789Z
-updated: 2024-10-02T16:59:16.065Z
+date: 2024-09-30T16:38:22.564Z
+updated: 2024-10-07T22:43:36.185Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,16 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,22 +115,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-avoid-monetization-mishaps-essential-youtube-checks/"><u>[New] In 2024, Avoid Monetization Mishaps Essential YouTube Checks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-online-fb-music-collection-now/"><u>[New] Online FB Music Collection Now</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-most-effective-android-apps-to-download-youtube-videos/"><u>[New] The Most Effective Android Apps to Download YouTube Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-visualsnap-win11-instant-desktop-capture-and-save-for-2024/"><u>[New] VisualSnap Win11 Instant Desktop Capture & Save for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unseen-sonic-scribes-best-kept-mobile-voice-loggers-list/"><u>[Updated] 2024 Approved Unseen Sonic Scribes Best-Kept Mobile Voice Loggers List</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-webcam-perfection-in-live-streaming-and-recording/"><u>[Updated] 2024 Approved WebCam Perfection in Live-Streaming and Recording</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acers-all-in-one-masterpiece-the-versatile-and-subtly-styled-aspire-c27-desktop-system/"><u>Acer's All-in-One Masterpiece: The Versatile and Subtly Styled Aspire C27 Desktop System</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/effortless-methods-for-capturing-google-voice-conversations-for-2024/"><u>Effortless Methods for Capturing Google Voice Conversations for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/explore-our-curated-top-12-click-based-pc-titles-for-2024/"><u>Explore Our Curated Top 12 Click-Based PC Titles for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/explore-the-finest-virtual-hydro-adventures/"><u>Explore the Finest Virtual Hydro Adventures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/gamers-guides-essential-tips-for-recording-riveting-races/"><u>Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-free-top-8-apps-to-get-likes-on-facebook-android-and-iphone/"><u>In 2024, FREE Top 8 Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-f15-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy F15 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-s18-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo S18 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pioneering-screen-capture-methods-with-adobe-captivity-unveiled/"><u>Pioneering Screen Capture Methods with Adobe Captivity Unveiled</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/staying-pure-hearted-amidst-the-ruse-of-ratings-and-likes-for-2024/"><u>Staying Pure-Hearted Amidst the Ruse of Ratings and Likes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-3-essential-voice-logging-tactics-for-ipad-for-2024/"><u>[New] The 3 Essential Voice Logging Tactics for iPad for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tips-and-tricks-perfecting-webcam-recordings-on-macbook/"><u>[Updated] 2024 Approved Tips & Tricks Perfecting Webcam Recordings on MacBook</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-hdr-brilliance-justified-choice-or-overkill/"><u>[Updated] HDR Brilliance Justified Choice or Overkill?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-3-essential-voice-logging-tactics-for-ipad/"><u>[Updated] In 2024, The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-tips-efficient-gameplay-archiving-in-roblox-on-macos-for-2024/"><u>[Updated] Tech Tips Efficient Gameplay Archiving in Roblox on MacOS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-budget-friendly-methods-for-live-feed-recordings-for-2024/"><u>[Updated] Top 5 Budget-Friendly Methods for Live Feed Recordings for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-access-professional-tech-aid-on-your-iphone-via-apples-official-app/"><u>Easy Steps to Access Professional Tech Aid on Your iPhone via Apple’s Official App</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-desktop-and-online-methods-for-transforming-your-mod-videos-into-mov/"><u>Effortless Desktop and Online Methods for Transforming Your MOD Videos Into MOV</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-displays-surface-pro-7-sync-issues/"><u>Fixing Displays: Surface Pro 7 Sync Issues</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ibuildcomponents-the-ultimate-building-blocks-of-modern-software-development/"><u>IBuildComponents: The Ultimate Building Blocks of Modern Software Development</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/imperator-rome-a-bold-journey-of-power-struggles-and-empire-foundations-revealed/"><u>Imperator: Rome - A Bold Journey of Power Struggles and Empire Foundations Revealed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-tiktok-watermark-removal-online-for-2024/"><u>New The Ultimate Guide to TikTok Watermark Removal Online for 2024</u></a></li>
 </ul></div>
 

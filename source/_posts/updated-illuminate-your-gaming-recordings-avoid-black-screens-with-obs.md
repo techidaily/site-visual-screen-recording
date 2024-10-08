@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Illuminate Your Gaming Recordings  Avoid Black Screens with OBS\""
-date: 2024-10-01T17:38:42.163Z
-updated: 2024-10-02T16:11:37.638Z
+date: 2024-10-01T19:05:43.389Z
+updated: 2024-10-07T16:06:50.313Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,16 @@ Without administrator access, chances are that several aspects of OBS Studio wil
 ![run obs](https://images.wondershare.com/filmora/article-images/run-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Switch OBS’s GPU
@@ -54,6 +60,13 @@ In this approach, you also need to convert to OBS GPU to address the issue that 
 
 ![switch obs gpu](https://images.wondershare.com/filmora/article-images/switch-obs-gpu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Click Save to save the changes. Undoubtedly, OBS needs a small amount of GPU to handle video recording. Therefore, with high GPU performance for OBS, display capture not functioning in OBS will be addressed instantly.
 
 ### 3\. Enable the Compatibility Mode
@@ -67,10 +80,10 @@ Some customers also complained that OBS black screen game capture difficulties s
 ![compatibility mode](https://images.wondershare.com/filmora/article-images/compatibility-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** Hit Apply and OK to take effect. On the compatibility mode, OBS game capture will not appear on a blank screen when you record the game.
@@ -86,13 +99,6 @@ As such, if you have enabled the Game Mode and Game Bar on Windows 10, attempt t
 **Step 2**. Under Game Mode, turn off the Use Game Mode. Under Game Bar, turn off the option – Record game clips, screenshots, and broadcast using the Game bar.
 
 ![game mode](https://images.wondershare.com/filmora/article-images/game-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Launch your game and attempt OBS Studio to capture the action. For many customers, happily, the OBS game capture dark screen problem has been addressed.
 
@@ -110,6 +116,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ****Step 1 Download and Install Filmora**
 
 You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
@@ -117,10 +130,10 @@ You may click one of the "Download" options above to receive the installer accor
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ****Step 2 Start Recording Gameplay**
@@ -149,13 +162,6 @@ You may click one of the "Download" options above to receive the installer accor
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ****Step 2 Start Recording Gameplay**
 
 Next, you may also pick the audio method from system sound, microphone, or both in the center of the tool. Then, click the record button in the right section of the tool to start screen recording. A floating toolbar will emerge, displaying you the important recording buttons like pause, resume, pent, stop, and more.
@@ -188,18 +194,18 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ****Step 3 Complete the Recording Process**
 
 Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
 
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -222,10 +228,10 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ****Step 3 Complete the Recording Process**
@@ -235,10 +241,10 @@ Once done, press the "Stop" button at the leftmost portion of the floating toolb
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -269,17 +275,24 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-creme-de-la-creme-of-fps-games-7/"><u>[New] 2024 Approved The Crème De La Créme of FPS Games (7)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-the-leading-apps-for-instagrams-vertical-igtv-edits/"><u>[New] Discover the Leading Apps for Instagram's Vertical IGTV Edits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-fb-live-success-strategies-for-2024/"><u>[New] FB Live Success Strategies for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-12-tycoons-the-ultimate-challenge-for-every-gamer/"><u>[Updated] 2024 Approved Top 12 Tycoons - The Ultimate Challenge for Every Gamer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screensnapper-revisited-apowersofts-latest-pc-tool/"><u>[Updated] In 2024, ScreenSnapper Revisited Apowersoft's Latest PC Tool</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-superior-web-recording-gear-for-2024/"><u>[Updated] Superior Web Recording Gear for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-iphones-full-potential-4-pro-tips-for-brightening-hdr-in-premiere/"><u>2024 Approved Unlock iPhone's Full Potential 4 Pro Tips for Brightening HDR in Premiere</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/discover-the-finest-free-tools-for-socio-networking/"><u>Discover the Finest Free Tools for Socio Networking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ignite-creative-genius-explore-five-exceptional-ai-text-generators/"><u>Ignite Creative Genius: Explore Five Exceptional AI Text Generators</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistic-liberation-unleashing-the-potential-in-your-forties-through-language-learning/"><u>Linguistic Liberation: Unleashing the Potential in Your Forties Through Language Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-exactly-is-chatgpt-discovering-opportunities-with-innovative-generative-ai-technology/"><u>What Exactly Is ChatGPT? Discovering Opportunities with Innovative Generative AI Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[New] 2024 Approved Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-designing-customized-instagram-feed-narratives-for-2024/"><u>[New] Designing Customized Instagram Feed Narratives for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-high-quality-capture-with-obs-a-screencast-showcase-for-2024/"><u>[New] High-Quality Capture with OBS A Screencast Showcase for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-look-at-obs-studios-full-screen-recorder-tools/"><u>[New] In 2024, In-Depth Look at OBS Studio's Full Screen Recorder Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-measures-for-outstanding-ppt-video-quality/"><u>[New] In 2024, Innovative Measures for Outstanding PPT Video Quality</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-rhythmic-world-of-tiktok-and-its-music-connection/"><u>[New] In 2024, The Rhythmic World of TikTok and Its Music Connection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-live-video-venue-verdict-the-best-between-obs-and-twitch-studios-for-2024/"><u>[New] Live Video Venue Verdict The Best Between OBS and Twitch Studios for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs-for-2024/"><u>[New] Optimize Media Storage Tips & Tricks for .mov on Windows PCs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-junior-road-rules-and-racer-revelry/"><u>[Updated] In 2024, Junior Road Rules & Racer Revelry</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-spice-up-social-media-create-memes-on-kapwing/"><u>[Updated] In 2024, Spice Up Social Media - Create Memes on Kapwing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-razer-camera-evaluation-for-2024/"><u>[Updated] In-Depth Razer Camera Evaluation for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-media-an-intuitive-approach-to-pc-mac-and-mobile-movies-for-2024/"><u>[Updated] Mastering Media An Intuitive Approach to PC, Mac & Mobile Movies for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-retrieve-or-withdraw-an-email-after-its-been-sent-using-outlook/"><u>Expert Advice: How to Retrieve or Withdraw an Email After It's Been Sent Using Outlook</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-itel-p55-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Itel P55 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>In 2024, Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-presenter-prefix-planner/"><u>Prime Presenter Prefix Planner</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-these-10-tips-for-getting-stray-running-this-year/"><u>Unlock These 10 Tips for Getting 'Stray' Running This Year</u></a></li>
 </ul></div>
 
