@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms"
-date: 2024-10-03T21:28:38.757Z
-updated: 2024-10-07T16:33:01.016Z
+date: 2024-10-08T17:42:14.292Z
+updated: 2024-10-13T16:55:54.257Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ A screenshot of Farming Simulator 22 from Steam
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -82,21 +89,7 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
 
@@ -142,19 +135,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel may also improve the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -178,13 +158,20 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -197,25 +184,18 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
 
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar (Windows 10)
 
@@ -227,8 +207,22 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -255,24 +249,16 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-the-riches-of-stardews-ginger-isle/"><u>[New] 2024 Approved Navigating the Riches of Stardew’s Ginger Isle</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-secrets-to-effortless-obs-broadcasts-on-fb/"><u>[New] 2024 Approved Secrets to Effortless OBS Broadcasts on FB</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-review-of-manycams-game-changing-recorder-tech/"><u>[Updated] 2024 Approved In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-perfecting-instagram-livestreams-with-obs-technology/"><u>[Updated] 2024 Approved Perfecting Instagram Livestreams with OBS Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screen-recorder-rivalry-unveiling-the-strengths-of-bandicam-and-camtasia/"><u>[Updated] 2024 Approved Screen Recorder Rivalry Unveiling the Strengths of Bandicam & Camtasia</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-grassroots-video-marketing-strategies/"><u>[Updated] In 2024, Grassroots Video Marketing Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-spectacular-showdowns-and-excursions-top-10-gaming-treasures/"><u>[Updated] In 2024, Spectacular Showdowns & Excursions – Top 10 Gaming Treasures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-log-every-victory-on-samsungs-mobile-arena-for-2024/"><u>[Updated] Log Every Victory on Samsung's Mobile Arena for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-world-of-vr-playback-technology-for-2024/"><u>[Updated] Navigating the World of VR Playback Technology for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-powerpoint-to-video-best-practices-with-webcams-now-for-2024/"><u>[Updated] PowerPoint to Video Best Practices with Webcams, Now for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726226956602-202412/"><u>今すぐ始める！2024の自由にダウンロード可能な動画変換ソフト12選</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>Double Delight Endless Looping of YouTube Videos for TVs</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gameplay-top-4-sites-to-skyrocket-your-score/"><u>Elevate Gameplay - Top 4 Sites to Skyrocket Your Score</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-novice-to-pro-how-to-optimize-your-onestream-livestream/"><u>From Novice to Pro How to Optimize Your OneStream Livestream</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-hero4-black-system/"><u>In 2024, Complete Analysis Hero4 Black System</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-srt-from-a-securely-packed-zip-file/"><u>In 2024, Unlocking SRT From a Securely Packed Zip File</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/masterclass-refining-youtube-videos-through-imovie/"><u>Masterclass Refining YouTube Videos Through iMovie</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-motorola-moto-g73-5g-by-drfone-android/"><u>Universal Unlock Pattern for Motorola Moto G73 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-vr-game-engines/"><u>[New] Top VR Game Engines</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-6-youtuber-quizzes-to-know-which-youtuber-you-are-for-2024/"><u>[Updated] 6 YouTuber Quizzes to Know Which YouTuber You Are for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-converters-the-best-6-video-editing-tools-for-macos-big-sur/"><u>[Updated] Cutting-Edge Converters The Best 6 Video Editing Tools for macOS Big Sur</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-perfecting-playback-game-capturing-on-windows-10/"><u>[Updated] Perfecting Playback Game Capturing on Windows 10</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/windows-svdzd/"><u>如何在不丢失任何数据下，轻松地克隆Windows ˈsɛvdɪzd</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-strategic-showdowns-unleashed-exploring-7-best-games/"><u>In 2024, Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-efficient-mac-snippers-for-quick-captures/"><u>In 2024, Top 5 Efficient Mac Snippers for Quick Captures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlocking-enigmas-ranked-puzzle-experiences-explored/"><u>In 2024, Unlocking Enigmas Ranked Puzzle Experiences Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-upgrade-your-experience-10-high-performance-drives/"><u>In 2024, Upgrade Your Experience #10 High-Performance Drives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/leading-eight-safe-video-meeting-systems-for-smbs/"><u>Leading Eight Safe Video Meeting Systems for SMBs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-value-for-your-buck-a-thorough-look-at-the-z-edge-z3plus-camera/"><u>The Best Value for Your Buck: A Thorough Look at the Z-Edge Z3+ Camera</u></a></li>
 </ul></div>
 

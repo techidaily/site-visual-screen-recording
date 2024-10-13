@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unleashing Creative Potential in Minecraft with Circles & Spheres\""
-date: 2024-08-19T18:04:31.069Z
-updated: 2024-08-20T18:04:31.069Z
+date: 2024-10-06T16:57:02.689Z
+updated: 2024-10-13T18:22:49.335Z
 tags: 
   - screen-recording
   - ai video
@@ -67,13 +67,40 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
@@ -91,13 +118,24 @@ Creating such amazing things and sharing them on your social media and video sha
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,6 +143,20 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-methods-for-archiving-your-roblox-quests-on-mac/"><u>[New] Advanced Methods for Archiving Your Roblox Quests on Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-your-twitch-sessions-step-by-step/"><u>[New] Capturing Your Twitch Sessions Step by Step</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-the-world-of-sound-effects-in-youtube-videos/"><u>[Updated] Navigating the World of Sound Effects in YouTube Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-5-best-bandicam-mac-alternatives/"><u>2024 Approved 5 Best Bandicam Mac Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-inside-the-code-how-apeaksoft-outperforms-in-screen-capture/"><u>2024 Approved Inside the Code How Apeaksoft Outperforms in Screen Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat/"><u>2024 Approved Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/bandicam-revisited-a-deep-dive-into-screen-recording-for-2024/"><u>Bandicam Revisited A Deep Dive Into Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/charting-your-social-spheres-historical-path/"><u>Charting Your Social Sphere's Historical Path</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategies-to-correct-and-prevent-kernel-pages-readwritten-exceptions/"><u>Expert Strategies to Correct and Prevent Kernel Pages Read/Written Exceptions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-list-nintendo-switch-fighter-titles-max-156/"><u>In 2024, A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-how-ring-video-doorbell-2-outshines-all-competitors/"><u>In-Depth Analysis: How Ring Video Doorbell 2 Outshines All Competitors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whos-interested-revealing-the-identities-of-those-viewing-your-youtube-channels/"><u>Who’s Interested? Revealing the Identities of Those Viewing Your YouTube Channels</u></a></li>
+</ul></div>
+

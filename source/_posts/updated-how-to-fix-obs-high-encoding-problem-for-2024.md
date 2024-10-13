@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How To Fix OBS High Encoding Problem for 2024"
-date: 2024-09-30T16:56:03.082Z
-updated: 2024-10-07T18:49:21.993Z
+date: 2024-10-06T16:19:16.182Z
+updated: 2024-10-13T16:03:05.292Z
 tags: 
   - screen-recording
   - ai video
@@ -50,10 +50,23 @@ Step 4: Click on Apply and Ok button to save the new setting. Restart your compu
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 3\. Change Encoder Preset
@@ -73,10 +86,10 @@ Step 5: Click on Apply and Ok button. Restart your computer and perform your act
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 4\. Try Hardware Encoding
@@ -96,10 +109,10 @@ Step 5: Click on Apply and Ok to save the settings. Restart your computer and pe
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 5\. Change Some Advanced Settings
@@ -160,13 +173,6 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -178,10 +184,10 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -206,6 +212,13 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -219,10 +232,10 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
@@ -236,17 +249,10 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -277,22 +283,24 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-exploring-skypes-best-recording-options-of-2023/"><u>[New] Exploring Skype's Best Recording Options of 2023</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>[New] From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-reddit-post-playbook-a-methodical-approach-to-engagement-for-2024/"><u>[New] The Reddit Post Playbook A Methodical Approach to Engagement for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-acethinker-screen-recorder-review/"><u>[Updated] AceThinker Screen Recorder Review</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-leading-intro-apps-for-budding-creators-iphoneandroid/"><u>[Updated] Leading Intro Apps for Budding Creators (iPhone/Android)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cut-expenses-create-wow-download-high-quality-templates-for-videos/"><u>Cut Expenses, Create Wow - Download High-Quality Templates for Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/educational-history-series-the-most-engaging-ones/"><u>Educational History Series - The Most Engaging Ones</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-google-meet-on-iphone-and-android-in-2024/"><u>How to Record Google Meet on iPhone and Android, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/inside-the-tech-evaluating-webcam-videotaping-devices/"><u>Inside the Tech Evaluating WebCam Videotaping Devices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-live-participation-in-tiktok-a-step-by-step-guide/"><u>Mastering Live Participation in TikTok A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-ai-potential-with-these-extensions/"><u>Maximize AI Potential with These Extensions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfecting-your-hulu-capture-pc-macios-android-tips/"><u>Perfecting Your Hulu Capture PC, Mac/iOS, Android Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-tips-for-effective-use-of-supplemental-film-sequences-b-roll/"><u>Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-whatsapp-backup-problems-how-to-successfully-store-chats-on-icloud/"><u>Solve Your WhatsApp Backup Problems: How to Successfully Store Chats on iCloud</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/techniques-to-overcome-blackout-during-obs-fullscreen/"><u>Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-10-stress-relieving-games-you-should-try/"><u>Top 10 Stress Relieving Games You Should Try</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/win10-mastery-crucial-tips-and-tricks/"><u>Win10 Mastery Crucial Tips and Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-stardew-valleys-most-innovative-game-updates-for-2024/"><u>[New] Unveiling Stardew Valley's Most Innovative Game Updates for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-cleaner-frames-with-advanced-webcam-tech/"><u>[Updated] 2024 Approved Cleaner Frames with Advanced Webcam Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mac-users-manual-recording-high-quality-audio-with-audacity/"><u>[Updated] 2024 Approved Mac Users' Manual Recording High-Quality Audio with Audacity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-choreographed-combat-selecting-superior-fighting-titles-for-2024/"><u>[Updated] Choreographed Combat Selecting Superior Fighting Titles for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-climb-the-ladder-the-best-12-tycoon-games-for-aspiring-leaders-for-2024/"><u>[Updated] Climb the Ladder The Best 12 Tycoon Games for Aspiring Leaders for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-iptv-platform-agnosticism/"><u>[Updated] Comprehensive IPTV Platform Agnosticism</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-full-examination-of-razer-kiyo-cam/"><u>[Updated] In 2024, Full Examination of Razer Kiyo Cam</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimal-6-secure-virtual-communication-tools-for-smbs/"><u>[Updated] Optimal 6 Secure Virtual Communication Tools for SMBs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms/"><u>[Updated] Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos/"><u>[Updated] ZD Soft An In-Depth Guide to Capture, Record & Edit Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-your-photography-skills-master-zoom-on-iphoneipad/"><u>Boosting Your Photography Skills: Master Zoom on iPhone/iPad</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/download-winxvideo-ai-complete-software-suite-for-windows-7-free-trial-available/"><u>Download Winxvideo AI Complete Software Suite for Windows 7 - Free Trial Available</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-meizu-21-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Meizu 21 Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminous-techniques-crafting-captivating-cinematic-pieces/"><u>In 2024, Luminous Techniques Crafting Captivating Cinematic Pieces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-preparing-to-engage-in-googles-video-meetings/"><u>In 2024, Preparing to Engage in Google's Video Meetings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/most-esteemed-ios-tone-artisans/"><u>Most Esteemed iOS Tone Artisans</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-to-file-high-quality-professional-record-for-2024/"><u>Screen to File High-Quality Professional Record for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/spotify-how-to-halt-default-podcast-additions/"><u>Spotify How to Halt Default Podcast Additions</u></a></li>
 </ul></div>
 

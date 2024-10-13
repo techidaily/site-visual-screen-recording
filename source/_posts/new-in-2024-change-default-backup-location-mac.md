@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-09-30T20:57:23.171Z
-updated: 2024-10-07T21:51:22.282Z
+date: 2024-10-06T16:43:16.841Z
+updated: 2024-10-13T17:30:07.879Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -70,10 +76,16 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +99,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +118,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,20 +139,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-easycapture-prox-diagnosis/"><u>[New] EasyCapture ProX Diagnosis</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/actics-to-expose-youtubes-well-guarded-videotapes/"><u>[New] Tactics to Expose YouTube's Well-Guarded Videotapes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-enhance-browsing-with-chromes-pip-technique/"><u>[Updated] Enhance Browsing with Chrome’s PIP Technique</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-iphone-screen-recording-made-simple/"><u>[Updated] Iphone Screen Recording Made Simple</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-liveaction-gaming-diary/"><u>[Updated] LiveAction Gaming Diary</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-practical-steps-to-remove-the-cluttered-background-in-figma/"><u>[Updated] Practical Steps to Remove the Cluttered Background in Figma</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quickcapturewin-instant-screenshots-for-pcs/"><u>[Updated] QuickCaptureWin Instant Screenshots for PCs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-pathway-to-saving-social-media-gifs-on-different-devices/"><u>[Updated] The Ultimate Pathway to Saving Social Media GIFs on Different Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-integrating-obs-for-youtube-and-twitch-streaming/"><u>2024 Approved Integrating OBS for YouTube & Twitch Streaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-identify-and-select-an-ideal-cover-for-your-mobile-device/"><u>How to Identify and Select an Ideal Cover for Your Mobile Device</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-can-you-afford-to-exclude-itop-from-your-setup/"><u>In 2024, Can You Afford to Exclude ITop From Your Setup?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimal-ppt-presentation-capture-methods-for-2024/"><u>Optimal PPT Presentation Capture Methods for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-your-online-presence-using-cookiebot-solutions/"><u>Optimize Your Online Presence Using Cookiebot Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/prowess-rankings-10-best-free-video-calls-with-screen-sharing-for-2024/"><u>Prowess Rankings 10 Best Free Video Calls with Screen Sharing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-complete-handbook-for-capturing-and-organizing-skype-call-data/"><u>The Complete Handbook for Capturing and Organizing Skype Call Data</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-5-top-3d-design-apps-for-engaging-youtube-beginnings/"><u>[New] 2024 Approved 5 Top 3D Design Apps for Engaging YouTube Beginnings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-switch-gaming-recordings-for-2024/"><u>[New] Essential Tips for Switch Gaming Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-practical-ways-to-save-and-download-vimeo-footage/"><u>[New] Practical Ways to Save and Download Vimeo Footage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-10-gaming-wonders-offline-ios-masterpieces-without-internet-for-2024/"><u>[Updated] 10 Gaming Wonders – Offline iOS Masterpieces Without Internet for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[Updated] 2024 Approved Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-setting-up-your-smartphone-as-a-webcam-device/"><u>[Updated] 2024 Approved Step-by-Step Setting Up Your Smartphone as a Webcam Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-realistic-fake-faces-with-these-free-online-generators/"><u>Create Realistic Fake Faces with These Free Online Generators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quick-guide-iphones-easiest-screen-recording-method/"><u>Quick Guide IPhone's Easiest Screen Recording Method</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remove-the-pin-security-layer-on-windows-11-effective-strategies-for-user-account-protection/"><u>Remove the PIN Security Layer on Windows 11: Effective Strategies for User Account Protection</u></a></li>
 </ul></div>
 
