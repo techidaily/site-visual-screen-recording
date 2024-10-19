@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Newly Released Director's Cut for Fallout: The Second Wasteland"
-date: 2024-08-19T17:56:05.693Z
-updated: 2024-08-20T17:56:05.693Z
+date: 2024-10-17T16:32:51.421Z
+updated: 2024-10-19T18:06:30.574Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of the Newly Released Director's Cut for Fallout: The Second Wasteland"
@@ -36,6 +36,13 @@ Lifewire / Jason Schneider
 [View On Amazon $209](https://www.amazon.com/Acer-CB3-532-Chromebook-Dual-Core-12-Hours/dp/B077YS9TYW/ref=sr%5F1%5F3?tag=lifewire-onsite-prod-20&ascsubtag=4843694%7Cn791fbaac0c414da4a0eaf368ff79738d00%7CB077YS9TYW) [View On Walmart $400](https://www.walmart.com/ip/Acer-CB3-532-C47C-15-6-Chromebook-Chrome-OS-Intel-Celeron-N3060-Dual-Core-Processor-2GB-RAM-16GB-Internal-Storage/54518466)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Acer Chromebook 15 CB3-532
 
@@ -74,6 +81,19 @@ Lifewire / Jason Schneider
 
  Lifewire / Jason Schneider
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Slightly bulky with a couple of nice touches**
 
  The first thing you’ll notice about this laptop is just how large it is. That’s mostly to be expected, because it does sport a 15.6-inch display, meaning the chassis has to be at least that big. But the large, approximately 1-inch bezels around the screen make it pretty large, even considering the expected footprint.
@@ -89,8 +109,12 @@ Lifewire / Jason Schneider
  The device first asks you to set your regions, then connect to a Wi-Fi network, then finally to sign into a Google account and set up permissions. From here it drops you basically immediately to the Chromebook home screen where you can either dive right in, or follow the popup tour given by Google. One thing I liked a lot about this was that Google gives you a short three-popup tour to start, then asks if you’d like to go deeper or just jump right into the machine yourself. This staged version of a device tour is a great way to let you, the user, tailor it to your preferences. This also makes it great for an older-aged tech user who might need a bit of hand-holding as they get to know their laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Display: Big, bright, and better than you might think**
 
  The display on the Acer Chromebook 15 is bigger than you might expect from a laptop that runs[Chrome OS](https://www.lifewire.com/google-chrome-os-1616448) , with a 15.6-inch backlit LED screen that offers a ton of room for windows and programs. The resolution measures in at 1366x768 meaning it checks all the boxes for being classified as an HD display.
@@ -108,9 +132,12 @@ Lifewire / Jason Schneider
  To be fair, Chromebook users likely keep more files in cloud storage drives, and Google includes 100GB of drive storage for free with the purchase for 2 years. So, you might not notice the limited capacity, but I would have preferred at least 32GB.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Productivity and Component Quality: Plenty of screen real estate, and passable features**
 
  There’s an interesting case to be made for this Acer Chromebook in terms of productivity. Chrome OS is a very light operating system, which means that it runs quick and light, at least initially. This also means that you can load up more than a few Chrome tabs—something that hogs a lot of power use on Windows laptops. Add that in with the larger 15.6-inch display, giving you lots of room for multiple windows and apps, and this Chromebook is great for those who want to multitask. However, because it isn’t a full OS, you won’t be able to run a whole lot of programs out of the box, and you’re limited to what’s available in the Play Store.
@@ -119,26 +146,39 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  I am a little annoyed with the “search” key that Chromebooks placed where a caps lock key should be--resulting in a lot of accidental search callups. The trackpad also leaves a bit to be desired, requiring a firm, chunky press, and doesn’t support as many gestures as Windows or OSX.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio: An unexpected letdown**
 
  Laptops are never amazing specimen when it comes to on-board speakers, so I wasn’t expecting much out of this either. Because it’s a 15-inch machine, there’s plenty of room in the Chromebook 15 for more components, and Acer has opted to put in two giant speaker grilles along either side of the keyboard. Taking that into account, I was hoping that the speakers would be louder and fuller than a normal laptop. However, the response is very tinny and it wasn’t as loud as I was hoping. In fact, these are among the worst speakers I’ve tested on a budget laptop, leaving me to believe that the grilles are just for show.
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/yw3n6Y9SGTIh4h10bF7XbAc5La0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_03-5724a73204e94f548f20aec5fa86074f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jason Schneider
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## **Network and connectivity: Modern, fast, and optimized for Chrome OS**
 
  Despite the lighter OS, the Chromebook 15 offers modern, well-equipped network features. First off, there’s an 802.11ac-capable Wi-Fi card built-in, which means you’ll get less interference than the N-protocol Wi-Fi, and you’ll have access to the[5GHz bands](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293) common in most modern routers. There’s also Bluetooth 4.2 capability which provided me with a plenty-stable connection for my Bluetooth headphones, and will work nicely if you want to connect a mouse or other peripherals.
 
  As far as ports go, there are the requisite AC power and 3.5mm headphone input ports, plus a full[HDMI output](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) for connecting an external monitor. There are also two USB 3.0 ports—one on each side—for increased data transfer speeds. I would have liked to see at least one[USB Type-C port](https://www.lifewire.com/usb-c-4149490) , as the mobile industry is heading decidedly in that direction, but it isn’t the end of the world. There’s also a full-sized SD card slot to help expand the storage of the device, which is important considering how little space is available on the device itself. Overall, this thing checks most of the boxes, though with the large chassis it would have been nice to have seen just a few more I/O options.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera: Grainy, but passable**
 
@@ -146,9 +186,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This is likely because Google is calling this an[HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) \-capable webcam, meaning the software is increasing the ISO to give you clear performance. This gives you good color response as I’ve noted, but it does also result in that graininess. This shouldn’t be a breaking point in either direction for considering a laptop like this, but if you do a lot of video calls, it’s an important thing to consider.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery life: Very reliable with smart optimization**
 
  As a light OS, it wasn’t that surprising to see excellent battery life on the Chromebook 15, but I was pleased with just how long the battery lasted. There’s a 3,920mAh lithium-polymer battery that Acer pins at about 12 hours of use. That holds true, perhaps trending toward a little less.
@@ -163,9 +200,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  That said, the Chromebook 15 runs so well, though likely only because of the lightweight operating system and limited app capabilities. Chrome OS is kind of like just using a Chrome window with a bunch of tabs on a regular PC. For most people, the OS is more than capable of handling most of your browsing needs. This Chromebook is a great example of how far you can push Chrome OS on a budget device, with a big bright screen for watching movies, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Really affordable with plenty to offer**
 
  The list price for this Acer Chromebook sits at just about $400 (MSRP), but most of the time you can find it on Amazon for between $150-$250\. I picked up my unit for about $185, and it tends to hover just around there.
@@ -182,9 +216,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This is a great Chromebook with a lot of impressive things to offer. The bright screen has plenty of room for vibrant video viewing and multiple windows of productivity. The excellent battery life means you won’t be tethered to a desk, and the light, fast Chrome OS means it will take a lot to slow the Acer Chromebook 15 down. However, the limited onboard storage, bulky size and weight, and the lack of full app choices might limit you a bit too much. At the end of the day, at this price point, it’s perfect for light, basic use.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Chromebook 15 CB3-532
@@ -197,14 +228,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * RAM  4GB
 * Storage  16GB
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -213,4 +241,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fastforward-lingertap-recording/"><u>[New] 2024 Approved FastForward LingerTap Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-superior-screen-reporter-optimal-chromebook-choice/"><u>[New] 2024 Approved Superior Screen Reporter Optimal Chromebook Choice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-window-into-the-world-a-complete-guide-to-live-tv-recording-on-your-pc/"><u>[New] 2024 Approved Window Into the World A Complete Guide to Live TV Recording on Your PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-conquering-video-design-challenges-with-filmora-tips/"><u>[New] In 2024, Conquering Video Design Challenges with Filmora Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-smooth-facetime-calls-on-mobile/"><u>[New] In 2024, Step-by-Step Guide to Smooth FaceTime Calls on Mobile</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-zd-soft-screen-recorder-key-features-and-review/"><u>[New] In 2024, ZD Soft Screen Recorder Key Features and Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-starting-stronger-must-have-tech-for-creators/"><u>[New] Starting Stronger Must-Have Tech for Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-screen-capturing-techniques-on-ipad-for-2024/"><u>[New] Unlocking Screen Capturing Techniques on iPad for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716070142738-updated-2024-approved-expertly-capture-your-macs-display-with-no-cost/"><u>[Updated] 2024 Approved Expertly Capture Your Mac's Display with No Cost!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-2-step-guide-to-smoothly-record-google-hangoutsmeetings/"><u>[Updated] 2024 Approved The 2-Step Guide to Smoothly Record Google Hangouts/Meetings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cam-cover-selection-made-simple-with-our-10-picks-for-2024/"><u>[Updated] Cam Cover Selection Made Simple with Our 10 Picks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-smudge-expertly-ranked-10-internet-photo-tools-for-2024/"><u>[Updated] Decoding the Smudge Expertly Ranked 10 Internet Photo Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unlock-camera-live-screen-capture-analysis-and-top-replacements/"><u>[Updated] In 2024, Unlock Camera Live Screen Capture Analysis & Top Replacements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exitingmycam-entry-to-exceptionalcameras/"><u>2024 Approved ExitingMyCam Entry to ExceptionalCameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-dts-play-fi-for-smart-sound-experiences-at-home/"><u>Decoding DTS Play-Fi for Smart Sound Experiences at Home</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-latest-netgear-wireless-network-adapter-drivers/"><u>Download & Update: Latest NETGEAR Wireless Network Adapter Drivers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/livestream-excellence-unveiling-the-best-practices-for-facebook-recorders-for-2024/"><u>Livestream Excellence Unveiling the Best Practices for Facebook Recorders for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-comprehensive-review-of-toshibas-fire-tv-edition-a-must-have-screen-for-amazon-prime-enthusiasts/"><u>The Comprehensive Review of Toshiba's Fire TV Edition - A Must-Have Screen for Amazon Prime Enthusiasts</u></a></li>
+</ul></div>
 

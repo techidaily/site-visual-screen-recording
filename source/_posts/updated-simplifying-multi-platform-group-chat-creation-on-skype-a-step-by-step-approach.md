@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplifying Multi-Platform Group Chat Creation on Skype  A Step by Step Approach\""
-date: 2024-08-19T17:57:11.625Z
-updated: 2024-08-20T17:57:11.625Z
+date: 2024-10-13T17:07:19.961Z
+updated: 2024-10-19T17:24:32.865Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ To make a group chat on Skype using a Windows operating system you can get conne
 
 ![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Start a Skype Group Chat on Mac
 
 Skype allows anyone to create a group chat on Mac. You can easily create and enjoy your Skype group chat with the simple steps below.
@@ -78,9 +85,6 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 
 * Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Manage Your Skype Group Chat
 
 Skype gives you full control over the group chats you create on Windows, Mac, Linux, and other platforms. To manage your Skype group chats, you can keep the following:
@@ -89,13 +93,23 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 ![manage group](https://images.wondershare.com/filmora/article-images/manage-group1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Update or add a group picture**: Upload, view, or remove the group picture.
 
 ![upload group pic](https://images.wondershare.com/filmora/article-images/upload-group-pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 * **Change your group name**: Press the Edit (pencil) icon next to the group name to edit the name of your group.
 * **Share a link to join your group**: You can add virtually anyone to your Skype group by sending them this link even if they’re not using Skype.
 
@@ -109,6 +123,20 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 * **Group gallery**: In Group Gallery you can view all the images, videos, links, and files that have been shared with this group chat.
 
 ![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Q&A about Skype Group Chat
 
@@ -130,26 +158,16 @@ You can in effect block a contact in Skype
 
 ![block contact](https://images.wondershare.com/filmora/article-images/block-contact4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 * 4\. Skype will ask you to confirm if you want to block this particular contact and also if you want to report the abuse from this person by pressing the toggle button.
 
 ![confirm block](https://images.wondershare.com/filmora/article-images/confirm-block5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 * 5\. Press the “Block” button and the contact will effectively be blocked from your Skype account and removed from your contact list and chats.
 
 Tips:
 
 In case you receive an unwanted call from an unknown number, you have the privilege to block the number right ways from the chat. Just press the “Block + the number” link to block a particular number.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q3: How do I delete all contacts on a Skype list with one click?
 
 Every once in a while, you may find some contacts you no longer need in your Skype contacts – particularly after a quick call or a job interview. Generally, to delete a contact you’ll have to view the person’s profile details and then press the “Remove from contact list” option, but here I’ll be showing you a fairly easy and simple way to delete all your contacts at once.
@@ -161,18 +179,33 @@ To delete all your Skype contacts at once follow the steps:
 ![skype settings](https://images.wondershare.com/filmora/article-images/skype-settings6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * 2\. In the settings go to the “Contacts” tab on the left sidebar. This will show all the settings for contacts, go to “Privacy” settings.
 
 ![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
 
 ![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
 
@@ -187,15 +220,17 @@ If you feel the same about the need for group chats like the one Skype offers, t
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -203,3 +238,21 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>[New] In 2024, Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-immediate-actions-reactivating-obs-audio-track/"><u>[New] In 2024, Immediate Actions Reactivating OBS Audio Track</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-legends-of-warfare-the-top-7-total-war-game-series/"><u>[New] In 2024, Legends of Warfare The Top 7 Total War Game Series</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-techniques-for-ppts-and-webcams-2023-edition-for-2024/"><u>[New] Innovative Techniques for PPTs and Webcams, 2023 Edition for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-invest-in-insta-success-the-top-earners-playbook/"><u>[Updated] In 2024, Invest in Insta Success The Top Earners' Playbook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-quick-fix-valorant-thumbnails-professionally-done-now/"><u>[Updated] In 2024, Quick-Fix Valorant Thumbnails Professionally Done Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-google-pixel-8-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Google Pixel 8 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c02-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nokia C02?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximize-creativity-with-these-10-androidpc-video-tools/"><u>In 2024, Maximize Creativity with These 10 Android/PC Video Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-tech-informed-choices-with-toms-wisdom/"><u>Navigating Through Tech: Informed Choices with Tom’s Wisdom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/secure-mobile-messaging-made-simple-with-these-10-best-free-chat-services-on-iphoneandroid-for-2024/"><u>Secure Mobile Messaging Made Simple with These 10 Best Free Chat Services on iPhone/Android for 2024</u></a></li>
+</ul></div>
+

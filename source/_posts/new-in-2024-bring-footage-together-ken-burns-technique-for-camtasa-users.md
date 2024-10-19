@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Bring Footage Together  Ken Burns Technique for Camtasa Users\""
-date: 2024-10-08T16:01:33.965Z
-updated: 2024-10-13T17:12:39.926Z
+date: 2024-10-14T16:06:03.150Z
+updated: 2024-10-19T18:24:23.581Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,16 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +69,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +100,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,22 +121,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-8-android-multiparty-conferencing-solutions/"><u>[New] 2024 Approved Elite 8 Android Multiparty Conferencing Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[New] 2024 Approved Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-tactics-to-quiet-down-distractions-during-google-meets/"><u>[New] 2024 Approved Tactics to Quiet Down Distractions During Google Meets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-beyond-basiccams-prospects-of-elevated-performance-for-2024/"><u>[New] Beyond BasicCams Prospects of Elevated Performance for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-finest-accessible-switch-replicas/"><u>[New] Finest Accessible Switch Replicas</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-budget-friendly-mmorpg-experiences-for-2024/"><u>[New] Top 10 Budget-Friendly MMORPG Experiences for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-lol-live-stream-setups-3-strategies/"><u>[Updated] Essential LOL Live Stream Setups - 3 Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-strategies-for-youtube-and-twitch-via-obs/"><u>[Updated] Essential Strategies for YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-uploading-videos-to-instagram-on-desktop/"><u>[Updated] In 2024, Step-by-Step Uploading Videos to Instagram on Desktop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-realme-11x-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Realme 11X 5G</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-master-your-videos-success-with-leading-rank-monitors/"><u>In 2024, Master Your Video's Success with Leading Rank Monitors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-lg-bp550-unleashed-with-2023-tweaks/"><u>In-Depth LG BP550 Unleashed with 2023 Tweaks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-through-the-latest-advancements-the-creme-de-la-creme-of-smart-glasses-in-2econd-quarter-of-2024/"><u>Navigate Through the Latest Advancements: The Crème De La Crème of Smart Glasses in 2Econd Quarter of 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/professional-approach-to-screen-capturing-in-adobe-captive-environment-for-2024/"><u>Professional Approach to Screen Capturing in Adobe Captive Environment for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-missing-ksuserdll-error-messages-on-your-computer/"><u>Solutions for Resolving 'Missing ksuser.dll' Error Messages on Your Computer</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-complete-guide-to-optimizing-your-home-network-an-in-depth-review-of-the-orbi-wi-fi-6-mesh-solution/"><u>The Complete Guide to Optimizing Your Home Network: An In-Depth Review of the Orbi Wi-Fi 6 Mesh Solution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[New] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-approach-to-capturing-and-editing-in-adobe-connect/"><u>[New] Step-by-Step Approach to Capturing and Editing in Adobe Connect</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-troubleshoot-and-mend-your-instagram-video-issues/"><u>[Updated] 2024 Approved Troubleshoot & Mend Your Instagram Video Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-quickfix-for-podcast-broadcasts/"><u>[Updated] Master Quickfix for Podcast Broadcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-recorder-freedom-top-10-no-cost-choices-for-cameras/"><u>[Updated] Screen Recorder Freedom Top 10 No-Cost Choices for Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-days-gone-at-its-best-on-pc-with-latest-fixes-and-optimizations/"><u>Experience 'Days Gone' At Its Best on PC with Latest Fixes and Optimizations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-epson-xp-330-printer-drivers-how-to-get-them-free/"><u>Latest Version of Epson XP-330 Printer Drivers - How to Get Them Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-background-run-of-microsoft-edge-on-win11/"><u>Navigating the Background Run of Microsoft Edge on Win11</u></a></li>
 </ul></div>
 

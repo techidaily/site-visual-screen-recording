@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-10-06T16:43:16.841Z
-updated: 2024-10-13T17:30:07.879Z
+date: 2024-10-16T17:57:07.751Z
+updated: 2024-10-19T17:23:24.190Z
 tags: 
   - screen-recording
   - ai video
@@ -48,24 +48,18 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -76,16 +70,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -99,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -118,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -139,14 +127,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-5-top-3d-design-apps-for-engaging-youtube-beginnings/"><u>[New] 2024 Approved 5 Top 3D Design Apps for Engaging YouTube Beginnings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-switch-gaming-recordings-for-2024/"><u>[New] Essential Tips for Switch Gaming Recordings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-practical-ways-to-save-and-download-vimeo-footage/"><u>[New] Practical Ways to Save and Download Vimeo Footage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-10-gaming-wonders-offline-ios-masterpieces-without-internet-for-2024/"><u>[Updated] 10 Gaming Wonders – Offline iOS Masterpieces Without Internet for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[Updated] 2024 Approved Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-setting-up-your-smartphone-as-a-webcam-device/"><u>[Updated] 2024 Approved Step-by-Step Setting Up Your Smartphone as a Webcam Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-realistic-fake-faces-with-these-free-online-generators/"><u>Create Realistic Fake Faces with These Free Online Generators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/quick-guide-iphones-easiest-screen-recording-method/"><u>Quick Guide IPhone's Easiest Screen Recording Method</u></a></li>
-<li><a href="https://techtrends.techidaily.com/remove-the-pin-security-layer-on-windows-11-effective-strategies-for-user-account-protection/"><u>Remove the PIN Security Layer on Windows 11: Effective Strategies for User Account Protection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-bravest-battles-and-bold-journeys-top-10-adventure-games/"><u>[New] 2024 Approved Bravest Battles & Bold Journeys – Top 10 Adventure Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860281233-new-get-savvy-with-chromebook-snaps-explore-these-4-methods/"><u>[New] Get Savvy with Chromebook Snaps - Explore These 4 Methods!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-visual-entry-examination-digest/"><u>[New] Visual Entry Examination Digest</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-bring-your-camera-life-into-your-instagram-world/"><u>[Updated] 2024 Approved Bring Your Camera Life Into Your Instagram World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-webcam-accessories-top-10-secure-solutions-for-2024/"><u>[Updated] Best Webcam Accessories Top 10 Secure Solutions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-a-step-by-step-plan-efficient-vimeo-video-logging/"><u>[Updated] In 2024, A Step-by-Step Plan Efficient Vimeo Video Logging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-and-share-online-journeys-browsers-top-screen-recorders/"><u>[Updated] In 2024, Capture and Share Online Journeys Browsers' Top Screen Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-farming-games-to-kill-time-and-play-with-friends/"><u>[Updated] Top 10 Farming Games to Kill Time and Play with Friends</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>[Updated] Universal Synchronization Zoom on Phones, Tablets, PCs All</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-social-sharing-integrate-your-fb-story/"><u>2024 Approved Streamline Social Sharing Integrate Your FB Story</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-tips-for-crafting-an-engaging-fb-timeline-memory/"><u>2024 Approved Tips for Crafting an Engaging FB Timeline Memory</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-a-simplified-youtube-auto-subscribe-url/"><u>Crafting a Simplified YouTube Auto-Subscribe URL</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-brio-webcam-driver-update-for-modern-windows-systems-1187/"><u>Get Your Logitech BRIO Webcam Driver Update for Modern Windows Systems (11/8/7)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-why-is-my-bluetooth-device-connected-but-not-communicating-with-windows-10/"><u>Solving the Mystery: Why Is My Bluetooth Device Connected but Not Communicating with Windows 10?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content-for-2024/"><u>The Art of Engaging Crafting Compelling Reddit Content for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/form-your-youtube-footage-into-cinematic-delight-with-imovie-expertise/"><u>Transform Your YouTube Footage Into Cinematic Delight with iMovie Expertise</u></a></li>
 </ul></div>
 

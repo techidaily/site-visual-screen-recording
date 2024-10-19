@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Silence  Disabling Participants in GMeet Calls\""
-date: 2024-10-07T18:46:52.673Z
-updated: 2024-10-13T17:22:35.589Z
+date: 2024-10-14T18:19:12.619Z
+updated: 2024-10-19T17:40:25.259Z
 tags: 
   - screen-recording
   - ai video
@@ -56,7 +56,27 @@ If they click that same button again, they will be unmuted.
 
 ![Google Meet unmute](https://images.wondershare.com/filmora/article-images/unmute-yourself-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 However, if they do not want to make use of the screen to mute and unmute, they can use keyboard key shortcuts. For Mac users, the relevant keys are CTRL - COMMAND - M. If you are making use of a different desktop or laptop then it is simply CTRL - M.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Mute Someone in Google Meet?
 
@@ -79,10 +99,10 @@ Click on the arrow next to the name of the person you would like to mute. Once y
 ![Google Meet participants list](https://images.wondershare.com/filmora/article-images/google-meet-participants-list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click the microphone button in the middle, and once a cross appears on the mic, the individual will be muted.
@@ -90,10 +110,10 @@ Click the microphone button in the middle, and once a cross appears on the mic, 
 ![Google Meet mute people](https://images.wondershare.com/filmora/article-images/mute-people-on-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Mute All Participants in Google Meet?
@@ -115,22 +135,15 @@ Well, it’s not like everyone has an educational Google account through which t
 Take a look at these extensions which will enable you to mute Google Meet participants all at once!
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mute All for Google Meet
 
 ![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
@@ -141,31 +154,24 @@ Listed below are some of its salient features,
 * Mute everyone while conducting a presentation.
 * Add emojis, prevent popups, and use hotkeys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mute All On Meet
 
 This highly innovative tool is a creation of <https://www.zoomcorder.com/> and allows you to mute all members with a single click **or** by pressing _ctrl+m_ on your keyboard.
 
 It allows individuals to record meetings without attending and without being the host in any of the meetings! What an incredible way to watch your missed meetings on your own schedule!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Meet Extension
 
 This extension offered by <https://meetextension.com/> is used by teachers, students, entrepreneurs, NGOs, and more in 20+ countries around the globe.
 
 Using this extension, you can do many things, such as record the Google Meeting video calls, mute and unmute microphones. Besides that, you can also use it to admit or deny a meeting joining request automatically, download the chat, and enable the picture-in-picture view to watch other videos and your video call together on your screen.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: How to Remove Someone From Google Meet With/Without Being A Host?
 
@@ -177,18 +183,18 @@ In the Google Meet window, click on the people icon and a list of participant na
 
 ![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
 ![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -225,20 +231,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/browser-breakdowns-heres-how-to-get-past-the-roadblocks-in-win-os/"><u>Browser Breakdowns? Here's How to Get Past the Roadblocks in WIN OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/crucial-steps-in-capturing-sporting-games-online-for-2024/"><u>Crucial Steps in Capturing Sporting Games Online for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-out-background-sounds-in-skype-chats/"><u>Cutting Out Background Sounds in Skype Chats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-tech-for-flawless-4k-recordings-for-2024/"><u>Cutting-Edge Tech for Flawless 4K Recordings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/deciding-between-30fps-and-60fps-whats-best-for-video-for-2024/"><u>Deciding Between 30Fps and 60Fps What's Best For Video for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/decoding-ios-digital-screen-snatcher-secrets/"><u>Decoding IO's Digital Screen Snatcher Secrets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/delving-deep-a-sincere-examination-of-recordcast/"><u>Delving Deep A Sincere Examination of RecordCast</u></a></li>
-<li><a href="https://facebook.techidaily.com/disabling-default-user-tag-on-facebook/"><u>Disabling Default User Tag on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-spreadsheet-skills-with-chatgpts-insight/"><u>Elevate Spreadsheet Skills with ChatGPT's Insight</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-up-close-with-ampages-latest-innovation-the-portable-andes-1500-power-solution/"><u>Get Up Close with Ampage's Latest Innovation: The Portable Andes 1500 Power Solution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/immediate-purchase-top-three-new-apple-gadgets-unveiled-at-wwdc-how-and-where-to-pre-order-them/"><u>Immediate Purchase: Top Three New Apple Gadgets Unveiled at WWDC - How & Where to Pre-Order Them?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/macaw-mambo-march-for-2024/"><u>Macaw Mambo March for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-action-recorder-the-thievery-t5-edition/"><u>The Ultimate Action Recorder – The Thievery T5 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-hp-laptop-webcam-issues-on-windows-10/"><u>Troubleshooting Guide: Solving HP Laptop Webcam Issues on Windows 10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/viral-video-evolution-youtubes-favorites-for-2024/"><u>Viral Video Evolution YouTube's Favorites for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-5-rapid-setup-techniques-for-home-cinematography/"><u>[New] 2024 Approved Best 5 Rapid Setup Techniques for Home Cinematography</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-budget-conscious-obs-tweaks-and-tricks/"><u>[New] 2024 Approved Budget-Conscious OBS Tweaks and Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-practices-for-streamlining-webinars-on-windowsapple-os-for-2024/"><u>[New] Best Practices for Streamlining Webinars on Windows/Apple OS for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-the-world-of-instagram-and-podcast-sharing/"><u>[New] In 2024, Navigating the World of Instagram & Podcast Sharing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>[Updated] In 2024, Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-mac-capture-hacks-top-5-methods-reviewed/"><u>[Updated] Ultimate Mac Capture Hacks Top 5 Methods Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-racing-game-compilation/"><u>[Updated] Ultimate Racing Game Compilation</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-material-ui-powered-argon-admin-dashboard-a-complimentary-reactive-ui-framework-experience-by-creative-tim/"><u>1. Material-UI Powered Argon Admin Dashboard: A Complimentary Reactive UI Framework Experience by Creative Tim</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-winning-9-gif-recorder-apps-master-your-animated-archive/"><u>2024 Approved Winning 9 GIF Recorder Apps Master Your Animated Archive</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-go-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-lava-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Lava Phone?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/qualitatsvolles-konvertieren-von-hd-dvds-zu-hevc-h265-mp4-fur-den-kostenlosen-gebrauch/"><u>Qualitätsvolles Konvertieren Von HD-DVDs Zu HEVC H.265 MP4 Für Den Kostenlosen Gebrauch</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-issues-how-to-fix-a-non-responsive-discord-application/"><u>Resolving Issues: How to Fix a Non-Responsive Discord Application</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unlocking-flv-video-support-on-windows-11-three-effective-solutions/"><u>Unlocking FLV Video Support on Windows 11: Three Effective Solutions</u></a></li>
 </ul></div>
 

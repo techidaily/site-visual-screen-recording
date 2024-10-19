@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Instantly Solve 'EAC Launch Error' By Installing Easy Anti-Cheat Software"
-date: 2024-08-19T17:59:30.160Z
-updated: 2024-08-20T17:59:30.160Z
+date: 2024-10-17T17:01:01.507Z
+updated: 2024-10-19T16:09:56.287Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Add ESO into exception
 
  The Elder Scrolls Online would not work properly when the program is blocked by your firewall or antivirus software. Therefore, please add an exception for the game through your Antivirus and Windows defender firewall.
@@ -42,15 +49,32 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Change settings** button and check both **Private**  and **Public** options for items related to ESO or ESO launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Delete the program data
 
  If the program data has corrupted, you may encounter the ESO not loading issue. In this case, we need to delete corrupted files. The launcher will redownload missing files automatically.
@@ -62,8 +86,12 @@ Here’s how to allow the ESO launcher through the firewall.
 4. Restart the ESO Launcher to check.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair the launcher
 
  When the game is not loading or stuck on the loading scree, you can repair the launcher to fix the issue. If any files are found to have problems, the launcher will re-download those files.
@@ -75,9 +103,6 @@ Here’s how to allow the ESO launcher through the firewall.
 4. The launcher will reinstall missing files, wait for the process to finish.
 5. Relaunch the game and check to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The Elder Scrolls Online is an online game that requires connecting servers. Make sure you have a stable network with updated drivers. Updating your drivers to the latest version always help. With the latest working driver, you’ll have a better gaming experience.
@@ -102,15 +127,9 @@ OR
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -124,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +150,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-capturing-evening-portraits/"><u>[New] In 2024, Essential Tips for Capturing Evening Portraits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-silencing-ambient-sound-in-recordings-free-or-paid-guide/"><u>[New] In 2024, Silencing Ambient Sound in Recordings Free or Paid Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-terror-in-town-a-list-of-intense-zombie-games-for-2024/"><u>[New] Terror in Town A List of Intense Zombie Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-techniques-applying-luts-for-dynamic-effects-in-after-effects/"><u>[New] Transformative Techniques Applying LUTs for Dynamic Effects in After Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-comparing-digital-dimensions-metaverse-and-multiverse/"><u>[Updated] 2024 Approved Comparing Digital Dimensions Metaverse & Multiverse</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-breakthrough-techniques-for-online-audio-archiving-and-editing-for-2024/"><u>[Updated] Breakthrough Techniques for Online Audio Archiving & Editing for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-game-line-up-best-7-fps-classics-for-2024/"><u>[Updated] Elite Game Line-Up Best 7 FPS Classics for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-zoom-meeting-fundamentals-for-the-uninitiated-for-2024/"><u>[Updated] Zoom Meeting Fundamentals for the Uninitiated for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-mixed-realitys-impact-on-interaction/"><u>2024 Approved Understanding Mixed Reality's Impact on Interaction</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y100t-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y100t to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a54-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A54 5G FRP Locks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-amd-radeon-graphics-drivers-on-windows-without-spending-a-penny/"><u>Install Updated AMD Radeon Graphics Drivers on Windows Without Spending a Penny</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tips-and-fixes-for-blue-screen-of-death-tcpipsys-issue-across-various-windows-versions/"><u>Tips and Fixes for 'Blue Screen of Death: tcpip.sys' Issue Across Various Windows Versions</u></a></li>
+</ul></div>
 
