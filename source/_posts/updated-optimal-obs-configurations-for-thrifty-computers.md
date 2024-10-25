@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimal OBS Configurations for Thrifty Computers"
-date: 2024-10-13T18:14:36.732Z
-updated: 2024-10-19T18:35:55.609Z
+date: 2024-10-23T09:06:53.962Z
+updated: 2024-10-24T23:05:45.409Z
 tags: 
   - screen-recording
   - ai video
@@ -25,18 +25,18 @@ Therefore, after vast research on the internet, our team came up with an optimal
 
 Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Go to Settings
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
 
@@ -47,13 +47,6 @@ Output tab, which is the resolution of the video that the people will watch. For
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Output Settings
 
@@ -93,13 +86,6 @@ So that’s it for the video settings. These are all the settings that you need 
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
@@ -107,10 +93,17 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
@@ -137,22 +130,29 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Streaming Settings
 
@@ -164,18 +164,18 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -237,20 +237,22 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-5-quick-video-capture-tools/"><u>[New] 2024 Approved Best 5 Quick Video Capture Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive-for-2024/"><u>[New] Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-15-gear-to-secure-your-gopro-on-movement/"><u>[New] Best 15 Gear to Secure Your GoPro on Movement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-harmonyhook-screen-recordings-a-review-for-2024/"><u>[New] HarmonyHook Screen Recordings A Review for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-peak-online-cam-dance-battles-for-2024/"><u>[New] Peak Online Cam Dance Battles for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-10-ultimate-simulators-for-androids-gb-games-for-2024/"><u>[Updated] 10 Ultimate Simulators for Android's GB Games for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-active-recorder-assessment-industry-standards-met-in-2024/"><u>[Updated] Active Recorder Assessment Industry Standards Met, In 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-snapchats-call-feature-in-three-steps/"><u>[Updated] In 2024, Navigating Snapchat's Call Feature in Three Steps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-best-terraria-map-viewers-to-find-treasure/"><u>2024 Approved Top 5 Best Terraria Map Viewers to Find Treasure</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-w10-ultimate-screen-replay-suite/"><u>2024 Approved W10 Ultimate Screen Replay Suite</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos-for-2024/"><u>A Beginner's Approach to Title and Caption Integration in Windows 10 Photos for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-13-pro-max-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 13 Pro Max to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g84-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G84 5G Phone FRP Lock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/testing-the-waters-a-detailed-look-at-jackerys-powerbar-and-its-convenient-ac-socket-feature/"><u>Testing the Waters: A Detailed Look at Jackery's PowerBar and Its Convenient AC Socket Feature</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastery-over-multiple-tiktok-video-harvest/"><u>[New] 2024 Approved Mastery Over Multiple TikTok Video Harvest</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-mac-audacitys-audio-recording-guide/"><u>[Updated] Mastering Mac Audacity's Audio Recording Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/aiming-for-the-stars-select-7-top-shooter-experiences/"><u>Aiming for the Stars Select 7 Top Shooter Experiences</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-techniques-recording-in-adobe-presenter/"><u>Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dissecting-the-full-package-logitechs-4k-webcam-experience/"><u>Dissecting the Full Package Logitech’s 4K Webcam Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficient-techniques-to-record-on-vimeo/"><u>Efficient Techniques to Record on Vimeo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpt-does-it-pose-a-threat-to-personal-data-privacy/"><u>Evaluating ChatGPT: Does It Pose a Threat to Personal Data Privacy?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-group-chat-options-for-virtual-gatherings/"><u>Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/experts-guide-to-laptop-screenrecord-software/"><u>Expert's Guide to Laptop ScreenRecord Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gamers-meet-your-new-ally-in-depth-analysis-of-apgear-ups-models-compared/"><u>Gamers, Meet Your New Ally: In-Depth Analysis of Apgear UPS Models Compared</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-cutting-edge-editing-strategies-story-remix-meets-windows-photos/"><u>In 2024, Cutting-Edge Editing Strategies Story Remix Meets Windows Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-top-techniques-for-vhs-image-transformation/"><u>In 2024, Unveiling Top Techniques for VHS Image Transformation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/muting-mastery-keeping-your-meeting-focus-on-google-go/"><u>Muting Mastery Keeping Your Meeting Focus on Google Go</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-solution-addressing-dolby-atmos-compatibility-in-windows-11-and-windows-10/"><u>The Ultimate Solution: Addressing Dolby Atmos Compatibility in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-fixes-for-maintaining-stable-connectivity-in-terraria-gaming/"><u>Top 6 Fixes for Maintaining Stable Connectivity in Terraria Gaming</u></a></li>
 </ul></div>
 

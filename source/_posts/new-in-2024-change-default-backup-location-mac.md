@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-10-16T17:57:07.751Z
-updated: 2024-10-19T17:23:24.190Z
+date: 2024-10-24T10:06:01.939Z
+updated: 2024-10-24T20:55:02.788Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -55,10 +68,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -70,10 +83,16 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -85,13 +104,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -106,10 +118,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,22 +139,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-bravest-battles-and-bold-journeys-top-10-adventure-games/"><u>[New] 2024 Approved Bravest Battles & Bold Journeys – Top 10 Adventure Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715860281233-new-get-savvy-with-chromebook-snaps-explore-these-4-methods/"><u>[New] Get Savvy with Chromebook Snaps - Explore These 4 Methods!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-visual-entry-examination-digest/"><u>[New] Visual Entry Examination Digest</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-bring-your-camera-life-into-your-instagram-world/"><u>[Updated] 2024 Approved Bring Your Camera Life Into Your Instagram World</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-webcam-accessories-top-10-secure-solutions-for-2024/"><u>[Updated] Best Webcam Accessories Top 10 Secure Solutions for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-a-step-by-step-plan-efficient-vimeo-video-logging/"><u>[Updated] In 2024, A Step-by-Step Plan Efficient Vimeo Video Logging</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-and-share-online-journeys-browsers-top-screen-recorders/"><u>[Updated] In 2024, Capture and Share Online Journeys Browsers' Top Screen Recorders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-farming-games-to-kill-time-and-play-with-friends/"><u>[Updated] Top 10 Farming Games to Kill Time and Play with Friends</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>[Updated] Universal Synchronization Zoom on Phones, Tablets, PCs All</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-social-sharing-integrate-your-fb-story/"><u>2024 Approved Streamline Social Sharing Integrate Your FB Story</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-tips-for-crafting-an-engaging-fb-timeline-memory/"><u>2024 Approved Tips for Crafting an Engaging FB Timeline Memory</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-a-simplified-youtube-auto-subscribe-url/"><u>Crafting a Simplified YouTube Auto-Subscribe URL</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-logitech-brio-webcam-driver-update-for-modern-windows-systems-1187/"><u>Get Your Logitech BRIO Webcam Driver Update for Modern Windows Systems (11/8/7)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-why-is-my-bluetooth-device-connected-but-not-communicating-with-windows-10/"><u>Solving the Mystery: Why Is My Bluetooth Device Connected but Not Communicating with Windows 10?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content-for-2024/"><u>The Art of Engaging Crafting Compelling Reddit Content for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/form-your-youtube-footage-into-cinematic-delight-with-imovie-expertise/"><u>Transform Your YouTube Footage Into Cinematic Delight with iMovie Expertise</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leveraging-snap-camera-for-better-online-interaction-on-google-meet-for-2024/"><u>[New] Leveraging Snap Camera for Better Online Interaction on Google Meet for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-unmissable-adventures-in-sandbox-gaming/"><u>[Updated] 2024 Approved Discover Unmissable Adventures in Sandbox Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-incorporating-obs-setting-up-a-countdown-scheduler/"><u>[Updated] 2024 Approved Incorporating OBS Setting Up A Countdown Scheduler</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-the-impeccable-circle-and-sphere-forms-in-mc-world-for-2024/"><u>[Updated] Crafting the Impeccable Circle & Sphere Forms in MC World for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-10-royale-combat-titles-for-2024/"><u>[Updated] Elite 10 Royale Combat Titles for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-securely-capture-web-series-every-time-you-watch-for-2024/"><u>[Updated] How to Securely Capture Web Series Every Time You Watch for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-advanced-audio-capture-a-comprehensive-look-at-whatsapp-call-recording/"><u>[Updated] In 2024, Advanced Audio Capture A Comprehensive Look at WhatsApp Call Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unique-ideas-for-dynamic-fb-video-marketing-campaigns/"><u>[Updated] Unique Ideas for Dynamic FB Video Marketing Campaigns</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unwrapped-in-depth-look-at-screenflow-v4-on-macos/"><u>[Updated] Unwrapped In-Depth Look at ScreenFlow v4 on macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030041225-handbrake/"><u>「ビデオファイルを自由に使えるように: HandBrakeコピーガード対策手法」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertir-archivos-ppt-a-pdf-gratis-online-con-movavi-tu-solucion-de-conversion-libre/"><u>Convertir Archivos PPT a PDF Gratis Online Con Movavi - ¡Tu Solución De Conversión Libre!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficient-windows-11-overdracht-van-harddisks-naar-ssds-geavanceerde-overbrengingsonder-herinstallatie/"><u>Efficiënt Windows 11-Overdracht Van Harddisks Naar SSDs: Geavanceerde Overbrengingsonder Herinstallatie</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-gaming-experience-with-voice-adjustment/"><u>Enhance Gaming Experience with Voice Adjustment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-guide-on-crafting-midjourney-prompts-elevating-skills-from-novice-to-virtuoso/"><u>Expert Guide on Crafting Midjourney Prompts: Elevating Skills From Novice to Virtuoso</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-enable-offline-files-feature-on-windows-11-three-effective-ways/"><u>How to Enable Offline Files Feature on Windows 11 – Three Effective Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-huawei-p60-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Huawei P60 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715859694370-in-2024-explore-mp4-recording-tools-today/"><u>In 2024, Explore MP4 Recording Tools Today!</u></a></li>
 </ul></div>
 

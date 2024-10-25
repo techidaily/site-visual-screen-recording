@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Capture Screenshots of a Full Page"
-date: 2024-08-19T17:48:18.064Z
-updated: 2024-08-20T17:48:18.064Z
+date: 2024-10-23T23:10:04.456Z
+updated: 2024-10-25T13:39:59.717Z
 tags: 
   - screen-recording
   - ai video
@@ -62,9 +62,6 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
@@ -80,8 +77,18 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
@@ -89,8 +96,12 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
 #### 3\. [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en)
@@ -113,9 +124,6 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -125,8 +133,12 @@ Taking full page screenshots on a Mac computer is made much simpler by [Paparazz
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
 Afterward, you should click on one of the yellow arrows to select the direction in which you'd like to scroll and Snagit will do the rest for you. The final result will be a single image you can later edit, share via Email or on social networks. This software also enables you to create a scrolling capture preset, so you can take screenshots of web pages and documents within seconds.
@@ -140,15 +152,17 @@ Leave a comment below and let us know which method of capturing full page screen
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,3 +170,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-look-into-the-future-of-camera-multicam-systems/"><u>[New] A Look Into the Future of Camera Multicam Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-become-a-lol-broadcasting-pro-with-these-three-methods/"><u>2024 Approved Become a LOL Broadcasting Pro with These Three Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transforming-ideas-into-viral-video-hits-on-youtube/"><u>2024 Approved Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/building-dreams-in-mc-ideal-village-housing-plans/"><u>Building Dreams in MC Ideal Village Housing Plans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-overview-of-the-latest-apple-studio-monitor-specs-unique-traits-and-insights/"><u>Comprehensive Overview of the Latest Apple Studio Monitor: Specs, Unique Traits, and Insights.</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicfile-recovery/"><u>CosmicFile Recovery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elite-console-emulation-top-5-ps3-options/"><u>Elite Console Emulation Top 5 PS3 Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/experts-guide-to-rapid-time-lapsing/"><u>Expert's Guide to Rapid Time-Lapsing</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-30-vs-60-fps-which-to-use-in-video-recording/"><u>In 2024, 30 Vs. 60 FPS? Which To Use in Video Recording?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-harmony-hub-capture-store-and-review-sounds/"><u>In 2024, Harmony Hub Capture, Store & Review Sounds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-screen-capture-with-1-5-of-the-best-pc-snipers/"><u>Mastering Screen Capture with #1-#5 of the Best Pc Snipers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-basics-of-ai-transfer-learning-and-its-mechanisms/"><u>The Basics of AI Transfer Learning and Its Mechanisms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-affordable-video-players-a-comprehensive-list-pc-and-mobile/"><u>Ultimate Guide to Affordable Video Players A Comprehensive List (PC & Mobile)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-take-your-videos-to-the-next-level-professional-1080p-video-editing-tools/"><u>Updated Take Your Videos to the Next Level Professional 1080P Video Editing Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-arena-transcript/"><u>Virtual Arena Transcript</u></a></li>
+</ul></div>
+

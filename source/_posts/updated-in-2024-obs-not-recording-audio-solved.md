@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, OBS Not Recording Audio [Solved]"
-date: 2024-10-14T18:21:44.564Z
-updated: 2024-10-19T16:39:32.354Z
+date: 2024-10-22T01:50:38.545Z
+updated: 2024-10-25T05:19:28.575Z
 tags: 
   - screen-recording
   - ai video
@@ -52,17 +52,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -75,6 +68,20 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -86,23 +93,23 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -134,13 +141,6 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Use OBS Alternative
 
 When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
@@ -158,16 +158,10 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -192,17 +186,20 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-simple-screen-recorder-for-windows-11/"><u>[New] Simple Screen Recorder for Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-smart-choices-best-windows-camcorders-list/"><u>[New] Smart Choices Best Windows Camcorders List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205582672-solved-windows-update-error-0x80070002-easily/"><u>[Solved] Windows Update Error 0X80070002 | Easily</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vintage-tech-upgrade/"><u>[Updated] In 2024, Vintage Tech Upgrade</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-smooth-steam-gaming-recordings-guide/"><u>[Updated] Smooth Steam Gaming Recordings Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-unraveling-the-windows-meltdown-how-crowdstrike-influenced-cybersecurity-a-detailed-analysis-by-zdnet/"><u>1. Unraveling the Windows Meltdown: How CrowdStrike Influenced Cybersecurity - A Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-masterclass-in-brief-lapses-top-5/"><u>2024 Approved Masterclass in Brief Lapses #Top 5</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-swiftrecordingtool-with-narrator-functionality/"><u>2024 Approved SwiftRecordingTool with Narrator Functionality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-narzo-60-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme Narzo 60 Pro 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-motorola-g24-power-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Motorola G24 Power to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c12-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C12 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-to-prevent-thaumaturge-from-freezing-or-crashing-on-your-desktop-computer/"><u>Solutions to Prevent Thaumaturge From Freezing or Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-capture-techniques-for-your-lenovo-screen/"><u>[New] Quick Capture Techniques for Your Lenovo Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionary-methods-for-ipad-audio-logging/"><u>[New] Revolutionary Methods for iPad Audio Logging</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-irrelevance-of-licensing-in-truth/"><u>[Updated] 2024 Approved The Irrelevance of Licensing in Truth</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-case-study-approach-learning-from-successful-market-research-examples/"><u>[Updated] Case Study Approach Learning From Successful Market Research Examples</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pulsepundit-critique-of-live-performances/"><u>[Updated] PulsePundit Critique of Live Performances</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-record-your-webcam-with-vlc/"><u>[Updated] Record Your Webcam with VLC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-resounding-beats-audio-studio-mac/"><u>[Updated] Resounding Beats Audio Studio Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>2024 Approved How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-seamless-inshot-edits/"><u>2024 Approved Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-apcs-back-ups-pro-1500va-high-performance-multiple-sockets-and-hot-swap-battery-technology/"><u>Comprehensive Review of APC's Back-UPS Pro 1500VA - High Performance, Multiple Sockets & Hot-Swap Battery Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-online-gameplay-glitches-mastering-high-ping-solutions-for-an-epic-chivalry-2-adventure-latest-fixes/"><u>Conquering Online Gameplay Glitches: Mastering High Ping Solutions for an Epic Chivalry 2 Adventure (Latest Fixes)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-fixing-the-error-when-comctl32dll-wont-load/"><u>Expert Advice: Fixing the Error When 'Comctl32.dll' Won’t Load</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/professional-techniques-for-webcam-integration-and-capture-for-2024/"><u>Professional Techniques for WebCam Integration & Capture for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-playback-on-apple-music-with-these-steps/"><u>Turn Off Automatic Song Playback on Apple Music with These Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Control  Switch Pro in Steam Play\""
-date: 2024-08-19T17:52:52.008Z
-updated: 2024-08-20T17:52:52.008Z
+date: 2024-10-21T08:26:40.312Z
+updated: 2024-10-25T08:56:49.875Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -66,9 +73,23 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -77,16 +98,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * Once Steam is set up, you can begin using it.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
 1. You will be required to open Steam and enter the settings menu if Big Picture doesn't open automatically when you connect the Pro Controller.
@@ -99,14 +114,8 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -118,24 +127,23 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +151,27 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-boost-engagement-posting-twitter-videos-on-snapchat/"><u>[New] In 2024, Boost Engagement Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tricks-for-recording-online-discussions-easily/"><u>[New] Tricks for Recording Online Discussions Easily</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-securing-your-zoom-conference-room-audio-and-video-considerations/"><u>[Updated] Securing Your Zoom Conference Room Audio & Video Considerations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-silencing-background-noise-in-obs-feeds/"><u>[Updated] Silencing Background Noise in OBS Feeds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-action-film-snapshotting/"><u>[Updated] Ultimate Guide to Action Film Snapshotting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-still-life-with-moving-picture-magic/"><u>2024 Approved Bridging Still Life with Moving Picture Magic</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-relaxation-at-your-fingertips-games-you-love/"><u>2024 Approved Relaxation at Your Fingertips Games You Love</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>2024 Approved Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-scanner-driver-software-free-downloads-compatible-with-windows/"><u>Canon Scanner Driver Software: FREE Downloads Compatible with Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-1080-graphics-card-drivers-fast-and-secure-for-your-windows-10-system/"><u>Download Nvidia 1080 Graphics Card Drivers Fast & Secure for Your Windows 10 System</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guide-youtube-to-mp4-ensuring-data-security-for-2024/"><u>Guide YouTube to MP4 - Ensuring Data Security for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-on-the-move-high-performance-free-online-tempo-tracking-tools/"><u>In 2024, On-the-Move High-Performance, Free Online Tempo Tracking Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-capture-tips-for-ios-devices-2023-update/"><u>In 2024, Screen Capture Tips for iOS Devices - 2023 Update</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-complete-obs-guide-to-skype-call-recording/"><u>In 2024, The Complete OBS Guide to Skype Call Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-selection-of-ps1-games-now-on-your-computer/"><u>In 2024, Ultimate Selection of PS1 Games, Now on Your Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-virtual-streets-best-video-games-mimicking-gta-v/"><u>In 2024, Virtual Streets Best Video Games Mimicking GTA V</u></a></li>
+<li><a href="https://some-skills.techidaily.com/orbital-odyssey-interrupted-how-boeings-stranded-astronauts-could-hitch-a-ride-with-competitor-spacex/"><u>Orbital Odyssey Interrupted: How Boeing's Stranded Astronauts Could Hitch a Ride with Competitor SpaceX</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-quality-urdu-education-just-10-minsday/"><u>Quick, Quality Urdu Education - Just 10 Mins/Day</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968286949-step-by-step-guide-downloading-and-updating-surface-book-drivers-made-easy/"><u>Step-by-Step Guide: Downloading and Updating Surface Book Drivers Made Easy!</u></a></li>
+</ul></div>
+

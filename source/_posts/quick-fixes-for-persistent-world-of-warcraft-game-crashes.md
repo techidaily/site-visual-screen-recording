@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Persistent World of Warcraft Game Crashes
-date: 2024-08-19T17:52:49.488Z
-updated: 2024-08-20T17:52:49.488Z
+date: 2024-10-24T10:47:56.379Z
+updated: 2024-10-25T01:10:08.111Z
 tags:
   - win11
   - win10
@@ -61,10 +61,22 @@ Century: Age of Ashes system requirements
 2. **Right-click** on **Century: Age of Ashes** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -84,14 +96,6 @@ Century: Age of Ashes system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -99,8 +103,12 @@ Century: Age of Ashes system requirements
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developer of Century: Age of Ashes releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -109,9 +117,6 @@ Century: Age of Ashes system requirements
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable overlays
 
  Overlays are handy. However, sometimes they may interfere with the game and would block the game files, which may cause the game to crash.
@@ -121,10 +126,14 @@ Century: Age of Ashes system requirements
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Century: Age of Ashes_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
 
@@ -142,17 +151,12 @@ Century: Age of Ashes system requirements
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Many 3rd party antivirus software may also interfere with game files. Once some important game files are blocked by those 3rd party antivirus software, the game would crash.
@@ -164,8 +168,12 @@ Century: Age of Ashes system requirements
 If this fix didn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Repair corrupted system files
 
  Windows system file corruption sometimes will also lead to the game crashing issues. If you’ve played PC games for a long time, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -199,19 +207,18 @@ If this fix didn’t work, try the next fix, below.
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -238,8 +245,6 @@ If this fix didn’t work, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +252,26 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-siege-showdowns-top-10-royale-arena-fighters/"><u>[New] 2024 Approved Siege Showdowns Top 10 Royale Arena Fighters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-original-cinematic-footage-assessment-and-substitutes/"><u>[New] In 2024, Original Cinematic Footage Assessment & Substitutes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-quick-guide-downloading-and-prepping-vrecord/"><u>[New] In 2024, Quick Guide Downloading & Prepping VRecord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secrets-of-screen-grabs-exposed/"><u>[New] In 2024, Secrets of Screen Grabs Exposed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-vote-players-best-political-game-reviews/"><u>[New] In 2024, Ultimate Vote-Players Best Political Game Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-comparison-between-sharex-and-rivals-for-2024/"><u>[New] The Ultimate Comparison Between ShareX & Rivals for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-splitcams-journey-to-video-excellence-an-overview/"><u>[Updated] 2024 Approved SplitCam's Journey to Video Excellence An Overview</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-achieving-success-in-your-youtube-endeavours-a-step-by-step-blueprint/"><u>[Updated] In 2024, Achieving Success in Your YouTube Endeavours A Step-by-Step Blueprint</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-zero-cost-chromebook-recorders/"><u>[Updated] In 2024, Best Zero Cost Chromebook Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-5-fluid-simulation-games/"><u>[Updated] In 2024, Top 5 Fluid Simulation Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-integration-of-obs-and-zoom-services-for-2024/"><u>[Updated] Seamless Integration of OBS and Zoom Services for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-vlog-glow-achieving-professional-video-setup-for-2024/"><u>[Updated] Vlog Glow Achieving Professional Video Setup for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-producing-youtube-trailers-using-filmora/"><u>2024 Approved Step-by-Step Producing YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/convert-videos-in-hd-quality-for-free-with-easy-to-use-tool/"><u>Convert Videos in HD Quality for Free with Easy-to-Use Tool</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhancing-dji-flights-20-free-color-adjustments-dji-mini-and-air/"><u>Enhancing DJI Flights 20 Free Color Adjustments (DJI Mini & Air)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-nokia-c12-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Nokia C12 to iPod | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/three-years-later-the-evolution-of-my-iphone-revealed-a-comprehensive-review-by-zdnet/"><u>Three Years Later: The Evolution of My iPhone Revealed - A Comprehensive Review by ZDNet</u></a></li>
+</ul></div>
 

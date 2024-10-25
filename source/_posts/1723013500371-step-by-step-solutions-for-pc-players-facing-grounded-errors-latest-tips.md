@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for PC Players Facing 'Grounded' Errors - Latest Tips!
-date: 2024-08-19T17:46:51.571Z
-updated: 2024-08-20T17:46:51.571Z
+date: 2024-10-19T03:07:37.464Z
+updated: 2024-10-25T03:12:21.256Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -61,24 +68,18 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -86,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -108,11 +116,12 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -122,11 +131,16 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -142,8 +156,6 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +163,18 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfect-game-video-edits-made-easy-for-newcomers/"><u>[Updated] Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-movie-recording-your-multiplatform-strategy/"><u>[Updated] Perfecting Movie Recording Your Multiplatform Strategy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-peekintobettercams-beyond-mycam/"><u>2024 Approved PeekIntoBetterCams Beyond MyCam?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-lenovo-keyboard-problems-practical-tips/"><u>Diagnosing and Repairing Lenovo Keyboard Problems: Practical Tips</u></a></li>
+<li><a href="https://media-tips.techidaily.com/flawless-transformation-top-notch-dpg-creation-from-videos-made-easy/"><u>Flawless Transformation: Top-Notch DPG Creation From Videos Made Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-card-selections-uhd-video-perfection/"><u>In 2024, Advanced Card Selections UHD Video Perfection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-number-changes-on-tiktok-with-precision/"><u>In 2024, Navigating Number Changes on TikTok with Precision</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>In 2024, Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-radeon-remembrance-set/"><u>In 2024, Radeon Remembrance Set</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/prevenir-la-suppression-automatique-des-messages-dans-outlook-deux-methodes-simples-a-suivre/"><u>Prévenir La Suppression Automatique Des Messages Dans Outlook - Deux Méthodes Simples À Suivre</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-origin-running-on-windows-11-again/"><u>Troubleshooting Tips: How to Get Origin Running on Windows 11 Again</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Dual Display Capture"
-date: 2024-10-12T18:27:02.194Z
-updated: 2024-10-19T16:48:17.255Z
+date: 2024-10-18T18:09:57.584Z
+updated: 2024-10-25T00:25:56.305Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -62,10 +62,10 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,13 +83,6 @@ Go to OBS Studio's main window and click on the Settings button in the lower rig
 Sum up the two values of the wider sides of the screens and insert the value you get into the Base Resolution bar. For example, if one monitor has a 1366X768 resolution and the second one has a 1024X768 resolution, you should add 1024 to the 1366 and insert the resulting value (2390) as the wide resolution value in Base Resolution Bar.
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
 
@@ -116,13 +109,20 @@ In case that you want to record your secondary monitor, we recommend you to try 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -140,16 +140,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-reel-in-real-time-the-top-5-innovative-recorder-apps-for-browsers/"><u>2024 Approved Reel in Real-Time The Top 5 Innovative Recorder Apps for Browsers</u></a></li>
-<li><a href="https://article-files.techidaily.com/discover-the-premier-complimentary-voice-transform-for-valorant-for-2024/"><u>Discover the Premier, Complimentary Voice Transform for Valorant for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/re-these-ten-booming-youtube-sources-to-uplift-yourself-for-2024/"><u>Explore These Ten Booming YouTube Sources to Uplift Yourself for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>In 2024, ScreenRecorderPro A Detailed Analysis of Video Capture Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-unexpected-app-halts-in-cod-modern-warfare-3-fix-guide/"><u>Overcoming Unexpected App Halts in COD Modern Warfare 3 - Fix Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/platform-power-playout-which-streams-better-obs-or-twitch-studio-in-2024/"><u>Platform Power Playout Which Streams Better - OBS or Twitch Studio, In 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/resolving-common-windows-11-photo-app-problems-for-2024/"><u>Resolving Common Windows 11 Photo App Problems for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/reviewing-bandicams-effectiveness-in-professional-video-editing-for-2024/"><u>Reviewing Bandicam's Effectiveness in Professional Video Editing for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-guide-for-popular-screen-recorder-zd-soft-for-2024/"><u>Ultimate Guide for Popular Screen Recorder ZD Soft for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287015581-winx-video-converter-windows/"><u>フリーソフトで簡単に変換! WinX Video Converter - Windowsユーザー必見ステップバイステップ使用法</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/"><u>[New] 2024 Approved Simplify Meetings A Comprehensive Guide to Skype Call Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exploring-the-prime-linux-screenshot-applications/"><u>[New] In 2024, Exploring the Prime Linux Screenshot Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-flawless-filming-ipad-timelapse-techniques/"><u>[New] In 2024, Flawless Filming IPad Timelapse Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[New] In 2024, Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-first-time-filmmaker-guide-setting-up-logitech-cam/"><u>[Updated] 2024 Approved First-Time Filmmaker Guide Setting up Logitech Cam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inside-look-freewebcampro-software-overview/"><u>[Updated] 2024 Approved Inside Look FreeWebcamPro Software Overview</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-through-an-absent-obs-camera-input/"><u>[Updated] 2024 Approved Navigating Through an Absent OBS Camera Input</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-day-jobs-and-digital-passion-striking-a-balance-for-2024/"><u>[Updated] Day Jobs & Digital Passion Striking a Balance for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-digital-scribes-leading-screen-recorder-software-for-2024/"><u>[Updated] Digital Scribes Leading Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-record-everything-pay-nothing-screen-tools-for-all-users-for-2024/"><u>[Updated] Record Everything, Pay Nothing - Screen Tools for All Users for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-caixun-4k-smart-tv-with-a-75-inch-display-in-depth-product-analysis/"><u>Affordable Caixun 4K Smart TV with a 75-Inch Display - In-Depth Product Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/big-techs-responsibility-in-the-battle-against-online-fraudsters/"><u>Big Tech's Responsibility in the Battle Against Online Fraudsters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-run-a-sports-youtube-chain-on-macos-for-2024/"><u>How to Run a Sports YouTube Chain on MacOS for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/innovative-rhythms-with-the-magix-groove-master-suite/"><u>Innovative Rhythms with the Magix Groove Master Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/steer-clear-from-illegitimate-video-game-system-prizes-in-digital-platforms/"><u>Steer Clear From Illegitimate Video Game System Prizes in Digital Platforms</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/werkseinstellungen-fur-acer-nitro-5-auf-systemwiederherstellung-umstellen-unter-windows-11/"><u>Werkseinstellungen Für Acer Nitro 5 Auf Systemwiederherstellung Umstellen Unter Windows 11</u></a></li>
 </ul></div>
 

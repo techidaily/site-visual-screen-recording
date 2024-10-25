@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms"
-date: 2024-10-16T16:42:04.077Z
-updated: 2024-10-19T18:24:14.638Z
+date: 2024-10-22T20:25:49.122Z
+updated: 2024-10-24T18:28:43.046Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ A screenshot of Farming Simulator 22 from Steam
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  Giants Software, the developers of Farming Simulator 22 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -49,10 +42,16 @@ A screenshot of Farming Simulator 22 from Steam
  Launch Farming Simulator 22 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Update your graphics driver
@@ -96,16 +95,23 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
- Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
 
 ## Optimize in-game graphics settings
 
@@ -149,13 +155,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel may also improve the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -179,6 +178,13 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -198,16 +204,10 @@ There are mainly two methods for you to update the graphics driver:
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar (Windows 10)
@@ -220,15 +220,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -255,14 +255,18 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-immediate-fixes-fb-messenger-video-sending-hitch-on-mobile-devices/"><u>[New] In 2024, Immediate Fixes FB Messenger Video Sending Hitch on Mobile Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>[New] In 2024, Tech Titans Triumph Best Online Tools to Record Your Screen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-bring-life-to-photos-using-snapchats-fun-cartoon-lenses/"><u>[Updated] In 2024, Bring Life to Photos Using Snapchat's Fun Cartoon Lenses</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-pro-gamers-screen-capture-strategy-for-xbox-one/"><u>[Updated] In 2024, The Pro Gamer's Screen Capture Strategy for Xbox One</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-browser-recording-software-2023-edition/"><u>[Updated] In 2024, The Ultimate List of Browser Recording Software, 2023 Edition</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unlock-the-potential-of-mac-for-top-tier-ootd-tiktoks/"><u>[Updated] In 2024, Unlock the Potential of Mac for Top-Tier OOTD TikToks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-tutorial-saving-screen-movies-from-your-gadgets-for-2024/"><u>[Updated] Tech Tutorial Saving Screen Movies From Your Gadgets for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cracking-the-code-on-ai-regulation-urgency-dissecting-why-openais-chief-is-pushing-for-change/"><u>Cracking the Code on AI Regulation Urgency: Dissecting Why OpenAI's Chief Is Pushing for Change</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-maximizing-reach-and-engagement-in-igtv-content-strategy/"><u>[New] In 2024, Maximizing Reach and Engagement in IGTV Content Strategy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-resolve-ipadiphone-fb-video-playback-delays-for-2024/"><u>[New] Resolve iPad/iPhone FB Video Playback Delays for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streamline-your-meetings-with-these-tools-for-2024/"><u>[New] Streamline Your Meetings with These Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-the-pinnacle-of-hydro-interactive-games/"><u>[Updated] Explore the Pinnacle of Hydro Interactive Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-first-steps-to-expertise-lenovos-guide-to-recording-success/"><u>2024 Approved From First Steps to Expertise Lenovo’s Guide to Recording Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-shots-top-cameras-and-lenses-for-youtubers/"><u>Ace Your Shots Top Cameras & Lenses for YouTubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-and-play-any-dvd-with-compatible-apps-for-windows-phones-and-mobiles/"><u>Download and Play Any DVD with Compatible Apps for Windows Phones & Mobiles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-dos-and-donts-for-twilight-self-portraiture-for-2024/"><u>Essential Do's and Don'ts for Twilight Self-Portraiture for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ethereal-euphemisms-italias-alluring-phrases/"><u>Ethereal Euphemisms: Italia’s Alluring Phrases</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-xcom-2-game-crash-problems-on-windows-with-these-easy-steps/"><u>Fix Your XCOM 2 Game Crash Problems on Windows with These Easy Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-9-mic-recorder-selections-for-online-use-in-23/"><u>In 2024, Essential 9 Mic Recorder Selections for Online Use in '23</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sculpting-images-selecting-the-right-aspect-ratio/"><u>In 2024, Sculpting Images Selecting the Right Aspect Ratio</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-overcoming-high-ping-issues-in-call-of-duty-warzone-version-20/"><u>Ultimate Guide to Overcoming High Ping Issues in Call of Duty: Warzone Version 2.0</u></a></li>
 </ul></div>
 

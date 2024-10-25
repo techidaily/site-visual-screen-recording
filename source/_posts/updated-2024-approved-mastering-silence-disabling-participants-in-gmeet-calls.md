@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Silence  Disabling Participants in GMeet Calls\""
-date: 2024-10-14T18:19:12.619Z
-updated: 2024-10-19T17:40:25.259Z
+date: 2024-10-23T00:22:39.196Z
+updated: 2024-10-25T08:59:00.108Z
 tags: 
   - screen-recording
   - ai video
@@ -52,35 +52,48 @@ All an individual has to do is click the microphone button located on the bottom
 
 ![Google Meet Mute](https://images.wondershare.com/filmora/article-images/mute-microphone-on-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If they click that same button again, they will be unmuted.
 
 ![Google Meet unmute](https://images.wondershare.com/filmora/article-images/unmute-yourself-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 However, if they do not want to make use of the screen to mute and unmute, they can use keyboard key shortcuts. For Mac users, the relevant keys are CTRL - COMMAND - M. If you are making use of a different desktop or laptop then it is simply CTRL - M.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Mute Someone in Google Meet?
 
 There are times when individuals are not aware that the background noise of their surroundings is causing a disturbance in the meeting. That is when muting someone can come in handy! Basically in this, a host or other participants in the meeting can mute an individual based on need. However, there is an eligibility criterion they must adhere to in order to get the muting permissions.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Eligibility Criteria To Mute Someone in Google Meet
 
@@ -98,23 +111,9 @@ Click on the arrow next to the name of the person you would like to mute. Once y
 
 ![Google Meet participants list](https://images.wondershare.com/filmora/article-images/google-meet-participants-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click the microphone button in the middle, and once a cross appears on the mic, the individual will be muted.
 
 ![Google Meet mute people](https://images.wondershare.com/filmora/article-images/mute-people-on-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Mute All Participants in Google Meet?
 
@@ -134,13 +133,6 @@ Well, it’s not like everyone has an educational Google account through which t
 
 Take a look at these extensions which will enable you to mute Google Meet participants all at once!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mute All for Google Meet
 
 ![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
@@ -154,18 +146,18 @@ Listed below are some of its salient features,
 * Mute everyone while conducting a presentation.
 * Add emojis, prevent popups, and use hotkeys.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mute All On Meet
 
 This highly innovative tool is a creation of <https://www.zoomcorder.com/> and allows you to mute all members with a single click **or** by pressing _ctrl+m_ on your keyboard.
 
 It allows individuals to record meetings without attending and without being the host in any of the meetings! What an incredible way to watch your missed meetings on your own schedule!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Meet Extension
 
@@ -177,24 +169,31 @@ Using this extension, you can do many things, such as record the Google Meeting 
 
 Don’t you just hate it when there is too much distortion or disturbance in a session because of another participant? Well, lucky for everyone, Google Meet has a “remove from the meeting” feature as well. In this, individuals can remove other people from the meeting, if they aren’t meant to be in the session or if they are causing challenges in the meeting. They can do this while being the host and even when they are not the host of the meeting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How to Remove Someone While Being The Host?
 
 In the Google Meet window, click on the people icon and a list of participant names will appear on the screen.
 
 ![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
 ![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -216,6 +215,19 @@ The mute feature on Google Meet is truly very simplistic and handy to use. All o
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -231,19 +243,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-5-rapid-setup-techniques-for-home-cinematography/"><u>[New] 2024 Approved Best 5 Rapid Setup Techniques for Home Cinematography</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-budget-conscious-obs-tweaks-and-tricks/"><u>[New] 2024 Approved Budget-Conscious OBS Tweaks and Tricks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-best-practices-for-streamlining-webinars-on-windowsapple-os-for-2024/"><u>[New] Best Practices for Streamlining Webinars on Windows/Apple OS for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-the-world-of-instagram-and-podcast-sharing/"><u>[New] In 2024, Navigating the World of Instagram & Podcast Sharing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>[Updated] In 2024, Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-mac-capture-hacks-top-5-methods-reviewed/"><u>[Updated] Ultimate Mac Capture Hacks Top 5 Methods Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-racing-game-compilation/"><u>[Updated] Ultimate Racing Game Compilation</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-material-ui-powered-argon-admin-dashboard-a-complimentary-reactive-ui-framework-experience-by-creative-tim/"><u>1. Material-UI Powered Argon Admin Dashboard: A Complimentary Reactive UI Framework Experience by Creative Tim</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-winning-9-gif-recorder-apps-master-your-animated-archive/"><u>2024 Approved Winning 9 GIF Recorder Apps Master Your Animated Archive</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-go-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-lava-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Lava Phone?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/qualitatsvolles-konvertieren-von-hd-dvds-zu-hevc-h265-mp4-fur-den-kostenlosen-gebrauch/"><u>Qualitätsvolles Konvertieren Von HD-DVDs Zu HEVC H.265 MP4 Für Den Kostenlosen Gebrauch</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-issues-how-to-fix-a-non-responsive-discord-application/"><u>Resolving Issues: How to Fix a Non-Responsive Discord Application</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unlocking-flv-video-support-on-windows-11-three-effective-solutions/"><u>Unlocking FLV Video Support on Windows 11: Three Effective Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-agricultural-bliss-the-10-perfect-gaming-friends-for-farmers-for-2024/"><u>[New] Agricultural Bliss The 10 Perfect Gaming Friends for Farmers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-android-and-ios-leading-titles-mimicking-playstation-games-for-2024/"><u>[New] Android & iOS Leading Titles Mimicking PlayStation Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-deciphering-screen-recorders-bandicam-or-camtasia-in-2024/"><u>[New] Deciphering Screen Recorders Bandicam or Camtasia, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-analyzing-bandicam-as-a-key-tool-in-digital-content-creation/"><u>[New] In 2024, Analyzing Bandicam as a Key Tool in Digital Content Creation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-storing-tiktok-content-simple-steps-for-phones-for-2024/"><u>[New] Storing TikTok Content Simple Steps for Phones for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capture-studio-high-fidelity-screen-record/"><u>[Updated] 2024 Approved Capture Studio High Fidelity Screen Record</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-direct-to-streamer-duel-choose-your-platform-for-2024/"><u>[Updated] Direct-to-Streamer Duel Choose Your Platform for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-downgrading-macos-sierra-to-os-x-el-capitan/"><u>[Updated] Downgrading MacOS Sierra to OS X El Capitan</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-all-encompassing-iptv-access-strategies/"><u>[Updated] In 2024, All-Encompassing IPTV Access Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-youtube-video-reverser-online/"><u>[Updated] In 2024, Best YouTube Video Reverser Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-thorough-examination-of-gecata-recorder/"><u>[Updated] Thorough Examination of Gecata Recorder</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-u23-phone-without-pin-by-drfone-android/"><u>How to Unlock HTC U23 Phone without PIN</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-prime-interactive-face-time-festivals/"><u>In 2024, Prime Interactive Face Time Festivals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-cost-nature-inspired-screen-images/"><u>No-Cost, Nature Inspired Screen Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rca-video-doorbell-camera-review-a-capable-camera/"><u>RCA Video Doorbell Camera Review: A Capable Camera</u></a></li>
 </ul></div>
 

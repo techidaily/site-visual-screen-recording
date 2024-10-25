@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplified Guide to Incorporating Ken Burns Effect in Camtasa for 2024"
-date: 2024-08-19T17:52:59.788Z
-updated: 2024-08-20T17:52:59.788Z
+date: 2024-10-22T21:09:05.181Z
+updated: 2024-10-24T21:38:22.823Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,24 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +118,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ideal-imagery-best-google-meet-screen-savers/"><u>[New] 2024 Approved Ideal Imagery Best Google Meet Screen Savers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-leading-digital-image-grabbers/"><u>[New] 2024 Approved Leading Digital Image Grabbers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>[New] From Mere Color to Spectacle HDR vs SDR in Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ideal-6-screen-recorders-for-mac-users-for-2024/"><u>[New] Ideal 6 Screen Recorders for Mac Users for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-overcoming-obs-fullscreen-issues/"><u>[New] In 2024, Overcoming OBS Fullscreen Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-achieve-professional-results-with-simple-webcam-tech/"><u>[Updated] Achieve Professional Results with Simple WebCam Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastery-in-gameye-advanced-recording-tips/"><u>[Updated] In 2024, Mastery in GamEye Advanced Recording Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-minimca-mastery-starting-point-for-mc-habitats/"><u>[Updated] In 2024, MiniMCA Mastery Starting Point for MC Habitats</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-server2012022/"><u>详细指导：如何将Windows Server版本从201지转换为2022</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-xr21-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia XR21 Phone Pattern Lock</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/six-secrets-to-masterful-mov-saving-in-windows-11/"><u>Six Secrets to Masterful .MOV Saving in Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/turning-hobby-into-habit-making-money-with-vlogs/"><u>Turning Hobby Into Habit Making Money with Vlogs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-pro-level-video-editing-l-cuts-and-j-cuts-in-final-cut-pro-x/"><u>Updated Pro-Level Video Editing L-Cuts and J-Cuts in Final Cut Pro X</u></a></li>
+</ul></div>
+

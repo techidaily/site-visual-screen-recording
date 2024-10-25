@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips for Enabling Grid on Google Meet for 2024"
-date: 2024-10-04T20:33:14.942Z
-updated: 2024-10-08T00:58:55.383Z
+date: 2024-10-24T01:58:58.337Z
+updated: 2024-10-25T04:18:09.403Z
 tags: 
   - screen-recording
   - ai video
@@ -55,16 +55,16 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Join Meeting through phone's browser
 
@@ -74,24 +74,31 @@ Click on the **three dots** and enable the **desktop site** option from the menu
 
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
 
 Click on the **three dots** at the bottom right corner and select **change layout.**
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
 
 **Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
 
@@ -118,10 +125,10 @@ Click on the **extension** at the top right of the screen corner and tick the **
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
@@ -141,10 +148,10 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3 : Check the working in Google Meet**
@@ -173,19 +180,6 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -201,22 +195,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-join-google-meet-for-2024/"><u>[New] How to Join Google Meet for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-immersion-in-the-most-realistic-water-games-for-2024/"><u>[New] Immersion in the Most Realistic Water Games for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-express-screen-snag-aural-elements/"><u>[New] In 2024, Express Screen Snag Aural Elements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-live-screen-recorder-for-chromebooks/"><u>[Updated] 2024 Approved Live Screen Recorder for Chromebooks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[Updated] 2024 Approved Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-highest-quality-capture-options-for-2024/"><u>[Updated] Highest Quality Capture Options for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-live-screen-archive-aggregators-for-2024/"><u>[Updated] Live Screen Archive Aggregators for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-lol-gaming-on-air-top-3-recording-methods-for-2024/"><u>[Updated] LOL Gaming On Air Top 3 Recording Methods for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-6-secure-virtual-communication-tools-for-smbs-for-2024/"><u>[Updated] Optimal 6 Secure Virtual Communication Tools for SMBs for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-telling-stories-vertically-video-editing-for-instagram-with-fcpx-for-2024/"><u>[Updated] Telling Stories Vertically Video Editing for Instagram with FCPX for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-android-toolset-for-3d-video-players/"><u>[Updated] Ultimate Android Toolset for 3D Video Players</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-watchlist-using-double-display-with-netflix/"><u>Enhance Your Watchlist Using Double Display with Netflix</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-browsing-boredom-away-15-chuckle-inducing-youtubers/"><u>In 2024, Browsing Boredom Away 15 Chuckle-Inducing YouTubers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error - Causes and Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-advanced-traffic-insights-with-our-cookiebot-technology-integration/"><u>Unlocking Advanced Traffic Insights with Our Cookiebot Technology Integration</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-nord-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Nord 3 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-for-storing-webcam-chat-transcripts/"><u>[New] 2024 Approved Streamlined Steps for Storing Webcam Chat Transcripts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boosting-viewership-mastery-in-youtube-shorts-design/"><u>[New] Boosting Viewership Mastery in YouTube Shorts Design</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>[New] In 2024, Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-tailored-solutions-for-high-quality-iptv-capture/"><u>[New] In 2024, Tailored Solutions for High-Quality IPTV Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-androids-best-multiparty-calls/"><u>[New] In 2024, The Ultimate Guide to Android's Best Multiparty Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unmatched-video-capturing-reviews-of-the-best-apps-for-2024/"><u>[New] Unmatched Video Capturing Reviews of the Best Apps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-10-skype-recorder-to-use-2023/"><u>[Updated] 2024 Approved Top 10 Skype Recorder to Use 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-5-screen-capture-utilities-for-windows-users/"><u>[Updated] In 2024, Top 5 Screen Capture Utilities for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-no-more-nausea-essential-tricks-for-htc-vive/"><u>[Updated] No More Nausea Essential Tricks for HTC Vive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-startup-zoom-navigating-participant-groups-for-2024/"><u>[Updated] Startup Zoom Navigating Participant Groups for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-7-plus-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 7 Plus Activity | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-xiaomi-redmi-k70-pro-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Xiaomi Redmi K70 Pro Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/color-your-world-with-the-singing-machine-sml385btbk-a-hassle-free-plug-and-play-karaoke-adventure/"><u>Color Your World with the Singing Machine SML385BTBK - A Hassle-Free Plug and Play Karaoke Adventure!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify some outdated drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-chuckle-champs-twitters-humor-heap/"><u>In 2024, Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://discover-data.techidaily.com/mengembalikan-data-lahat-dalam-operating-system-windows-11-10-8-7-menggunakan-testdisk-instruksinya-simpel/"><u>Mengembalikan Data Lahat Dalam Operating System Windows (11, 10, 8, 7) Menggunakan TestDisk - Instruksinya Simpel!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-top-social-media-sites-faceook-tweetbook-instagram-yootube/"><u>Navigating the Top Social Media Sites: Faceook | TweetBook | InstaGram | YooTube</u></a></li>
 </ul></div>
 

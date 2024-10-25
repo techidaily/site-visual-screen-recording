@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Bring Footage Together  Ken Burns Technique for Camtasa Users\""
-date: 2024-10-14T16:06:03.150Z
-updated: 2024-10-19T18:24:23.581Z
+date: 2024-10-23T12:13:58.587Z
+updated: 2024-10-25T09:33:08.616Z
 tags: 
   - screen-recording
   - ai video
@@ -48,16 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -69,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,14 +115,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[New] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-approach-to-capturing-and-editing-in-adobe-connect/"><u>[New] Step-by-Step Approach to Capturing and Editing in Adobe Connect</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-troubleshoot-and-mend-your-instagram-video-issues/"><u>[Updated] 2024 Approved Troubleshoot & Mend Your Instagram Video Issues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-quickfix-for-podcast-broadcasts/"><u>[Updated] Master Quickfix for Podcast Broadcasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-recorder-freedom-top-10-no-cost-choices-for-cameras/"><u>[Updated] Screen Recorder Freedom Top 10 No-Cost Choices for Cameras</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-days-gone-at-its-best-on-pc-with-latest-fixes-and-optimizations/"><u>Experience 'Days Gone' At Its Best on PC with Latest Fixes and Optimizations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-epson-xp-330-printer-drivers-how-to-get-them-free/"><u>Latest Version of Epson XP-330 Printer Drivers - How to Get Them Free</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-background-run-of-microsoft-edge-on-win11/"><u>Navigating the Background Run of Microsoft Edge on Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-comprehensive-list-of-zoom-transcription-software-freepaid/"><u>[New] Comprehensive List of Zoom Transcription Software (Free/Paid)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevating-your-gopro-vlogs-with-professionals-strategies-for-2024/"><u>[New] Elevating Your Gopro Vlogs with Professionals Strategies for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-master-screen-capture-detailed-tutorial-walkthrough-for-2024/"><u>[New] Master Screen Capture Detailed Tutorial Walkthrough for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-obs-studio-vs-fraps-which-is-a-better/"><u>[New] OBS Studio vs Fraps – Which Is A Better</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-fb-video-plays-top-10-choices/"><u>[Updated] 2024 Approved Essential FB Video Plays Top 10 Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cutting-edge-mac-cam-apps-a-look-past-bandicam/"><u>[Updated] Cutting-Edge Mac Cam Apps A Look Past Bandicam</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-understanding-the-wmv-format-a-comprehensive-guide/"><u>1. Understanding the WMV Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-discovering-the-10-leading-low-cost-mobile-video-conferencing/"><u>2024 Approved Discovering the 10 Leading Low-Cost, Mobile Video Conferencing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-durecorder-complete-breakdown/"><u>2024 Approved Mastering DuRecorder Complete Breakdown</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-new-visionary-record-critique-and-counterfeit-replacements/"><u>2024 Approved New Visionary Record Critique & Counterfeit Replacements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-screens-seamlessly-with-ezvid-video-maker-for-2024/"><u>Capturing Screens Seamlessly with Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dawn-of-new-horizons-lighten-up-your-android-vids-for-2024/"><u>Dawn of New Horizons Lighten Up Your Android Vids for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-f15-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy F15 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-laptop-guide-conducting-live-calls-on-whatsapp-browser/"><u>In 2024, Laptop Guide Conducting Live Calls on WhatsApp Browser</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-apex-of-wireless-connectivity-premier-mesh-wi-fi-options/"><u>The Apex of Wireless Connectivity: Premier Mesh Wi-Fi Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-shooting-phenomenal-igtv-with-dslrsmartphone-for-2024/"><u>The Ultimate Guide to Shooting Phenomenal IGTV with DSLR/Smartphone for 2024</u></a></li>
 </ul></div>
 
