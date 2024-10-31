@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-10-24T10:06:01.939Z
-updated: 2024-10-24T20:55:02.788Z
+date: 2024-10-23T19:52:04.722Z
+updated: 2024-10-31T08:34:08.221Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -66,13 +66,6 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -83,16 +76,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -104,6 +91,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -118,10 +112,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -139,22 +133,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-leveraging-snap-camera-for-better-online-interaction-on-google-meet-for-2024/"><u>[New] Leveraging Snap Camera for Better Online Interaction on Google Meet for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-unmissable-adventures-in-sandbox-gaming/"><u>[Updated] 2024 Approved Discover Unmissable Adventures in Sandbox Gaming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-incorporating-obs-setting-up-a-countdown-scheduler/"><u>[Updated] 2024 Approved Incorporating OBS Setting Up A Countdown Scheduler</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-the-impeccable-circle-and-sphere-forms-in-mc-world-for-2024/"><u>[Updated] Crafting the Impeccable Circle & Sphere Forms in MC World for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-10-royale-combat-titles-for-2024/"><u>[Updated] Elite 10 Royale Combat Titles for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-securely-capture-web-series-every-time-you-watch-for-2024/"><u>[Updated] How to Securely Capture Web Series Every Time You Watch for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-advanced-audio-capture-a-comprehensive-look-at-whatsapp-call-recording/"><u>[Updated] In 2024, Advanced Audio Capture A Comprehensive Look at WhatsApp Call Recording</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unique-ideas-for-dynamic-fb-video-marketing-campaigns/"><u>[Updated] Unique Ideas for Dynamic FB Video Marketing Campaigns</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unwrapped-in-depth-look-at-screenflow-v4-on-macos/"><u>[Updated] Unwrapped In-Depth Look at ScreenFlow v4 on macOS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030041225-handbrake/"><u>「ビデオファイルを自由に使えるように: HandBrakeコピーガード対策手法」</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convertir-archivos-ppt-a-pdf-gratis-online-con-movavi-tu-solucion-de-conversion-libre/"><u>Convertir Archivos PPT a PDF Gratis Online Con Movavi - ¡Tu Solución De Conversión Libre!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-windows-11-overdracht-van-harddisks-naar-ssds-geavanceerde-overbrengingsonder-herinstallatie/"><u>Efficiënt Windows 11-Overdracht Van Harddisks Naar SSDs: Geavanceerde Overbrengingsonder Herinstallatie</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-gaming-experience-with-voice-adjustment/"><u>Enhance Gaming Experience with Voice Adjustment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-guide-on-crafting-midjourney-prompts-elevating-skills-from-novice-to-virtuoso/"><u>Expert Guide on Crafting Midjourney Prompts: Elevating Skills From Novice to Virtuoso</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-enable-offline-files-feature-on-windows-11-three-effective-ways/"><u>How to Enable Offline Files Feature on Windows 11 – Three Effective Ways</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-huawei-p60-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Huawei P60 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715859694370-in-2024-explore-mp4-recording-tools-today/"><u>In 2024, Explore MP4 Recording Tools Today!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-optimal-settings-for-recording-movs-on-windows-11-systems/"><u>[New] 2024 Approved Optimal Settings for Recording MOVs on Windows 11 Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-google-meet-a-self-teached-path-for-hosts-and-attendees/"><u>[New] In 2024, Google Meet A Self-Teached Path for Hosts & Attendees</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>[New] In 2024, In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mac-audio-tools-for-effective-classroom-capture/"><u>[New] In 2024, Mac Audio Tools for Effective Classroom Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-premier-recorder-clean-and-clear-android-edition/"><u>[New] In 2024, Premier Recorder Clean and Clear Android Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-edge-apps-for-mobile-screen-recording-for-2024/"><u>[New] Leading Edge Apps for Mobile Screen Recording for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-screensnapper-pro-2023-apowersofts-latest-for-pcs-for-2024/"><u>[New] ScreenSnapper Pro 2023 Apowersoft's Latest for PCs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-tying-iphone-videos-in-seamless-bundles-for-2024/"><u>[New] Tying IPhone Videos in Seamless Bundles for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-mac-image-recording-the-top-5-cutting-edge-techniques/"><u>[Updated] 2024 Approved Innovative Mac Image Recording The Top 5 Cutting-Edge Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-realms-united-identifying-the-7-best-strategy-rivals/"><u>[Updated] In 2024, Realms United Identifying the 7 Best Strategy Rivals</u></a></li>
+<li><a href="https://win-data.techidaily.com/best-free-forensic-software-unveiled-a-side-by-side-review-for-optimal-data-retrieval/"><u>Best Free Forensic Software Unveiled: A Side-by-Side Review for Optimal Data Retrieval</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-lava-agni-2-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Lava Agni 2 5G FRP</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premium-lecture-transcribers-for-learning-institutions/"><u>In 2024, Premium Lecture Transcribers for Learning Institutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-accessing-and-downloading-podcasts-via-apple-device/"><u>Step-by-Step Accessing & Downloading Podcasts via Apple Device</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transitioning-from-itunes-how-apple-revolutionizes-digital-media-experience-for-windows-users-with-new-app-launches-detailed-report-by-zdnet/"><u>Transitioning From iTunes: How Apple Revolutionizes Digital Media Experience for Windows Users with New App Launches - Detailed Report by ZDNet</u></a></li>
 </ul></div>
 
