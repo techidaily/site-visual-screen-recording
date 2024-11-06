@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimal OBS Configurations for Thrifty Computers"
-date: 2024-10-23T09:06:53.962Z
-updated: 2024-10-24T23:05:45.409Z
+date: 2024-11-02T01:29:11.000Z
+updated: 2024-11-05T21:25:00.176Z
 tags: 
   - screen-recording
   - ai video
@@ -30,13 +30,6 @@ Since we are concerned about the streaming of video. It is important to know how
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
 
@@ -82,6 +75,13 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
@@ -93,17 +93,16 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
@@ -130,15 +129,22 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Stream Tab
@@ -148,10 +154,10 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Streaming Settings
@@ -165,10 +171,10 @@ Here you have to choose the platform on which you are going to stream your video
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Best Alternative to OBS
@@ -237,22 +243,24 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastery-over-multiple-tiktok-video-harvest/"><u>[New] 2024 Approved Mastery Over Multiple TikTok Video Harvest</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-mac-audacitys-audio-recording-guide/"><u>[Updated] Mastering Mac Audacity's Audio Recording Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/aiming-for-the-stars-select-7-top-shooter-experiences/"><u>Aiming for the Stars Select 7 Top Shooter Experiences</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-techniques-recording-in-adobe-presenter/"><u>Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/dissecting-the-full-package-logitechs-4k-webcam-experience/"><u>Dissecting the Full Package Logitech’s 4K Webcam Experience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/efficient-techniques-to-record-on-vimeo/"><u>Efficient Techniques to Record on Vimeo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpt-does-it-pose-a-threat-to-personal-data-privacy/"><u>Evaluating ChatGPT: Does It Pose a Threat to Personal Data Privacy?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-group-chat-options-for-virtual-gatherings/"><u>Expert Group Chat Options for Virtual Gatherings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/experts-guide-to-laptop-screenrecord-software/"><u>Expert's Guide to Laptop ScreenRecord Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/gamers-meet-your-new-ally-in-depth-analysis-of-apgear-ups-models-compared/"><u>Gamers, Meet Your New Ally: In-Depth Analysis of Apgear UPS Models Compared</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-cutting-edge-editing-strategies-story-remix-meets-windows-photos/"><u>In 2024, Cutting-Edge Editing Strategies Story Remix Meets Windows Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-top-techniques-for-vhs-image-transformation/"><u>In 2024, Unveiling Top Techniques for VHS Image Transformation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/muting-mastery-keeping-your-meeting-focus-on-google-go/"><u>Muting Mastery Keeping Your Meeting Focus on Google Go</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-solution-addressing-dolby-atmos-compatibility-in-windows-11-and-windows-10/"><u>The Ultimate Solution: Addressing Dolby Atmos Compatibility in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-6-fixes-for-maintaining-stable-connectivity-in-terraria-gaming/"><u>Top 6 Fixes for Maintaining Stable Connectivity in Terraria Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-non-zoom-video-conferencing-tools-desktopmobile/"><u>[New] Best Non-Zoom Video Conferencing Tools (Desktop/Mobile)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ance-dictates-selecting-perfect-audio-visuals-for-2024/"><u>[New] Dance Dictates Selecting Perfect Audio-Visuals for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-echoenthusiast-auditory-review-exploration/"><u>[New] EchoEnthusiast Auditory Review Exploration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-track-choosing-best-pc-game-speed-extensions/"><u>[New] Fast Track Choosing Best PC Game Speed Extensions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-spectacular-mini-houses-you-cant-miss-in-mc/"><u>[New] Spectacular Mini-Houses You Can't Miss in MC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-insiders-guide-adding-borders-in-instagram-footage-for-2024/"><u>[Updated] The Insider's Guide Adding Borders in Instagram Footage for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-mac-audio-recording-with-audacity/"><u>2024 Approved A Comprehensive Guide to Mac Audio Recording with Audacity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-optimization-for-new-vloggers/"><u>2024 Approved YouTube Optimization for New Vloggers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/5-best-tips-for-enhancing-obs-studio-edits-for-2024/"><u>5 Best Tips for Enhancing OBS Studio Edits for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dynamic-public-speaker-review-v8-for-2024/"><u>Dynamic Public Speaker Review V8 for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-channel-appeal-with-free-professional-banner-designs/"><u>Enhance Channel Appeal with Free, Professional Banner Designs</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-15-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 15 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-s17-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo S17 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-google-voice-call-logging-with-ease/"><u>Navigating Google Voice Call Logging with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-slack-filmo-coordination-for-seamless-meetings/"><u>Navigating Slack-Filmo Coordination for Seamless Meetings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/speech-to-text-perfectionism-unleash-with-google-ai/"><u>Speech-to-Text Perfectionism Unleash with Google AI</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/stop-automated-youtube-content-rollouts-for-2024/"><u>Stop Automated YouTube Content Rollouts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/teaching-tech-trends-the-elite-10-audio-visual-recorders-for-classrooms/"><u>Teaching Tech Trends The Elite 10 Audio-Visual Recorders for Classrooms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sh-potential-optimizing-short-films-in-marketing-for-2024/"><u>Unleash Potential Optimizing Short Films in Marketing for 2024</u></a></li>
 </ul></div>
 

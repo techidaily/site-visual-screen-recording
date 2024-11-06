@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Effortless Mac Screenshots  Exploring Five Simple Methods for 2024\""
-date: 2024-10-22T07:44:03.942Z
-updated: 2024-10-25T09:18:16.844Z
+date: 2024-11-01T19:28:05.307Z
+updated: 2024-11-05T20:42:31.247Z
 tags: 
   - screen-recording
   - ai video
@@ -122,10 +122,10 @@ Besides using a screenshot tool, Mac also offers multiple ways to make screensho
 * [Method 4: Make Screenshots with Pre-installed Grab App](#method4)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1 3 Ways to Take Screenshots with Keyboard Commands
@@ -144,13 +144,6 @@ If you want to take screenshot on a partial part of the screen, simply hit the *
 
 ![screenshot protion of screen on mac](https://images.wondershare.com/filmora/article-images/screenshot-portion-of-screen-on-mac-keyboard-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The crosshair will also display the pixel count to show you the size of the screenshot. Holding the **Shift** button will allow you to lock all corners of the selection rectangle, except the one you are dragging.
 
 #### Way 3: How to Take Screenshots of a Specific App Window?
@@ -159,26 +152,38 @@ Launch the app or open the window you'd like to screenshot, and then hold the **
 
 ![capture a window or menu or app on mac](https://images.wondershare.com/filmora/article-images/capture-a-window-or-menu-on-mac-keyboard-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2 Taking Screenshots with Touch Bar on MacBook Pro
 
 MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on their computers. Click on the **Apple logo** from the menu bar, then select the **System Preferences** option. Click on the **Keyboard > Customize Control Strip** feature, located at the bottom of the screen. Once the new window pops-out you should locate the **Screenshot** icon and drag and drop it to the Touch Bar, and click **Done**.
 
 ![screenshots from touch bar on macbook pro](https://images.wondershare.com/filmora/article-images/touch-bar-on-macbook-pro.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3 Capture Screen with Built-in Preview App
@@ -189,22 +194,35 @@ Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-me
 
 The Preview app lets you select the saving path and name it before saving.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4 Make Screenshots with Pre-installed Grab App
 
 Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** menu and select the option that suits you best. You can take a screenshot of an entire screen, select the region of the screen you want to capture or take a screenshot of a particular window.
 
 ![make screenshots on mac with grab](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
 
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you would like to include the mouse cursor in your screenshots, you have go to the **Preferences** option, then select the **Pointer Type**, it also able to record the clicking sound if needed.
 
@@ -223,16 +241,10 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -258,18 +270,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhancing-professionalism-with-zooms-snappy-functionality/"><u>[New] In 2024, Enhancing Professionalism with Zoom’s Snappy Functionality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>[New] The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-global-earning-creator/"><u>[New] The Ultimate Global Earning Creator</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-efficient-video-editing-with-timestamps-and-on-screen-text/"><u>[Updated] 2024 Approved Efficient Video Editing with Timestamps & On-Screen Text</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-lol-live-stream-setups-3-strategies/"><u>[Updated] 2024 Approved Essential LOL Live Stream Setups - 3 Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-clearscreenstreamer-seamless-easy-w11-screenshots-for-2024/"><u>[Updated] ClearScreenStreamer Seamless, Easy W11 Screenshots for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-methods-to-record-your-fb-live-events/"><u>[Updated] In 2024, Essential Methods to Record Your FB Live Events</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-interactive-engagement-adding-emojis-to-youtubes-comments/"><u>[Updated] Interactive Engagement Adding Emojis to Youtubes' Comments</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-making-facebook-pause-less-set-up-youtube-autoplay/"><u>In 2024, Making Facebook Pause-Less Set Up YouTube Autoplay</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-simplified-approach-for-transforming-flac-music-tracks-into-m4a-format/"><u>The Simplified Approach for Transforming FLAC Music Tracks Into M4A Format</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-the-impact-of-uhbr-cable-conflicts-on-nvidias-preference-for-dp-1e-in-rtx-series-graphics-cards/"><u>Understanding the Impact of UHBR Cable Conflicts on Nvidia's Preference for DP 1.e in RTX Series Graphics Cards</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/maarod-shola-2-ilghaaa-tshoh-alashbah-il-slaba-khtoat-tfsylya-fy-oyndoz/"><u>معروض سهولة 2: إلغاء تشوه الأشباح إلى صلابة - خطوات تفصيلية في ويندوز</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effective-screenrecording-practices-for-professionals/"><u>[New] Effective ScreenRecording Practices for Professionals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-live-recording-mastery-with-innovative-webcams-explored/"><u>[New] Live Recording Mastery with Innovative WebCams Explored</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-social-media-tweeting-videos-to-facebook-for-2024/"><u>[New] Mastering Social Media Tweeting Videos to Facebook for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-hd-video-capture-ultimate-recorder-reviews/"><u>[New] Prime HD Video Capture Ultimate Recorder Reviews</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>[Updated] 2024 Approved The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-wealth-creation-through-video-networking/"><u>2024 Approved Digital Wealth Creation Through Video Networking</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-navigating-mobile-meetings-using-googles-facetime-feature/"><u>2024 Approved Navigating Mobile Meetings Using Google's Facetime Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-an-empire-in-smm-a-step-by-step-guide-for-success-for-2024/"><u>Building an Empire in SMM A Step-by-Step Guide for Success for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/continuer-a-utiliser-windows-7-en-2024-malgre-larret-du-support-conseils-et-risques/"><u>Continuer À Utiliser Windows #7 en 2024 Malgré L'arrêt Du Support - Conseils Et Risques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-12plus-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme 12+ 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-14-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/inexpensive-pc-capture-programs-reviewed-for-2024/"><u>Inexpensive PC Capture Programs Reviewed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mac-professionals-recommendations-the-best-of-screenflow-for-2024/"><u>Mac Professionals Recommendations – The Best of ScreenFlow for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-frequent-crashes-in-your-rust-projects-expert-advice/"><u>Overcoming Frequent Crashes in Your Rust Projects - Expert Advice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs-for-2024/"><u>Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revise-and-update-tips-for-correcting-posts-on-instagram/"><u>Revise and Update: Tips for Correcting Posts on Instagram</u></a></li>
 </ul></div>
 

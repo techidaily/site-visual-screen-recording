@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Navigating Board Usage  A Universal Guide for iOS, Android & Windows Platforms\""
-date: 2024-10-25T21:03:28.059Z
-updated: 2024-10-30T17:32:30.918Z
+date: 2024-10-30T16:21:02.452Z
+updated: 2024-11-06T03:12:54.419Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -66,10 +73,17 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -90,13 +104,6 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -116,10 +123,10 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -148,13 +155,6 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -170,24 +170,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-snap-with-precision-essential-camera-angles-for-images/"><u>[New] 2024 Approved Snap with Precision Essential Camera Angles for Images</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-captureking-high-definition-edition/"><u>[New] CaptureKing High Definition Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-novice-to-expert-perfecting-mac-audio-with-audacity/"><u>[New] In 2024, From Novice to Expert Perfecting Mac Audio with Audacity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-building-a-brand-through-youtube-a-strategic-guide/"><u>[Updated] 2024 Approved Building a Brand Through YouTube A Strategic Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-fundamentals-of-gif-design-and-creation/"><u>[Updated] 2024 Approved The Fundamentals of GIF Design and Creation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-hd-recorder-series-with-top-performances/"><u>[Updated] Elite HD Recorder Series with Top Performances</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-picks-premium-costless-screencasting-apps-reviewed/"><u>[Updated] Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elite-streamers-choice-for-secure-downloads-8/"><u>[Updated] In 2024, Elite Streamer’s Choice for Secure Downloads 8</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-skype-recording-procedures-streamlined-techniques-for-windows-and-os-x-for-2024/"><u>[Updated] Skype Recording Procedures - Streamlined Techniques for Windows & OS X for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-vocalvoyage-listening-and-recording-expedition-for-2024/"><u>[Updated] VocalVoyage Listening & Recording Expedition for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-effortless-mac-pics-with-no-cost/"><u>2024 Approved Effortless Mac Pics with No Cost</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-8-recommendations-tripods-for-sharp-4k-images/"><u>2024 Approved Top 8 Recommendations Tripods for Sharp 4K Images</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android-for-2024/"><u>Elevate Your Voice Discovering the Leading Vocal Changer Applications for Android for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-jackery-powerbank-with-built-in-wall-socket-a-detailed-review/"><u>Evaluating the Jackery PowerBank with Built-In Wall Socket – A Detailed Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-use-aiseesoft-screen-recorder/"><u>How to Use Aiseesoft Screen Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-beyondbaselinecameras-whats-upnext/"><u>In 2024, BeyondBaselineCameras What's UpNext?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-setting-up-a-facebook-donation-challenge/"><u>In 2024, Setting Up a Facebook Donation Challenge</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/navigating-showmores-features-for-best-screen-recording/"><u>Navigating ShowMore's Features for Best Screen Recording</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-freeze-error-decoding-code-0x887a0006-on-windows/"><u>Overcoming Freeze Error – Decoding Code 0X887A0006 on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-an-intro-to-macs-5-leading-snipping-software-choices/"><u>[New] In 2024, An Intro to Mac's 5 Leading Snipping Software Choices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-strategies-for-clearer-facebook-vids/"><u>[New] In 2024, Unveiling Strategies for Clearer Facebook Vids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-maximizing-video-quality-in-steam-game-recording/"><u>[Updated] 2024 Approved Maximizing Video Quality in Steam Game Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>[Updated] 2024 Approved OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smarter-streaming-directly-connecting-obs-with-fb/"><u>[Updated] 2024 Approved Smarter Streaming Directly Connecting OBS with FB</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pro-tips-for-captivating-vr-videos-top-9-strategies-for-2024/"><u>[Updated] Pro Tips for Captivating VR Videos Top 9 Strategies for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/3-pro-level-plans-to-preserve-precise-gaming-moments-for-2024/"><u>3 Pro-Level Plans to Preserve Precise Gaming Moments for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/shooter-synergy-crafting-a-list-of-top-7-game-battles/"><u>Shooter Synergy Crafting a List of Top 7 Game Battles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-windows-source-loading-problems-in-multimedia-applications/"><u>Understanding and Fixing Windows Source Loading Problems in Multimedia Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-harmonizing-with-audacity-methods-for-shifting-pitch-without-losing-clarity/"><u>Updated 2024 Approved Harmonizing with Audacity Methods for Shifting Pitch Without Losing Clarity</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-similar-software-or-alternatives-to-virtualdub/"><u>Updated 2024 Approved Similar Software or Alternatives to VirtualDub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-pivot-to-claude-transforming-businesses-with-innovative-ai/"><u>Why Pivot to Claude: Transforming Businesses with Innovative AI</u></a></li>
 </ul></div>
 

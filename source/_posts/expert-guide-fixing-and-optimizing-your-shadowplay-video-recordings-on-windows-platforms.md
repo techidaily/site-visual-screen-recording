@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms"
-date: 2024-10-25T00:53:53.332Z
-updated: 2024-10-31T04:39:14.949Z
+date: 2024-11-04T03:27:18.054Z
+updated: 2024-11-05T19:23:05.930Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ A screenshot of Farming Simulator 22 from Steam
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -65,16 +72,29 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
@@ -92,26 +112,13 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -155,6 +162,13 @@ There are mainly two methods for you to update the graphics driver:
 
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel may also improve the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -178,19 +192,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -209,13 +210,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable background recording and Xbox Game Bar (Windows 10)
 
  The background recording and Xbox Game Bar feature in Windows 10 is convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -229,14 +223,14 @@ There are mainly two methods for you to update the graphics driver:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch Farming Simulator 22 to see if you can play it smoothly.
 
@@ -261,20 +255,20 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-seamless-inshot-video-cuts/"><u>[New] 2024 Approved Mastering Seamless Inshot Video Cuts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-gif-retrieval-3-easy-methods-for-pcs/"><u>[New] 2024 Approved Twitter Gif Retrieval 3 Easy Methods for PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-dystopian-dreams-comparable-games-to-grand-theft-auto-v/"><u>[New] Dystopian Dreams Comparable Games To Grand Theft Auto V</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[New] How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-joyful-journeys-in-cinema-summers-top-10-for-families/"><u>[New] Joyful Journeys in Cinema Summer's Top 10 for Families</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-maximizing-your-media-library-with-mov-on-windows-10/"><u>[New] Maximizing Your Media Library with .mov on Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-craft-powerpoint-to-interactive-movie-scripts/"><u>[Updated] Craft PowerPoint to Interactive Movie Scripts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-with-these-top-10-igtv-experts-for-2024/"><u>[Updated] Elevate with These Top 10 IGTV Experts for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-iphones-voice-memo-functionality/"><u>[Updated] Mastering iPhone's Voice Memo Functionality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-subtlety-in-sound-fading-out-effectively-in-logic-pro-for-2024/"><u>[Updated] Subtlety In Sound Fading Out Effectively in Logic Pro for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023/"><u>2024 Approved Cutting-Edge Tech An In-Depth Review of Apeaksoft's Recorder, 2023</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enriching-youtube-content-with-improved-sound-quality/"><u>In 2024, Enriching YouTube Content with Improved Sound Quality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-libertycam-pro-live-stream-review-explored/"><u>In 2024, LibertyCam Pro Live Stream Review Explored</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovate-your-farming-journey-with-these-stardews-top-7-mods-for-2024/"><u>Innovate Your Farming Journey with These Stardew's Top 7 Mods for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-capturing-evening-portraits/"><u>[New] In 2024, Essential Tips for Capturing Evening Portraits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-broadcast-beats-the-ultimate-showdown-between-vmix-and-wirecast/"><u>[New] Pro Broadcast Beats The Ultimate Showdown Between VMix and Wirecast</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-terror-in-town-a-list-of-intense-zombie-games-for-2024/"><u>[New] Terror in Town A List of Intense Zombie Games for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-fusion-of-cost-effective-and-premium-video-collage-for-android-devices/"><u>[Updated] 2024 Approved Best Fusion of Cost-Effective and Premium Video Collage for Android Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-photography-tricks-for-ios-11-users/"><u>[Updated] 2024 Approved Essential Photography Tricks for iOS 11 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-detecting-bots-amongst-your-brands-facebook-supporters/"><u>[Updated] Detecting Bots Amongst Your Brand's Facebook Supporters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-game-line-up-best-7-fps-classics-for-2024/"><u>[Updated] Elite Game Line-Up Best 7 FPS Classics for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-blueprint-optimizing-your-experience-with-mobizen-recorders-for-2024/"><u>[Updated] Expert Blueprint Optimizing Your Experience with Mobizen Recorders for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-winning-windows-10-tools-to-record-your-display-for-2024/"><u>[Updated] Winning Windows 10 Tools to Record Your Display for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-zoom-meeting-fundamentals-for-the-uninitiated-for-2024/"><u>[Updated] Zoom Meeting Fundamentals for the Uninitiated for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-feel-motivated-10-epic-movies-with-deep-impact/"><u>2024 Approved Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-free-premium-movies-and-episodes-via-the-crackle-streaming-network/"><u>Access FREE Premium Movies & Episodes Via the Crackle Streaming Network</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-se-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone SE Without Apple ID Password?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-wireless-earphones-for-smart-tv-enthusiasts/"><u>Premium Wireless Earphones for Smart TV Enthusiasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco C65 | Dr.fone</u></a></li>
 </ul></div>
 
