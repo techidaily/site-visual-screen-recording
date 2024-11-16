@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Control  Switch Pro in Steam Play for 2024\""
-date: 2024-10-30T20:17:07.840Z
-updated: 2024-11-05T21:04:08.807Z
+date: 2024-11-15T07:35:20.390Z
+updated: 2024-11-15T20:13:17.557Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -66,6 +73,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
@@ -75,25 +89,18 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -108,13 +115,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -133,10 +133,10 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -154,15 +154,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>[New] Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aptivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>[New] Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-5-web-video-recorders/"><u>[New] In 2024, Top 5 Web Video Recorders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-guide-to-setting-up-streamlabs-obs-for-2024/"><u>[New] The Complete Guide to Setting Up Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streammasters-obs-edition/"><u>[Updated] 2024 Approved StreamMasters OBS Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-guide-to-memorable-anime-opens-for-2024/"><u>[Updated] The Ultimate Guide to Memorable Anime Opens for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-what-you-must-watch-a-close-look-at-todays-top-8-social-media-clips/"><u>[Updated] What You Must Watch! - A Close Look at Today's Top 8 Social Media Clips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-video-capture-software-for-mac-moving-on-from-bandicamp-for-2024/"><u>Expert Video Capture Software for Mac, Moving On From Bandicamp for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/leveraging-youtubes-profit-potential-the-500-subscribers-gateway-for-2024/"><u>Leveraging YouTube's Profit Potential The 500 Subscribers Gateway for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unlock-4k-video-editing-potential-the-best-proxy-video-editing-apps/"><u>New 2024 Approved Unlock 4K Video Editing Potential The Best Proxy Video Editing Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blitz-games-leading-lightning-fast-titles-for-laptopsphones/"><u>[New] Blitz Games Leading Lightning-Fast Titles for Laptops/Phones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-art-of-subtle-soundplayback/"><u>[Updated] 2024 Approved The Art of Subtle Soundplayback</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>[Updated] 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-videos-youtube-trailers-through-filmora/"><u>[Updated] Elevate Your Videos YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/audio-enthusiast-hub-capture-and-audit-mp3-files/"><u>Audio Enthusiast Hub Capture and Audit MP3 Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>Beyond the Screen Advanced Techniques in Logging Virtual Reality Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-your-screen-on-pc-free-ways-to-do-it/"><u>Capturing Your Screen on PC Free Ways to Do It</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-bystander-to-leader-in-the-world-of-insta-essential-tips-and-examples/"><u>From Bystander to Leader in the World of Insta Essential Tips & Examples</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-audiences-favorite-top-action-recording-tools/"><u>In 2024, Audience's Favorite Top Action Recording Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-fundamental-guidelines-for-saving-lol-scores/"><u>In 2024, Fundamental Guidelines for Saving LOL Scores</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-intros-hook-up-listeners-with-podcast-intro-script/"><u>In 2024, Podcasts Intros Hook Up Listeners With Podcast Intro Script</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/saving-game-moments-top-5-techniques-on-win10/"><u>Saving Game Moments Top 5 Techniques on Win10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/slow-down-or-freeze-time-expert-fcpx-editing-techniques-for-2024/"><u>Slow Down or Freeze Time Expert FCPX Editing Techniques for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-sony-xperia-5-v-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Sony Xperia 5 V Location | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-7-budget-pc-screenshot-and-recording-apps/"><u>Top 7 Budget PC Screenshot & Recording Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-dealing-with-missing-libxml2dll-files-on-your-pc/"><u>Troubleshooting Guide: Dealing with Missing libxml2.dll Files on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-digital-preservation-with-the-wayback-machine-tutorial/"><u>Unlock the Secrets of Digital Preservation with the Wayback Machine Tutorial</u></a></li>
 </ul></div>
 

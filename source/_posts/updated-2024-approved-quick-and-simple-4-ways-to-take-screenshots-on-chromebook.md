@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Quick & Simple  4 Ways To Take Screenshots On Chromebook\""
-date: 2024-10-31T21:19:44.170Z
-updated: 2024-11-05T23:34:52.218Z
+date: 2024-11-09T16:50:02.393Z
+updated: 2024-11-16T06:09:55.948Z
 tags: 
   - screen-recording
   - ai video
@@ -46,22 +46,35 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
@@ -74,20 +87,13 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
@@ -103,6 +109,19 @@ With a number of simple yet effective editing features built-in, such as further
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
 
 #### 3. Webpage Screenshot
@@ -114,13 +133,6 @@ Offering the ability for users to capture scrolling screenshots, Webpage Screens
 If you’re wondering where your newly captured screenshots are disappearing to once obtained, then you need look no further than the **Downloads Section** of your **Files App.** Automatically saved, by default, in a format similar to “**Screenshot 2012-08-03 at 5.18.34AM.png**” your recently saved PNG file can be easily renamed as you like.
 
 Using a Guest Account? If so, then always make sure you copy across all your important screenshots to either an SD Card or Google Drive Account before you sign out. It’s important to note that the “Downloads” Section on a Guest Account is emptied each and every time a guest logs out.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do I Edit My Screenshots on Chromebook?
 
@@ -149,16 +161,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-delete-youtube-comments-effortlessly/"><u>[New] 2024 Approved How to Delete YouTube Comments Effortlessly?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-convert-tweety-movies-to-audible-files-for-2024/"><u>[New] Convert Tweety Movies to Audible Files for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/aximize-impact-with-customized-youtube-end-screen-templates/"><u>[New] Maximize Impact with Customized YouTube End Screen Templates</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mobile-and-desktop-tips-for-gotomeeting-captures/"><u>[Updated] 2024 Approved Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-fbx-for-gamers/"><u>[Updated] 2024 Approved Navigating the World of FBX for Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-your-slide-show-webcam-screen-capture-methods/"><u>[Updated] In 2024, Mastering Your Slide Show Webcam Screen Capture Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-stream-the-best-games-list-9/"><u>[Updated] In 2024, Stream the Best Games List #9</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximizing-efficiency-video-capturing-in-adobe-presenter-for-2024/"><u>[Updated] Maximizing Efficiency Video Capturing in Adobe Presenter for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-activating-low-light-display-settings-on-your-iphone-devices/"><u>Guide to Activating Low Light Display Settings on Your iPhone Devices</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/profi-guide-wie-fuge-ich-meine-gmail-postfachnummer-zu-microsoft-outlook-hinzu-inklusive-geheimtipp/"><u>Profi-Guide: Wie Füge Ich Meine Gmail-Postfachnummer Zu Microsoft Outlook Hinzu – Inklusive Geheimtipp</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/spotting-a-block-snapchat-notifications-gone-mute-for-2024/"><u>Spotting a Block Snapchat Notifications Gone Mute for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-platforms-crafting-3d-animation-art/"><u>[New] 2024 Approved Prime Platforms Crafting 3D Animation Art</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-uncharted-uprisings-decades-best-role-players/"><u>[New] 2024 Approved Uncharted Uprisings Decade’s Best Role-Players</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-video-annotations-mastery-cutting-with-precision-and-style/"><u>[New] 2024 Approved Video Annotations Mastery Cutting with Precision & Style</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[New] Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-zoom-engagement-building-stronger-remote-relationships/"><u>[Updated] 2024 Approved Expert Tips for Zoom Engagement Building Stronger Remote Relationships</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlocking-obs-studios-full-creative-potential-with-top-methods/"><u>[Updated] 2024 Approved Unlocking OBS Studio's Full Creative Potential with Top Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-zenith-of-zoom-audio-fine-tuning-for-peak-performance/"><u>[Updated] 2024 Approved Zenith of Zoom Audio Fine-Tuning for Peak Performance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-free-hd-video-capture-tools-the-complete-review/"><u>[Updated] Free HD Video Capture Tools The Complete Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-samurais-modern-journey-10-games-similar-to-ghost-of-tsushima-for-2024/"><u>[Updated] Samurai's Modern Journey 10 Games Similar to Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>2024 Approved Uncovering Budget-Friendly Video Communication Apps PC/MAC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elite-d-class-dungeons-topping-the-list-for-2024/"><u>Elite D-Class Dungeons Topping the List for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/frei-verfugbare-ersatzlosungen-fur-den-sandisk-backup-manager-auf-windows-111087-kostenlos-und-einfach-zu-bedienen/"><u>Frei Verfügbare Ersatzlösungen Für Den Sandisk Backup-Manager Auf Windows 11/10/8/7 – Kostenlos Und Einfach Zu Bedienen!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-cutting-edge-tools-for-optimal-yt-titles/"><u>In 2024, Cutting-Edge Tools for Optimal YT Titles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-list-of-online-video-ripper-tools/"><u>The Essential List of Online Video Ripper Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme C67 5G | Dr.fone</u></a></li>
 </ul></div>
 

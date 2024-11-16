@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms"
-date: 2024-11-04T03:27:18.054Z
-updated: 2024-11-05T19:23:05.930Z
+date: 2024-11-13T08:51:27.888Z
+updated: 2024-11-15T18:13:20.722Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ A screenshot of Farming Simulator 22 from Steam
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -72,30 +65,10 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -111,14 +84,14 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -163,10 +136,10 @@ There are mainly two methods for you to update the graphics driver:
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -194,6 +167,19 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  According to many PC gamers, overlays sometimes may interfere with FS 22 and even introduce performance issues and compatibility issues. If the fixes above you tried didn’t give you an obvious FPS boost, then you can try disabling the in-game overlay before playing the game.
@@ -204,7 +190,21 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
 
@@ -220,15 +220,21 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -255,20 +261,18 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-capturing-evening-portraits/"><u>[New] In 2024, Essential Tips for Capturing Evening Portraits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-broadcast-beats-the-ultimate-showdown-between-vmix-and-wirecast/"><u>[New] Pro Broadcast Beats The Ultimate Showdown Between VMix and Wirecast</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-terror-in-town-a-list-of-intense-zombie-games-for-2024/"><u>[New] Terror in Town A List of Intense Zombie Games for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-fusion-of-cost-effective-and-premium-video-collage-for-android-devices/"><u>[Updated] 2024 Approved Best Fusion of Cost-Effective and Premium Video Collage for Android Devices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-photography-tricks-for-ios-11-users/"><u>[Updated] 2024 Approved Essential Photography Tricks for iOS 11 Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-detecting-bots-amongst-your-brands-facebook-supporters/"><u>[Updated] Detecting Bots Amongst Your Brand's Facebook Supporters</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-game-line-up-best-7-fps-classics-for-2024/"><u>[Updated] Elite Game Line-Up Best 7 FPS Classics for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-blueprint-optimizing-your-experience-with-mobizen-recorders-for-2024/"><u>[Updated] Expert Blueprint Optimizing Your Experience with Mobizen Recorders for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-winning-windows-10-tools-to-record-your-display-for-2024/"><u>[Updated] Winning Windows 10 Tools to Record Your Display for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-zoom-meeting-fundamentals-for-the-uninitiated-for-2024/"><u>[Updated] Zoom Meeting Fundamentals for the Uninitiated for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-feel-motivated-10-epic-movies-with-deep-impact/"><u>2024 Approved Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-free-premium-movies-and-episodes-via-the-crackle-streaming-network/"><u>Access FREE Premium Movies & Episodes Via the Crackle Streaming Network</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-se-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone SE Without Apple ID Password?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premium-wireless-earphones-for-smart-tv-enthusiasts/"><u>Premium Wireless Earphones for Smart TV Enthusiasts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-comparative-journey-through-the-top-10-tv-streamers/"><u>[New] A Comparative Journey Through the Top 10 TV Streamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-equipment-list-secure-your-zoom-sessions/"><u>[New] Essential Equipment List Secure Your Zoom Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-list-high-quality-cost-free-meeting-platforms/"><u>[New] Essential List High-Quality, Cost-Free Meeting Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-color-changes-11-essential-tips/"><u>[Updated] 2024 Approved Mastering Color Changes 11 Essential Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-guide-to-recording-gotomeet-sessions/"><u>2024 Approved Essential Guide to Recording GoToMeet Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011672526-cyberpunk-nk-2077s-fps-challenge-past-problem-present-solution/"><u>Cyberpunk Nk 2077'S FPS Challenge: Past Problem, Present Solution.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargar-la-herramienta-online-para-convertir-archivos-de-video-f4v-a-formato-flv-sin-coste-alguno/"><u>Descargar La Herramienta Online Para Convertir Archivos De Vídeo F4V a Formato FLV Sin Coste Alguno</u></a></li>
+<li><a href="https://blog-min.techidaily.com/diy-dvd-burning-techniques-convert-all-your-videos-to-disks-for-free/"><u>DIY DVD Burning Techniques - Convert All Your Videos to Disks for Free!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-ds-530-printer-drivers-for-windows-10-x64-free/"><u>Download Epson DS-530 Printer Drivers for Windows 10 (X64) - Free</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/excellent-voice-capture-gadgets-top-7-list-2023-for-2024/"><u>Excellent Voice Capture Gadgets, Top 7 List 2023 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/free-online-video-communication-tools-rated-best-for-2024/"><u>Free Online Video Communication Tools Rated Best for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/get-the-edge-with-a-premier-zero-cost-voice-change-software-for-2024/"><u>Get the Edge with a Premier, Zero-Cost Voice Change Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-viewer-interest-6-video-styles-explored/"><u>Mastering Viewer Interest 6 Video Styles Explored</u></a></li>
 </ul></div>
 
