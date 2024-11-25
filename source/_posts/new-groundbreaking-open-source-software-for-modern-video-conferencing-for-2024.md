@@ -1,7 +1,7 @@
 ---
 title: "[New] Groundbreaking Open Source Software for Modern Video Conferencing for 2024"
-date: 2024-11-15T09:47:05.837Z
-updated: 2024-11-16T07:30:20.816Z
+date: 2024-11-24T18:12:07.411Z
+updated: 2024-11-25T18:44:35.088Z
 tags: 
   - screen-recording
   - ai video
@@ -49,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![Jitsi](https://images.wondershare.com/filmora/article-images/jitsi-meet-app.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [Bitrix24](https://www.bitrix24.com/uses/free-video-conferencing-software.php)
 
 **Price:** There are several pricing plans for Bitrix24 as follows:
@@ -81,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 ![Bitrix24](https://images.wondershare.com/filmora/article-images/bitrix24.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. [Rocket.Chat](https://rocket.chat/)
@@ -119,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 ![Riot](https://images.wondershare.com/filmora/article-images/riot.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. [Apache OpenMeetings](https://openmeetings.apache.org/)
@@ -140,10 +121,7 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 ![Apache OpenMeetings](https://images.wondershare.com/filmora/article-images/openmeetings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. [Livestorm](https://livestorm.co/)
@@ -164,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![Livestorm](https://images.wondershare.com/filmora/article-images/livestorm.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. [OpenVidu](https://openvidu.io/)
 
 **Price:**
@@ -180,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 * It supports screen sharing.
 
 ![OpenVidu](https://images.wondershare.com/filmora/article-images/openvidu.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. [Zulipchat](https://zulipchat.com/hello/)
 
@@ -199,32 +185,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 ![Zulipchat](https://images.wondershare.com/filmora/article-images/zulipchat.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -241,14 +205,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-native-chrome-os-screen-snapper/"><u>[Updated] Native Chrome OS Screen Snapper</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[Updated] OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-dissecting-ffmpeg-the-gateway-to-original-audio-retention/"><u>2024 Approved Dissecting FFmpeg The Gateway to Original Audio Retention</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-prime-10-terraria-game-enhancements/"><u>In 2024, Prime 10 Terraria Game Enhancements</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mastering-storage-efficiency-best-practices-for-deduplication-on-your-windows-server/"><u>Mastering Storage Efficiency: Best Practices for Deduplication on Your Windows Server</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/next-level-broadcast-software-showdown-with-obs/"><u>Next-Level Broadcast Software Showdown with OBS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premier-virtual-microphones-for-2024/"><u>Premier Virtual Microphones for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/vyncs-link-assessment-a-powerful-tracking-suite-complicated-by-enigmamo-membership-models/"><u>Vyncs Link Assessment: A Powerful Tracking Suite Complicated by Enigmamo Membership Models</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-stop-the-mute-add-sound-to-tweeted-clips/"><u>[New] 2024 Approved Stop the Mute Add Sound to Tweeted Clips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-capturing-your-beloved-tv/"><u>[New] The Ultimate Guide to Capturing Your Beloved TV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-cinematic-frames-a-3-way-insta-guide/"><u>[Updated] 2024 Approved Mastering Cinematic Frames A 3-Way Insta Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-spinning-media-a-quick-guide-to-rotating-videos-in-vlc/"><u>[Updated] 2024 Approved Spinning Media A Quick Guide to Rotating Videos in VLC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-swiftswirl-momentmirror-recording/"><u>[Updated] SwiftSwirl MomentMirror Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unbeatable-mac-video-grabber-options-listed/"><u>2024 Approved Unbeatable Mac Video Grabber Options Listed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-pop-8-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Pop 8 Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-civi-3-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Civi 3 to Another | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-real-story-exploring-recordcast-features/"><u>In 2024, The Real Story Exploring RecordCast Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-lava-blaze-2-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Lava Blaze 2 Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-dota-2-vac-ban-issues-tips-and-tricks-for-the-new-year/"><u>Overcoming Dota 2 VAC Ban Issues - Tips and Tricks for the New Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-resolve-your-razer-microphone-issues-with-these-5-simple-fixes/"><u>Quickly Resolve Your Razer Microphone Issues with These 5 Simple Fixes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-essential-top-10-hd-webcams-reviewed-for-2024/"><u>The Essential Top 10 HD Webcams Reviewed for 2024</u></a></li>
 </ul></div>
 

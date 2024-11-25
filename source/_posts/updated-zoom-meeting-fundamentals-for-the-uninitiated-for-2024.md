@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Zoom Meeting Fundamentals for the Uninitiated for 2024"
-date: 2024-11-10T03:23:12.939Z
-updated: 2024-11-15T17:23:53.181Z
+date: 2024-11-23T18:47:42.511Z
+updated: 2024-11-25T18:17:51.894Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Zoom Webinar?
@@ -68,6 +65,10 @@ The platform doesn’t allow its users to host webinars for free and you must pu
 Furthermore, each of the available plans offers the cloud recording option, and you can get up to 3 TB of extra storage for an additional fee. Once you purchase a license you will also have to assign it to the owner of the Zoom account or the admin of a particular account. You can do this by heading over to the User Management menu and selecting the Users option. After you locate the user to which you would like to assign a webinar license, you should click on the Edit button at the end of the user’s row and click on the Webinar option in the Feature menu.
 
 ![Zoom Webinar Setting Editing](https://images.wondershare.com/filmora/article-images/zoom-webinar-setting-editing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Optionally, you can choose the user’s role, specify their job title or add their location. When done, you should click on the Save button to confirm the changes you’ve made and proceed with the setup of your webinar.
 
@@ -105,25 +106,15 @@ The invitation process for attendees depends on whether or not a webinar require
 
 ![Invite Attendees  to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-attendees-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hosts of webinars that require registration must send the registration link to attendees and each attendee must fill in the registration form. Afterward, they will receive an email that contains a unique join link. You can invite attendees to register for a webinar by copying the registration URL and sharing it through your website or your email. Optionally you can click on the Copy the invitation option and copy the invitation Zoom created, or use the Email me the invitation feature to get a copy of the invitation you can forward to the attendees.
 
 ![Start Scheduled Zoom Webinar](https://images.wondershare.com/filmora/article-images/start-scheduled-zoom-webinar.jpg)
 
-To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
 
 ## How Do Attendees Join a Zoom Webinar?
 
@@ -133,16 +124,13 @@ In some cases, you can also gain access to the join link from the registration c
 
 ![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
 Webinar attendees can only interact with a webinar by raising their hands, chatting with the host and panelists or participating in Q&A panels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the Difference between a Zoom Meeting and a Zoom Webinar?
 
@@ -157,6 +145,10 @@ A webinar can have up to 10,000 participants, while meeting cannot have more tha
 Anyone can set up a new webinar with Zoom, even if they have no previous experience. However, knowing how long each session of the webinar is going to last or how much time should pass between two webinar sessions is going to help you adjust the settings of your webinar more precisely. Did you find this article helpful? Leave a comment and share your experiences with Zoom webinars with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -173,22 +165,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-childhood-chuckles-hilarious-kid-friendly-games/"><u>[New] Childhood Chuckles Hilarious Kid-Friendly Games</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-decreasing-decibents-deliberately-logic-pros-volume-techniques-for-2024/"><u>[New] Decreasing Decibents Deliberately Logic Pro's Volume Techniques for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-extract-srt-from-zip-simple-subtitle-file-creation-tips-for-2024/"><u>[New] Extract SRT From ZIP Simple Subtitle File Creation Tips for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>[New] In 2024, Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-play-with-these-5-windows-11-recording-approaches/"><u>[Updated] Elevate Your Play with These 5 Windows 11 Recording Approaches</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-no-cost-webcams-for-seamless-chats/"><u>[Updated] Essential No-Cost Webcams for Seamless Chats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-apex-of-hd-technology-leading-recorder-brands-decoded/"><u>2024 Approved Apex of HD Technology Leading Recorder Brands Decoded</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-and-google-showdown-differences-between-app-store-offerings/"><u>Apple and Google Showdown: Differences Between App Store Offerings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-camera-roll-to-twitter-feed-video-posting-guide/"><u>From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-digital-entertainment-preservation-online-tv-show-recording-101/"><u>In 2024, Digital Entertainment Preservation Online TV Show Recording 101</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elite-screen-recording-apps-of-2023-expert-picks/"><u>In 2024, Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-secrets-of-a-captivating-end-episode-note/"><u>In 2024, Unlocking the Secrets of a Captivating End-Episode Note</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-mini-gaming-memories-learn-to-record-minecraft-on-apple-devices/"><u>Mastering Mini-Gaming Memories Learn to Record Minecraft on Apple Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ultimate-guide-to-screen-grabbers/"><u>Ultimate Guide to Screen Grabbers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-filmmaking-aids-go-green-no-money/"><u>Visual Filmmaking Aids Go Green, No Money</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-7-proven-techniques-to-skyrocket-your-instagram-profile/"><u>[New] 2024 Approved 7 Proven Techniques to Skyrocket Your Instagram Profile</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-tips-for-creating-engaging-and-memorable-instagram-reels/"><u>[New] 2024 Approved Top Tips for Creating Engaging and Memorable Instagram Reels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crucial-definitions-of-online-narrative-artistry/"><u>[New] Crucial Definitions of Online Narrative Artistry</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-proper-techniques-for-easy-iphone-screen-recording/"><u>[New] Proper Techniques for Easy iPhone Screen Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quietude-in-a-click-the-ultimate-calm-list/"><u>[New] Quietude in a Click The Ultimate Calm List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-secrets-of-successful-ps3-game-recording-tactics/"><u>[New] Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-the-world-of-youtube-titling-and-tagging/"><u>[Updated] 2024 Approved Navigating the World of YouTube Titling and Tagging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-4-easy-ways-to-screen-record-lenovo-laptop/"><u>[Updated] 4 Easy Ways to Screen Record Lenovo Laptop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>[Updated] Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-solutions-for-virtual-team-interactions/"><u>[Updated] Premier Solutions For Virtual Team Interactions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-and-mov-4/"><u>最適な MP4 & MOV ファイルを簡単に変換できるベストのサイト4つ - リコメンド</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-engagement-with-effective-youtube-banners-and-thumbnails-for-2024/"><u>Boosting Engagement with Effective YouTube Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-fodt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .fodt file</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-helldivers-2-crashing-issues-on-windows-computers-for-a-smooth-experience/"><u>How to Fix Helldivers 2 Crashing Issues on Windows Computers for a Smooth Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>In 2024, The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-accessible-through-virtual-private-networks-vpn/"><u>Is ChatGPT Accessible Through Virtual Private Networks (VPN)?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-the-world-of-video-capturing-on-diverse-devices-for-2024/"><u>Navigating the World of Video Capturing on Diverse Devices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-5-android-capture-and-screen-save-apps-for-2024/"><u>Premium 5 Android Capture & Screen Save Apps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quintessential-quests-and-thrills-top-10-games-for-2024/"><u>Quintessential Quests & Thrills – Top 10 Games for 2024</u></a></li>
 </ul></div>
 

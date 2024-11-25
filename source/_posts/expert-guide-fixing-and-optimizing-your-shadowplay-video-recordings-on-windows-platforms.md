@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms"
-date: 2024-11-13T08:51:27.888Z
-updated: 2024-11-15T18:13:20.722Z
+date: 2024-11-19T19:06:05.418Z
+updated: 2024-11-25T17:58:15.937Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ A screenshot of Farming Simulator 22 from Steam
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -86,13 +90,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of Farming Simulator 22\. If you have a powerful PC, just skip this fix.
@@ -136,10 +133,7 @@ There are mainly two methods for you to update the graphics driver:
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -165,19 +159,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -190,25 +179,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
 
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar (Windows 10)
 
@@ -221,16 +200,7 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
@@ -261,18 +231,17 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-a-comparative-journey-through-the-top-10-tv-streamers/"><u>[New] A Comparative Journey Through the Top 10 TV Streamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-equipment-list-secure-your-zoom-sessions/"><u>[New] Essential Equipment List Secure Your Zoom Sessions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-list-high-quality-cost-free-meeting-platforms/"><u>[New] Essential List High-Quality, Cost-Free Meeting Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-color-changes-11-essential-tips/"><u>[Updated] 2024 Approved Mastering Color Changes 11 Essential Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-guide-to-recording-gotomeet-sessions/"><u>2024 Approved Essential Guide to Recording GoToMeet Sessions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011672526-cyberpunk-nk-2077s-fps-challenge-past-problem-present-solution/"><u>Cyberpunk Nk 2077'S FPS Challenge: Past Problem, Present Solution.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/descargar-la-herramienta-online-para-convertir-archivos-de-video-f4v-a-formato-flv-sin-coste-alguno/"><u>Descargar La Herramienta Online Para Convertir Archivos De Vídeo F4V a Formato FLV Sin Coste Alguno</u></a></li>
-<li><a href="https://blog-min.techidaily.com/diy-dvd-burning-techniques-convert-all-your-videos-to-disks-for-free/"><u>DIY DVD Burning Techniques - Convert All Your Videos to Disks for Free!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-epson-ds-530-printer-drivers-for-windows-10-x64-free/"><u>Download Epson DS-530 Printer Drivers for Windows 10 (X64) - Free</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/excellent-voice-capture-gadgets-top-7-list-2023-for-2024/"><u>Excellent Voice Capture Gadgets, Top 7 List 2023 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/free-online-video-communication-tools-rated-best-for-2024/"><u>Free Online Video Communication Tools Rated Best for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/get-the-edge-with-a-premier-zero-cost-voice-change-software-for-2024/"><u>Get the Edge with a Premier, Zero-Cost Voice Change Software for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-viewer-interest-6-video-styles-explored/"><u>Mastering Viewer Interest 6 Video Styles Explored</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-sims-chronicles-unplugged-innovative-techniques-to-recording-without-reliance-on-video/"><u>[New] 2024 Approved Sims Chronicles Unplugged Innovative Techniques to Recording Without Reliance on Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-essential-how-to-guide-for-filming-anywhere-anytime-for-2024/"><u>[New] The Essential How-To Guide for Filming Anywhere, Anytime for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unravel-the-best-web-resources-for-perfecting-your-video-subtitles-for-2024/"><u>[New] Unravel the Best Web Resources for Perfecting Your Video Subtitles for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-professionalizing-virtual-collaboration-zoom-recording-tips/"><u>[Updated] 2024 Approved Professionalizing Virtual Collaboration Zoom Recording Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[Updated] 2024 Approved The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-royale-champions-the-defining-battle-royale-titles/"><u>[Updated] In 2024, Royale Champions The Defining Battle Royale Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-musical-virtuoso-sessions/"><u>[Updated] Prime Musical Virtuoso Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-best-ios-alternatives-to-play-timeless-psp-game-classics-for-2024/"><u>[Updated] The Best iOS Alternatives to Play Timeless PSP Game Classics for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-in-depth-analysis-of-live-streaming-tech/"><u>2024 Approved In-Depth Analysis of Live Streaming Tech</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-design-compact-interactive-pdfs-with-easy-embed-features-mastering-flipbuilder/"><u>How to Design Compact Interactive PDFs with Easy-Embed Features | Mastering FlipBuilder</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-oppo-a56s-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A56s 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-x7b-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor X7b Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

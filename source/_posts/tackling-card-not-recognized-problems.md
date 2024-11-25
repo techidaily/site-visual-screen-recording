@@ -1,7 +1,7 @@
 ---
 title: Tackling Card Not Recognized Problems
-date: 2024-11-08T16:16:46.862Z
-updated: 2024-11-15T20:50:57.556Z
+date: 2024-11-24T19:20:55.264Z
+updated: 2024-11-25T17:41:24.826Z
 categories:
   - repair-tools
 description: This Article Describes Tackling Card Not Recognized Problems
@@ -53,6 +53,10 @@ Table of Content
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Figure: Random colored patterns on the screen
 
 * Computer crash
@@ -72,6 +76,10 @@ Table of Content
 
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
@@ -79,6 +87,10 @@ Table of Content
 ### **1\. Loose connection:**
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Swap graphics card slot:**
 
@@ -88,15 +100,16 @@ Table of Content
 
  Video display problems could be monitor-related issues instead of the graphics card. Replacing the monitor may fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Test another graphics card:**
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Check your Sound Drivers:**
@@ -104,10 +117,7 @@ Table of Content
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Check the ‘Device Status’ of your graphic card:**
@@ -115,13 +125,6 @@ Table of Content
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
 
@@ -144,13 +147,6 @@ Try the free version of the software:
 3. [**Uninstall and reinstall the drivers**](#3)
 4. [**Cool and clean video card**](#4)
 5. [**Replace your video card**](#5)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **1\. Upgrade video card drivers**
 
@@ -188,13 +184,6 @@ To disable video card drives, follow the below steps:
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3.** **Uninstall and reinstall the drivers**
 
  Uninstall the graphic drivers and then reboot your PC. Windows will automatically install the drivers after Windows Update.
@@ -213,10 +202,7 @@ To uninstall the driver, follow the below steps:
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Cool and clean video card**
@@ -235,13 +221,6 @@ To uninstall the driver, follow the below steps:
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **To Sum Up**
 
  Graphics card problems can be related to hardware or software. The blog highlighted a few quick symptoms that identify corruption or damage in your graphics card.
@@ -259,6 +238,10 @@ To uninstall the driver, follow the below steps:
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
@@ -285,20 +268,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ace-the-challenge-leading-escape-room-contests/"><u>[New] Ace the Challenge Leading Escape Room Contests</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-fps-fanatics-resource-for-fast-controls-and-extensions/"><u>[New] FPS Fanatics' Resource for Fast Controls and Extensions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapshotwiz-10-pro-windows-screen-master/"><u>[New] SnapshotWiz 10 Pro - Windows Screen Master</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-become-a-wizard-elevating-the-art-of-ppt-to-video-conversion/"><u>[Updated] Become a Wizard Elevating the Art of PPT to Video Conversion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/androids-low-cost-video-communication-guide/"><u>Android's Low-Cost Video Communication Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-guide-fixing-battlenet-open-errors-in-202battlenet-launch-problems-and-how-to-solve-them-a-complete-walkthrough/"><u>Comprehensive Guide: Fixing Battle.net Open Errors in 202([[Battle.net Launch Problems and How to Solve Them - A Complete Walkthrough ]])</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-fixing-the-critical-error-0x800705b4-in-updating-windows-11/"><u>Decoding and Fixing the Critical Error 0X800705b4 in Updating Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-your-engagement-top-10-video-response-insights-for-2024/"><u>Elevate Your Engagement Top 10 Video Response Insights for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974735141-get-the-newest-intel-wi-fi-6-ax200-drivers-compatible-with-windows-10-and-11-free-download/"><u>Get the Newest Intel Wi-Fi 6 AX200 Drivers - Compatible with Windows 10 & 11, Free Download</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/high-fidelity-capture-mastering-screen-recording-tools-for-macos-for-2024/"><u>High Fidelity Capture Mastering Screen Recording Tools for macOS for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-fix-obs-full-screen-not-working-issue-for-2024/"><u>How To Fix OBS Full Screen Not Working Issue for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfect-your-presentations-leading-free-mac-screen-capture-tools/"><u>Perfect Your Presentations Leading Free Mac Screen Capture Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-motorola-one-hyper-a-vibrant-choice-in-todays-competitive-mid-range-phones/"><u>The Motorola One Hyper - A Vibrant Choice in Today's Competitive Mid-Range Phones!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-new-era-advancements-in-vr-technology-for-2024/"><u>The New Era Advancements in VR Technology for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/window-lockscreen-tips-engage-or-mute-spotlight-images/"><u>Window Lockscreen Tips: Engage or Mute Spotlight Images</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-editing-techniques-that-maximize-obs-potential-for-2024/"><u>[New] Advanced Editing Techniques That Maximize OBS Potential for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-google-meet-setup-and-scheduling-guide/"><u>[New] Mastering Google Meet Setup and Scheduling Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-hide-and-seek-with-fb-episodes-for-2024/"><u>[Updated] Hide-and-Seek with FB Episodes for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-one-arm-wonders-keeping-photos-steady/"><u>[Updated] One Arm Wonders Keeping Photos Steady</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-sound-levels-in-recordings-step-by-step-guide/"><u>[Updated] Perfecting Sound Levels in Recordings Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-recording-perfecting-video-captures-on-your-android-phone/"><u>[Updated] Precision Recording Perfecting Video Captures on Your Android Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-pro-blueprints-exclusive-free-2023-collection/"><u>[Updated] Premier Pro Blueprints - Exclusive FREE 2023 Collection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-dissecting-apowersofts-features-against-competitors/"><u>2024 Approved Dissecting Apowersoft's Features Against Competitors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimizing-your-video-conferencing-process-with-slack-and-filmora-tools/"><u>2024 Approved Optimizing Your Video Conferencing Process with Slack and Filmora Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quick-shot-screen-plus-sound-combo/"><u>2024 Approved Quick Shot Screen + Sound Combo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-revolutionize-your-videos-essential-obs-edits-at-hand/"><u>2024 Approved Revolutionize Your Videos Essential OBS Edits at Hand</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-12-proplus-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-perfecting-speech-interpretation-using-google-tools/"><u>In 2024, Perfecting Speech Interpretation Using Google Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximize-learning-mac-methods-to-document-lectures-for-2024/"><u>Maximize Learning Mac Methods to Document Lectures for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mini-masterpieces-top-6-coolest-mini-houses-in-mc-for-2024/"><u>Mini Masterpieces Top 6 Coolest Mini-Houses in MC for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-video-editing-made-easy-splitting-videos-in-windows-live-movie-maker-for-pc-users/"><u>New In 2024, Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/precision-recording-of-console-games-on-your-pc-for-2024/"><u>Precision Recording of Console Games on Your PC for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranked-ultra-hd-gaming-experiences-on-playstation-4-and-xbox-one/"><u>Top-Ranked Ultra HD Gaming Experiences on PlayStation 4 & Xbox One</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-machine-learning-enigmas-the-black-box-phenomenon/"><u>Unraveling Machine Learning Enigmas: The Black Box Phenomenon</u></a></li>
 </ul></div>
 

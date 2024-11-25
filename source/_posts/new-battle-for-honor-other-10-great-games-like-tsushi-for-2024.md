@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Battle for Honor  Other 10 Great Games Like Tsushi for 2024\""
-date: 2024-11-09T01:53:15.205Z
-updated: 2024-11-16T00:36:53.266Z
+date: 2024-11-18T16:29:09.407Z
+updated: 2024-11-25T17:03:57.602Z
 tags: 
   - screen-recording
   - ai video
@@ -135,13 +135,25 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -158,27 +170,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-privacy-preservation-through-invisible-modifications/"><u>[New] 2024 Approved Privacy Preservation Through Invisible Modifications</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-sewn-sequences-learning-loom-screen-casting/"><u>[New] 2024 Approved Sewn Sequences Learning Loom Screen Casting</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-avoiding-common-pitfalls-in-your-search-for-spectacular-pexels-photos-for-2024/"><u>[New] Avoiding Common Pitfalls in Your Search for Spectacular Pexels Photos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-monochrome-to-multicolor-grading-journey/"><u>[New] In 2024, From Monochrome to Multicolor Grading Journey</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pro-level-mac-audio-logging-tools-uncover-the-top-5-for-2024/"><u>[New] Pro-Level Mac Audio Logging Tools Uncover the Top 5 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ranking-moba-titles-exclusively-for-android-phones-for-2024/"><u>[New] Ranking MOBA Titles Exclusively for Android Phones for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-roundup-of-ranch-games-top-10-for-friends-and-family-for-2024/"><u>[New] Roundup of Ranch Games Top 10 for Friends and Family for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-samsungs-gaming-memories-record-and-reveal-for-2024/"><u>[New] Samsung's Gaming Memories Record and Reveal for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screen-recording-showdown-go-with-obs-studio-or-bandicam-for-2024/"><u>[New] Screen Recording Showdown Go with OBS Studio or Bandicam for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-detailed-guide-to-ending-your-linkedin-user-experience-for-2024/"><u>A Detailed Guide to Ending Your LinkedIn User Experience for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-steam-cloud-storage-issues-troubleshooting-tips/"><u>How to Resolve Steam Cloud Storage Issues: Troubleshooting Tips</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-portable-play-on-ipad-the-delta-emulator-arrives-with-cutting-edge-display-controls-for-nintendo-ds-games/"><u>Revolutionizing Portable Play on iPad – The Delta Emulator Arrives with Cutting-Edge Display Controls for Nintendo DS Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719283991472-update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings.</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-take-your-audio-to-the-next-level-top-10-editing-software-for-2024/"><u>Updated Take Your Audio to the Next Level Top 10 Editing Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-civic-challenge-champions-premier-elections-videogames/"><u>[New] Civic Challenge Champions Premier Elections Videogames</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-essential-steps-for-elevating-wmm-content-on-vimeo-platform-for-2024/"><u>[New] Essential Steps for Elevating WMM Content on Vimeo Platform for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-deciding-between-obs-and-streamlabs-for-live-broadcasting/"><u>[New] In 2024, Deciding Between OBS and Streamlabs for Live Broadcasting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-chromebooks-premium-free-video-capture-extensions/"><u>[Updated] Chromebook's Premium Free Video Capture Extensions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-stabilization-tech-for-youtube-content-creators/"><u>[Updated] Professional Stabilization Tech for YouTube Content Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems/"><u>2024 Approved Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-innovative-gb-recorder-for-games-on-fbx/"><u>2024 Approved Innovative GB Recorder for Games on FBX</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-f23-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo F23 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elite-gear-for-the-immersive-vr-journey/"><u>In 2024, Elite Gear for the Immersive VR Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-firefox-screen-capturing-plugins/"><u>In 2024, Essential Firefox Screen Capturing Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-stellar-job-cover-letters/"><u>Leveraging GPT for Stellar Job Cover Letters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-ultimate-gamepad-my-unwavering-passion-despite-new-releases/"><u>Unveiling the Ultimate Gamepad: My Unwavering Passion Despite New Releases</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

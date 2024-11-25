@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-11-13T04:31:51.783Z
-updated: 2024-11-16T01:52:40.033Z
+date: 2024-11-22T18:39:05.932Z
+updated: 2024-11-25T18:29:30.265Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,10 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,6 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -68,13 +73,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,16 +119,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-webcam-pro-step-by-step-recording-on-macbooks/"><u>[New] 2024 Approved Webcam Pro Step-by-Step Recording on MacBooks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-capture-assistant-az-audits-and-alternatives/"><u>[New] In 2024, Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-webcamskills-beginnersrecordingtutorial/"><u>[New] In 2024, WebcamSkills Beginner'sRecordingTutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-framework-for-exceptional-ppt-video-documentation-for-2024/"><u>[New] The Framework for Exceptional PPT Video Documentation for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unlocking-iphone-x-ease-mending-face-id-problems-for-2024/"><u>[New] Unlocking iPhone X Ease Mending Face ID Problems for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-leading-video-chat-pros-top-8-for-2024/"><u>[New] Windows' Leading Video Chat Pros Top 8 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-compilation-offline-ios-games-to-delight-in/"><u>[Updated] In 2024, The Ultimate Compilation Offline iOS Games to Delight In</u></a></li>
-<li><a href="https://network-issues.techidaily.com/addressing-distortion-in-far-cry-6-game-graphics/"><u>Addressing Distortion in Far Cry 6 Game Graphics</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-xs-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone XS</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-user-manual-mastering-your-apowertrans-experience/"><u>Ultimate User Manual: Mastering Your ApowerTrans Experience</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wie-weist-du-ihre-kontakte-von-einem-iphone-auf-ein-anderes-mit-icloud/"><u>Wie Weist Du Ihre Kontakte Von Einem iPhone Auf Ein Anderes Mit iCloud?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc/"><u>[New] Reviewing Free Screen Recorder Tools for PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[Updated] Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-tips-for-perfectly-recording-your-powerpoint-sessions/"><u>[Updated] Professional Tips for Perfectly Recording Your PowerPoint Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-segmentviewer-study-notes/"><u>[Updated] SegmentViewer Study Notes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-instatunes-navigating-copyright-laws/"><u>2024 Approved Mastering InstaTunes Navigating Copyright Laws</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-ways-to-stream-mkv-video-formats-on-ios-devices/"><u>Easy Ways to Stream MKV Video Formats on iOS Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>In 2024, Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-ipad-unlocking-advanced-settings-and-hacks-every-apple-enthusiast-should-know-get-smart-with-our-top-10-tips-from-zdnet/"><u>Master Your iPad: Unlocking Advanced Settings and Hacks Every Apple Enthusiast Should Know - Get Smart with Our Top 10 Tips From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/personalized-pick-our-top-12-favorite-pc-clicker-games-for-2024/"><u>Personalized Pick Our Top 12 Favorite PC Clicker Games for 2024</u></a></li>
 </ul></div>
 

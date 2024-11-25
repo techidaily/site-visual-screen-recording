@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mac Screenshots  Transforming Extensions for 2024\""
-date: 2024-11-01T02:17:27.527Z
-updated: 2024-11-05T16:50:14.818Z
+date: 2024-11-20T18:00:53.072Z
+updated: 2024-11-25T19:22:11.317Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ However, the process of changing the default screenshot file format on a Mac is 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,10 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Supported Image Formats on Mac
@@ -61,6 +62,10 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -68,10 +73,7 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
@@ -79,10 +81,7 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -121,13 +120,6 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -143,18 +135,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-classic-quests-to-complex-escapades/"><u>[New] In 2024, From Classic Quests to Complex Escapades</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-methods-for-high-definition-vr-gameplay-recordings-for-2024/"><u>[New] Innovative Methods for High-Definition VR Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-tools-for-high-definition-gaming-logging-beyond-fbx-for-2024/"><u>[New] Innovative Tools for High-Definition Gaming Logging Beyond FBX for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-10-best-online-video-call-free-to-use-for-2024/"><u>[Updated] 10 Best Online Video Call (Free to Use) for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-guide-to-captivating-gmeet-audiences-with-flawless-ppt-presentations/"><u>[Updated] 2024 Approved Guide to Captivating GMeet Audiences with Flawless PPT Presentations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-essential-techniques-5-audio-recording-tools-in-windows-11/"><u>[Updated] Essential Techniques 5 Audio Recording Tools in Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-insider-tips-for-documenting-your-favorite-games-on-ps4/"><u>[Updated] In 2024, Insider Tips for Documenting Your Favorite Games on PS4</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-perfecting-audio-rates-in-youtube-playback/"><u>[Updated] Perfecting Audio Rates in YouTube Playback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-vhs-80s-effects-to-use-in-video-editing/"><u>2024 Approved Top VHS 80S Effects to Use in Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/adept-at-editing-and-disc-making-the-ultimate-mac-guide/"><u>Adept at Editing and Disc Making The Ultimate Mac Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-sony-vegas-video-editor-sudden-crashes-tips-and-tricks/"><u>Solving Sony Vegas Video Editor Sudden Crashes: Tips & Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-impossibility-of-fixing-the-samsung-galaxy-ring/"><u>The Impossibility of Fixing the Samsung Galaxy Ring</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-10-customizable-screenshot-tools-for-gamers-for-2024/"><u>Top 10 Customizable Screenshot Tools for Gamers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-mac-system-all-in-one-screen-and-sound-capture-tool/"><u>[Updated] 2024 Approved Ultimate Mac System All-in-One Screen & Sound Capture Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultra-hd-playback-best-ps5-and-hdmi-21-compatible-monitors/"><u>[Updated] 2024 Approved Ultra HD Playback Best PS5 & HDMI 2.1 Compatible Monitors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-3-ways-to-record-whatsapp-call-for-2024/"><u>[Updated] 3 Ways to Record WhatsApp Call for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-script-to-screen-animating-stories-using-wmm-for-2024/"><u>[Updated] From Script to Screen Animating Stories Using WMM for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1728475354430-windows-server/"><u>「Windows Server」における定期的な自動バックアップの停止方法</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-full-breakdown-of-toolwizs-image-processing/"><u>2024 Approved The Full Breakdown of Toolwiz's Image Processing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ideal-smart-lock-solution-for-ios-devices-stylish-yet-functional/"><u>Discover The Ideal Smart Lock Solution for iOS Devices - Stylish Yet Functional!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-6-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 6 Plus Location by Number | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elevate-gameplay-memories-overwatchs-recording-hacks/"><u>In 2024, Elevate Gameplay Memories - Overwatch's Recording Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-computing-experts/"><u>In-Depth Analysis by Tom's Computing Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/showmores-edge-a-closer-look-at-exceptional-screen-recording/"><u>ShowMore's Edge A Closer Look at Exceptional Screen Recording</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tu-imagen-webp-a-formato-tiff-sin-costo-alguno-con-herramientas-online-gratuitas-de-movavi/"><u>Transforma Tu Imagen WEBP a Formato TIFF Sin Costo Alguno Con Herramientas Online Gratuitas De Movavi</u></a></li>
 </ul></div>
 

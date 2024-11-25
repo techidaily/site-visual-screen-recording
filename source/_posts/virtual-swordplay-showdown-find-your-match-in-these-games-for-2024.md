@@ -1,7 +1,7 @@
 ---
 title: "\"Virtual Swordplay Showdown  Find Your Match in These Games for 2024\""
-date: 2024-11-10T04:29:39.919Z
-updated: 2024-11-16T09:08:43.811Z
+date: 2024-11-18T17:10:57.575Z
+updated: 2024-11-25T18:09:03.449Z
 tags: 
   - screen-recording
   - ai video
@@ -135,13 +135,25 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -158,26 +170,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/0-premier-yoga-educators-on-youtube-for-2024/"><u>[New] 10 Premier Yoga Educators on YouTube for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-insiders-look-at-vidma-screen-recording/"><u>[New] In 2024, The Insider's Look at Vidma Screen Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[New] In 2024, The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quintet-of-premium-picture-and-sound-recording-tools/"><u>[New] Quintet of Premium Picture & Sound Recording Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlined-strategies-for-gaming-screen-recording/"><u>[Updated] 2024 Approved Streamlined Strategies for Gaming Screen-Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlining-your-powerpoint-to-video-journey/"><u>[Updated] 2024 Approved Streamlining Your PowerPoint to Video Journey</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>[Updated] 2024 Approved The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unveiling-streaming-secrets-the-best-5-cams-for-gamers/"><u>[Updated] 2024 Approved Unveiling Streaming Secrets The Best 5 Cams for Gamers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-subtle-sounds-clear-vision-audio-cleanup-methods-reviewed/"><u>2024 Approved Subtle Sounds, Clear Vision Audio Cleanup Methods Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-ownership-challenges-with-managed-windows-11-features/"><u>Solving Ownership Challenges with Managed Windows 11 Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-when-your-oculus-quest-2s-microphone-wont-work/"><u>Step-by-Step Fixes When Your Oculus Quest 2'S Microphone Won't Work</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-the-mov-file-extension-a-comprehensive-guide/"><u>Understanding the MOV File Extension: A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-discover-the-premier-screen-recording-tools-for-mac-for-2024/"><u>[New] Discover the Premier Screen Recording Tools for Mac for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-eliminating-noise-fixing-silent-sounds-in-obs-streams-for-2024/"><u>[New] Eliminating Noise Fixing Silent Sounds in OBS Streams for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-google-meet-excellence-on-the-house-complete-guide-for-all-users/"><u>[New] In 2024, Google Meet Excellence on the House Complete Guide for All Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ensuring-precision-the-art-of-skype-call-documentation/"><u>[Updated] 2024 Approved Ensuring Precision The Art of Skype Call Documentation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-explore-affordable-cross-platform-video-chat-platforms-for-windowsmac/"><u>[Updated] 2024 Approved Explore Affordable, Cross-Platform Video Chat Platforms for Windows/Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/"><u>[Updated] 2024 Approved Free Software Leaders in Chromebook Screen Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-laughable-phone-melodies-essential-sites-listed/"><u>[Updated] 2024 Approved Laughable Phone Melodies Essential Sites Listed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-hp-experience-with-these-4-screen-record-methods-for-2024/"><u>[Updated] Elevate Your HP Experience with These 4 Screen Record Methods for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-round-up-the-most-effective-9-digital-recorders/"><u>[Updated] In 2024, Expert Round-Up The Most Effective 9 Digital Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-fast-fixes-for-capturing-games-on-devices/"><u>[Updated] In 2024, Fast Fixes for Capturing Games on Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-whimsical-worlds-kids-fun-game-selection/"><u>[Updated] In 2024, Whimsical Worlds - Kids' Fun Game Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-samsung-screen-captures-of-your-gaming-spree-for-2024/"><u>[Updated] Samsung Screen Captures of Your Gaming Spree for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/chromecast-and-google-tv-review-a-game-changer-for-cord-cutters/"><u>Chromecast and Google TV Review: A Game-Changer for Cord Cutters?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-mkv-a-wma-sin-costo-alguno-por-internet-guia-completa-y-soluciones-gratuitas-con-movavi/"><u>Conversión MKV a WMA Sin Costo Alguno Por Internet: Guía Completa Y Soluciones Gratuitas Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-unresponsive-apple-magic-mouse-on-macos/"><u>Expert Tips for Repairing Unresponsive Apple Magic Mouse on macOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-15-pro-max-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 15 Pro Max to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-failed-attempts-to-generate-directx-output-devices/"><u>Troubleshooting and Resolving Failed Attempts to Generate DirectX Output Devices</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

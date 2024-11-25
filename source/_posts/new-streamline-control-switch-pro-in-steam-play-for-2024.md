@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Control  Switch Pro in Steam Play for 2024\""
-date: 2024-11-15T07:35:20.390Z
-updated: 2024-11-15T20:13:17.557Z
+date: 2024-11-23T17:03:24.493Z
+updated: 2024-11-25T19:13:33.824Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -69,20 +66,21 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -96,10 +94,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
@@ -115,6 +110,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -132,13 +131,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -154,22 +146,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-blitz-games-leading-lightning-fast-titles-for-laptopsphones/"><u>[New] Blitz Games Leading Lightning-Fast Titles for Laptops/Phones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-art-of-subtle-soundplayback/"><u>[Updated] 2024 Approved The Art of Subtle Soundplayback</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>[Updated] 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-videos-youtube-trailers-through-filmora/"><u>[Updated] Elevate Your Videos YouTube Trailers Through Filmora</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/audio-enthusiast-hub-capture-and-audit-mp3-files/"><u>Audio Enthusiast Hub Capture and Audit MP3 Files</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>Beyond the Screen Advanced Techniques in Logging Virtual Reality Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-your-screen-on-pc-free-ways-to-do-it/"><u>Capturing Your Screen on PC Free Ways to Do It</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-bystander-to-leader-in-the-world-of-insta-essential-tips-and-examples/"><u>From Bystander to Leader in the World of Insta Essential Tips & Examples</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-audiences-favorite-top-action-recording-tools/"><u>In 2024, Audience's Favorite Top Action Recording Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-fundamental-guidelines-for-saving-lol-scores/"><u>In 2024, Fundamental Guidelines for Saving LOL Scores</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-intros-hook-up-listeners-with-podcast-intro-script/"><u>In 2024, Podcasts Intros Hook Up Listeners With Podcast Intro Script</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/saving-game-moments-top-5-techniques-on-win10/"><u>Saving Game Moments Top 5 Techniques on Win10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/slow-down-or-freeze-time-expert-fcpx-editing-techniques-for-2024/"><u>Slow Down or Freeze Time Expert FCPX Editing Techniques for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-sony-xperia-5-v-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Sony Xperia 5 V Location | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-7-budget-pc-screenshot-and-recording-apps/"><u>Top 7 Budget PC Screenshot & Recording Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-dealing-with-missing-libxml2dll-files-on-your-pc/"><u>Troubleshooting Guide: Dealing with Missing libxml2.dll Files on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-digital-preservation-with-the-wayback-machine-tutorial/"><u>Unlock the Secrets of Digital Preservation with the Wayback Machine Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-delving-deep-into-high-dynamic-range-with-adobe-ps/"><u>2024 Approved Delving Deep Into High Dynamic Range with Adobe PS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-jumping-from-sdr-to-hdr-the-ultimate-transformation-guide/"><u>2024 Approved Jumping From SDR to HDR The Ultimate Transformation Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-playbook-for-recording-live-gaming-events/"><u>2024 Approved The Ultimate Playbook for Recording Live Gaming Events</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-weave-of-wisdom-mastering-looms-tech/"><u>2024 Approved The Weave of Wisdom Mastering Loom's Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-productivity-top-12-advanced-excel-setup-adjustments-revealed/"><u>Boost Your Productivity: Top 12 Advanced Excel Setup Adjustments Revealed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-stuttering-issues-with-fallout-3-on-your-windows-11-machine/"><u>How to Resolve Stuttering Issues with Fallout 3 on Your Windows 11 Machine</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-video-exporting-and-integrating-resurrected-edb-data-into-live-exchange-environments/"><u>How-To Video: Exporting and Integrating Resurrected EDB Data Into Live Exchange Environments</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-vintage-virtual-battles-our-best-of-classic-adventure-titles/"><u>In 2024, Vintage Virtual Battles Our Best of Classic Adventure Titles</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/m2-nvme-ssd-windows-pc/"><u>M.2 NVMe SSD クローニングガイド：Windows PC用高速冗長化ツール</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-5-emulators-for-reviving-ps1-classics-on-pc-for-2024/"><u>Top 5 Emulators for Reviving PS1 Classics on PC for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-tier-streaming-tech-ranking-5-top-conference-recorder-devices-for-2024/"><u>Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use-for-2024/"><u>Unlock Advanced Capturing A Guide to Aiseesoft Screen Recorder Use for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-crucial-elements-when-choosing-an-audio-editor-for-apple-computers/"><u>Updated Crucial Elements When Choosing an Audio Editor for Apple Computers</u></a></li>
 </ul></div>
 

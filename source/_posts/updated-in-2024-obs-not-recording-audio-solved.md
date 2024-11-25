@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, OBS Not Recording Audio [Solved]"
-date: 2024-11-10T22:36:40.827Z
-updated: 2024-11-15T17:52:57.965Z
+date: 2024-11-22T19:33:38.811Z
+updated: 2024-11-25T18:47:10.688Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,6 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Run it as Administrator**
 
 You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
@@ -58,13 +51,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -74,6 +60,10 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -86,10 +76,7 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -101,6 +88,10 @@ Try recording with your speakers as the default playback device instead of headp
 * Select the Set Default option and click the Apply button.
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
 
@@ -122,17 +113,11 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -152,16 +137,7 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -186,24 +162,22 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-deciphering-the-rights-based-language-of-instagrams-music-features/"><u>[New] Deciphering the Rights-Based Language of Instagram's Music Features</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-ios-screenshots-and-recordings/"><u>[New] In 2024, Mastering iOS Screenshots & Recordings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-perfect-tiktok-bio-link-strategy/"><u>[New] In 2024, Perfect TikTok Bio Link Strategy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-littlecapture-reviews-on-small-recorder-apps-for-2024/"><u>[New] LittleCapture Reviews on Small Recorder Apps for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premium-top-5-storage-solutions-for-xbox-for-2024/"><u>[New] Premium Top 5 Storage Solutions for Xbox for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-strategies-for-clear-communication-on-google-meet/"><u>[Updated] 2024 Approved Expert Strategies for Clear Communication on Google Meet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-discover-the-potential-of-screencastify-recorder/"><u>[Updated] In 2024, Discover the Potential of Screencastify Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-identifying-the-most-effective-windows-snipping-apps/"><u>[Updated] In 2024, Identifying the Most Effective Windows Snipping Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mac-audio-sync-for-screen-captures/"><u>[Updated] In 2024, Mac Audio Sync for Screen Captures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximizing-conversations-4-key-tips-for-hangouts-for-2024/"><u>[Updated] Maximizing Conversations 4 Key Tips for Hangouts for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-nolimitcapture-professional-win11-screen-recorders-for-2024/"><u>[Updated] NoLimitCapture - Professional Win11 Screen Recorders for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-ways-to-fix-an-iphone-stuck-on-the-apple-logo/"><u>7 Ways to Fix an iPhone Stuck on the Apple Logo</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/drone-category-definitions-for-2024/"><u>Drone Category Definitions for 2024</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/effortlessly-create-iso-and-backup-your-dvds-with-winx-dvd-copy-pro/"><u>Effortlessly Create ISO & Backup Your DVDs with WinX DVD Copy Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-note-50-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme Note 50 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-reaction-video-made-easy-mastering-filmora-for-beginners/"><u>In 2024, Reaction Video Made Easy Mastering Filmora for Beginners</u></a></li>
-<li><a href="https://fox-links.techidaily.com/maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-fn-button-a-comprehensive-guidebook/"><u>Navigating the Fn Button: A Comprehensive Guidebook</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-videopad-video-editor-2023-a-detailed-review-and-recommendation-for-beginners-and-pros/"><u>Updated 2024 Approved Videopad Video Editor 2023 A Detailed Review and Recommendation for Beginners and Pros</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-storing-itunes-videos/"><u>[New] Essential Tips for Storing iTunes Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-frame-by-frame-screen-capturer/"><u>[New] Frame-by-Frame Screen Capturer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-narratives-before-night-an-analysis-of-storytelling-videos/"><u>[New] In 2024, Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-clicking-skills-with-these-top-12-pc-titles/"><u>[Updated] Elevate Your Clicking Skills with These Top 12 PC Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-novice-to-pro-your-journey-with-the-io-screener/"><u>[Updated] From Novice to Pro Your Journey with the IO Screener</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/beginners-path-to-filming-with-macbook-webcam/"><u>Beginner's Path to Filming with MacBook Webcam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/free-pc-sound-capturing-software-x-recorder-version-for-2024/"><u>Free Pc Sound Capturing Software - X-Recorder Version for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-se-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone SE without password?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-advice-on-iphone-7-display-recording/"><u>In 2024, Expert Advice on iPhone 7 Display Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-from-words-to-memos-iphone-sound-guide/"><u>In 2024, From Words to Memos IPhone Sound Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-high-resolution-horizons-an-in-depth-look-at-the-asus-mg28uq/"><u>In 2024, High-Resolution Horizons An In-Depth Look at the ASUS MG28UQ</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-game-soundscapes-with-ps-console-tweaks/"><u>In 2024, Revolutionizing Game Soundscapes with PS Console Tweaks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-go-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Spark Go (2023) Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-undetected-toolbar-for-windows-11-users/"><u>Unlocking the Undetected Toolbar for Windows 11 Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/zooming-in-on-podcast-quality-an-ultimate-video-recording-guidebook/"><u>Zooming In on Podcast Quality An Ultimate Video Recording Guidebook</u></a></li>
 </ul></div>
 

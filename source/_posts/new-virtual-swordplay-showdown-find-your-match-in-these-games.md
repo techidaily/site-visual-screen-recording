@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Virtual Swordplay Showdown  Find Your Match in These Games\""
-date: 2024-11-12T20:50:24.494Z
-updated: 2024-11-16T06:41:32.358Z
+date: 2024-11-20T18:24:30.865Z
+updated: 2024-11-25T16:43:26.210Z
 tags: 
   - screen-recording
   - ai video
@@ -135,13 +135,25 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -158,26 +170,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-chroma-lens-reimagined-embracing-the-power-of-4k/"><u>[New] Chroma Lens Reimagined Embracing the Power of 4K</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ahead-of-the-curve-professional-360-cams-reviewed-2023-edition/"><u>[Updated] 2024 Approved Ahead of the Curve Professional 360° Cams Reviewed - 2023 Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-achieving-excellence-in-game-recording-techniques-windows-11-style/"><u>[Updated] Achieving Excellence in Game Recording Techniques, Windows 11 Style</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>2024 Approved Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside-for-2024/"><u>Dive Deep Into the World of Facebook Story Creation Expert Advice Inside for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-gear-guide-uncovering-the-best-streamer-webcams/"><u>Essential Gear Guide Uncovering the Best Streamer Webcams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/evolved-methods-for-effective-game-file-logging/"><u>Evolved Methods for Effective Game File Logging</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-play-40c-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor Play 40C to iPod | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-digital-diving-into-youtubes-veiled-video-vaults/"><u>In 2024, Digital Diving Into YouTube’s Veiled Video Vaults</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovate-your-screenshots-unveiling-ezvides-screen-casting-features/"><u>Innovate Your Screenshots Unveiling EZvide's Screen Casting Features</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-downloading-logitech-g602-audio-drivers-for-windows/"><u>Step-by-Step Guide: Downloading Logitech G602 Audio Drivers for Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-no-trouble-way-to-start-iphones-screen-snapshots/"><u>The No-Trouble Way to Start iPhone's Screen Snapshots</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/undead-uprising-a-comprehensive-list-of-favorites/"><u>Undead Uprising A Comprehensive List of Favorites</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/zakonove-pripravene-pruvodectvi-jak-snadno-pokusit-sebe-oblasti-obrazovky-s-obs-movavi/"><u>Zákonové Přípravené Průvodectví Jak Snadno Pokusit Sebe Oblasti Obrazovky S OBS - Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-compact-mp3-skype-archive-on-the-cheap-for-2024/"><u>[New] Compact MP3 Skype Archive on the Cheap for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools/"><u>[Updated] 2024 Approved Capturing Every Word A Comprehensive Guide to Zoom Transcription Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-web-streamed-music-step-by-step-guide/"><u>[Updated] 2024 Approved Capturing Web-Streamed Music Step by Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-your-screen-in-a-flash-free-no-hassle-for-2024/"><u>[Updated] Capture Your Screen in a Flash - Free, No Hassle for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-pillars-top-6-social-platforms-benefiting-businesses/"><u>2024 Approved Key Pillars Top 6 Social Platforms Benefiting Businesses</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disneyplus-must-watches-handpicked-selection-of-fantastic-movies-right-now/"><u>Disney+ Must-Watches: Handpicked Selection of Fantastic Movies Right Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-the-economical-and-functional-features-of-beantechs-bitwatch-s1plus-reviewed/"><u>Expert Insights on the Economical and Functional Features of Beantéch's BitWatch S1+ Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a78-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A78 5G Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997495911-rocket-league-wont-start-here-are-the-fixes-you-need-to-know/"><u>Rocket League Won't Start? Here Are the Fixes You Need to Know!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-free-vob-video-editing-software-for-beginners-for-2024/"><u>Updated Best Free VOB Video Editing Software for Beginners for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
