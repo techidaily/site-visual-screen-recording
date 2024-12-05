@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-11-22T18:39:05.932Z
-updated: 2024-11-25T18:29:30.265Z
+date: 2024-12-03T20:49:02.684Z
+updated: 2024-12-05T05:20:39.131Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -53,7 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -85,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,16 +119,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc/"><u>[New] Reviewing Free Screen Recorder Tools for PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[Updated] Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-tips-for-perfectly-recording-your-powerpoint-sessions/"><u>[Updated] Professional Tips for Perfectly Recording Your PowerPoint Sessions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-segmentviewer-study-notes/"><u>[Updated] SegmentViewer Study Notes</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-instatunes-navigating-copyright-laws/"><u>2024 Approved Mastering InstaTunes Navigating Copyright Laws</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-ways-to-stream-mkv-video-formats-on-ios-devices/"><u>Easy Ways to Stream MKV Video Formats on iOS Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>In 2024, Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-your-ipad-unlocking-advanced-settings-and-hacks-every-apple-enthusiast-should-know-get-smart-with-our-top-10-tips-from-zdnet/"><u>Master Your iPad: Unlocking Advanced Settings and Hacks Every Apple Enthusiast Should Know - Get Smart with Our Top 10 Tips From ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/personalized-pick-our-top-12-favorite-pc-clicker-games-for-2024/"><u>Personalized Pick Our Top 12 Favorite PC Clicker Games for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-step-by-step-guide-to-leveraging-the-whiteboard-feature-in-remote-tech-sessions/"><u>[New] In 2024, A Step-by-Step Guide to Leveraging the Whiteboard Feature in Remote Tech Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>2024 Approved From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-screen-to-disk-techniques-for-effortless-internet-show-recording/"><u>2024 Approved From Screen To Disk Techniques for Effortless Internet Show Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-game-on-gopro-top-tips-for-high-quality-gameplay-videoing/"><u>2024 Approved Game on, GoPro! Top Tips for High-Quality Gameplay Videoing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-gamers-choice-top-software-for-live-scenes/"><u>2024 Approved Gamers' Choice Top Software for Live Scenes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-get-ahead-in-call-capturing-20plus-techniques-for-windowsmac-users/"><u>2024 Approved Get Ahead in Call Capturing 20+ Techniques for Windows/Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-gratuitous-screen-snap-for-macos/"><u>2024 Approved Gratuitous Screen Snap for MacOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-blur-background-in-zoom-easily-an-ultimate-guide/"><u>2024 Approved How to Blur Background in Zoom Easily An Ultimate Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-bur-background-in-google-meet/"><u>2024 Approved How to Bur Background in Google Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-make-macbook-pro-video-tutorials-easy/"><u>2024 Approved How to Make Macbook Pro Video Tutorials Easy</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-is-your-content-flourishing-consider-an-mcn-partnership/"><u>2024 Approved Is Your Content Flourishing? Consider an MCN Partnership</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-filmmakers-handbook-building-effective-luts/"><u>In 2024, A Filmmaker's Handbook Building Effective LUTs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-honor-magic5-ultimate-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor Magic5 Ultimate Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-everyday-alerts-into-signature-sounds-with-android-tips/"><u>In 2024, Transform Everyday Alerts Into Signature Sounds with Android Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-soundtrack-of-your-phone-classic-tones-download-site-guide-for-2024/"><u>The Soundtrack of Your Phone Classic Tones Download Site Guide for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-redmi-a2-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Redmi A2 FRP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-blur-faces-like-a-pro-best-free-apps-for-anonymous-media/"><u>Updated 2024 Approved Blur Faces Like a Pro Best Free Apps for Anonymous Media</u></a></li>
 </ul></div>
 

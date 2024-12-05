@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Navigating Board Usage  A Universal Guide for iOS, Android & Windows Platforms\""
-date: 2024-11-24T19:54:42.137Z
-updated: 2024-11-25T17:26:51.123Z
+date: 2024-11-28T18:22:08.076Z
+updated: 2024-12-04T23:30:21.302Z
 tags: 
   - screen-recording
   - ai video
@@ -58,7 +58,7 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Create Whiteboard**
@@ -70,7 +70,11 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -110,11 +114,7 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -138,7 +138,7 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Conclusion**
@@ -162,24 +162,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-firefoxs-best-screen-recorders-roundup/"><u>[New] Firefox's Best Screen Recorders Roundup</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>[New] In 2024, Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-film-previews-unveiled/"><u>[New] Top Film Previews Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-tier-eyeball-enticer-author/"><u>[New] Top-Tier Eyeball Enticer Author</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-urban-uprising-video-game-list-like-gta-v-for-2024/"><u>[New] Urban Uprising Video Game List Like GTA V for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-voice-logging-devices-scrutiny-for-2024/"><u>[New] Voice Logging Devices Scrutiny for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-embark-on-a-google-meet-journey/"><u>[Updated] Embark on a Google Meet Journey</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-leaders-in-fan-following-top-10-global-youtubers-subs/"><u>[Updated] The Leaders in Fan Following Top 10 Global YouTubers' Subs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-applications-for-remote-team-connection-for-2024/"><u>[Updated] Top Applications for Remote Team Connection for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-rectify-silent-streams-with-obs/"><u>2024 Approved How to Rectify Silent Streams with OBS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/crafting-new-tones-top-7-recording-changer-applications-reviewed/"><u>Crafting New Tones Top 7 Recording Changer Applications Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/dynamic-unpriced-visual-bonding-games/"><u>Dynamic Unpriced Visual Bonding Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/enhance-discord-conversations-a-recorders-insight-for-2024/"><u>Enhance Discord Conversations A Recorder's Insight for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-guide-3-ways-to-keep-track-of-live-discord-events/"><u>In 2024, Expert Guide 3 Ways to Keep Track of Live Discord Events</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-solutions-for-handling-libxml2dll-not-detected-bugs-without-a-glitch/"><u>In-Depth Solutions for Handling 'Libxml2.dll Not Detected' Bugs Without a Glitch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-mp4-video-files-effective-strategies-for-reducing-size-while-maintaining-maximum-clarity/"><u>Optimizing MP4 Video Files: Effective Strategies for Reducing Size While Maintaining Maximum Clarity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210590262-troubleshoot-your-unresponsive-dns-quick-and-effective-solutions/"><u>Troubleshoot Your Unresponsive DNS: Quick & Effective Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-premier-choice-the-best-10-recorders-for-tech-talks/"><u>[New] 2024 Approved Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-scene-seizing-exploration/"><u>[Updated] 2024 Approved Ultimate Scene Seizing Exploration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlocking-macscreens-how-to-record-and-save-immediately/"><u>[Updated] 2024 Approved Unlocking MacScreens How to Record and Save Immediately</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-visualcapture-reviewer-tool/"><u>[Updated] 2024 Approved VisualCapture Reviewer Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-eyedome-xtreme-ultimate-os-video-snapper/"><u>[Updated] EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-5-best-gba-emulators-you-can-find-on-pc/"><u>[Updated] In 2024, 5 Best GBA Emulators You Can Find on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-fixing-inactive-obs-video-inputs/"><u>2024 Approved Fixing Inactive OBS Video Inputs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-google-meet-for-free/"><u>2024 Approved How to Record Google Meet for Free?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bios-essentials-and-how-revouninstaller-interacts-with-them/"><u>BIOS Essentials and How RevoUninstaller Interacts with Them</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-xiaomi-civi-3-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Civi 3 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-steps-to-activate-a-full-screen-grid-on-google-meet/"><u>Easy Steps to Activate a Full-Screen Grid on Google Meet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-narzo-60x-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme Narzo 60x 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-dissecting-inshot-an-elite-video-editor-examined/"><u>In 2024, Dissecting InShot An Elite Video Editor Examined</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-high-quality-win11-screen-capture-pro/"><u>In 2024, High-Quality Win11 Screen Capture Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-reaction-video-mastery-the-top-tools-and-software/"><u>New Reaction Video Mastery The Top Tools and Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/surpassing-the-competition-the-ultimate-verdict-on-the-mighty-lenovo-legion-7i-16-gen-9-gaming-beast/"><u>Surpassing the Competition: The Ultimate Verdict on the Mighty Lenovo Legion ˈ7i 16 Gen 9 Gaming Beast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-essays-with-ai-assistance-gpt-methods/"><u>Tailoring Essays with AI Assistance: GPT Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ultimate-guide-converting-4k-videos-to-mp4-for-easy-download/"><u>Ultimate Guide Converting 4K Videos to MP4 for Easy Download</u></a></li>
 </ul></div>
 

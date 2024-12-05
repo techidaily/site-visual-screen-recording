@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ancient Art of Role-Playing  Evolutionary Trajectory\""
-date: 2024-11-24T17:18:42.203Z
-updated: 2024-11-25T18:49:17.265Z
+date: 2024-12-01T23:36:22.196Z
+updated: 2024-12-05T13:47:26.345Z
 tags: 
   - screen-recording
   - ai video
@@ -39,11 +39,19 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -52,7 +60,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -62,7 +70,7 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
@@ -70,10 +78,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -93,6 +97,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -110,10 +118,6 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -143,10 +147,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -164,19 +164,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/lawless-footage-with-best-stabilizer-brands-for-2024/"><u>[New] Flawless Footage with Best Stabilizer Brands for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-collective-wisdom-on-easeus-products/"><u>[Updated] Collective Wisdom on EaseUS Products</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-editing-pros-in-dev-device-content/"><u>[Updated] Leading Editing Pros in Dev Device Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-beatsaver-recorder-app-review/"><u>2024 Approved BeatSaver Recorder App Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/comparing-recording-obs-studio-versus-bandicam/"><u>Comparing Recording OBS Studio Versus Bandicam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-lenovo-legion-5-pro-performance-install-latest-intel-and-nvidia-drivers/"><u>Enhance Lenovo Legion 5 Pro Performance: Install Latest Intel & NVIDIA Drivers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-new-era-for-cameras-exploring-the-multicam-revolution/"><u>In 2024, A New Era for Cameras Exploring the MultiCam Revolution</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-affordable-gaming-capture-ranked-top-10-software-tools/"><u>In 2024, Affordable Gaming Capture Ranked Top 10 Software Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-vimeo-recording-process/"><u>Step-by-Step Vimeo Recording Process</u></a></li>
-<li><a href="https://techtrends.techidaily.com/strategies-to-upgrade-and-optimize-sluggish-networks/"><u>Strategies to Upgrade and Optimize Sluggish Networks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-artisans-almanac-makeup-tools-and-more-on-youtube-for-2024/"><u>The Artisan's Almanac Makeup, Tools & More on Youtube for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-clicker-article-titles-maker/"><u>Top Clicker Article Titles Maker</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-logitech-mouse-scrolling-issues/"><u>Troubleshooting Tips: Resolving Logitech Mouse Scrolling Issues</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unmissable-titles-in-the-sandbox-genre/"><u>Unmissable Titles in the Sandbox Genre</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[New] In 2024, OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimal-environmental-film-tech-roundup/"><u>[New] In 2024, Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovative-video-sharing-best-practices-for-live-monitor-display/"><u>[New] Innovative Video Sharing Best Practices for Live Monitor Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-minimalist-obs-adjustments-for-under-500-pcs-for-2024/"><u>[Updated] Minimalist OBS Adjustments for Under-$500 PCs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-12-video-capture-goes-on-forever-for-2024/"><u>[Updated] Premier 12 Video Capture - Goes On Forever for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm44k644o844og44cn44gr44ki44kl5pig5yop6kiy6yyy44gu5pya5zae562w77ya57eo6zug5pa55rov44ks6kej5pio/"><u>「ズーム」による映像記録の最善策：編集方法を解明</u></a></li>
+<li><a href="https://techtrends.techidaily.com/begin-again-with-confidence-windows-10-installation-tips-for-a-new-hard-disk-setup/"><u>Begin Again with Confidence: Windows 10 Installation Tips for a New Hard Disk Setup</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/navigating-the-maze-of-srt-to-multiple-media-standards/"><u>Navigating the Maze of SRT to Multiple Media Standards</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-windows-image-feature-on-the-lock-screen/"><u>Personalizing Windows Image Feature on the Lock Screen</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/purchase-ready-professional-photo-restoration-services/"><u>Purchase Ready - Professional Photo Restoration Services</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-analysis-of-anthropics-smart-photo-editing-tool-user-guide/"><u>Ultimate Analysis of Anthropics' Smart Photo Editing Tool – User Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Online Meeting Transcriptions"
-date: 2024-11-19T17:25:36.692Z
-updated: 2024-11-25T17:18:07.818Z
+date: 2024-11-28T17:22:49.886Z
+updated: 2024-12-04T23:50:43.002Z
 tags: 
   - screen-recording
   - ai video
@@ -48,17 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Producing your first webinar doesn't require you to be a video-making wizard since Filmora Scrn makes this process simple. Let's have a look at the steps you'll need to take in order to record a webinar.
 
@@ -70,13 +66,13 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -86,15 +82,15 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -108,6 +104,14 @@ Following these simple steps will help you produce insightful and well-rounded w
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -115,10 +119,6 @@ There is much more to making a webinar than just hitting the Record button, so i
 Making sure that all the settings are adjusted properly and that the amount of background noise is at the very minimum is advised if you'd like to go through the process of making a webinar with Filmora Scrn quick and smoothly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -135,21 +135,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-captivating-clips-keywords-that-ignite-viral-shorts-on-youtube/"><u>[New] Captivating Clips Keywords That Ignite Viral Shorts on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-inexpensive-capture-apps-reviewed-for-budget-pcs/"><u>[New] Inexpensive Capture Apps Reviewed For Budget PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-instant-images-guide-easy-recording-tips-dell/"><u>[New] Instant Images Guide Easy Recording Tips (Dell)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-learn-the-procedure-for-automatic-video-broadcasting-on-facebook/"><u>[New] Learn the Procedure for Automatic Video Broadcasting on Facebook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-youtube-live-recording-on-every-gadget/"><u>[New] Mastering YouTube Live Recording on Every Gadget</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-key-steps-turning-visual-media-from-pinterest-into-music-files/"><u>[Updated] 2024 Approved Key Steps Turning Visual Media From Pinterest Into Music Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-second-count-for-a-20mb-visual-file/"><u>[Updated] Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-screen-capture-across-pcs-and-mobile-devices/"><u>[Updated] Navigating Screen Capture Across PCs and Mobile Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-podcast-partners-in-academia/"><u>[Updated] Premium Podcast Partners in Academia</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-google-bard-face-off-determining-the-superior-conversational-ai/"><u>ChatGPT Vs. Google Bard Face-Off: Determining the Superior Conversational AI</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-voice-back-to-work-in-modern-warfare-comprehensive-guide/"><u>Get Your Voice Back to Work in Modern Warfare - Comprehensive Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-all-in-one-video-editor-for-mac-edit-convert-share/"><u>In 2024, All-in-One Video Editor for Mac Edit, Convert, Share</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screencast-essentials-from-basics-to-advanced-tactics/"><u>In 2024, Screencast Essentials From Basics to Advanced Tactics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/no-more-costs-discover-best-free-camera-screen-recorder-apps-for-2024/"><u>No More Costs? Discover Best FREE Camera Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-13-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 13 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twittomp4maker-social-streaming-solution/"><u>[Updated] 2024 Approved TwitToMP4Maker Social Streaming Solution</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-key-approaches-turning-visual-content-into-music-files-for-2024/"><u>[Updated] Key Approaches Turning Visual Content Into Music Files for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/continuous-play-made-easy-overcoming-common-poe-freezing-problems/"><u>Continuous Play Made Easy - Overcoming Common POE Freezing Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-gameplay-upgrading-with-asus-rog-strix-geforce-rtx-3080-ti/"><u>Enhance Your Gameplay: Upgrading with ASUS ROG Strix GeForce RTX 3080 Ti</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-professional-webcam-videotaping-tips-and-tricks/"><u>In 2024, Professional WebCam Videotaping Tips & Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-strategic-showdowns-unleashed-exploring-7-best-games/"><u>In 2024, Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-efficient-mac-snippers-for-quick-captures/"><u>In 2024, Top 5 Efficient Mac Snippers for Quick Captures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlocking-enigmas-ranked-puzzle-experiences-explored/"><u>In 2024, Unlocking Enigmas Ranked Puzzle Experiences Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-upgrade-your-experience-10-high-performance-drives/"><u>In 2024, Upgrade Your Experience #10 High-Performance Drives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-asus-rog-phone-7-ultimate-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Asus ROG Phone 7 Ultimate Black and White | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-edge-40-neo-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Edge 40 Neo Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-performing-2021-macbook-pro-with-the-latest-m1-chip-a-complete-analysis-and-review/"><u>Top Performing 2021 MacBook Pro with the Latest M1 Chip: A Complete Analysis and Review</u></a></li>
 </ul></div>
 
