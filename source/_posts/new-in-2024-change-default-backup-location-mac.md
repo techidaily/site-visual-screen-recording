@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-12-03T20:49:02.684Z
-updated: 2024-12-05T05:20:39.131Z
+date: 2024-12-06T16:28:51.398Z
+updated: 2024-12-11T13:36:27.608Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -74,6 +74,10 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -83,10 +87,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,24 +119,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-step-by-step-guide-to-leveraging-the-whiteboard-feature-in-remote-tech-sessions/"><u>[New] In 2024, A Step-by-Step Guide to Leveraging the Whiteboard Feature in Remote Tech Sessions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>2024 Approved From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-screen-to-disk-techniques-for-effortless-internet-show-recording/"><u>2024 Approved From Screen To Disk Techniques for Effortless Internet Show Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-game-on-gopro-top-tips-for-high-quality-gameplay-videoing/"><u>2024 Approved Game on, GoPro! Top Tips for High-Quality Gameplay Videoing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-gamers-choice-top-software-for-live-scenes/"><u>2024 Approved Gamers' Choice Top Software for Live Scenes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-get-ahead-in-call-capturing-20plus-techniques-for-windowsmac-users/"><u>2024 Approved Get Ahead in Call Capturing 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-gratuitous-screen-snap-for-macos/"><u>2024 Approved Gratuitous Screen Snap for MacOS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-blur-background-in-zoom-easily-an-ultimate-guide/"><u>2024 Approved How to Blur Background in Zoom Easily An Ultimate Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-bur-background-in-google-meet/"><u>2024 Approved How to Bur Background in Google Meet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-make-macbook-pro-video-tutorials-easy/"><u>2024 Approved How to Make Macbook Pro Video Tutorials Easy</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-is-your-content-flourishing-consider-an-mcn-partnership/"><u>2024 Approved Is Your Content Flourishing? Consider an MCN Partnership</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-filmmakers-handbook-building-effective-luts/"><u>In 2024, A Filmmaker's Handbook Building Effective LUTs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-honor-magic5-ultimate-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor Magic5 Ultimate Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transform-everyday-alerts-into-signature-sounds-with-android-tips/"><u>In 2024, Transform Everyday Alerts Into Signature Sounds with Android Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-soundtrack-of-your-phone-classic-tones-download-site-guide-for-2024/"><u>The Soundtrack of Your Phone Classic Tones Download Site Guide for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-redmi-a2-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Redmi A2 FRP</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13 mini</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-blur-faces-like-a-pro-best-free-apps-for-anonymous-media/"><u>Updated 2024 Approved Blur Faces Like a Pro Best Free Apps for Anonymous Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>[New] 2024 Approved Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-affordable-overseas-vr-headsets-china-for-2024/"><u>[New] Affordable Overseas VR Headsets (China) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>[New] Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-implement-google-meets-grid-view-feature-for-2024/"><u>[New] How to Implement Google Meet's Grid View Feature for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-record-mov-files-on-windows-11/"><u>[New] In 2024, How to Record MOV Files on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-save-whatsapp-voice-calls/"><u>[New] In 2024, Innovative Approaches to Save WhatsApp Voice Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ios-screen-recording-the-updated-process-for-2024/"><u>[New] IOS Screen Recording The Updated Process for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-skype-sessions-with-proactive-zoom-tactics/"><u>[New] Transforming Skype Sessions with Proactive Zoom Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-instagram-live-with-professional-obs/"><u>[Updated] 2024 Approved Instagram Live with Professional OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-immediate-screen-capture-on-mac-revealing-the-best-5-approaches-for-2024/"><u>[Updated] Immediate Screen Capture on Mac Revealing the Best 5 Approaches for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-home-designs-for-modern-minecraft-world/"><u>[Updated] In 2024, Innovative Home Designs for Modern Minecraft World</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-nailing-the-aesthetic-mastering-snapchats-filters-and-effects/"><u>2024 Approved Nailing the Aesthetic Mastering Snapchat's Filters & Effects</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-v30t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme V30T</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-5-webcams-with-mic/"><u>Best 5 Webcams with Mic</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-civi-3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Civi 3 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-charting-your-course-through-youtube-compliance/"><u>In 2024, Charting Your Course Through YouTube Compliance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434077213-is-truthgpt-coin-trustworthy-scam-alert/"><u>Is TruthGPT Coin Trustworthy? Scam Alert!</u></a></li>
 </ul></div>
 

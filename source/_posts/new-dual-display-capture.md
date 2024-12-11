@@ -1,7 +1,7 @@
 ---
 title: "[New] Dual Display Capture"
-date: 2024-12-02T09:59:23.254Z
-updated: 2024-12-05T08:06:28.443Z
+date: 2024-12-08T03:17:13.749Z
+updated: 2024-12-11T04:02:24.855Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ If you would like to capture footage from multiple monitors, but you are not sur
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -79,7 +79,7 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -108,13 +108,13 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,16 +132,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-beginner-to-expert-choose-studio-or-beta/"><u>[New] In 2024, From Beginner to Expert Choose Studio or Beta</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-art-of-film-crafting-with-kinemaster-tools/"><u>[New] In 2024, The Art of Film Crafting with Kinemaster Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-personalizing-call-screens-the-prepost-meeting-edge/"><u>[Updated] In 2024, Personalizing Call Screens The Pre/Post-Meeting Edge</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/blissful-onboarding-guide-for-new-users/"><u>Blissful Onboarding Guide for New Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-compact-solar-energy-stations-for-on-the-go-charging-this-year-cnet/"><u>Discover the Leading Compact Solar Energy Stations for On-the-Go Charging This Year - CNET</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/fives-finest-tools-for-rapid-video-frame-capturing/"><u>Five's Finest Tools for Rapid Video Frame Capturing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-docx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .docx file</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/free-studio-hd-screen-grab-audit/"><u>Free Studio HD Screen Grab Audit</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-6-unparalleled-mac-apps-for-video-grabbing/"><u>In 2024, 6 Unparalleled Mac Apps for Video Grabbing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/quick-tips-simplified-techniques-for-capturing-google-meets/"><u>Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/windows-best-facsimile-software-for-ps3-games/"><u>Windows' Best Facsimile Software for PS3 Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-your-video-income-on-youtube-essentials-for-2024/"><u>[New] Boosting Your Video Income on Youtube - Essentials for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-practices-for-shooting-nighttime-selfies-and-portraits/"><u>[Updated] Best Practices for Shooting Nighttime Selfies & Portraits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-ensuring-long-term-youtube-success-with-creative-commons-mainteninas/"><u>2024 Approved Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/bring-back-the-memories-top-5-ps1-emulation-apps-for-pc-for-2024/"><u>Bring Back the Memories - Top 5 PS1 Emulation Apps for PC for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-media-player-server-issue/"><u>Eliminating Media Player Server Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everyones-gain-from-updated-chatgpt-data/"><u>Everyone's Gain From Updated ChatGPT Data</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-innovative-desktopmobile-conferencing-tools/"><u>In 2024, 10 Innovative Desktop/Mobile Conferencing Tools</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New 2024 Approved Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/parting-pleasantries-free-and-paid-outro-snippets-for-2024/"><u>Parting Pleasantries Free & Paid Outro Snippets for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/photosegments-evaluation/"><u>PhotoSegments Evaluation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-fortnite-an-insiders-review-of-the-thrilling-new-seasonal-content/"><u>Rediscovering Fortnite: An Insider's Review of the Thrilling New Seasonal Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/score-the-game-best-affordable-recording-apps/"><u>Score the Game Best Affordable Recording Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/slidecasting-simplified-a-modern-webcam-approach/"><u>Slidecasting Simplified A Modern, Webcam Approach</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577979806-speak-anywhere-everytime-meet-mondlyar/"><u>Speak Anywhere, Everytime - Meet MondlyAR</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-the-potential-of-capturing-digital-entertainment/"><u>Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-the-perfect-thumbnail-formula-for-youtube-success-for-2024/"><u>Unveiling The Perfect Thumbnail Formula for YouTube Success for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Battle for Honor  Other 10 Great Games Like Tsushi for 2024\""
-date: 2024-12-04T12:35:32.722Z
-updated: 2024-12-04T16:07:57.790Z
+date: 2024-12-04T17:37:44.067Z
+updated: 2024-12-10T23:56:35.554Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,22 +170,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-understanding-collective-views-on-vllo/"><u>[New] 2024 Approved Understanding Collective Views on VLLO</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-budget-aerial-photography-top-100-drones-compared/"><u>[New] Budget Aerial Photography Top $100 Drones Compared</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-template-transformations-build-unique-logos-for-pennies-for-2024/"><u>[New] Template Transformations Build Unique Logos for Pennies for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-superior-online-multimedia-collaboration-tools/"><u>2024 Approved Superior Online Multimedia Collaboration Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-superior-sound-recognizers-in-education/"><u>2024 Approved Superior Sound Recognizers in Education</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-synchronizing-teams-mastering-device-agnostic-zoom-events/"><u>2024 Approved Synchronizing Teams Mastering Device-Agnostic Zoom Events</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tailoring-teammates-backgrounds-in-microsoft-teams-calls/"><u>2024 Approved Tailoring Teammates’ Backgrounds in Microsoft Teams Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tech-tips-efficient-gameplay-archiving-in-roblox-on-macos/"><u>2024 Approved Tech Tips Efficient Gameplay Archiving in Roblox on MacOS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-techniques-that-elevate-your-ppt-recording-experience/"><u>2024 Approved Techniques that Elevate Your PPT Recording Experience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-art-of-changing-meeting-screens-on-microsoft-teams/"><u>2024 Approved The Art of Changing Meeting Screens on Microsoft Teams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-basic-blueprint-for-choosing-gamer-friendly-recordings-and-edits/"><u>2024 Approved The Basic Blueprint for Choosing Gamer-Friendly Recordings & Edits</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-quick-primer-accessing-ioss-vr-content-easily-for-2024/"><u>A Quick Primer Accessing IOS’s VR Content Easily for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-solutions-for-dealing-with-the-windows-bsod-error/"><u>Comprehensive Solutions for Dealing with the Windows BSOD Error</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-smart-8-hd-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Smart 8 HD?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-connections-fixed-overcoming-world-access-problems/"><u>Minecraft Connections Fixed - Overcoming World Access Problems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-transformative-travel-aide-unveiling-patekfly-12/"><u>The Transformative Travel Aide: Unveiling Patekfly 12</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gamble-for-peace-10-chill-out-choices/"><u>[New] 2024 Approved Gamble for Peace 10 Chill-Out Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-fundamental-tips-for-broadcasting-fan-favorite-sports-for-2024/"><u>[New] Fundamental Tips for Broadcasting Fan-Favorite Sports for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-novice-to-proficient-the-path-with-zoom-webinars/"><u>[New] In 2024, From Novice to Proficient The Path with Zoom Webinars</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-exploration-of-durecorder-features/"><u>[New] In 2024, In-Depth Exploration of DuRecorder Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>[New] In 2024, Optimal Online Presence Streamlined Background Settings in Zoom & Google Meets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webinar-recording-tactics-zero-price-strategy/"><u>[New] In 2024, Webinar Recording Tactics Zero Price Strategy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-next-level-recording-exploring-manycams-video-innovations-for-2024/"><u>[New] Next-Level Recording Exploring ManyCam's Video Innovations for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elevating-video-marketing-with-youtube-thumbnails/"><u>[Updated] 2024 Approved Elevating Video Marketing with YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shield-identity-in-images-the-most-effective-cropping-tools/"><u>[Updated] Shield Identity in Images The Most Effective Cropping Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-innovative-10-ideas-thatll-boost-your-brand-on-igtv/"><u>In 2024, Innovative 10 Ideas That'll Boost Your Brand on IGTV</u></a></li>
+<li><a href="https://win-able.techidaily.com/mts/"><u>MTSファイル再生ガイド - 成功保証!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728482807516-windows-11/"><u>Windows 11 安裝時遇到困難? 高效率修正方法</u></a></li>
 </ul></div>
 

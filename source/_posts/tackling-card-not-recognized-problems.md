@@ -1,7 +1,7 @@
 ---
 title: Tackling Card Not Recognized Problems
-date: 2024-12-04T05:28:03.383Z
-updated: 2024-12-04T17:07:56.070Z
+date: 2024-12-08T19:35:35.293Z
+updated: 2024-12-11T15:02:05.625Z
 categories:
   - repair-tools
 description: This Article Describes Tackling Card Not Recognized Problems
@@ -43,19 +43,11 @@ Table of Content
 
 **We will cover the problem in the context of both system’s** integrated video cards (attached to the **motherboard) and dedicated graphics cards like NVidia GeForce, ATI Radeon, and others.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How do you know if your graphics card is damaged or not working?**
 
  Distorted visuals typically indicate a damaged or corrupt video card. The following are a few visual indicators and causes of graphics card problems:
 
 ![Video glitches due to graphic card problem](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/distrted.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Video glitches due to graphic card problem
 
@@ -85,20 +77,20 @@ Table of Content
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Loose connection:**
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2\. Swap graphics card slot:**
 
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **3\. Check the PC monitor:**
 
@@ -108,12 +100,16 @@ Table of Content
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Check your Sound Drivers:**
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Check the ‘Device Status’ of your graphic card:**
@@ -121,10 +117,6 @@ Table of Content
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
 
@@ -137,6 +129,10 @@ Table of Content
 Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to fix video card problems**
 
@@ -162,10 +158,6 @@ Try the free version of the software:
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2\. Disable/Enable the graphics card**
 
  To repair the graphics card ‘no display’ problem, disable/enable the card driver. This method can fix integrated video cards and dedicated (external) graphics cards.
@@ -181,16 +173,16 @@ To disable video card drives, follow the below steps:
 
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
 
 * Click**Display Adapters**
 * Double-click on your graphic card
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
 
@@ -243,7 +235,15 @@ To uninstall the driver, follow the below steps:
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 About The Author
 
@@ -268,20 +268,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultima-designs-analysis-pinnacle-suite-studio-2023-overview/"><u>[New] Ultima Designs Analysis Pinnacle Suite Studio, 2023 Overview</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-download-vimeo-video-to-mp4/"><u>2024 Approved How To Download Vimeo Video to MP4</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/achieving-cost-free-online-educational-streaming/"><u>Achieving Cost-Free Online Educational Streaming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ad-free-pro-android-screenshot-suite/"><u>Ad-Free Pro Android Screenshot Suite</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-capture-strategies-for-roblox-games-mac-edition/"><u>Advanced Capture Strategies for Roblox Games (Mac Edition)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-movie-editing-saving-and-enhancing-mov-files-in-windows-11-for-2024/"><u>Advanced Movie Editing Saving and Enhancing MOV Files in Windows 11 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-strategies-for-soundless-video/"><u>Advanced Strategies for Soundless Video</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/affordable-digital-screen-recorders-reviewed-and-rated-for-2024/"><u>Affordable Digital Screen Recorders Reviewed & Rated for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/all-purpose-capture-software-azs-app-critiques/"><u>All-Purpose Capture Software - AZ's App Critiques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-6-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 6 Plus? How to Fix it?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-exclusive-free-mcb-visual-tools/"><u>In 2024, Exclusive Free MCB Visual Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-building-podcast-rss/"><u>In 2024, The Ultimate Guide to Building Podcast RSS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-rendition-accelerating-prints-on-windows-system/"><u>Rapid Rendition: Accelerating Prints on Windows System</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-adding-tunes-to-your-iphone-without-using-itunes/"><u>Ultimate Guide: Adding Tunes to Your iPhone without Using iTunes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-srt-download-from-youtube-with-3-tactics/"><u>[Updated] In 2024, Navigating SRT Download From YouTube with 3 Tactics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-ig-music-companion/"><u>[Updated] The Ultimate IG Music Companion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-every-word-in-high-fidelity-with-discord/"><u>2024 Approved Capture Every Word in High Fidelity with Discord</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-premier-guide-to-high-definition-android-viewing-tools/"><u>2024 Approved The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/brain-snatching-battlegrounds-the-best-zombie-gaming-showdowns-for-2024/"><u>Brain-Snatching Battlegrounds The Best Zombie Gaming Showdowns for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-your-brand-as-a-reviewer-of-cars-and-automotive-gear-for-2024/"><u>Building Your Brand as a Reviewer of Cars and Automotive Gear for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capture-and-share-your-mac-life-free-for-2024/"><u>Capture & Share Your Mac Life, FREE for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-elite-dangerous-from-crashing-your-pc-expert-tips/"><u>How to Stop Elite Dangerous From Crashing Your PC - Expert Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-mac-options-to-replace-bandicam/"><u>In 2024, Best Mac Options to Replace Bandicam</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discreet-insta-story-enthusiasts-best-5-tools/"><u>In 2024, Discreet Insta-Story Enthusiast's Best 5 Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporate-soundscape-into-visual-discussions/"><u>In 2024, Incorporate Soundscape Into Visual Discussions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/limited-time-offer-snag-the-new-apple-pencil-for-just-95-exclusive-deals-this-labor-day/"><u>Limited-Time Offer: Snag the New Apple Pencil for Just $95 - Exclusive Deals This Labor Day !</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/preserving-every-moment-of-your-switch-gaming/"><u>Preserving Every Moment of Your Switch Gaming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-integration-of-sound-blaster-z-on-windows-nix-top-downloads-and-tips/"><u>Seamless Integration of Sound Blaster Z on Windows Nix – Top Downloads & Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streammaster-showdown-obs-or-shadowplay/"><u>StreamMaster Showdown OBS or ShadowPlay?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/taking-control-of-a-stopped-up-obs-capture-device/"><u>Taking Control of a Stopped-Up OBS Capture Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unmatched-guide-the-ultimate-11-streaming-recorders/"><u>Unmatched Guide The Ultimate 11 Streaming Recorders</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Navigating Board Usage  A Universal Guide for iOS, Android & Windows Platforms\""
-date: 2024-11-28T18:22:08.076Z
-updated: 2024-12-04T23:30:21.302Z
+date: 2024-12-08T18:12:13.746Z
+updated: 2024-12-10T21:30:37.968Z
 tags: 
   - screen-recording
   - ai video
@@ -37,9 +37,17 @@ If you are interested in using this fantastic tool, the following article will c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
@@ -57,10 +65,6 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -68,14 +72,6 @@ Click on the **start a new whiteboard** option**.**
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
@@ -94,6 +90,10 @@ Click three dots at the bottom and select share screen. Press the **start sharin
 Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
@@ -114,7 +114,7 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -138,7 +138,7 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Conclusion**
@@ -162,24 +162,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-premier-choice-the-best-10-recorders-for-tech-talks/"><u>[New] 2024 Approved Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-scene-seizing-exploration/"><u>[Updated] 2024 Approved Ultimate Scene Seizing Exploration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlocking-macscreens-how-to-record-and-save-immediately/"><u>[Updated] 2024 Approved Unlocking MacScreens How to Record and Save Immediately</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-visualcapture-reviewer-tool/"><u>[Updated] 2024 Approved VisualCapture Reviewer Tool</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-eyedome-xtreme-ultimate-os-video-snapper/"><u>[Updated] EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-5-best-gba-emulators-you-can-find-on-pc/"><u>[Updated] In 2024, 5 Best GBA Emulators You Can Find on PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-fixing-inactive-obs-video-inputs/"><u>2024 Approved Fixing Inactive OBS Video Inputs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-google-meet-for-free/"><u>2024 Approved How to Record Google Meet for Free?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bios-essentials-and-how-revouninstaller-interacts-with-them/"><u>BIOS Essentials and How RevoUninstaller Interacts with Them</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/does-xiaomi-civi-3-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Civi 3 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/easy-steps-to-activate-a-full-screen-grid-on-google-meet/"><u>Easy Steps to Activate a Full-Screen Grid on Google Meet</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-narzo-60x-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme Narzo 60x 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-dissecting-inshot-an-elite-video-editor-examined/"><u>In 2024, Dissecting InShot An Elite Video Editor Examined</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-high-quality-win11-screen-capture-pro/"><u>In 2024, High-Quality Win11 Screen Capture Pro</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-reaction-video-mastery-the-top-tools-and-software/"><u>New Reaction Video Mastery The Top Tools and Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/surpassing-the-competition-the-ultimate-verdict-on-the-mighty-lenovo-legion-7i-16-gen-9-gaming-beast/"><u>Surpassing the Competition: The Ultimate Verdict on the Mighty Lenovo Legion ˈ7i 16 Gen 9 Gaming Beast</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-essays-with-ai-assistance-gpt-methods/"><u>Tailoring Essays with AI Assistance: GPT Methods</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/ultimate-guide-converting-4k-videos-to-mp4-for-easy-download/"><u>Ultimate Guide Converting 4K Videos to MP4 for Easy Download</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-transcript-download-analyze-content/"><u>[New] In 2024, Transcript Download, Analyze Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-navigate-video-landscape-3-pros-of-using-zoom-altering-tools-for-2024/"><u>[Updated] Navigate Video Landscape 3 Pros of Using Zoom Altering Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-essential-filmmaking-software-exploration/"><u>2024 Approved Essential Filmmaking Software Exploration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-broadcast-blending-a-guide-to-obspluszoom-for-2024/"><u>Effortless Broadcast Blending A Guide to OBS+Zoom for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-video-calling-game-with-skype-and-obs-for-2024/"><u>Elevate Your Video Calling Game with Skype & OBS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhancing-smooth-playback-stop-frame-gaps-in-obs-for-2024/"><u>Enhancing Smooth Playback Stop Frame Gaps in OBS for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hd-video-repair-utility-repairs-corrupt-hd-video-files/"><u>HD Video Repair Utility: Repairs Corrupt HD Video Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-efficiently-recording-desktop-screens-for-various-purposes/"><u>In 2024, Efficiently Recording Desktop Screens for Various Purposes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/unraveling-the-distinctions-ocr-vs-idp-a-detailed-comparison/"><u>Unraveling the Distinctions: OCR Vs. IDP - A Detailed Comparison</u></a></li>
 </ul></div>
 
