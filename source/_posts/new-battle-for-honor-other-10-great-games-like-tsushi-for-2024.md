@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Battle for Honor  Other 10 Great Games Like Tsushi for 2024\""
-date: 2024-12-04T17:37:44.067Z
-updated: 2024-12-10T23:56:35.554Z
+date: 2024-12-12T17:23:46.332Z
+updated: 2024-12-17T16:20:35.298Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,18 +170,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gamble-for-peace-10-chill-out-choices/"><u>[New] 2024 Approved Gamble for Peace 10 Chill-Out Choices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-fundamental-tips-for-broadcasting-fan-favorite-sports-for-2024/"><u>[New] Fundamental Tips for Broadcasting Fan-Favorite Sports for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-novice-to-proficient-the-path-with-zoom-webinars/"><u>[New] In 2024, From Novice to Proficient The Path with Zoom Webinars</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-exploration-of-durecorder-features/"><u>[New] In 2024, In-Depth Exploration of DuRecorder Features</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>[New] In 2024, Optimal Online Presence Streamlined Background Settings in Zoom & Google Meets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webinar-recording-tactics-zero-price-strategy/"><u>[New] In 2024, Webinar Recording Tactics Zero Price Strategy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-next-level-recording-exploring-manycams-video-innovations-for-2024/"><u>[New] Next-Level Recording Exploring ManyCam's Video Innovations for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elevating-video-marketing-with-youtube-thumbnails/"><u>[Updated] 2024 Approved Elevating Video Marketing with YouTube Thumbnails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-shield-identity-in-images-the-most-effective-cropping-tools/"><u>[Updated] Shield Identity in Images The Most Effective Cropping Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-innovative-10-ideas-thatll-boost-your-brand-on-igtv/"><u>In 2024, Innovative 10 Ideas That'll Boost Your Brand on IGTV</u></a></li>
-<li><a href="https://win-able.techidaily.com/mts/"><u>MTSファイル再生ガイド - 成功保証!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1728482807516-windows-11/"><u>Windows 11 安裝時遇到困難? 高效率修正方法</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-12-flipscreen-cam-titles-for-optimal-vlogging/"><u>[New] In 2024, Essential 12 Flipscreen Cam Titles for Optimal Vlogging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-audio-transformation-complete-morphvox-techniques/"><u>[New] Mastering Audio Transformation Complete MorphVOX Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-youtube-video-blueprint-mastering-visual-content-sharing/"><u>[New] The Ultimate Youtube Video Blueprint Mastering Visual Content Sharing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-fixing-audio-absence-in-online-shared-videos/"><u>[Updated] 2024 Approved Fixing Audio Absence in Online Shared Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ideal-video-capture-apps-for-educators/"><u>[Updated] Ideal Video Capture Apps for Educators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfect-game-video-edits-made-easy-for-newcomers/"><u>[Updated] Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-movie-recording-your-multiplatform-strategy/"><u>[Updated] Perfecting Movie Recording Your Multiplatform Strategy</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-how-to-download-videos-from-playvids-in-high-quality-formats-mp4-wmv-mov-avi/"><u>1. How to Download Videos From PlayVids in High Quality Formats (MP4, WMV, MOV, AVI)</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-simple-guide-to-crafting-a-clear-digital-signature-in-minutes-tips-and-tricks-2022-edition/"><u>1. Simple Guide to Crafting a Clear Digital Signature in Minutes: Tips & Tricks - 2022 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-melodic-monitor-gathering-tracks-for-evaluation/"><u>2024 Approved Melodic Monitor Gathering Tracks for Evaluation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-peekintobettercams-beyond-mycam/"><u>2024 Approved PeekIntoBetterCams Beyond MyCam?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-resolving-wireless-connectivity-problems-in-under-10-steps/"><u>Essential Guide: Resolving Wireless Connectivity Problems in Under 10 Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-k70e-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-inside-out-stardew-valley-and-the-allure-of-ginger-island/"><u>In 2024, Inside Out Stardew Valley and the Allure of Ginger Island</u></a></li>
 </ul></div>
 

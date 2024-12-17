@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Zoom Meeting Fundamentals for the Uninitiated for 2024"
-date: 2024-12-05T16:20:23.301Z
-updated: 2024-12-10T22:29:49.555Z
+date: 2024-12-10T19:17:34.287Z
+updated: 2024-12-17T19:39:33.416Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Zoom grants you access to all the tools you are going to need in order to manage
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -58,13 +62,13 @@ The platform doesn’t allow its users to host webinars for free and you must pu
 
 ![Add Webinar to Zoom Plan](https://images.wondershare.com/filmora/article-images/add-webinar-on-zoom-pricing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Furthermore, each of the available plans offers the cloud recording option, and you can get up to 3 TB of extra storage for an additional fee. Once you purchase a license you will also have to assign it to the owner of the Zoom account or the admin of a particular account. You can do this by heading over to the User Management menu and selecting the Users option. After you locate the user to which you would like to assign a webinar license, you should click on the Edit button at the end of the user’s row and click on the Webinar option in the Feature menu.
 
 ![Zoom Webinar Setting Editing](https://images.wondershare.com/filmora/article-images/zoom-webinar-setting-editing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Optionally, you can choose the user’s role, specify their job title or add their location. When done, you should click on the Save button to confirm the changes you’ve made and proceed with the setup of your webinar.
 
@@ -75,10 +79,6 @@ Looking for some other webinar software? We’ve picked some of the best webinar
 After purchasing the Zoom’s webinar add-on you can schedule a new webinar. Simply sign in to the webinar portal, click on the Webinars option and then click on the Schedule a Webinar button.
 
 ![Zoom Schedule Webinar](https://images.wondershare.com/filmora/article-images/schedule-zoom-webinar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can then provide the information about the topic of the webinar, write a short description of the webinar that is going to be displayed at the registration page, set the time and date when the webinar is supposed to take place and specify how long the webinar is going to last.
 
@@ -98,10 +98,6 @@ The process of inviting panelists to a webinar is straightforward since you just
 
 ![Invite people to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-people-to-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Zoom allows you to invite up to a hundred panelists to a webinar, and you just have to add their names and emails to the corresponding boxes and click on the checkbox next to the Send invitation to all newly added panelists immediately option.
 
 Click on the Save button to send invitations to panelists. Panelists on recurring webinars will be invited to all webinars in the series, but you can also add or remove panelists between two webinars.
@@ -111,18 +107,18 @@ The invitation process for attendees depends on whether or not a webinar require
 ![Invite Attendees  to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-attendees-zoom-webinar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hosts of webinars that require registration must send the registration link to attendees and each attendee must fill in the registration form. Afterward, they will receive an email that contains a unique join link. You can invite attendees to register for a webinar by copying the registration URL and sharing it through your website or your email. Optionally you can click on the Copy the invitation option and copy the invitation Zoom created, or use the Email me the invitation feature to get a copy of the invitation you can forward to the attendees.
 
 ![Start Scheduled Zoom Webinar](https://images.wondershare.com/filmora/article-images/start-scheduled-zoom-webinar.jpg)
 
-To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
 
 ## How Do Attendees Join a Zoom Webinar?
 
@@ -150,6 +146,10 @@ Anyone can set up a new webinar with Zoom, even if they have no previous experie
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -165,21 +165,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-uncomplicated-steps-for-archiving-gotomeeting-dialogues/"><u>[New] 2024 Approved Uncomplicated Steps for Archiving GoToMeeting Dialogues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lifecast-your-show-a-basic-podcast-streaming-strategy/"><u>[New] Lifecast Your Show A Basic Podcast Streaming Strategy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-freenocams-webcam-capturing-capabilities-for-2024/"><u>[New] Unlocking FreenoCam's Webcam Capturing Capabilities for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-snapshot-mastery-3-easy-approaches-for-2024/"><u>[New] Windows Snapshot Mastery (3 Easy Approaches) for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-estimating-total-seconds-a-20mb-sized-video/"><u>[Updated] 2024 Approved Estimating Total Seconds A 20MB-Sized Video</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-scripting-signal-sequences/"><u>[Updated] 2024 Approved Scripting Signal Sequences</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unveiling-google-meets-screen-alteration-techniques/"><u>[Updated] 2024 Approved Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-explore-top-10-iphoneandroid-intro-creation-software/"><u>[Updated] In 2024, Explore Top 10 iPhone/Android Intro Creation Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-8-android-platforms-revolutionizing-large-calls-for-2024/"><u>[Updated] Top 8 Android Platforms Revolutionizing Large Calls for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-knowledge-for-saving-app-activity-for-2024/"><u>Essential Knowledge for Saving App Activity for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-blueprint-optimizing-your-experience-with-mobizen-recorders/"><u>In 2024, Expert Blueprint Optimizing Your Experience with Mobizen Recorders</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-huawei-p20-pro-analysis-impressive-photography-capabilities-of-an-excellent-device/"><u>In-Depth Huawei P20 Pro Analysis: Impressive Photography Capabilities of an Excellent Device</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/1717164504078-top-6-youtube-outro-makers-lots-of-free-options-for-2024/"><u>Top 6 YouTube Outro Makers-Lots of FREE Options for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-11x-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 11X 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-clear-audio-fixing-plugged-in-yet-silent-headphones-or-speakers-on-windows-computers/"><u>Unlocking Clear Audio: Fixing 'Plugged In, Yet Silent' Headphones or Speakers on Windows Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 4G Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[New] 2024 Approved Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-one-minute-color-magic-for-2024/"><u>[Updated] One Minute Color Magic for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-overview-and-assessment-parrots-advanced-edition/"><u>2024 Approved Overview and Assessment - Parrot's Advanced Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/direct-to-streamer-duel-obs-vs-shadowtoolkit/"><u>Direct-to-Streamer Duel OBS Vs. ShadowToolkit</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-the-most-trusted-mac-snipers/"><u>Discovering the Most Trusted Mac Snipers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-tips-for-seamless-iphone-screen-recordings/"><u>Expert Tips for Seamless iPhone Screen Recordings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashes-of-prey-2-stalkers-of-the-shadow-world-on-desktop-systems/"><u>How to Resolve Persistent Crashes of 'Prey 2: Stalkers of The Shadow World' On Desktop Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-infinix-smart-8-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Infinix Smart 8 online without jailbreak</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplified-process-for-name-change-in-google-meet-laptopmobile/"><u>Simplified Process for Name Change in Google Meet (Laptop/Mobile)</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-excel-documents-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>The best electronic signature way to sign Excel documents online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/trends-in-advanced-iptv-video-capture-methods/"><u>Trends in Advanced IPTV Video Capture Methods</u></a></li>
 </ul></div>
 

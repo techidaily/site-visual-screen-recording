@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ancient Art of Role-Playing  Evolutionary Trajectory\""
-date: 2024-12-07T11:10:44.568Z
-updated: 2024-12-10T19:38:29.135Z
+date: 2024-12-11T18:44:17.989Z
+updated: 2024-12-17T16:12:34.648Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -70,10 +70,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -114,7 +110,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -133,6 +129,10 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -146,7 +146,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,15 +164,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-avoiding-triggers-exiting-with-ease-from-discord-servers/"><u>[Updated] In 2024, Avoiding Triggers Exiting with Ease From Discord Servers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-complete-breakdown-of-freelens-cam-software/"><u>2024 Approved A Complete Breakdown of Freelens Cam Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262303052-amds-cutting-edge-ryzen-7-7800x3d-zen-5-architecture-leaves-zen-4-gaming-flagship-behind-with-a-staggering-23-performance-boost/"><u>AMD's Cutting-Edge Ryzen 7 7800X3D: Zen 5 Architecture Leaves Zen 4 Gaming Flagship Behind with a Staggering 23% Performance Boost</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-of-the-chill-easy-phone-game-compilation-for-2024/"><u>Best of the Chill Easy Phone Game Compilation for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-huion-h420-for-windows-easy-steps-ahead/"><u>Enhance Huion H420 for Windows - Easy Steps Ahead!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experiencing-the-full-potential-of-dolby-atmos-is-your-system-up-to-it/"><u>Experiencing the Full Potential of Dolby Atmos – Is Your System Up to It?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-v29-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V29 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-edge-2023-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Edge 2023</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/origami-and-samurai-inspirations-for-minecraft-homes/"><u>Origami & Samurai Inspirations for Minecraft Homes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/precision-in-recording-windowsmaciosandroid-edition/"><u>Precision in Recording Windows/Mac/iOS/Android Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-arena-top-10-royale-game-spectacles/"><u>[New] Elite Arena Top 10 Royale Game Spectacles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>[New] FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>[New] In 2024, Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-taking-screenshots-on-mac-5-methods/"><u>[New] Taking Screenshots on Mac [5 Methods]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-how-to-utilizing-whatsapps-audio-messaging/"><u>[Updated] The How-To Utilizing WhatsApp's Audio Messaging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-firefox-screen-capturing-plugins/"><u>2024 Approved Essential Firefox Screen Capturing Plugins</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-fix-implemented-making-sure-speakers-are-primary-output-with-headphones-connected/"><u>Audio Fix Implemented: Making Sure Speakers Are Primary Output with Headphones Connected</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-the-action-overwatch-video-recordings/"><u>Capturing the Action Overwatch Video Recordings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-toshiba-pc-drivers-how-to-update-for-windows-os/"><u>Get the Newest Toshiba PC Drivers: How to Update for Windows OS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/harvest-hangouts-the-most-friendly-farm-gaming-experiences-for-2024/"><u>Harvest Hangouts The Most Friendly Farm Gaming Experiences for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-emulators-reviving-sonys-ps1-games/"><u>In 2024, Essential Emulators Reviving Sony's PS1 Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-group-chat-options-for-virtual-gatherings/"><u>In 2024, Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rhythmic-reels-making-instagram-memories-to-the-beat-for-2024/"><u>Rhythmic Reels Making Instagram Memories to the Beat for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/speedy-recorder-device-with-guided-soundtrack-for-2024/"><u>Speedy Recorder Device with Guided Soundtrack for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/stream-at-peak-performance-best-gpu-selection-guide-for-2024/"><u>Stream at Peak Performance Best GPU Selection Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/total-number-of-individuals-surveyed-nfemale-plus-nmale-756-plus-804-1560/"><u>Total Number of Individuals Surveyed = N_female + N_male = 756 + 804 = 1,560</u></a></li>
 </ul></div>
 

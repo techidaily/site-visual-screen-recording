@@ -1,7 +1,7 @@
 ---
 title: "[New] Dual Display Capture"
-date: 2024-12-08T03:17:13.749Z
-updated: 2024-12-11T04:02:24.855Z
+date: 2024-12-15T20:18:09.870Z
+updated: 2024-12-17T19:06:59.066Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ If you would like to capture footage from multiple monitors, but you are not sur
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -77,10 +81,6 @@ Go to OBS Studio's main window and click on the Settings button in the lower rig
 Sum up the two values of the wider sides of the screens and insert the value you get into the Base Resolution bar. For example, if one monitor has a 1366X768 resolution and the second one has a 1024X768 resolution, you should add 1024 to the 1366 and insert the resulting value (2390) as the wide resolution value in Base Resolution Bar.
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
 
@@ -108,13 +108,13 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,22 +132,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-your-video-income-on-youtube-essentials-for-2024/"><u>[New] Boosting Your Video Income on Youtube - Essentials for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-practices-for-shooting-nighttime-selfies-and-portraits/"><u>[Updated] Best Practices for Shooting Nighttime Selfies & Portraits</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-ensuring-long-term-youtube-success-with-creative-commons-mainteninas/"><u>2024 Approved Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/bring-back-the-memories-top-5-ps1-emulation-apps-for-pc-for-2024/"><u>Bring Back the Memories - Top 5 PS1 Emulation Apps for PC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-media-player-server-issue/"><u>Eliminating Media Player Server Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/everyones-gain-from-updated-chatgpt-data/"><u>Everyone's Gain From Updated ChatGPT Data</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-innovative-desktopmobile-conferencing-tools/"><u>In 2024, 10 Innovative Desktop/Mobile Conferencing Tools</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-2024-approved-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New 2024 Approved Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/parting-pleasantries-free-and-paid-outro-snippets-for-2024/"><u>Parting Pleasantries Free & Paid Outro Snippets for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/photosegments-evaluation/"><u>PhotoSegments Evaluation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-fortnite-an-insiders-review-of-the-thrilling-new-seasonal-content/"><u>Rediscovering Fortnite: An Insider's Review of the Thrilling New Seasonal Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/score-the-game-best-affordable-recording-apps/"><u>Score the Game Best Affordable Recording Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/slidecasting-simplified-a-modern-webcam-approach/"><u>Slidecasting Simplified A Modern, Webcam Approach</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577979806-speak-anywhere-everytime-meet-mondlyar/"><u>Speak Anywhere, Everytime - Meet MondlyAR</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unlocking-the-potential-of-capturing-digital-entertainment/"><u>Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ling-the-perfect-thumbnail-formula-for-youtube-success-for-2024/"><u>Unveiling The Perfect Thumbnail Formula for YouTube Success for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-deciding-between-obs-and-streamlabs-for-live-broadcasting-for-2024/"><u>[New] Deciding Between OBS and Streamlabs for Live Broadcasting for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716068859242-new-in-2024-2023-browser-snapshot-winners-announced/"><u>[New] In 2024, 2023 Browser Snapshot Winners Announced!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-android-sound-recording-without-root-simple-guide/"><u>[New] In 2024, Android Sound Recording Without Root [Simple Guide]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-discover-free-software-for-saving-your-desktop-display/"><u>[New] In 2024, Discover Free Software for Saving Your Desktop Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-which-recording-tool-wins-a-bandicam-vs-camtasia-comparison/"><u>[New] Which Recording Tool Wins? - A Bandicam Vs. Camtasia Comparison</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-premier-content-creators-colloquy/"><u>[Updated] Premier Content Creators Colloquy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-visualize-your-browser-trails-our-selection-of-premier-recording-apps/"><u>[Updated] Visualize Your Browser Trails Our Selection of Premier Recording Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-x-professional-audio-toolkit-personal-computing/"><u>2024 Approved X-Professional Audio Toolkit, Personal Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-disruptions-to-wsl-after-installing-windows-11/"><u>Avoiding Disruptions to WSL After Installing Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficiently-enhance-your-ryzen-5-2500u-pc-latest-drivers-and-easy-update-methods/"><u>Efficiently Enhance Your Ryzen 5 2500U PC - Latest Drivers & Easy Update Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-motorola-moto-g84-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Motorola Moto G84 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-pro-manycam-virtual-webcam-and-broadcasting-tool/"><u>Live Streaming Pro: ManyCam Virtual Webcam and Broadcasting Tool</u></a></li>
 </ul></div>
 

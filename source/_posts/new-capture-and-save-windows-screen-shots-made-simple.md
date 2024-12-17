@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture and Save  Windows Screen Shots Made Simple\""
-date: 2024-12-04T05:40:23.455Z
-updated: 2024-12-05T03:33:01.449Z
+date: 2024-12-10T16:51:28.588Z
+updated: 2024-12-17T16:05:18.970Z
 tags: 
   - screen-recording
   - ai video
@@ -49,11 +49,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
@@ -66,13 +62,13 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
@@ -92,6 +88,10 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
@@ -103,14 +103,6 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
@@ -134,6 +126,10 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
 Charms were first introduced on Windows 8, but trying to snap a screenshot with the Share Charm on this version of the OS won't produce any results since the screenshot option is only available on the Windows 8.1\. You can access the Charms Bar that offers Search, Share, Start, Devices and Settings charms by either pressing the Windows+C keys or by moving the mouse cursor down from the upper right corner of the screen.
@@ -151,7 +147,7 @@ Find the moment in the video you'd like to capture, and then select the Screensh
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
@@ -188,6 +184,10 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,19 +203,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-enjoying-the-journey-discovering-pexels-treasures/"><u>[New] In 2024, Enjoying the Journey Discovering Pexels' Treasures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-vita-video-edit-a-detailed-2024-guide-and-review/"><u>[New] Mastering Vita Video Edit A Detailed 2024 Guide & Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamline-your-teamwork-zooming-through-screenshares/"><u>[Updated] Streamline Your Teamwork Zooming Through Screenshares</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-influencers-insight-quick-pathways-to-instagram-fame-with-our-ultimate-list-of-15-tips/"><u>2024 Approved Influencer's Insight Quick Pathways to Instagram Fame with Our Ultimate List of 15 Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-2023s-top-rated-vr-game-engines-exposed/"><u>In 2024, 2023'S Top-Rated VR Game Engines Exposed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-concentration-in-photos-with-insta-zoom-tricks/"><u>In 2024, Crafting Concentration in Photos with Insta Zoom Tricks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-detailed-explanation-for-transforming-gender-display-in-instagram-facebook-and-snapchat-pictures/"><u>In 2024, Detailed Explanation for Transforming Gender Display in Instagram, Facebook & Snapchat Pictures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>In 2024, Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-preferred-practices-for-streaming-video-recording-on-youtube/"><u>In 2024, Preferred Practices for Streaming Video Recording on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-securely-save-your-windows-8-screenshots/"><u>In 2024, Securely Save Your Windows 8 Screenshots</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ace-screen-recorders-list-for-the-winning-setup/"><u>In 2024, The Ace Screen Recorders List - For the Winning Setup</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-art-of-game-recording-a-comprehensive-look/"><u>In 2024, The Art of Game Recording A Comprehensive Look</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-screen-capture-tools/"><u>In 2024, The Ultimate Guide to Screen Capture Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/seamless-workflow-achieved-utilize-the-io-screener-efficiently/"><u>Seamless Workflow Achieved Utilize the IO Screener Efficiently</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-easy-methods-for-downloading-vimeo-clips/"><u>[New] 2024 Approved Easy Methods for Downloading Vimeo Clips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-leading-nintendo-switch-combat-arcade-games-max-156/"><u>[New] 2024 Approved Leading Nintendo Switch Combat Arcade Games (Max 156)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-perfect-your-technique-mastery-of-remote-recording/"><u>[New] 2024 Approved Perfect Your Technique Mastery of Remote Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-art-of-humor-in-video-tips-for-facebook-and-instagram-memes/"><u>[New] 2024 Approved The Art of Humor in Video Tips for Facebook and Instagram Memes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-discerning-true-value-from-recordcasts-promises/"><u>[New] Discerning True Value From RecordCast’s Promises</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-techniques-for-lecture-to-audio-conversion-in-education/"><u>[New] In 2024, Innovative Techniques for Lecture to Audio Conversion in Education</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-integrating-zoom-into-your-daily-schedule/"><u>[New] In 2024, Integrating Zoom Into Your Daily Schedule</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-melody-manual-grab-listen-and-scrutinize-songs-for-2024/"><u>[New] Melody Manual Grab, Listen & Scrutinize Songs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-interoperable-iptv-networking/"><u>[Updated] 2024 Approved Interoperable IPTV Networking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-professionals-approach-to-video-editing-on-youtube-for-2024/"><u>[Updated] A Professional's Approach to Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>[Updated] From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-in-depth-analysis-of-excellent-zoom-screen-recorders/"><u>[Updated] In 2024, In-Depth Analysis of Excellent Zoom Screen Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-maximizing-obs-broadcasts-to-facebook-feed/"><u>[Updated] In 2024, Maximizing OBS Broadcasts to Facebook Feed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/asking-ai-the-right-way-chatgpts-role-in-your-next-vehicle-upgrade/"><u>Asking AI the Right Way: ChatGPT's Role in Your Next Vehicle Upgrade</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/crear-con-enfasis-en-simplidad-tus-directrices-para-inspiradoras-diapositivas-en-un-iphone-mediante-la-herramienta-de-movavi/"><u>Crear Con Énfasis en Simplidad: Tus Directrices Para Inspiradoras Diapositivas en Un iPhone Mediante La Herramienta De Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-v-purse-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor V Purse Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-seal-on-cyberspace-expeditions-for-2024/"><u>Ultimate Seal on Cyberspace Expeditions for 2024</u></a></li>
 </ul></div>
 
