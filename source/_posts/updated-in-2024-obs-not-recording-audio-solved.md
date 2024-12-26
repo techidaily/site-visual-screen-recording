@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, OBS Not Recording Audio [Solved]"
-date: 2024-12-10T18:21:31.552Z
-updated: 2024-12-17T20:57:38.308Z
+date: 2024-12-20T21:18:27.846Z
+updated: 2024-12-26T07:52:42.456Z
 tags: 
   - screen-recording
   - ai video
@@ -31,16 +31,12 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
@@ -60,7 +56,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -84,7 +80,7 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -98,11 +94,11 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -123,6 +119,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -162,20 +162,21 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-assembling-a-spectacular-screenplay-cut-out/"><u>[New] Assembling a Spectacular Screenplay Cut-Out</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-darkened-details-expert-techniques-for-night-photography-success/"><u>[New] Darkened Details Expert Techniques for Night Photography Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sounds-of-laughter-top-ringtones-downloaders/"><u>[New] Sounds of Laughter Top Ringtones Downloaders</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-budget-friendly-airborision-top-5-under-500-drone-picks/"><u>[Updated] 2024 Approved Budget-Friendly Airborision Top 5 Under $500 Drone Picks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-most-reliable-no-cost-chrome-os-recorder-tools/"><u>[Updated] Most Reliable No-Cost Chrome OS Recorder Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-snaps-and-screens-a-selfie-credibility-primer/"><u>2024 Approved Instagram Snaps & Screens - A Selfie Credibility Primer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-vrecorder-a-download-and-install-journey/"><u>2024 Approved Mastering VRecorder A Download & Install Journey</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expressoes-amigaveis-do-portugues-compreensao-absoluta/"><u>Expressões Amigáveis Do Português - Compreensão Absoluta</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mc-community-living-best-residential-blueprints/"><u>In 2024, MC Community Living Best Residential Blueprints</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-the-basics-of-setting-up-and-timing-google-meet/"><u>In 2024, Navigating the Basics of Setting Up and Timing Google Meet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/jumpstart-your-screen-recording-skills-expert-guide-to-aiseesoft-for-2024/"><u>Jumpstart Your Screen Recording Skills Expert Guide to Aiseesoft for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimal-capture-software-showdown-obs-studio-vs-fraps-for-2024/"><u>Optimal Capture Software Showdown OBS Studio V/S Fraps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamline-your-viewing-turn-onoff-picture-in-picture-on-iphones/"><u>Streamline Your Viewing Turn On/Off Picture in Picture on iPhones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-9-online-mic-recorders/"><u>[New] 2024 Approved Best 9 Online Mic Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-practices-to-avoid-missed-frames-during-video-capture-for-2024/"><u>[New] Best Practices to Avoid Missed Frames During Video Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-advanced-methods-to-archive-your-whatsapp-chat/"><u>[New] In 2024, Advanced Methods to Archive Your WhatsApp Chat</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-high-quality-capture-software-pcmac/"><u>[New] In 2024, Ultimate High-Quality Capture Software, PC/Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-pro-level-strategies-captioning-content-on-vimeo/"><u>[New] Pro-Level Strategies Captioning Content on Vimeo</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-understanding-ios-video-recording/"><u>[New] Understanding iOS Video Recording</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-guide-to-box-enthusiasm/"><u>[Updated] The Ultimate Guide to Box Enthusiasm</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-strategies-for-universal-zoom-availability-across-platforms/"><u>2024 Approved Strategies for Universal Zoom Availability Across Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-windows-best-video-talks-ranked-1-8/"><u>2024 Approved Windows' Best Video Talks Ranked #1-8</u></a></li>
+<li><a href="https://win-docs.techidaily.com/como-cambiar-el-disco-duro-de-una-alienware-sin-perdida-de-datos-guia-paso-a-paso/"><u>Cómo Cambiar El Disco Duro De Una Alienware Sin Pérdida De Datos: Guía Paso a Paso</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-fazer-screencasts-com-sua-computacao-os-principais-12-softwares-escolhidos-por-profissionais/"><u>Como Fazer Screencasts Com Sua Computação: Os Principais 12 Softwares Escolhidos Por Profissionais</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/future-ready-the-ideal-modemrouter-duos-for-enhanced-home-networking-in-twenty-twenty-four/"><u>Future-Ready: The Ideal Modem/Router Duos for Enhanced Home Networking in ˈtwenty Twenty Four'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-3-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus Ace 3 Phone without Any Data Loss</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-video-creation-simplified-key-elements-of-using-aiseesofts-tech/"><u>In 2024, Video Creation Simplified Key Elements of Using Aiseesoft's Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y02T? | Dr.fone</u></a></li>
 </ul></div>
 

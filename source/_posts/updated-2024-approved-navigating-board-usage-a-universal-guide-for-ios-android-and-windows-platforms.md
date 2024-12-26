@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Navigating Board Usage  A Universal Guide for iOS, Android & Windows Platforms\""
-date: 2024-12-14T16:18:28.376Z
-updated: 2024-12-17T17:40:19.758Z
+date: 2024-12-21T06:24:32.561Z
+updated: 2024-12-25T23:41:39.222Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ If you are interested in using this fantastic tool, the following article will c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
@@ -61,6 +61,10 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -68,14 +72,6 @@ Click on the **start a new whiteboard** option**.**
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
@@ -94,10 +90,6 @@ Click three dots at the bottom and select share screen. Press the **start sharin
 Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
@@ -118,7 +110,11 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -141,6 +137,10 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Conclusion**
 
 Google Meet allows its users to enjoy the vast collection of built-in tools. **Google Meet whiteboarding** is another helpful feature that makes brainstorming and visual illustration easy and efficient. The maximum utility of this feature is when you use it on your desktop or laptop. This gives all attendees whiteboard editing access. However, for mobile phone users, editing access is only for using an external whiteboard app. This article covered all dimensions, including setting up, using, and sharing whiteboards on Google Meet. So, no matter which device you are using, take advantage of the whiteboard feature to make your virtual meetings more interactive and interesting.
@@ -162,24 +162,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/valuating-the-top-video-streaming-apps-for-phones-for-2024/"><u>[New] Evaluating the Top Video Streaming Apps for Phones for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-access-to-best-ae-templates/"><u>[New] Exclusive Access to Best AE Templates</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ow-tos-selecting-free-powerful-iphoneipad-edits/"><u>[New] How-To's Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-quicksnap-studio-pro/"><u>[New] QuickSnap Studio Pro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-sword-and-shield-the-ultimate-10-game-collection/"><u>[New] Sword and Shield The Ultimate 10-Game Collection</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-transcribe-a-youtube-video-for-free/"><u>[Updated] 2024 Approved How to Transcribe a YouTube Video for FREE</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-ensuring-privacy-4-steps-to-safely-log-fb-calls-for-2024/"><u>[Updated] Ensuring Privacy 4 Steps to Safely Log FB Calls for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-at-your-fingertips-a-guide-to-screen-recording-on-apple-devices/"><u>[Updated] Precision at Your Fingertips A Guide to Screen Recording on Apple Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quickcopy-consultants-thoughts/"><u>[Updated] QuickCopy Consultants' Thoughts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-safeguard-your-calls-best-free-and-secure-video-chat-services-for-ios-and-android/"><u>[Updated] Safeguard Your Calls Best Free and Secure Video Chat Services for iOS & Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-zoom-for-beginners-managing-breakout-groups-for-2024/"><u>[Updated] Zoom for Beginners Managing Breakout Groups for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-redefine-video-communication-with-your-webcam/"><u>2024 Approved Redefine Video Communication with Your Webcam</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pixelprofiler-yearly-review-of-best-screen-capturing-tools/"><u>In 2024, PixelProfiler Yearly Review of Best Screen Capturing Tools</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-13-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 13 Pro Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-techniques-for-capturing-high-quality-movies-on-all-os/"><u>In 2024, Techniques for Capturing High-Quality Movies on All OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unforgettable-journeys-our-favorites-in-adventure-gameplay/"><u>In 2024, Unforgettable Journeys Our Favorites in Adventure Gameplay</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-iphones-simple-recording-features-quickly-for-2024/"><u>Mastering iPhone's Simple Recording Features Quickly for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/streamline-your-tiktok-videos-effortlessly-for-2024/"><u>Streamline Your TikTok Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ultimate-youtube-to-avi-transformation-guidebook/"><u>Your Ultimate YouTube-to-AVI Transformation Guidebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-chats-complete-fbm-conversation-history/"><u>[New] 2024 Approved Capturing Chats Complete FBM Conversation History</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mac-masterclass-designing-eye-catching-yt-thumbnails/"><u>[New] 2024 Approved Mac Masterclass Designing Eye-Catching YT Thumbnails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-9-must-play-screen-free-apps-for-offline-android-enthusiasts/"><u>[New] In 2024, 9 Must-Play Screen-Free Apps for Offline Android Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-13-incredible-minecraft-architectural-plans/"><u>[Updated] In 2024, 13 Incredible Minecraft Architectural Plans</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-8-premium-linux-tools-for-efficient-snaps/"><u>2024 Approved Unveiling 8 Premium Linux Tools for Efficient Snaps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unveiling-the-hidden-secrets-of-facetime-voice-capturing/"><u>2024 Approved Unveiling the Hidden Secrets of FaceTime Voice Capturing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/adventure-awaits-meet-66-twitter-personalities-sharing-amazing-travel-experiences-savings-and-insights/"><u>Adventure Awaits! Meet 66 Twitter Personalities Sharing Amazing Travel Experiences, Savings & Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/alternative-graphics-cards-to-nvidias-rtx-4060-ti/"><u>Alternative Graphics Cards to Nvidia's RTX 4060 Ti</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor 90 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-browser-black-screens-with-ease-for-2024/"><u>Navigate Browser Black Screens with Ease for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-chrome-plugin-failures-a-guide-for-windows-11-operating-system/"><u>Overcoming Chrome Plugin Failures: A Guide for Windows 11 Operating System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-new-iphone-6-is-a-game-changer-4-compelling-features-to-consider-for-your-next-update-expert-analysis-at-zdnet/"><u>Why the New iPhone #6 Is a Game-Changer: 4 Compelling Features to Consider for Your Next Update - Expert Analysis at ZDNET</u></a></li>
 </ul></div>
 

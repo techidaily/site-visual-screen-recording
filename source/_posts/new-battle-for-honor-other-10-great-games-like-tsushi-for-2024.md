@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Battle for Honor  Other 10 Great Games Like Tsushi for 2024\""
-date: 2024-12-12T17:23:46.332Z
-updated: 2024-12-17T16:20:35.298Z
+date: 2024-12-24T08:05:33.592Z
+updated: 2024-12-25T21:18:55.196Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,20 +170,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-12-flipscreen-cam-titles-for-optimal-vlogging/"><u>[New] In 2024, Essential 12 Flipscreen Cam Titles for Optimal Vlogging</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-audio-transformation-complete-morphvox-techniques/"><u>[New] Mastering Audio Transformation Complete MorphVOX Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-youtube-video-blueprint-mastering-visual-content-sharing/"><u>[New] The Ultimate Youtube Video Blueprint Mastering Visual Content Sharing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-fixing-audio-absence-in-online-shared-videos/"><u>[Updated] 2024 Approved Fixing Audio Absence in Online Shared Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ideal-video-capture-apps-for-educators/"><u>[Updated] Ideal Video Capture Apps for Educators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-perfect-game-video-edits-made-easy-for-newcomers/"><u>[Updated] Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-movie-recording-your-multiplatform-strategy/"><u>[Updated] Perfecting Movie Recording Your Multiplatform Strategy</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-how-to-download-videos-from-playvids-in-high-quality-formats-mp4-wmv-mov-avi/"><u>1. How to Download Videos From PlayVids in High Quality Formats (MP4, WMV, MOV, AVI)</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1-simple-guide-to-crafting-a-clear-digital-signature-in-minutes-tips-and-tricks-2022-edition/"><u>1. Simple Guide to Crafting a Clear Digital Signature in Minutes: Tips & Tricks - 2022 Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-melodic-monitor-gathering-tracks-for-evaluation/"><u>2024 Approved Melodic Monitor Gathering Tracks for Evaluation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-peekintobettercams-beyond-mycam/"><u>2024 Approved PeekIntoBetterCams Beyond MyCam?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-resolving-wireless-connectivity-problems-in-under-10-steps/"><u>Essential Guide: Resolving Wireless Connectivity Problems in Under 10 Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-k70e-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-inside-out-stardew-valley-and-the-allure-of-ginger-island/"><u>In 2024, Inside Out Stardew Valley and the Allure of Ginger Island</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-final-cut-pros-premier-top-10-plugins-for-2024/"><u>[New] Final Cut Pro's Premier Top 10 Plugins for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-threads-of-time-looms-screen-record-mastery/"><u>[New] In 2024, Threads of Time Loom's Screen Record Mastery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-understanding-and-utilizing-ez-grabber-like-a-pro/"><u>[New] In 2024, Understanding and Utilizing EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>[New] In 2024, Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pedal-to-the-metal-mastering-crossfade-techniques/"><u>[New] Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-educator-approved-video-capture-apps-for-2024/"><u>[New] Top 10 Educator-Approved Video Capture Apps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech/"><u>[Updated] 2024 Approved Video Calls That Protect Our Selection of the Best Free, Secure Applications for Mobile Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality-for-2024/"><u>[Updated] From TikTok to Instagram Strategies to Amplify Your Reel's Virality for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-quickshot-recorder-evaluation-summary/"><u>[Updated] In 2024, QuickShot Recorder Evaluation Summary</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-list-5-premium-live-stream-recorders/"><u>[Updated] In 2024, The Ultimate List 5 Premium Live Stream Recorders</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decoding-wsappx-tips-for-managing-surge-in-storage-and-processor-utilization-on-your-device/"><u>Decoding WSAPPX: Tips for Managing Surge in Storage and Processor Utilization on Your Device</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/file-transfer-via-ethernet-cable-between-computers-wie/"><u>File Transfer via Ethernet Cable Between Computers - Wie?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformar-mxf-en-imagenes-animadas-gif-sin-gastos-usando-herramienta-online-de-movavi/"><u>Transformar MXF en Imágenes Animadas GIF Sin Gastos Usando Herramienta Online De Movavi</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-11-wheauncorrectableerror-5/"><u>Windows 11 WHEA_UNCORRECTABLE_ERROR 修复手册:探索5种解决方式</u></a></li>
 </ul></div>
 

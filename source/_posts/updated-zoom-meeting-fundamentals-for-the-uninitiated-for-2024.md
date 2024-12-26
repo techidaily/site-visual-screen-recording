@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Zoom Meeting Fundamentals for the Uninitiated for 2024"
-date: 2024-12-10T19:17:34.287Z
-updated: 2024-12-17T19:39:33.416Z
+date: 2024-12-19T07:00:14.933Z
+updated: 2024-12-25T16:15:28.677Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Zoom grants you access to all the tools you are going to need in order to manage
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -54,6 +50,14 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Zoom Webinar?
 
 A webinar is simply an online seminar, but the term can also be used to denote collaborative services such as webcasts or peer-level web meetings. Zoom allows its users to purchase webinar add-ons that can have as many as 149 hosts and 10,000 attendees. Each of the plans enables the host or hosts to have an unlimited number of meetings, which means that you can run as many webinars as you want with Zoom.
@@ -61,10 +65,6 @@ A webinar is simply an online seminar, but the term can also be used to denote c
 The platform doesn’t allow its users to host webinars for free and you must purchase a monthly or the annual subscription if you would like to host your webinars on Zoom. You can choose from Pro, Business, Education and Zoom Room options and the exact cost of the subscription depends on the maximum number of hosts and participants a webinar can have, so, for instance, you will have to pay around $50 per month if your webinar plan has just one host and a hundred participants.
 
 ![Add Webinar to Zoom Plan](https://images.wondershare.com/filmora/article-images/add-webinar-on-zoom-pricing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Furthermore, each of the available plans offers the cloud recording option, and you can get up to 3 TB of extra storage for an additional fee. Once you purchase a license you will also have to assign it to the owner of the Zoom account or the admin of a particular account. You can do this by heading over to the User Management menu and selecting the Users option. After you locate the user to which you would like to assign a webinar license, you should click on the Edit button at the end of the user’s row and click on the Webinar option in the Feature menu.
 
@@ -79,6 +79,10 @@ Looking for some other webinar software? We’ve picked some of the best webinar
 After purchasing the Zoom’s webinar add-on you can schedule a new webinar. Simply sign in to the webinar portal, click on the Webinars option and then click on the Schedule a Webinar button.
 
 ![Zoom Schedule Webinar](https://images.wondershare.com/filmora/article-images/schedule-zoom-webinar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can then provide the information about the topic of the webinar, write a short description of the webinar that is going to be displayed at the registration page, set the time and date when the webinar is supposed to take place and specify how long the webinar is going to last.
 
@@ -98,6 +102,10 @@ The process of inviting panelists to a webinar is straightforward since you just
 
 ![Invite people to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-people-to-zoom-webinar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Zoom allows you to invite up to a hundred panelists to a webinar, and you just have to add their names and emails to the corresponding boxes and click on the checkbox next to the Send invitation to all newly added panelists immediately option.
 
 Click on the Save button to send invitations to panelists. Panelists on recurring webinars will be invited to all webinars in the series, but you can also add or remove panelists between two webinars.
@@ -106,19 +114,15 @@ The invitation process for attendees depends on whether or not a webinar require
 
 ![Invite Attendees  to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-attendees-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hosts of webinars that require registration must send the registration link to attendees and each attendee must fill in the registration form. Afterward, they will receive an email that contains a unique join link. You can invite attendees to register for a webinar by copying the registration URL and sharing it through your website or your email. Optionally you can click on the Copy the invitation option and copy the invitation Zoom created, or use the Email me the invitation feature to get a copy of the invitation you can forward to the attendees.
 
 ![Start Scheduled Zoom Webinar](https://images.wondershare.com/filmora/article-images/start-scheduled-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do Attendees Join a Zoom Webinar?
 
@@ -146,10 +150,6 @@ Anyone can set up a new webinar with Zoom, even if they have no previous experie
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -165,16 +165,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[New] 2024 Approved Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-one-minute-color-magic-for-2024/"><u>[Updated] One Minute Color Magic for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-overview-and-assessment-parrots-advanced-edition/"><u>2024 Approved Overview and Assessment - Parrot's Advanced Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/direct-to-streamer-duel-obs-vs-shadowtoolkit/"><u>Direct-to-Streamer Duel OBS Vs. ShadowToolkit</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/discovering-the-most-trusted-mac-snipers/"><u>Discovering the Most Trusted Mac Snipers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-tips-for-seamless-iphone-screen-recordings/"><u>Expert Tips for Seamless iPhone Screen Recordings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashes-of-prey-2-stalkers-of-the-shadow-world-on-desktop-systems/"><u>How to Resolve Persistent Crashes of 'Prey 2: Stalkers of The Shadow World' On Desktop Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-infinix-smart-8-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Infinix Smart 8 online without jailbreak</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/simplified-process-for-name-change-in-google-meet-laptopmobile/"><u>Simplified Process for Name Change in Google Meet (Laptop/Mobile)</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-excel-documents-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>The best electronic signature way to sign Excel documents online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/trends-in-advanced-iptv-video-capture-methods/"><u>Trends in Advanced IPTV Video Capture Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-checklist-for-integrating-subtitle-track-into-mp4s-for-2024/"><u>[New] Essential Checklist for Integrating Subtitle Track Into MP4s for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-focus-on-action-exclude-unwanted-surroundings/"><u>[New] Focus on Action, Exclude Unwanted Surroundings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-voice-clarity-overcoming-skype-noise-issues-for-2024/"><u>[New] Voice Clarity Overcoming Skype Noise Issues for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tips-and-tricks-perfecting-webcam-recordings-on-macbook/"><u>[Updated] 2024 Approved Tips & Tricks Perfecting Webcam Recordings on MacBook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-veiled-vocal-keepers-ios-and-android-secretive-sound-tools/"><u>[Updated] 2024 Approved Veiled Vocal Keepers IOS & Android Secretive Sound Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocket-viewer-numbers-with-the-top-12-effective-tactics/"><u>[Updated] Skyrocket Viewer Numbers with the Top 12 Effective Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-budget-friendly-methods-for-live-feed-recordings-for-2024/"><u>[Updated] Top 5 Budget-Friendly Methods for Live Feed Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-free-screen-recorder-extensions-for-chromebooks-for-2024/"><u>[Updated] TOP 5 Free Screen Recorder Extensions for Chromebooks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exclusive-farewell-to-game-costs/"><u>2024 Approved Exclusive Farewell to Game Costs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028764244-wmv/"><u>高性能WMVコンバーター:結合ソフトとして最適なフリープログラムのトップ４選び - 専門家推薦</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/huawei-appgallery-now-features-mondly-services/"><u>Huawei AppGallery Now Features Mondly Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-tips-for-successful-hulu-capturing-on-various-platforms/"><u>In 2024, Essential Tips for Successful Hulu Capturing on Various Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-xs-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively-for-2024/"><u>Mastering iPhone Saving & Utilizing GIFs Effectively for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-psychology-behind-effective-interviews/"><u>The Psychology Behind Effective Interviews</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unlocking-visual-storytelling-with-your-canon-timelapse-toolkit-for-2024/"><u>Unlocking Visual Storytelling with Your Canon Timelapse Toolkit for 2024</u></a></li>
 </ul></div>
 

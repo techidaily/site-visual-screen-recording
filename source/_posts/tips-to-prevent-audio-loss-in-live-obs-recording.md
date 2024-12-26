@@ -1,7 +1,7 @@
 ---
 title: "Tips to Prevent Audio Loss in Live OBS Recording"
-date: 2024-12-11T16:12:41.641Z
-updated: 2024-12-17T19:39:11.975Z
+date: 2024-12-24T04:08:08.504Z
+updated: 2024-12-25T19:53:58.732Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
@@ -65,10 +61,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -80,7 +72,7 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -94,7 +86,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -105,6 +97,10 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -117,7 +113,7 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -137,7 +133,11 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -162,17 +162,19 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-parallel-audio-stream-mapping/"><u>[New] 2024 Approved Parallel Audio Stream Mapping</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-proven-methods-for-effective-screen-capture-using-adobe-captive-toolkit/"><u>[New] 2024 Approved Proven Methods for Effective Screen Capture Using Adobe Captive Toolkit</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-quick-start-to-youtube-success-creating-business-and-personal-channels-on-phone/"><u>[New] 2024 Approved Quick Start to YouTube Success Creating Business & Personal Channels on Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming/"><u>[New] In 2024, Navigating the Convergence of OBS & Zoom for Enhanced Streaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-practical-techniques-for-downloading-youtube-srt-for-2024/"><u>[New] Practical Techniques for Downloading YouTube SRT for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-critical-clip-climbers-ranking-video-hours-from-1-to-10-for-2024/"><u>[Updated] Critical Clip Climbers Ranking Video Hours From #1 to #10 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximizing-impact-best-practices-for-corporate-screencast-training-for-2024/"><u>[Updated] Maximizing Impact Best Practices for Corporate Screencast Training for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-essential-guide-the-8-best-zero-price-video-cutting-software/"><u>2024 Approved Essential Guide The 8 Best Zero Price Video Cutting Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/decrypt-viewer-counts-unveiling-instagram-audience-numbers/"><u>Decrypt Viewer Counts Unveiling Instagram Audience Numbers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-best-software-solutions-for-rejuvenating-damaged-photographs/"><u>Discover the Best Software Solutions for Rejuvenating Damaged Photographs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-infinix-hot-30i-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Infinix Hot 30i Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-one-chip-solutions-the-ultimate-list-of-single-board-computers/"><u>Top Rated One-Chip Solutions: The Ultimate List of Single-Board Computers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-video-capture-bandicams-edge-over-camtasia-for-2024/"><u>[New] Mastering Video Capture Bandicam’s Edge Over Camtasia for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-next-level-recording-exploring-manycams-video-innovations/"><u>[Updated] 2024 Approved Next-Level Recording Exploring ManyCam's Video Innovations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-partition-performance-topping-recorder-showdown/"><u>[Updated] 2024 Approved Partition Performance Topping Recorder Showdown</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-craft-your-channels-moniker-youtube-naming-tools-and-tips/"><u>[Updated] Craft Your Channel's Moniker YouTube Naming Tools and Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mov-saving-strategies-the-six-must-know-tactics-for-windows-11-users/"><u>[Updated] In 2024, .MOV Saving Strategies - The Six Must-Know Tactics for Windows 11 Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/"><u>[Updated] In 2024, Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-voice-editing-for-instagrams-media/"><u>[Updated] In 2024, The Ultimate Guide to Voice Editing for Instagram's Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ps3-classics-on-your-pc-with-top-tools-for-2024/"><u>[Updated] Mastering PS3 Classics on Your PC with Top Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-industrys-leading-heavy-duty-drone-picks/"><u>2024 Approved Industry's Leading Heavy-Duty Drone Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-strategies-for-improving-youtubefacebook-video-quality/"><u>2024 Approved Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-capturing-contentment-top-streaming-techniques/"><u>In 2024, Capturing Contentment Top Streaming Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y56-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y56 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/interactive-visual-exchange-android-iphone-for-2024/"><u>Interactive Visual Exchange Android-iPhone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nner-workings-of-youtubes-system-after-an-upload/"><u>The Inner Workings of YouTube's System After an Upload</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Joint Recording of Webcam and Desktop Display"
-date: 2024-12-11T18:45:21.824Z
-updated: 2024-12-17T19:39:37.493Z
+date: 2024-12-19T00:34:30.420Z
+updated: 2024-12-26T09:43:11.389Z
 tags: 
   - screen-recording
   - ai video
@@ -30,12 +30,16 @@ We perform so many different tasks on our computers every day, but we rarely get
 You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Capture Screens and Webcam Videos with Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 PC users have a variety of [screen recorders](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal that can either be used free of charge or for a small fee. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that also offers screen capturing functionality, which enables you to record the webcam feed and computer screen at the same time.
 
@@ -43,17 +47,9 @@ Once you’ve installed Fimora on your PC, you should launch the app and create 
 
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
 ![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
 
@@ -68,7 +64,7 @@ Optionally, you can set the keyboard shortcuts that enable you to start, stop, p
 After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
@@ -78,7 +74,7 @@ All you need to do in order to access the Game Bar on Windows 10 is to use the W
 Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Capturing Screens with Loom Extension for Google Chrome
@@ -99,6 +95,10 @@ Including the webcam footage in your screen recordings can make them more entert
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -114,18 +114,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/1715971160458-new-in-2024-how-to-fix-obs-studio-drop-frames-issue/"><u>[New] In 2024, How To Fix OBS Studio Drop Frames Issue</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-illuminate-creativity-engage-in-pcs-high-dynamic-range-vision/"><u>[New] In 2024, Illuminate Creativity Engage in PC's High Dynamic Range Vision</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pro-video-capture-solutions-on-mac-beyond-the-bandicamp-era-for-2024/"><u>[New] Pro Video Capture Solutions on Mac Beyond the Bandicamp Era for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-navigating-digital-cropping-easy-online-methods/"><u>[Updated] 2024 Approved Navigating Digital Cropping - Easy Online Methods</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-overwatch-recording-made-simple-with-us/"><u>[Updated] In 2024, Overwatch Recording Made Simple with Us</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-peeksnapper-a-critical-examination-of-micro-recording-tools-for-2024/"><u>[Updated] PeekSnapper A Critical Examination of Micro-Recording Tools for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-meme-making-made-simple-without-cost/"><u>2024 Approved Meme-Making Made Simple, Without Cost</u></a></li>
-<li><a href="https://win-lab.techidaily.com/exploring-safe-options-after-the-m3-raw-disk-hack-a-guide/"><u>Exploring Safe Options After the M3 Raw Disk Hack - A Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-clear-black-boards-in-your-youtube-videos-in-2024/"><u>How to Clear Black Boards in Your YouTube Videos, In 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-nokia-c12-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Nokia C12 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-asmr-gear-expert-picked-microphone-selections/"><u>In 2024, Top ASMR Gear Expert-Picked Microphone Selections</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share/"><u>In 2024, Ultimate Roundup No-Fee Videocalling + Live Desktop Share</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-note-30-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Note 30 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-blueprint-to-establishing-a-distinctive-marketing-persona/"><u>[Updated] The Blueprint to Establishing a Distinctive Marketing Persona</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-full-screen-mastery-achieved-in-obs/"><u>2024 Approved Full Screen Mastery Achieved in Obs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-nord-n30-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpods-vs-vr-headsets-the-unexpected-black-friday-winner/"><u>AirPods Vs. VR Headsets: The Unexpected Black Friday Winner</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v30-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V30 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-portable-recording-solutions-for-mac-users/"><u>Discovering Portable Recording Solutions for Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/explore-our-list-of-10-superior-phone-based-video-chat-apps-for-2024/"><u>Explore Our List of 10 Superior Phone-Based Video Chat Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-learning-chatgpt-can-transform-your-career-a-six-point-guide/"><u>How Learning ChatGPT Can Transform Your Career: A Six-Point Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-full-page-screen-capture-how-to-capture-screenshots-of-a-full-page/"><u>In 2024, Full Page Screen Capture How to Capture Screenshots of a Full Page?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-screen-ignored-repair-success-reported/"><u>Lenovo Screen Ignored: Repair Success Reported</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-vs-twitch-hub-best-platform-debate/"><u>OBS Vs. Twitch Hub Best Platform Debate</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prime-zero-price-point-video-capturer/"><u>Prime Zero-Price Point Video Capturer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-and-easy-extracting-hd-videos-from-vimeo-to-mp4-format/"><u>Quick & Easy Extracting HD Videos From Vimeo to MP4 Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reliable-ipad-pro-usb-c-hub-always-on-hand-a-zdnet-review/"><u>Reliable iPad Pro USB-C Hub: Always on Hand - A ZDNet Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-missing-vcompdll-files-on-your-computer-effective-strategies-and-tips/"><u>Resolving Missing Vcomp.dll Files on Your Computer – Effective Strategies and Tips</u></a></li>
 </ul></div>
 
