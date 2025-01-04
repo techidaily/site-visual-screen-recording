@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Change Default Backup Location (Mac)"
-date: 2024-12-25T05:48:26.196Z
-updated: 2024-12-25T23:37:02.070Z
+date: 2024-12-29T16:59:29.060Z
+updated: 2025-01-04T20:58:55.782Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -48,14 +52,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -63,7 +59,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -75,7 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -89,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -103,6 +99,10 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,16 +119,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-quick-tunes-on-your-phone-top-speed-up-apps/"><u>[New] 2024 Approved Quick Tunes on Your Phone Top Speed-Up Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-look-at-obs-studios-full-screen-recorder-tools/"><u>[New] In 2024, In-Depth Look at OBS Studio's Full Screen Recorder Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-measures-for-outstanding-ppt-video-quality/"><u>[New] In 2024, Innovative Measures for Outstanding PPT Video Quality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-live-video-venue-verdict-the-best-between-obs-and-twitch-studios-for-2024/"><u>[New] Live Video Venue Verdict The Best Between OBS and Twitch Studios for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-junior-road-rules-and-racer-revelry/"><u>[Updated] In 2024, Junior Road Rules & Racer Revelry</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-razer-camera-evaluation-for-2024/"><u>[Updated] In-Depth Razer Camera Evaluation for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nubia-red-magic-9-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nubia Red Magic 9 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719358014112-chrome-woes-on-windows-11-a-fixers-guide-to-reopening-it/"><u>Chrome Woes on Windows 11: A Fixer’s Guide to Reopening It.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/steady-snaps-premier-tripods-for-mobile-cameras/"><u>Steady Snaps Premier Tripods for Mobile Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808279932-troubleshoot-skype-connection-issues-in-windows-11-with-these-5-simple-solutions/"><u>Troubleshoot Skype Connection Issues in Windows 11 with These 5 Simple Solutions!</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-do-vr-headsets-break-the-bank-here-are-4-pivotal-points/"><u>Why Do VR Headsets Break the Bank? Here Are 4 Pivotal Points</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-giggle-genesis-conceptualizing-7-funny-youtube-sessions-for-2024/"><u>[New] Giggle Genesis Conceptualizing 7 Funny YouTube Sessions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-pop-sync-streamlining-song-placement-on-instagram-stories-for-2024/"><u>[New] Pop Sync Streamlining Song Placement on Instagram Stories for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-assessment-of-vlc-screen-recording/"><u>2024 Approved Assessment of VLC Screen Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blend-pictures-with-computers-easily/"><u>2024 Approved Blend Pictures with Computers Easily</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-live-gaming-recording-battle-pick-your-preference-obs-or-shadowplay/"><u>2024 Approved Live Gaming Recording Battle Pick Your Preference, OBS or ShadowPlay?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-live-streaming-simplified-with-top-webcam-recorders/"><u>2024 Approved Live Streaming Simplified with Top WebCam Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-live-webcam-capture-in-vlc-media-player/"><u>2024 Approved Live Webcam Capture in VLC Media Player</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-loom-lens-illuminating-your-recording-journey/"><u>2024 Approved Loom Lens Illuminating Your Recording Journey</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mac-professionals-recommendations-the-best-of-screenflow/"><u>2024 Approved Mac Professionals Recommendations – The Best of ScreenFlow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mac-screen-casting-and-microphone-integration/"><u>2024 Approved Mac Screen Casting and Microphone Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nvidia-device-disconnected-issues-effective-solutions/"><u>How to Resolve NVIDIA Device Disconnected Issues: Effective Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-gionee-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Gionee? Try These Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-11r-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus 11R FRP</u></a></li>
+<li><a href="https://facebook.techidaily.com/scrutinizing-social-media-ads-a-plea-for-more-robust-anti-fraud-measures/"><u>Scrutinizing Social Media Ads: A Plea for More Robust Anti-Fraud Measures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-troubleshooting-steps-to-restore-outlooks-online-access/"><u>Solution Found! Troubleshooting Steps to Restore Outlook's Online Access</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Reducing Excessive Encoding (OBS Broadcast)\""
-date: 2024-12-21T02:52:49.085Z
-updated: 2024-12-26T01:03:08.523Z
+date: 2025-01-03T17:24:05.590Z
+updated: 2025-01-04T19:03:50.119Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,10 @@ Step 4: Click on Apply and Ok button to save the new setting. Restart your compu
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
 <!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
@@ -69,6 +73,10 @@ Step 5: Click on Apply and Ok button. Restart your computer and perform your act
 
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 4\. Try Hardware Encoding
 
 You can try out different hardware encoders available such as Quicksync, AMF, or NVENC. The availability of different hardware encoders depends on your computer hardware configuration. These hardware encoders are better than the default x264 encoder as they use less CPU resources. Since the issue is primarily with encoder, you should try changing the encoder and see if the problem is fixed.
@@ -84,10 +92,6 @@ Step 4: Change the encoder from default x264 to any other hardware encoder avail
 Step 5: Click on Apply and Ok to save the settings. Restart your computer and perform your operation on OBS.
 
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 5\. Change Some Advanced Settings
 
@@ -107,10 +111,6 @@ Step 6: Click on Apply and Ok button to save the changes. Restart your computer 
 
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 6\. Use OBS Alternative
 
 If none of the above-mentioned ways can solve the constant encoding overloaded warning you are receiving while using OBS Studio for recording or streaming, you have to opt for an alternative. Wondershare Filmora is the best alternative to OBS for recording screen and webcam. Filmora does not affect the CPU performance as significantly as OBS Studio does. That is why the encoding overloaded issue is unlikely to occur in Filmora.
@@ -129,19 +129,23 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,11 +170,7 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -185,13 +185,13 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
@@ -200,7 +200,7 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -215,6 +215,10 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -224,10 +228,6 @@ Step 3: Click on Record button to start recording. Press F9 to stop recording wh
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -257,22 +257,22 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ace-google-call-best-screen-saver-bgs-list-for-2024/"><u>[New] Ace Google Call Best Screen Saver BGs List for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs-for-2024/"><u>[New] Capturing the Moment The Ultimate Guide to Screen Recording with OBS for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-breakdown-of-sharex-scrutiny-and-substitutes/"><u>[Updated] In 2024, Breakdown of ShareX Scrutiny & Substitutes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pinnacle-ps2-simulators-for-ios-systems-for-2024/"><u>[Updated] Pinnacle PS2 Simulators for iOS Systems for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-simplify-your-creative-process-with-these-9-user-friendly-editors-for-2024/"><u>[Updated] Simplify Your Creative Process with These 9 User-Friendly Editors for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-magic-behind-film-plots/"><u>[Updated] Unveiling the Magic Behind Film Plots</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-weave-of-wisdom-mastering-looms-tech/"><u>2024 Approved The Weave of Wisdom Mastering Loom's Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-your-printing-power-download-the-hp-envy-7520-printer-drivers-now/"><u>Access Your Printing Power - Download the HP Envy 7520 Printer Drivers Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-breakdown-hero4-black-functionality-for-2024/"><u>Complete Breakdown Hero4 Black Functionality for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-of-samsung-galaxy-z-flip-5-expert-opinions-unveiled/"><u>Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevated-workflows-synopsis-studio-25-comprehensive-checkup-2023/"><u>Elevated Workflows Synopsis Studio 25 Comprehensive Checkup, 2023</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-m34-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy M34 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-vintage-virtual-battles-our-best-of-classic-adventure-titles/"><u>In 2024, Vintage Virtual Battles Our Best of Classic Adventure Titles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/secrets-to-splendid-windows-11-backdrops/"><u>Secrets to Splendid Windows 11 Backdrops</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-5-emulators-for-reviving-ps1-classics-on-pc-for-2024/"><u>Top 5 Emulators for Reviving PS1 Classics on PC for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-tier-streaming-tech-ranking-5-top-conference-recorder-devices-for-2024/"><u>Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use-for-2024/"><u>Unlock Advanced Capturing A Guide to Aiseesoft Screen Recorder Use for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-video-reach-convert-yt-to-igtv-for-2024/"><u>[New] Enhancing Video Reach Convert YT to IGTV for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-inspire-chuckles-designing-memes-on-kapwing-for-2024/"><u>[New] Inspire Chuckles – Designing Memes on Kapwing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-content-leading-twitter-video-tools/"><u>[Updated] Elevate Your Content Leading Twitter Video Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pinnacle-workshop-moniker-composer/"><u>[Updated] In 2024, Pinnacle Workshop Moniker Composer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-effective-techniques-to-archive-vimeo-content/"><u>2024 Approved Effective Techniques to Archive Vimeo Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-effortlessly-connect-with-these-10-affordable-video-conferencing-services/"><u>2024 Approved Effortlessly Connect with These 10 Affordable Video Conferencing Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elevate-your-broadcast-impact-with-these-5-tips-for-twitch-streamers/"><u>2024 Approved Elevate Your Broadcast Impact with These 5 Tips for Twitch Streamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-6-urban-home-structures-in-minecraft/"><u>2024 Approved Elite 6 Urban Home Structures in Minecraft</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-battlefield-series-review-best-of-the-best-total-war-edition/"><u>2024 Approved Elite Battlefield Series Review Best of the Best (Total War Edition)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-nintendo-switch-battle-selection-max-156/"><u>2024 Approved Elite Nintendo Switch Battle Selection (Max 156)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-embed-webcam-footage-seamlessly-via-vlc-capture-feature/"><u>2024 Approved Embed Webcam Footage Seamlessly via VLC Capture Feature</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-embedded-epicness-galaxy-games-chronicle/"><u>2024 Approved Embedded Epicness Galaxy Games Chronicle</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/convert-arw-raw-images-to-jpeg-for-free-with-movavis-user-friendly-online-tool/"><u>Convert ARW RAW Images to JPEG for Free with Movavi's User-Friendly Online Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-zte-by-fonelab-android-recover-video/"><u>How to recover old videos from your ZTE</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-completing-the-process-of-disabling-your-linkedin-profile/"><u>In 2024, Completing the Process of Disabling Your LinkedIn Profile</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-videoplayers-for-high-definition-on-android-for-2024/"><u>Precision Videoplayers for High Definition on Android for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-new-era-the-samsung-galaxy-z-fold-7-anticipated-launch-date-pricing-guesswork-and-device-capabilities/"><u>Sneak Peek at the New Era: The Samsung Galaxy Z Fold 7 - Anticipated Launch Date, Pricing Guesswork & Device Capabilities</u></a></li>
 </ul></div>
 

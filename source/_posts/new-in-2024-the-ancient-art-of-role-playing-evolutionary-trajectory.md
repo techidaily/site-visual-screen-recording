@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ancient Art of Role-Playing  Evolutionary Trajectory\""
-date: 2024-12-21T03:27:46.807Z
-updated: 2024-12-25T21:02:31.090Z
+date: 2024-12-29T18:36:59.505Z
+updated: 2025-01-04T17:49:28.585Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -50,7 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -60,7 +56,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -68,6 +64,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -111,11 +111,11 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Roguelite Games
 
@@ -140,7 +140,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
@@ -164,17 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cultivate-classics-essential-farming-game-lists/"><u>[New] 2024 Approved Cultivate Classics Essential Farming Game Lists</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-dive-into-the-world-of-creative-filters-for-zoom-calls/"><u>[New] Dive Into the World of Creative Filters for Zoom Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-offline-ios-game-list-unplugged-fun-awaits-for-2024/"><u>[New] Essential Offline iOS Game List - Unplugged Fun Awaits for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-ps4-screens-with-obs-full-steps/"><u>[New] In 2024, Mastering PS4 Screens with OBS Full Steps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-steering-clear-of-the-8-most-frequent-pitfalls-for-first-time-youtubers/"><u>[Updated] 2024 Approved Steering Clear of the 8 Most Frequent Pitfalls for First-Time YouTubers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-record-a-voice-over-for-a-video-for-2024/"><u>[Updated] How To Record A Voice Over For A Video for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>[Updated] In 2024, 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tracing-the-paths-of-instagram-unfollows-for-2024/"><u>[Updated] Tracing the Paths of Instagram Unfollows for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>2024 Approved Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-7-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 7 Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/backgroundannihilator-professional-erase-software/"><u>BackgroundAnnihilator Professional Erase Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-lurk-to-leader-a-guide-to-impactful-reddit-interaction/"><u>[New] 2024 Approved From Lurk to Leader A Guide to Impactful Reddit Interaction</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-live-streaming-console-gaming-secrets-on-a-computer/"><u>[New] 2024 Approved Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-start-kit-top-gopro-supplementary-gear/"><u>[New] Ideal Start Kit Top GoPro Supplementary Gear</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>[New] In 2024, Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[New] In 2024, OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimal-environmental-film-tech-roundup/"><u>[New] In 2024, Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-the-mechanics-of-voice-over-production-in-videos/"><u>[Updated] 2024 Approved Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-hd-webcam-recording-software-for-2024/"><u>[Updated] HD Webcam Recording Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-take-screenshots-on-windows-5-methods/"><u>[Updated] In 2024, How to Take Screenshots on Windows [5 Methods]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-minimalist-obs-adjustments-for-under-500-pcs-for-2024/"><u>[Updated] Minimalist OBS Adjustments for Under-$500 PCs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-12-video-capture-goes-on-forever-for-2024/"><u>[Updated] Premier 12 Video Capture - Goes On Forever for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-giggles-galore-curated-hits-of-hilarious-youtubers/"><u>2024 Approved Giggles Galore Curated Hits of Hilarious YouTubers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-methods-for-fixed-images-not-loading-in-safari-on-iphone/"><u>9 Effective Methods for Fixed Images Not Loading in Safari on iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-guide-downloading-your-favorite-shows-from-netflix-onto-your-laptop/"><u>Easy Guide: Downloading Your Favorite Shows From Netflix Onto Your Laptop</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-tips-sharing-your-apple-devices-screen-with-youtube-for-2024/"><u>Essential Tips Sharing Your Apple Devices Screen with YouTube for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-lava-blaze-2-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Lava Blaze 2 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-zte-axon-40-lite-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track ZTE Axon 40 Lite Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-a70-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-tutorial-for-building-movies-on-windows-8-for-2024/"><u>Step-by-Step Tutorial for Building Movies on Windows 8 for 2024</u></a></li>
 </ul></div>
 
