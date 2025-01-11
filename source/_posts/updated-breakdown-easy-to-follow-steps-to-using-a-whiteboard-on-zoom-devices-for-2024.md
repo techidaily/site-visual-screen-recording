@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Breakdown  Easy-to-Follow Steps to Using a Whiteboard on Zoom Devices for 2024\""
-date: 2024-07-24T14:20:46.088Z
-updated: 2024-07-25T14:20:46.088Z
+date: 2025-01-09T08:58:53.326Z
+updated: 2025-01-10T21:41:23.040Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 # How to Use Whiteboard in Zoom Meeting
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -63,10 +60,11 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Use the **Annotation**  panel from the top to select your preferred tool (Text, Draw, or Stamp), and drag your mouse on the whiteboard to use **Zoom annotation** . Anything that you draw on the **Zoom meeting whiteboard**  will be shared with all the participants of the conference.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Zoom Annotation Settings
 
@@ -78,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -103,9 +98,137 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
+## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
+
+ Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
+
+ You can learn how to use **Zoom whiteboard**  on an iPad by following the instructions explained below:
+
+#### Step 1: Share Whiteboard on iPad
+
+ On your iPad, use the regular method to start a new meeting and invite the participants to join the conference, tap **Share Content**  from the meeting control panel at the top, and tap **Whiteboard**  from the menu that appears.
+
+#### Step 2: Access Annotation Tools
+
+ Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
+
+**Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### Frequently Asked Questions About Zoom Whiteboard
+
+#### 1\. Can we share multiple whiteboards in a meeting?
+
+ Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
+
+![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
+
+#### 2\. Why can’t I see the Annotation tools?
+
+ If you have joined a meeting hosted by someone else, it is possible that the host has prohibited other participants from annotating. In this case, you can request the host to enable annotations for the other members.
+
+#### 3\. How to collaborate on a whiteboard in Zoom?
+
+ If you are a participant in a Zoom conference that has been hosted by another person, collaborating on a shared whiteboard requires you to enter the full-screen mode by clicking the **Full Screen**  button at the top-right corner, clicking and opening the **Options**  menu from the top or bottom (depending on your operating system), clicking **Annotate** , and then continuing with the regular annotation process.
+
+**Note:**  To be able to collaborate on a whiteboard, it is important that the host of the meeting has allowed the members to add annotations.
+
+**Conclusion**
+
+**Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+**Zoom Whiteboard**  allows you to draw your imaginations on to the screen for visual illustrations, and share those graphics with all the participants you are in a conference with. Not only this, you can even **annotate your creations**  on the whiteboard during an ongoing meeting session, and can also allow (or disallow) other members to annotate the illustrations on your board as well.
+
+ In addition to this, you can even allow the participants to share their **whiteboard on Zoom** if you have access to multiple monitors. This way you can view multiple whiteboard illustrations from different users simultaneously.
+
+ Here you will learn all these and many other techniques, and by the time you are done reading, you will have a fair idea on how whiteboard works, and how to use **Zoom annotation tools**  to share your imagination with others.
+
+* [Part 1: How to Make Whiteboard Annotations on Zoom Meeting \[Windows & Mac\]](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fdesktop)
+* [Part 2: Zoom Cloud Meeting Whiteboard on Android](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fandroid)
+* [Part 3: Zoom Cloud Meeting Whiteboard Annotation on iPad](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fios)
+* [Part 4: Zoom Meeting Whiteboard FAQs](#zoom%5Fmeeting%5Fwhiteboard%5Ffaq)
+
+ Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
+
+ Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
+
+ You can access **Zoom whiteboard**  when you initiate the screen sharing feature in the app. In fact, as soon as Zoom detects that you are attempting to share the screen, it prompts you to choose your preferred object to share. The method of accessing **whiteboard on Zoom**  is explained below:
+
+#### Step 1: Start a Zoom Meeting
+
+ Use the normal process to [start Zoom meeting](https://tools.techidaily.com/wondershare/filmora/download/) and invite the participants to join the conference.
+
+#### Step 2: Access/Share the Whiteboard
+
+ Click the **Share Screen**  button from the bottom of the main window during an ongoing Zoom meeting, on the **Select a window or an application that you want to share**  window, ensure that you are on the **Basic**  tab, click **Whiteboard** , and click **Share**  from the bottom-right corner.
+
+![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
+
+ Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
+
+#### Step 3: Use Annotation Tools
+
+ Use the **Annotation**  panel from the top to select your preferred tool (Text, Draw, or Stamp), and drag your mouse on the whiteboard to use **Zoom annotation** . Anything that you draw on the **Zoom meeting whiteboard**  will be shared with all the participants of the conference.
+
+![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+#### Step 4: Zoom Annotation Settings
+
+ Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
+
+ If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
+
+![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
+
+ To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
+
+ Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
+
+ Also, as it is with PCs, even the Android version of Zoom allows you to access and share whiteboard. You can follow the steps given below to get it done:
+
+#### Step 1: Share Whiteboard on Android
+
+ After installing Zoom on your Android, and signing in to your account, start a new meeting, tap anywhere on the screen, tap **Share**  from the bottom, and tap **Share Whiteboard** .
+
+![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
+
+#### Step 2: Add Annotations
+
+ Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
+
+#### Step 3: Clear Annotations
+
+ Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
+
+**Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
+
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
  Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
@@ -128,9 +251,137 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
+![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+#### 2\. Why can’t I see the Annotation tools?
+
+ If you have joined a meeting hosted by someone else, it is possible that the host has prohibited other participants from annotating. In this case, you can request the host to enable annotations for the other members.
+
+#### 3\. How to collaborate on a whiteboard in Zoom?
+
+ If you are a participant in a Zoom conference that has been hosted by another person, collaborating on a shared whiteboard requires you to enter the full-screen mode by clicking the **Full Screen**  button at the top-right corner, clicking and opening the **Options**  menu from the top or bottom (depending on your operating system), clicking **Annotate** , and then continuing with the regular annotation process.
+
+**Note:**  To be able to collaborate on a whiteboard, it is important that the host of the meeting has allowed the members to add annotations.
+
+**Conclusion**
+
+**Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+**Zoom Whiteboard**  allows you to draw your imaginations on to the screen for visual illustrations, and share those graphics with all the participants you are in a conference with. Not only this, you can even **annotate your creations**  on the whiteboard during an ongoing meeting session, and can also allow (or disallow) other members to annotate the illustrations on your board as well.
+
+ In addition to this, you can even allow the participants to share their **whiteboard on Zoom** if you have access to multiple monitors. This way you can view multiple whiteboard illustrations from different users simultaneously.
+
+ Here you will learn all these and many other techniques, and by the time you are done reading, you will have a fair idea on how whiteboard works, and how to use **Zoom annotation tools**  to share your imagination with others.
+
+* [Part 1: How to Make Whiteboard Annotations on Zoom Meeting \[Windows & Mac\]](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fdesktop)
+* [Part 2: Zoom Cloud Meeting Whiteboard on Android](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fandroid)
+* [Part 3: Zoom Cloud Meeting Whiteboard Annotation on iPad](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fios)
+* [Part 4: Zoom Meeting Whiteboard FAQs](#zoom%5Fmeeting%5Fwhiteboard%5Ffaq)
+
+ Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
+
+ Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
+
+ You can access **Zoom whiteboard**  when you initiate the screen sharing feature in the app. In fact, as soon as Zoom detects that you are attempting to share the screen, it prompts you to choose your preferred object to share. The method of accessing **whiteboard on Zoom**  is explained below:
+
+#### Step 1: Start a Zoom Meeting
+
+ Use the normal process to [start Zoom meeting](https://tools.techidaily.com/wondershare/filmora/download/) and invite the participants to join the conference.
+
+#### Step 2: Access/Share the Whiteboard
+
+ Click the **Share Screen**  button from the bottom of the main window during an ongoing Zoom meeting, on the **Select a window or an application that you want to share**  window, ensure that you are on the **Basic**  tab, click **Whiteboard** , and click **Share**  from the bottom-right corner.
+
+![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
+
+#### Step 3: Use Annotation Tools
+
+ Use the **Annotation**  panel from the top to select your preferred tool (Text, Draw, or Stamp), and drag your mouse on the whiteboard to use **Zoom annotation** . Anything that you draw on the **Zoom meeting whiteboard**  will be shared with all the participants of the conference.
+
+![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
+
+#### Step 4: Zoom Annotation Settings
+
+ Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
+
+ If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
+
+![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
+
+ To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
+
+## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
+
+ Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
+
+ Also, as it is with PCs, even the Android version of Zoom allows you to access and share whiteboard. You can follow the steps given below to get it done:
+
+#### Step 1: Share Whiteboard on Android
+
+ After installing Zoom on your Android, and signing in to your account, start a new meeting, tap anywhere on the screen, tap **Share**  from the bottom, and tap **Share Whiteboard** .
+
+![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
+
+#### Step 2: Add Annotations
+
+ Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
+
+#### Step 3: Clear Annotations
+
+ Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
+
+**Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
+
+## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
+
+ Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
+
+ You can learn how to use **Zoom whiteboard**  on an iPad by following the instructions explained below:
+
+#### Step 1: Share Whiteboard on iPad
+
+ On your iPad, use the regular method to start a new meeting and invite the participants to join the conference, tap **Share Content**  from the meeting control panel at the top, and tap **Whiteboard**  from the menu that appears.
+
+#### Step 2: Access Annotation Tools
+
+ Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
+
+**Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
+
+### Frequently Asked Questions About Zoom Whiteboard
+
+#### 1\. Can we share multiple whiteboards in a meeting?
+
+ Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
+
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -202,12 +453,13 @@ Follow @Richard Bennett
 
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
@@ -221,143 +473,9 @@ Follow @Richard Bennett
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
-#### Step 2: Add Annotations
-
- Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
-
-#### Step 3: Clear Annotations
-
- Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
-
-**Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
-
- Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
-
- You can learn how to use **Zoom whiteboard**  on an iPad by following the instructions explained below:
-
-#### Step 1: Share Whiteboard on iPad
-
- On your iPad, use the regular method to start a new meeting and invite the participants to join the conference, tap **Share Content**  from the meeting control panel at the top, and tap **Whiteboard**  from the menu that appears.
-
-#### Step 2: Access Annotation Tools
-
- Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
-
-**Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Frequently Asked Questions About Zoom Whiteboard
-
-#### 1\. Can we share multiple whiteboards in a meeting?
-
- Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
-
-![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
-
-#### 2\. Why can’t I see the Annotation tools?
-
- If you have joined a meeting hosted by someone else, it is possible that the host has prohibited other participants from annotating. In this case, you can request the host to enable annotations for the other members.
-
-#### 3\. How to collaborate on a whiteboard in Zoom?
-
- If you are a participant in a Zoom conference that has been hosted by another person, collaborating on a shared whiteboard requires you to enter the full-screen mode by clicking the **Full Screen**  button at the top-right corner, clicking and opening the **Options**  menu from the top or bottom (depending on your operating system), clicking **Annotate** , and then continuing with the regular annotation process.
-
-**Note:**  To be able to collaborate on a whiteboard, it is important that the host of the meeting has allowed the members to add annotations.
-
-**Conclusion**
-
-**Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-**Zoom Whiteboard**  allows you to draw your imaginations on to the screen for visual illustrations, and share those graphics with all the participants you are in a conference with. Not only this, you can even **annotate your creations**  on the whiteboard during an ongoing meeting session, and can also allow (or disallow) other members to annotate the illustrations on your board as well.
-
- In addition to this, you can even allow the participants to share their **whiteboard on Zoom** if you have access to multiple monitors. This way you can view multiple whiteboard illustrations from different users simultaneously.
-
- Here you will learn all these and many other techniques, and by the time you are done reading, you will have a fair idea on how whiteboard works, and how to use **Zoom annotation tools**  to share your imagination with others.
-
-* [Part 1: How to Make Whiteboard Annotations on Zoom Meeting \[Windows & Mac\]](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fdesktop)
-* [Part 2: Zoom Cloud Meeting Whiteboard on Android](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fandroid)
-* [Part 3: Zoom Cloud Meeting Whiteboard Annotation on iPad](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fios)
-* [Part 4: Zoom Meeting Whiteboard FAQs](#zoom%5Fmeeting%5Fwhiteboard%5Ffaq)
-
- Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
-
- Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
-
- You can access **Zoom whiteboard**  when you initiate the screen sharing feature in the app. In fact, as soon as Zoom detects that you are attempting to share the screen, it prompts you to choose your preferred object to share. The method of accessing **whiteboard on Zoom**  is explained below:
-
-#### Step 1: Start a Zoom Meeting
-
- Use the normal process to [start Zoom meeting](https://tools.techidaily.com/wondershare/filmora/download/) and invite the participants to join the conference.
-
-#### Step 2: Access/Share the Whiteboard
-
- Click the **Share Screen**  button from the bottom of the main window during an ongoing Zoom meeting, on the **Select a window or an application that you want to share**  window, ensure that you are on the **Basic**  tab, click **Whiteboard** , and click **Share**  from the bottom-right corner.
-
-![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
-
- Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
-
-#### Step 3: Use Annotation Tools
-
- Use the **Annotation**  panel from the top to select your preferred tool (Text, Draw, or Stamp), and drag your mouse on the whiteboard to use **Zoom annotation** . Anything that you draw on the **Zoom meeting whiteboard**  will be shared with all the participants of the conference.
-
-![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
-
-#### Step 4: Zoom Annotation Settings
-
- Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
-
- If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
-
- To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
-
- Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
-
- Also, as it is with PCs, even the Android version of Zoom allows you to access and share whiteboard. You can follow the steps given below to get it done:
-
-#### Step 1: Share Whiteboard on Android
-
- After installing Zoom on your Android, and signing in to your account, start a new meeting, tap anywhere on the screen, tap **Share**  from the bottom, and tap **Share Whiteboard** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
 #### Step 2: Add Annotations
 
@@ -369,148 +487,6 @@ Follow @Richard Bennett
 
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
-
- Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
-
- You can learn how to use **Zoom whiteboard**  on an iPad by following the instructions explained below:
-
-#### Step 1: Share Whiteboard on iPad
-
- On your iPad, use the regular method to start a new meeting and invite the participants to join the conference, tap **Share Content**  from the meeting control panel at the top, and tap **Whiteboard**  from the menu that appears.
-
-#### Step 2: Access Annotation Tools
-
- Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
-
-**Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
-
-### Frequently Asked Questions About Zoom Whiteboard
-
-#### 1\. Can we share multiple whiteboards in a meeting?
-
- Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
-![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
-
-#### 2\. Why can’t I see the Annotation tools?
-
- If you have joined a meeting hosted by someone else, it is possible that the host has prohibited other participants from annotating. In this case, you can request the host to enable annotations for the other members.
-
-#### 3\. How to collaborate on a whiteboard in Zoom?
-
- If you are a participant in a Zoom conference that has been hosted by another person, collaborating on a shared whiteboard requires you to enter the full-screen mode by clicking the **Full Screen**  button at the top-right corner, clicking and opening the **Options**  menu from the top or bottom (depending on your operating system), clicking **Annotate** , and then continuing with the regular annotation process.
-
-**Note:**  To be able to collaborate on a whiteboard, it is important that the host of the meeting has allowed the members to add annotations.
-
-**Conclusion**
-
-**Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-**Zoom Whiteboard**  allows you to draw your imaginations on to the screen for visual illustrations, and share those graphics with all the participants you are in a conference with. Not only this, you can even **annotate your creations**  on the whiteboard during an ongoing meeting session, and can also allow (or disallow) other members to annotate the illustrations on your board as well.
-
- In addition to this, you can even allow the participants to share their **whiteboard on Zoom** if you have access to multiple monitors. This way you can view multiple whiteboard illustrations from different users simultaneously.
-
- Here you will learn all these and many other techniques, and by the time you are done reading, you will have a fair idea on how whiteboard works, and how to use **Zoom annotation tools**  to share your imagination with others.
-
-* [Part 1: How to Make Whiteboard Annotations on Zoom Meeting \[Windows & Mac\]](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fdesktop)
-* [Part 2: Zoom Cloud Meeting Whiteboard on Android](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fandroid)
-* [Part 3: Zoom Cloud Meeting Whiteboard Annotation on iPad](#zoom%5Fmeeting%5Fwhiteboard%5Fon%5Fios)
-* [Part 4: Zoom Meeting Whiteboard FAQs](#zoom%5Fmeeting%5Fwhiteboard%5Ffaq)
-
- Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
-
- Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
-
- You can access **Zoom whiteboard**  when you initiate the screen sharing feature in the app. In fact, as soon as Zoom detects that you are attempting to share the screen, it prompts you to choose your preferred object to share. The method of accessing **whiteboard on Zoom**  is explained below:
-
-#### Step 1: Start a Zoom Meeting
-
- Use the normal process to [start Zoom meeting](https://tools.techidaily.com/wondershare/filmora/download/) and invite the participants to join the conference.
-
-#### Step 2: Access/Share the Whiteboard
-
- Click the **Share Screen**  button from the bottom of the main window during an ongoing Zoom meeting, on the **Select a window or an application that you want to share**  window, ensure that you are on the **Basic**  tab, click **Whiteboard** , and click **Share**  from the bottom-right corner.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
-
- Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
-
-#### Step 3: Use Annotation Tools
-
- Use the **Annotation**  panel from the top to select your preferred tool (Text, Draw, or Stamp), and drag your mouse on the whiteboard to use **Zoom annotation** . Anything that you draw on the **Zoom meeting whiteboard**  will be shared with all the participants of the conference.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
-
-#### Step 4: Zoom Annotation Settings
-
- Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
-
- If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
-
-![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
-
- To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
-
-## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
-
- Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
-
- Also, as it is with PCs, even the Android version of Zoom allows you to access and share whiteboard. You can follow the steps given below to get it done:
-
-#### Step 1: Share Whiteboard on Android
-
- After installing Zoom on your Android, and signing in to your account, start a new meeting, tap anywhere on the screen, tap **Share**  from the bottom, and tap **Share Whiteboard** .
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
-
-#### Step 2: Add Annotations
-
- Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
-
-#### Step 3: Clear Annotations
-
- Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
-
-**Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
  Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
@@ -534,6 +510,10 @@ Follow @Richard Bennett
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -579,8 +559,19 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-freepaid-screen-recorders-a-google-meet-users-choice/"><u>[New] Free/Paid Screen Recorders A Google Meet User's Choice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-professional-tips-for-ios-screen-capture-techniques-for-2024/"><u>[New] Professional Tips for iOS Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expert-tips-for-high-quality-zoom-podcast-sessions/"><u>[Updated] 2024 Approved Expert Tips for High-Quality Zoom Podcast Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-screenshots-on-dell-the-simple-way-to-capture/"><u>[Updated] Effortless Screenshots on Dell - The Simple Way to Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-supreme-vs-streamlabs-empire/"><u>[Updated] In 2024, OBS Supreme vs Streamlabs Empire</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>[Updated] Masterclass Guide Screen Recording Hulu Videos Effortlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frosty-feats-celebrating-the-beijing-olympics-2022-for-2024/"><u>Frosty Feats Celebrating the Beijing Olympics, 2022 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-the-right-logitech-g602-drivers-for-microsoft-os/"><u>How to Find and Install the Right Logitech G602 Drivers for Microsoft OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/hurdle-free-humor-your-guide-to-the-ifunny-app-world-for-2024/"><u>Hurdle-Free Humor Your Guide to the iFunny App World for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/losungen-zur-wiederherstellung-von-defekten-transcend-sd-speicherkarten-ein-umfassender-leitfaden/"><u>Lösungen Zur Wiederherstellung Von Defekten Transcend SD-Speicherkarten: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/precise-preservation-how-to-capture-windows/"><u>Precise Preservation How to Capture Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/twisting-tales-a-guide-to-angled-photography-that-captivates-audiences-on-digital-platforms/"><u>Twisting Tales A Guide to Angled Photography that Captivates Audiences on Digital Platforms</u></a></li>
+</ul></div>
 

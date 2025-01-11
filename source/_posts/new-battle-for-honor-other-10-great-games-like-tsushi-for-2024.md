@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Battle for Honor  Other 10 Great Games Like Tsushi for 2024\""
-date: 2025-01-02T18:42:46.495Z
-updated: 2025-01-04T17:00:59.481Z
+date: 2025-01-09T00:40:17.399Z
+updated: 2025-01-11T10:19:27.614Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,20 +170,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlink-from-youtube-shorts-follow-this-plan/"><u>[New] In 2024, Unlink From YouTube Shorts - Follow This Plan</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-yield-entertaining-memes-through-adobe-path/"><u>[New] In 2024, Yield Entertaining Memes, Through Adobe Path</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-essentialists-guide-to-archiving-ps3-gameplay-moments/"><u>2024 Approved The Essentialist's Guide to Archiving PS3 Gameplay Moments</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-fbx-game-recorder-playbook/"><u>2024 Approved The FBX Game Recorder Playbook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-insiders-guide-to-recording-on-itunes/"><u>2024 Approved The Insider's Guide to Recording on iTunes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-pros-playbook-elevating-your-facebook-lives-to-new-heights/"><u>2024 Approved The Pro's Playbook Elevating Your Facebook Lives to New Heights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-enhancing-your-media-projects-with-screenflow/"><u>2024 Approved The Ultimate Guide to Enhancing Your Media Projects with ScreenFlow</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-list-of-serene-pc-gaming/"><u>2024 Approved The Ultimate List of Serene PC Gaming</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/best-5-ontrack-alternatives-comprehensive-reviews-and-comparisons/"><u>Best 5 Ontrack Alternatives: Comprehensive Reviews & Comparisons</u></a></li>
-<li><a href="https://facebook.techidaily.com/crafting-compelling-stories-for-smm-through-ripl/"><u>Crafting Compelling Stories for SMM Through Ripl</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-how-to-take-a-screenshot-with-an-hp-computer/"><u>Easy Tutorial: How to Take a Screenshot with an HP Computer</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/mastery-of-wireless-connectivity-management-through-yl-softwares-comprehensive-tools/"><u>Mastery of Wireless Connectivity Management Through YL Software's Comprehensive Tools</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/er-the-top-12-best-flip-screen-vlogging-tools-for-2024/"><u>Uncover the Top 12 Best Flip-Screen Vlogging Tools for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-one-displays-nothing-quick-fix-guide-to-tackle-screen-free-issues/"><u>Xbox One Displays Nothing? Quick Fix Guide to Tackle Screen-Free Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expert-tips-for-changing-mac-screenshot-formats/"><u>[New] 2024 Approved Expert Tips for Changing Mac Screenshot Formats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-no-fuss-guides-for-documenting-video-calls/"><u>[New] 2024 Approved No-Fuss Guides for Documenting Video Calls</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-apple-m1-demystified-the-tech-leap-forward/"><u>[Updated] 2024 Approved Apple M1 Demystified The Tech Leap Forward</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-your-first-zoom-webinar-with-ease/"><u>[Updated] 2024 Approved Mastering Your First Zoom Webinar with Ease</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-boost-your-virtual-participation-with-increased-zooming/"><u>[Updated] Boost Your Virtual Participation with Increased Zooming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-boosting-zoom-clarity-the-guide-to-using-filters-wisely/"><u>[Updated] Boosting Zoom Clarity The Guide to Using Filters Wisely</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-empowering-video-content-with-advanced-aiseesoft-tech-for-2024/"><u>[Updated] Empowering Video Content with Advanced Aiseesoft Tech for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-frame-rate-showdown-evaluating-30fps-and-60fps-in-videography-for-2024/"><u>[Updated] Frame Rate Showdown Evaluating 30Fps and 60Fps in Videography for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-premium-free-phone-video-chat-apps-iosandroid/"><u>[Updated] In 2024, Essential Guide to Premium-Free Phone Video Chat Apps - iOS/Android</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-advice-for-quick-and-effortless-mac-screen-recording-via-keyboard-shortcuts/"><u>[Updated] In 2024, Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-making-every-audio-speech-count-best-free-and-paid-zoom-transcription-services/"><u>[Updated] In 2024, Making Every Audio Speech Count Best Free & Paid Zoom Transcription Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ps4-the-ultimate-guide-to-capturing-your-games-for-2024/"><u>[Updated] Mastering PS4 The Ultimate Guide to Capturing Your Games for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-premium-selection-top-5-budget-friendly-vecto-portals-for-2024/"><u>[Updated] Premium Selection – Top 5 Budget-Friendly Vecto Portals for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comment-gerer-et-surveiller-les-ordinateurs-personnels-avec-aomei-backupper/"><u>Comment Gérer Et Surveiller Les Ordinateurs Personnels Avec AOMEI Backupper?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-clean-a-damaged-disk-and-fix-error-code-0x80071ac3-on-your-pc/"><u>How to Clean a Damaged Disk and Fix Error Code 0X800^71AC3 on Your PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-practices-to-avoid-missed-frames-during-video-capture/"><u>In 2024, Best Practices to Avoid Missed Frames During Video Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-zoom-meeting-organization-tips-for-professionals/"><u>In 2024, Zoom Meeting Organization Tips for Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-inaccessible-steam-friend-list-problems-for-seamless-gaming-experience/"><u>Resolving Inaccessible Steam Friend List Problems for Seamless Gaming Experience</u></a></li>
 </ul></div>
 

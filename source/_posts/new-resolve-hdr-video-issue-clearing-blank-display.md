@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Resolve HDR Video Issue  Clearing Blank Display\""
-date: 2024-12-31T18:56:07.494Z
-updated: 2025-01-04T16:05:40.797Z
+date: 2025-01-06T03:56:59.762Z
+updated: 2025-01-10T18:26:29.008Z
 tags: 
   - screen-recording
   - ai video
@@ -22,14 +22,10 @@ If you’re recording your gameplay using OBS Studio but are seeing a black scre
 Is your OBS game capture a blank screen? OBS (Open Broadcaster Software) is a popular video-streaming and recording tool among users to share screenshots with others. But many gamers stated that the OBS game captures a dark screen and the application OBS isn’t recording the game. It is one form of prevalent difficulty. Now we revert to the primary point, how to repair the OBS black screen game capture issue? After you launched the OBS studio and were meant to record the proceedings of the game, the OBS blacks screen occurred in-game capture. It is inconvenient for players who would want to record game footage. For instance, when you engage Game Mode while playing games, a black screen may appear to OBS game capture. It is also conceivable that OBS game capture does not function when the OBS studio is not operating on your PC in the compatibility mode. Anyway, try the following techniques to repair the game capture black screen in OBS studio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Steps to Resolve OBS Black Screen Game Capture Problem
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Run OBS As Administrator
 
@@ -82,7 +78,7 @@ As such, if you have enabled the Game Mode and Game Bar on Windows 10, attempt t
 ![game mode](https://images.wondershare.com/filmora/article-images/game-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Launch your game and attempt OBS Studio to capture the action. For many customers, happily, the OBS game capture dark screen problem has been addressed.
@@ -101,10 +97,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ****Step 1 Download and Install Filmora**
 
 You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
@@ -132,7 +124,7 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 For macOS 10.12 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ****Step 1 Download and Install Filmora**
@@ -141,6 +133,10 @@ You may click one of the "Download" options above to receive the installer accor
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ****Step 2 Start Recording Gameplay**
 
 Next, you may also pick the audio method from system sound, microphone, or both in the center of the tool. Then, click the record button in the right section of the tool to start screen recording. A floating toolbar will emerge, displaying you the important recording buttons like pause, resume, pent, stop, and more.
@@ -148,7 +144,7 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ****Step 3 Complete the Recording Process**
@@ -158,7 +154,7 @@ Once done, press the "Stop" button at the leftmost portion of the floating toolb
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -182,7 +178,7 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ****Step 3 Complete the Recording Process**
@@ -190,6 +186,10 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
 
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -199,15 +199,15 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ****Step 1 Download and Install Filmora**
 
 You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ****Step 2 Start Recording Gameplay**
 
@@ -215,15 +215,15 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ****Step 3 Complete the Recording Process**
 
 Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
 
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -253,22 +253,21 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elite-screen-recording-app-for-no-popups/"><u>[New] 2024 Approved Elite Screen Recording App for No Popups</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-in-depth-look-apowersofts-pc-screenshare-technology/"><u>[New] 2024 Approved In-Depth Look Apowersoft's PC Screenshare Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-maximize-winning-proven-tips-for-capturing-games-on-the-latest-w11/"><u>[New] 2024 Approved Maximize Winning Proven Tips for Capturing Games on the Latest W11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-beyond-flat-canvas-elevating-text-to-new-heights/"><u>[New] Beyond Flat Canvas Elevating Text to New Heights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-kid-safe-car-challenges-galore/"><u>[New] In 2024, Kid-Safe Car Challenges Galore</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-level-up-your-farming-life-explore-7-14-mods-for-2024/"><u>[New] Level Up Your Farming Life - Explore #7-14 Mods for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/hortening-success-youtubes-leading-link-minimizers-compared-for-2024/"><u>[New] Shortening Success YouTube's Leading Link Minimizers Compared for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-allocate-more-ram-to-minecraft-for-2024/"><u>[Updated] How to Allocate More Ram to Minecraft for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-optimize-your-teams-virtual-meetings-for-2024/"><u>[Updated] How to Optimize Your Team's Virtual Meetings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-leading-edge-screen-snapshot-software/"><u>[Updated] In 2024, Leading Edge Screen Snapshot Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secrets-unveiled-best-practices-for-recording-roblox-games-on-a-mac/"><u>[Updated] In 2024, Secrets Unveiled Best Practices for Recording Roblox Games on a Mac</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hassle-free-strategies-to-correct-failed-tone-replay-problem/"><u>Hassle-Free Strategies to Correct 'Failed Tone Replay' Problem</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-realme-narzo-n53-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Realme Narzo N53 using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-creativity-start-with-8-designed-gpts/"><u>Unleash Creativity: Start with 8 Designed GPTs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vanishing-polaris-video-card-fixed/"><u>Vanishing Polaris Video Card Fixed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/windows-11-redefined-a-features-breakdown/"><u>Windows 11 Redefined A Features Breakdown</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-comprehensive-guide-to-recording-hulu-across-platforms/"><u>[New] Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-detailed-walkthrough-ipad-screen-recording/"><u>[New] Detailed Walkthrough IPad Screen Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-to-personalize-google-meet-on-laptops-and-mobile-devices/"><u>[New] Easy Steps to Personalize Google Meet on Laptops & Mobile Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effective-techniques-for-capturing-windows-8-display/"><u>[New] Effective Techniques for Capturing Windows 8 Display</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-xbox-game-recording-techniques-for-gamers/"><u>[Updated] In 2024, Xbox Game Recording Techniques for Gamers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-in-vr-bikes-and-trails/"><u>[Updated] Masterclass in VR Bikes and Trails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-live-action-best-practices-in-gaming-recording/"><u>[Updated] Mastering Live Action Best Practices in Gaming Recording</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-chromebook-c202sa-unveiled-perfect-companion-for-students-and-kids-a-readers-review/"><u>Asus Chromebook C202SA Unveiled: Perfect Companion for Students & Kids - A Reader's Review</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/corriger-lechec-du-pilote-intel-graphics-hd-pour-bcm20702a0-sous-windows-11-tutoriel-simple-et-efficace/"><u>Corriger L'échec Du Pilote Intel Graphics HD Pour BCM20702A0 Sous Windows 11 - Tutoriel Simple Et Efficace</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-climb-the-ladder-the-best-12-tycoon-games-for-aspiring-leaders/"><u>In 2024, Climb the Ladder The Best 12 Tycoon Games for Aspiring Leaders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leveraging-the-strengths-of-ez-grabber-software/"><u>In 2024, Leveraging the Strengths of EZ Grabber Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mobile-markup-mastery-iosandroid-leaders/"><u>Mobile Markup Mastery IOS/Android Leaders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-no-go-zones-for-chatgpt-seven-key-examples-revealed/"><u>Navigating the No-Go Zones for ChatGPT: Seven Key Examples Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-11-robotic-playthings-the-perfect-presents-spotted-by-zdnet/"><u>Top 11 Robotic Playthings: The Perfect Presents Spotted by ZDNet</u></a></li>
 </ul></div>
 

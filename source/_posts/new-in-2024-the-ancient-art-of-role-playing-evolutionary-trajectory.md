@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ancient Art of Role-Playing  Evolutionary Trajectory\""
-date: 2024-12-29T18:36:59.505Z
-updated: 2025-01-04T17:49:28.585Z
+date: 2025-01-03T19:45:24.187Z
+updated: 2025-01-11T10:56:40.328Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -46,7 +50,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -55,19 +59,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -111,10 +107,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Roguelite Games
@@ -133,6 +125,10 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -140,7 +136,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
@@ -148,6 +144,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,24 +164,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-lurk-to-leader-a-guide-to-impactful-reddit-interaction/"><u>[New] 2024 Approved From Lurk to Leader A Guide to Impactful Reddit Interaction</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-live-streaming-console-gaming-secrets-on-a-computer/"><u>[New] 2024 Approved Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-start-kit-top-gopro-supplementary-gear/"><u>[New] Ideal Start Kit Top GoPro Supplementary Gear</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>[New] In 2024, Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[New] In 2024, OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimal-environmental-film-tech-roundup/"><u>[New] In 2024, Optimal Environmental Film Tech Roundup</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-the-mechanics-of-voice-over-production-in-videos/"><u>[Updated] 2024 Approved Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-hd-webcam-recording-software-for-2024/"><u>[Updated] HD Webcam Recording Software for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-take-screenshots-on-windows-5-methods/"><u>[Updated] In 2024, How to Take Screenshots on Windows [5 Methods]</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-minimalist-obs-adjustments-for-under-500-pcs-for-2024/"><u>[Updated] Minimalist OBS Adjustments for Under-$500 PCs for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-12-video-capture-goes-on-forever-for-2024/"><u>[Updated] Premier 12 Video Capture - Goes On Forever for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-giggles-galore-curated-hits-of-hilarious-youtubers/"><u>2024 Approved Giggles Galore Curated Hits of Hilarious YouTubers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-effective-methods-for-fixed-images-not-loading-in-safari-on-iphone/"><u>9 Effective Methods for Fixed Images Not Loading in Safari on iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-downloading-your-favorite-shows-from-netflix-onto-your-laptop/"><u>Easy Guide: Downloading Your Favorite Shows From Netflix Onto Your Laptop</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-tips-sharing-your-apple-devices-screen-with-youtube-for-2024/"><u>Essential Tips Sharing Your Apple Devices Screen with YouTube for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-lava-blaze-2-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Lava Blaze 2 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-zte-axon-40-lite-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track ZTE Axon 40 Lite Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/itel-a70-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-tutorial-for-building-movies-on-windows-8-for-2024/"><u>Step-by-Step Tutorial for Building Movies on Windows 8 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-to-follow-steps-for-android-video-capture/"><u>[New] Easy-to-Follow Steps for Android Video Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide-for-2024/"><u>[New] Speedy Streams Optimizing FB Videos - Essential Extensions and Apps Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-game-footage-secrets-of-the-skilled-videographer/"><u>[Updated] In-Game Footage Secrets of the Skilled Videographer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-screencasts-a-step-by-step-manual/"><u>2024 Approved Mastering Screencasts A Step-by-Step Manual</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-video-capture-a-deep-dive-into-showmores-tech/"><u>2024 Approved Mastering Video Capture A Deep Dive Into ShowMore's Tech</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-lava-blaze-2-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Lava Blaze 2 Pro Unlock Without Password</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-amd-radeon-hd-6350-graphics-card-driver-for-windows-systems/"><u>Download & Update: AMD Radeon HD 6350 Graphics Card Driver for Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-igniting-online-trends-crafting-viral-facebook-posts/"><u>In 2024, Igniting Online Trends Crafting Viral Facebook Posts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ingenious-webcam-use-cases-at-home-for-2024/"><u>Ingenious Webcam Use Cases at Home for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/lol-gaming-on-air-top-3-recording-methods-for-2024/"><u>LOL Gaming On Air Top 3 Recording Methods for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/simple-and-quick-tips-for-restoring-your-scratched-dvd-collection-like-a-pro/"><u>Simple & Quick Tips for Restoring Your Scratched DVD Collection Like a Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/smoothrecorder-ultimate-edition-for-2024/"><u>SmoothRecorder Ultimate Edition for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-8t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 8T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006829791-unlocking-smooth-gameplay-fix-nba-2k24s-persistent-code-727e66ac-challenge/"><u>Unlocking Smooth Gameplay: Fix NBA 2K24's Persistent Code 727E66ac Challenge</u></a></li>
 </ul></div>
 

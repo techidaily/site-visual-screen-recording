@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fast Fixes  Effortless Screenshots & Captures with Dell\""
-date: 2024-07-24T14:20:54.565Z
-updated: 2024-07-25T14:20:54.565Z
+date: 2025-01-06T04:41:33.907Z
+updated: 2025-01-11T08:53:55.274Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ If you are a Dell laptop user, there are going to be times when you may have to 
 
 In order to screen record Dell laptop, you will need a screen recorder. There are free as well as premium screen recorders available. If you do not want to get a dedicated screen recorder application on your Dell laptop, you can opt for an online screen recorder as well. In this article, we have illustrated how to screen record on Dell laptop in all possible ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1\. Record with Game Bar
 
 You most likely have Windows 10 installed on your Dell laptop. Windows 10 comes with an inbuilt screen recorder called Game Bar. You can record your screen as well as capture screenshots as per your requirements. You even capture your system as well as external mic audio. Besides, you can view your system performance from its widget. After capturing a screenshot, you can copy and paste it anywhere. Besides, you can share it on Twitter instantly. Here are the steps on how to record screen on Dell laptop using Windows Game Bar.
@@ -29,10 +33,11 @@ Step 1: Press Windows + G keys to open Game Bar on your Dell laptop screen.
 
 Step 2: Prepare the screen that you want to record. Once you are ready, click on the Record button on the Capture toolbar to start recording. Alternatively, you can press Windows + Alt + R keys together to start recording.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![game bar dell laptop screen](https://images.wondershare.com/filmora/article-images/game-bar-dell-laptop-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Press Windows + Alt + R together again to stop recording. The recorded video will be available under Widgets > Gallery section.
 
@@ -42,10 +47,11 @@ Even though Windows Media Player is the default medial player on Windows, users 
 
 Step 1: Open VLC Media Player and go to Media> Convert/Save option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Go to Capture Device tab and change Capture Mode to Desktop.
 
@@ -57,14 +63,6 @@ Step 3: Under Destination section, click on Browser to select the destination fo
 
 Step 4: Finally, click on Start button to start recording your screen. You will get controls to stop recording. The recorded video will be available in the destination file you have selected previously.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 3\. Record Dell Screen with OBS
 
 OBS Studio is an open-source screen recorder with which you can record screen on Dell laptop. The software is available free of cost and there are advanced and customizable configuration settings available. You can screen as well as live stream your screen on various online platforms through OBS Studio. Besides, you can record video from any external video capturing device. Here are the steps how to record screen on Dell laptop with OBS Studio.
@@ -77,9 +75,6 @@ Step 2: Go to Sources tab and click on “+” icon. Select Display Capture from
 
 Step 3: Name your display capture session and click on Ok button. If you have multiple Display units, you can select the one that you want to record.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
 
 Step 4: You will see your display screen on the OBS window. Click on Start Recording button under Controls tab. The recording will start in the background.
@@ -88,18 +83,12 @@ Step 4: You will see your display screen on the OBS window. Click on Start Recor
 
 Step 5: Once you want to stop recording, go to OBS Studio and click on Stop Recording.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Way 4\. Use Screencast-O-Matic to Record Dell
 
 If you do not want a dedicated screen recorder for your Dell laptop, you can use an online screen recorder to capture your screen on your Dell laptop. We recommend Screencast-O-Matic where you have to install a web launcher and thereafter, you can record your screen from its official website. You can record screen as well as webcam along with system audio and mic audio for commentary. Here are the steps how to screen record on a Dell laptop using Screencast-O-Matic.
 
 Step 1: Visit “screencast-o-matic.com” and click on Record for Free button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![screencast o-matic to record dell](https://images.wondershare.com/filmora/article-images/screencast-o-matic-to-record-dell.jpg)
 
 Step 2: Click on Launch Free Recorder and download the web launcher. Install the web launcher.
@@ -108,9 +97,6 @@ Step 2: Click on Launch Free Recorder and download the web launcher. Install the
 
 Step 3\. Now, visit “screencast-o-matic.com/screen-recorder” and click on Launch Free Recorder.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screencast o-matic com](https://images.wondershare.com/filmora/article-images/screencast-o-matic-com.jpg)
 
 Step 4: Once you have Screencast-O-Matic on your screen, select Screen option. Make changes to the parameters as required.
@@ -119,14 +105,19 @@ Step 4: Once you have Screencast-O-Matic on your screen, select Screen option. M
 
 Step 5: To start recording, click on Rec button at the top-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![screencast click on rec button](https://images.wondershare.com/filmora/article-images/screencast-click-on-rec-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: To stop recording, click on Pause followed by Done button.
 
 ![screencast pause](https://images.wondershare.com/filmora/article-images/screencast-pause.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5\. Record Dell laptop screen with Filmora
 
@@ -146,43 +137,15 @@ Step 1: Download and install Wondershare Filmora for Windows. Launch Filmora and
 
 Step 2: Choose the recording screen area and select the audio sources. The “Record Camera Stream” option is there if you want to capture your webcam along with the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 Step 3: Click on Record button to start recording when you are ready. Press F9 key to stop recording when done. You can edit instantly and export in the desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-## Conclusion
-
-We have stated all the different ways to record the screen of your Dell laptop. You can use the inbuilt Game Bar on Windows 10 if you don’t want to install any third-party app. If you have VLC Media Player installed, you can also use it as a screen recorder. OBS Studio is a great screen recorder where you can live stream as well. Screencast-O-Matic is an online screen recorder you can use as well. But the best screen recorder is Wondershare Filmora where you can edit your recorded video alongside.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora for Windows. Launch Filmora and click on PC Screen to record the screen.
-
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Choose the recording screen area and select the audio sources. The “Record Camera Stream” option is there if you want to capture your webcam along with the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-Step 3: Click on Record button to start recording when you are ready. Press F9 key to stop recording when done. You can edit instantly and export in the desired file format.
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
 
@@ -202,10 +165,11 @@ Step 2: Choose the recording screen area and select the audio sources. The “Re
 
 Step 3: Click on Record button to start recording when you are ready. Press F9 key to stop recording when done. You can edit instantly and export in the desired file format.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,23 +181,46 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora for Windows. Launch Filmora and click on PC Screen to record the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 Step 2: Choose the recording screen area and select the audio sources. The “Record Camera Stream” option is there if you want to capture your webcam along with the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 Step 3: Click on Record button to start recording when you are ready. Press F9 key to stop recording when done. You can edit instantly and export in the desired file format.
 
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+We have stated all the different ways to record the screen of your Dell laptop. You can use the inbuilt Game Bar on Windows 10 if you don’t want to install any third-party app. If you have VLC Media Player installed, you can also use it as a screen recorder. OBS Studio is a great screen recorder where you can live stream as well. Screencast-O-Matic is an online screen recorder you can use as well. But the best screen recorder is Wondershare Filmora where you can edit your recorded video alongside.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora for Windows. Launch Filmora and click on PC Screen to record the screen.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Choose the recording screen area and select the audio sources. The “Record Camera Stream” option is there if you want to capture your webcam along with the screen.
+
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 3: Click on Record button to start recording when you are ready. Press F9 key to stop recording when done. You can edit instantly and export in the desired file format.
+
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -262,8 +249,24 @@ We have stated all the different ways to record the screen of your Dell laptop. 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-visual-ventures-exploring-affordable-tiktok-beauty-behind-bars/"><u>[New] 2024 Approved Visual Ventures Exploring Affordable TikTok Beauty Behind Bars</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products-for-2024/"><u>[New] A Detailed Study of VSDC's Screen Capture Prowess & Competing Products for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effortless-techniques-recording-and-storing-gotomeeting-data/"><u>[New] Effortless Techniques Recording and Storing GoToMeeting Data</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-top-tweet-talent-social-medias-10-gems/"><u>[New] In 2024, Top Tweet Talent Social Media’s 10 Gems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-text-movement-collections/"><u>[New] Optimal Text Movement Collections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-open-source-switch-clones-for-2024/"><u>[New] Premier Open-Source Switch Clones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reinstating-focus-in-photos-a-comprehensive-guide-to-top-10-online-enhancers/"><u>[New] Reinstating Focus in Photos A Comprehensive Guide to Top 10 Online Enhancers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023s-elite-fb-content-collectors-ranked-8/"><u>[Updated] 2023'S Elite FB Content Collectors Ranked 8</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elite-videochats-enabling-online-meeting-excellence/"><u>[Updated] In 2024, Elite Videochats Enabling Online Meeting Excellence</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-insightful-guide-to-sharex-critiques-and-counterparts/"><u>[Updated] In 2024, Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screenshot-expertise-checker/"><u>[Updated] ScreenShot Expertise Checker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-leading-8-multimedia-apps-for-creative-phones-android-ios/"><u>[Updated] The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211341649-9781667469607-ecrire-pour-etre-heureux/"><u>Écrire pour être heureux | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-engagement-top-hashtags-for-gameplay-vids/"><u>Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/tackling-card-not-recognized-problems/"><u>Tackling Card Not Recognized Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-screen-recorders-journey-a-deep-dive-into-the-best-tools-for-2024/"><u>The Screen Recorder's Journey A Deep Dive Into the Best Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-techniques-for-producing-stellar-videotutorials-for-2024/"><u>Ultimate Techniques for Producing Stellar Videotutorials for 2024</u></a></li>
+</ul></div>
 

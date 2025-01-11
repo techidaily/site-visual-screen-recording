@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Control  Switch Pro in Steam Play for 2024\""
-date: 2025-01-02T17:24:56.937Z
-updated: 2025-01-04T16:59:33.251Z
+date: 2025-01-04T10:08:28.964Z
+updated: 2025-01-11T02:13:58.926Z
 tags: 
   - screen-recording
   - ai video
@@ -43,7 +43,7 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wired Connection for Switch Pro Controllers**
@@ -59,7 +59,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
@@ -78,19 +78,19 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once Steam is set up, you can begin using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
@@ -111,6 +111,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -127,10 +131,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -146,16 +146,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>[Updated] Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
-<li><a href="https://win-trending.techidaily.com/configurer-et-activer-la-sauvegarde-sys-dans-windows-10/"><u>Configurer Et Activer La Sauvegarde Sys Dans Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cost-effective-streaming-on-low-cost-pcs-for-2024/"><u>Cost-Effective Streaming on Low-Cost PCs for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cost-efficient-top-screen-recorder-apps-for-chromeos-for-2024/"><u>Cost-Efficient Top Screen Recorder Apps for ChromeOS for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cracked-the-full-screen-hurdle-in-obs-for-2024/"><u>Cracked The Full Screen Hurdle in OBS for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/crafting-a-compelling-narrative-with-voiceover-and-visuals/"><u>Crafting a Compelling Narrative with Voiceover and Visuals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-boost-your-visual-storytelling-key-strategies-for-solo-videos/"><u>In 2024, Boost Your Visual Storytelling Key Strategies for Solo Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-m6-pro-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco M6 Pro 4G to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/pro-tips-securely-preserving-whatsapp-call-recordings-for-2024/"><u>Pro Tips Securely Preserving WhatsApp Call Recordings for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-the-secrets-to-earnings-on-youtube-shorts-for-2024/"><u>Unlocking the Secrets to Earnings on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-for-entering-google-meet-via-devices/"><u>[New] In 2024, Step-by-Step for Entering Google Meet via Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-techniques-for-streaming-seminars-on-a-fee-free-basis-for-2024/"><u>[New] Techniques for Streaming Seminars on a Fee-Free Basis for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-pick-automated-video-to-text-tools/"><u>[New] Top Pick Automated Video to Text Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-lenovo-laptop-black-screen-issues/"><u>[SOLVED] Lenovo Laptop Black Screen Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-saving-google-meet-interactions/"><u>[Updated] 2024 Approved Step-by-Step Guide to Saving Google Meet Interactions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-techniques-to-achieve-consistent-frame-rates-in-obs-studio/"><u>[Updated] 2024 Approved Techniques to Achieve Consistent Frame Rates in OBS Studio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-simplifying-the-process-of-capturing-and-fine-tuning-videos-in-adobe-connect/"><u>[Updated] In 2024, Simplifying the Process of Capturing and Fine-Tuning Videos in Adobe Connect</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-tech-tutorial-saving-screen-movies-from-your-gadgets/"><u>[Updated] In 2024, Tech Tutorial Saving Screen Movies From Your Gadgets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-vs-twitch-hub-best-platform-debate-for-2024/"><u>[Updated] OBS Vs. Twitch Hub Best Platform Debate for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-pics-with-practicality-top-5-pc-snipping-tools-for-2024/"><u>[Updated] Perfecting Pics with Practicality - Top 5 PC Snipping Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quickcapture-miniapp-windows-10-version-for-2024/"><u>[Updated] QuickCapture MiniApp - Windows 10 Version for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tailored-solutions-for-high-quality-iptv-capture-for-2024/"><u>[Updated] Tailored Solutions for High-Quality IPTV Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-smart-8-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Smart 8? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x50iplus-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor X50i+</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/flash-sale-alert-up-to-30-off-on-your-next-4-decks-dex3-bundle-for-just-149/"><u>Flash Sale Alert! Up To $30 Off on Your Next 4 Decks - DEX3 Bundle for Just $149!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210823607-9781394208609-knowledge-and-ideation/"><u>Knowledge and Ideation | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ultimate-price-jump-on-xbox-gold-membership/"><u>Navigating Ultimate Price Jump on Xbox Gold Membership</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-google-pixel-8-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Google Pixel 8 Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-safety-on-social-selling-platforms-key-steps-to-take/"><u>Your Safety on Social Selling Platforms: Key Steps to Take</u></a></li>
 </ul></div>
 
