@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Smart Screen Capture on Mac  Understanding the Best 5 Methods\""
-date: 2025-01-04T14:03:18.900Z
-updated: 2025-01-10T16:11:45.335Z
+date: 2025-01-12T20:16:05.757Z
+updated: 2025-01-16T16:14:01.279Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Unlike Windows PC, Mac computer doesn't own the "PrintScreen" shortcut button to
 
 * [Part 1: How to Make Screen Record and Screenshots on Mac](#part1) \- Edit After Screenshots
 * [Part 2: 4 Methods to Capture Screenshots on Mac Itself](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Make Screen Record and Screenshots on Mac
 
@@ -66,10 +70,6 @@ Enter Filmora and navigate towards the "**Files**" > "**Record Media**". You wil
 
 ![launch filmora screen recorder from the top toolbar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **3\.** From the Search Bar Menu
 
 Enter Filmora then find the search bar, the "**Record**" option just next to it. Select a suitable recording option.
@@ -81,12 +81,16 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
@@ -100,9 +104,17 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 
 ![screen recorder bar of filmora mac](https://images.wondershare.com/filmora/article-images/screen-recorder-bar-of-filmora-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Drag and drop the recording video clip to the timeline, you can now preview the video and click the "**Snapshot**" icon to screenshot the screen, or use the shortcut key "**Control + Option + S**" to capture a screenshot directly.
 
 ![snapshot recorded screen with filmora mac](https://images.wondershare.com/filmora/article-images/snapshot-recorded-screen-with-filmora-mac-new.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then you can make simple settings and get your screenshots.
 
@@ -115,6 +127,10 @@ Want to Make Screen Record on Mac? Try This Out!
 [Screen Record on Mac with Ease](https://tools.techidaily.com/wondershare/filmora/download/) [Screen Record on Mac with Ease](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -130,7 +146,7 @@ Besides using a screenshot tool, Mac also offers multiple ways to make screensho
 * [Method 4: Make Screenshots with Pre-installed Grab App](#method4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1 3 Ways to Take Screenshots with Keyboard Commands
@@ -158,7 +174,7 @@ Launch the app or open the window you'd like to screenshot, and then hold the **
 ![capture a window or menu or app on mac](https://images.wondershare.com/filmora/article-images/capture-a-window-or-menu-on-mac-keyboard-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2 Taking Screenshots with Touch Bar on MacBook Pro
@@ -167,15 +183,7 @@ MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on 
 
 ![screenshots from touch bar on macbook pro](https://images.wondershare.com/filmora/article-images/touch-bar-on-macbook-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3 Capture Screen with Built-in Preview App
 
@@ -184,14 +192,10 @@ Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-me
 ![capture screen with preview on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-preview-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Preview app lets you select the saving path and name it before saving.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4 Make Screenshots with Pre-installed Grab App
 
@@ -203,15 +207,7 @@ The Timed Screen feature can be used if you want to have a ten-second delay befo
 
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you would like to include the mouse cursor in your screenshots, you have go to the **Preferences** option, then select the **Pointer Type**, it also able to record the clicking sound if needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -230,6 +226,10 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -250,21 +250,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>[New] 2024 Approved Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-screen-recording-an-in-depth-look-at-zd-software-tools/"><u>[New] 2024 Approved Mastering the Art of Screen Recording An In-Depth Look at ZD Software Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-starting-from-scratch-motion-graphics-essentials/"><u>[New] 2024 Approved Starting From Scratch Motion Graphics Essentials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pixelated-prowess-celebrating-the-best-shooter-classics/"><u>[New] In 2024, Pixelated Prowess Celebrating the Best Shooter Classics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-masterclass-in-brief-lapses-top-5-for-2024/"><u>[New] Masterclass in Brief Lapses #Top 5 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-instagram-live-with-professional-obs/"><u>[Updated] 2024 Approved Instagram Live with Professional OBS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-cutting-edge-8-streaming-selectors-for-2024/"><u>[Updated] Cutting-Edge 8 Streaming Selectors for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-direct-link-between-twitter-and-tumblr-videos-for-2024/"><u>[Updated] Direct Link Between Twitter and Tumblr Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-discover-free-high-quality-facebook-image-and-vfx-makers/"><u>[Updated] In 2024, Discover Free, High-Quality Facebook Image & VFX Makers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-home-designs-for-modern-minecraft-world/"><u>[Updated] In 2024, Innovative Home Designs for Modern Minecraft World</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-through-the-world-of-io-screenshots/"><u>[Updated] In 2024, Navigating Through the World of Io Screenshots</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/beginners-tutorial-composing-youtube-video-content/"><u>Beginner's Tutorial Composing YouTube Video Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-redmi-k70-pro-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Xiaomi Redmi K70 Pro using Video Repair Utility?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retrieve-a-stolenlost-iphone-a-step-by-step-guide-using-find-my-feature/"><u>Retrieve a Stolen/Lost iPhone: A Step-by-Step Guide Using Find My Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-for-compact-computing-the-ultimate-list-of-leading-mini-tablets-as-judged-by-tech-aficionados-zdnets-guide/"><u>Top Picks for Compact Computing: The Ultimate List of Leading Mini Tablets , as Judged by Tech Aficionados | ZDNet's Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-your-options-choosing-between-tiktok-and-youtube-shorts-for-2024/"><u>Weighing Your Options Choosing Between TikTok and YouTube Shorts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-nailing-the-perfect-timelapse-with-ios-devices/"><u>[New] 2024 Approved Nailing the Perfect Timelapse with iOS Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-secrets-to-professional-voice-overs-on-a-budget/"><u>[New] 2024 Approved Secrets to Professional Voice Overs on a Budget</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-vlc-and-mx-player/"><u>[New] Comparing VLC and MX Player</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-instantaneous-screen-logger-for-chrome/"><u>[New] In 2024, Instantaneous Screen Logger for Chrome</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>[New] In 2024, Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-recording-your-iphoneipad-whats-new/"><u>[New] In 2024, Recording Your iPhone/iPad What's New</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-key-techniques-for-capturing-youtube-streaming-content-for-2024/"><u>[New] Key Techniques for Capturing YouTube Streaming Content for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hich-channel-pulls-more-money-dailymotion-versus-youtube-monetization-for-2024/"><u>[New] Which Channel Pulls More Money? Dailymotion Versus YouTube Monetization for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-xbox-ultimate-screen-capture-tips/"><u>[Updated] 2024 Approved Mastering Xbox Ultimate Screen Capture Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhance-your-projects-with-free-green-screens-from-these-online-hubs/"><u>[Updated] Enhance Your Projects with Free Green Screens From These Online Hubs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-multi-view-magic-is-splitcam-prime-in-2024/"><u>[Updated] Multi-View Magic Is SplitCam Prime, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-tools-for-gif-to-video-conversion-best-5/"><u>[Updated] Precision Tools for GIF to Video Conversion (Best 5)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-perfecting-the-art-of-borders-in-instagram-photos/"><u>2024 Approved Perfecting the Art of Borders in Instagram Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-x-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone X 3 Ways To Unlock</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-titans-social-networks-10-most-shared-posts/"><u>In 2024, Tweet Titans Social Network’s 10 Most Shared Posts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/por-que-versus-por-que-deciphering-the-difference/"><u>Por Que Versus Por Qué: Deciphering the Difference</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme 12+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

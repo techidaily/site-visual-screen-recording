@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms"
-date: 2025-01-05T03:39:45.542Z
-updated: 2025-01-10T21:41:02.539Z
+date: 2025-01-11T05:40:12.414Z
+updated: 2025-01-17T04:31:25.632Z
 tags:
   - win11
   - win10
@@ -65,18 +65,10 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -89,6 +81,10 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -160,10 +156,14 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -175,15 +175,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
 
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar (Windows 10)
 
@@ -199,13 +199,13 @@ There are mainly two methods for you to update the graphics driver:
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Farming Simulator 22 to see if you can play it smoothly.
@@ -231,24 +231,21 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-local-security-authority-protection-is-off/"><u>[Fixed] Local Security Authority Protection Is Off</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-cameras-and-monitors-together-efficiently/"><u>[New] How to Record Cameras & Monitors Together Efficiently</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-enhance-visibility-youtube-thumbnails-made-simple/"><u>[Updated] 2024 Approved Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-flipping-the-script-on-instagrams-video-content/"><u>[Updated] Flipping the Script on Instagram's Video Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-graphics-legacy-radeon-reloaded/"><u>[Updated] Graphics Legacy Radeon Reloaded</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>[Updated] How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-navigating-virtual-realms-iphone-vr-video-playback-for-2024/"><u>[Updated] Navigating Virtual Realms IPhone VR Video Playback for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/behind-the-scenes-how-microsoft-plans-to-outshine-apple-with-its-innovative-ai-processor/"><u>Behind the Scenes: How Microsoft Plans to Outshine Apple with Its Innovative AI Processor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/editing-instagram-videos-on-windows-10-a-step-by-step-guide-using-the-advanced-winx-hd-video-converter/"><u>Editing Instagram Videos on Windows 10: A Step-by-Step Guide Using the Advanced WinX HD Video Converter</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-screen-recording-tools-a-comprehensive-educators-guide-for-2024/"><u>Essential Screen Recording Tools A Comprehensive Educator's Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/foundations-of-video-editing-in-the-gaming-world/"><u>Foundations of Video Editing in the Gaming World</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/game-to-video-magic-full-obs-guide-for-ps4-recording/"><u>Game-to-Video Magic Full OBS Guide for PS4 Recording</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-complet-a-la-recuperation-de-donnees-pour-ordinateurs-lenovo-approches-testees-et-fiables/"><u>Guide Complet À La Récupération De Données Pour Ordinateurs Lenovo - Approches Testées Et Fiables</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-teams-video-meeting-for-2024/"><u>How to Record Teams Video Meeting for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-secure-continuous-streaming-in-obs/"><u>How To Secure Continuous Streaming In OBS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-decoding-kinemaster-complexities-best-practices-and-alternative-digital-tools/"><u>In 2024, Decoding KineMaster Complexities Best Practices & Alternative Digital Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methodology-for-rectifying-non-loading-device-drivers-in-win11/"><u>Methodology for Rectifying Non-Loading Device Drivers in Win11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/quickcapture-chromes-screen-recording-feature/"><u>QuickCapture Chrome's Screen Recording Feature</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-notch-free-animators-toolkit-the-ultimate-2024-version-of-12-cel-mai-buns-award-winning-3d-design-software/"><u>Top-Notch Free Animator's Toolkit: The Ultimate 2024 Version of 12 Cel Mai Bun's Award-Winning 3D Design Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-guide-enabling-a-full-screen-grid-on-zoom/"><u>[New] 2024 Approved Essential Guide Enabling a Full-Screen Grid on Zoom</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-video-layouts-vertical-or-horizontal/"><u>[New] 2024 Approved Facebook Video Layouts Vertical or Horizontal?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-lol-gameplay3-methods-for-2024/"><u>[New] How To Record LOL Gameplay?(3 Methods) for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-translate-speech-to-text-the-right-way-with-google-translate-for-2024/"><u>[New] How to Translate Speech to Text the Right Way with Google Translate for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-break-down-top-7-video-streaming-tools-that-revolutionize-youtube-broadcasts-iphonesandroid/"><u>[New] In 2024, Break Down Top 7 Video Streaming Tools that Revolutionize YouTube Broadcasts (iPhones/Android)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-infusing-life-into-ppt-with-professional-voiceovers-for-2024/"><u>[New] Infusing Life Into PPT with Professional Voiceovers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-instant-live-from-obs-to-instagram-app-for-2024/"><u>[New] Instant Live From OBS to Instagram App for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-methods-to-log-gaming-sessions/"><u>[Updated] 2024 Approved Innovative Methods to Log Gaming Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leading-ps2-emulators-unveiled-for-iphone-and-ipad/"><u>[Updated] 2024 Approved Leading PS2 Emulators Unveiled for iPhone and iPad</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-experts-choice-top-green-screen-tools-list-for-2024/"><u>[Updated] Expert's Choice Top Green Screen Tools List for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting/"><u>[Updated] In 2024, Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-vegaspro-the-19-edition/"><u>[Updated] Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-gt-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme GT 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bing-ai-exploring-10-key-differences-in-their-functionality/"><u>ChatGPT vs Bing AI: Exploring 10 Key Differences in Their Functionality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dji-mavic-3-review/"><u>DJI Mavic 3 Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-or-reset-an-iphone-without-itunes/"><u>How to Restore or Reset an iPhone Without iTunes</u></a></li>
 </ul></div>
 
