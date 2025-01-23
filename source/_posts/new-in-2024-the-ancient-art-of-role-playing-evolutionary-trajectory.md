@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ancient Art of Role-Playing  Evolutionary Trajectory\""
-date: 2025-01-16T02:18:52.113Z
-updated: 2025-01-16T16:35:14.429Z
+date: 2025-01-18T00:45:30.886Z
+updated: 2025-01-22T22:51:29.492Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -56,7 +52,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -66,7 +62,7 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
@@ -93,6 +89,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -111,10 +111,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Roguelite Games
@@ -126,6 +122,10 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -139,15 +139,15 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,22 +164,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-iphone-hdr-masterclass-from-basics-to-brilliance/"><u>[New] In 2024, IPhone HDR Masterclass From Basics to Brilliance</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-the-art-of-filters-on-instagram-your-2023-manual/"><u>[New] In 2024, Mastering the Art of Filters on Instagram Your 2023 Manual</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-4k-aerial-experience-with-xiaomis-drone-for-2024/"><u>[New] The Ultimate 4K Aerial Experience with Xiaomi's Drone for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-screen-capture-tools-explored-apowersoft-and-others-compared/"><u>[New] Top Screen Capture Tools Explored - Apowersoft and Others Compared</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-9-windows-gif-capture-tools-perfect-animation-preservation/"><u>[Updated] 2024 Approved Top 9 Windows GIF Capture Tools Perfect Animation Preservation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-peak-procurement-of-lecture-captures/"><u>[Updated] Peak Procurement of Lecture Captures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-roguelikes-roots-and-their-rebirth-as-roguiles/"><u>[Updated] Roguelikes' Roots & Their Rebirth as Roguiles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-skype-with-obs/"><u>2024 Approved How to Record Skype with OBS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mitigating-high-bitrate-in-obs-outputs/"><u>2024 Approved Mitigating High-Bitrate in OBS Outputs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-smart-choices-the-finest-android-screenshot-tools-5/"><u>2024 Approved Smart Choices The Finest Android Screenshot Tools, 5</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/converting-vimeo-videos-to-mp3-format/"><u>Converting Vimeo Videos to MP3 Format</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/e-assistenza-professionale-tecnica-online-consigli-e-risoluzione-problemi-per-il-software-di-riproduzione-dvd-winx-e-winxvideo-ai/"><u>E-Assistenza Professionale Tecnica Online: Consigli E Risoluzione Problemi Per Il Software Di Riproduzione DVD WinX E Winxvideo AI</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-5-amazing-free-youtube-intro-makers-ranked/"><u>In 2024, 5 Amazing Free YouTube Intro Makers Ranked</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-rewind-to-glory-with-top-5-pc-ps1-emulation-tools/"><u>In 2024, Rewind to Glory with Top 5 PC PS1 Emulation Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>In 2024, Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-samsung-picture-editor-features-and-proscons/"><u>In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/silence-unwanted-callers-how-to-turn-off-no-caller-id-feature-in-ios/"><u>Silence Unwanted Callers: How to Turn Off 'No Caller ID' Feature in iOS</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-overcome-sound-absence-on-tweeted-film-rolls/"><u>[Updated] 2024 Approved Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>[Updated] Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/icloudwhatsapp-google-drive/"><u>「ICloudと異なるWhatsAppバックアップ - Google Driveでセキュリティ強化しよう」</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-next-generation-of-green-visual-effects-tools/"><u>2024 Approved Next Generation of Green Visual Effects Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quick-guide-downloading-and-setting-up-vrecord/"><u>2024 Approved Quick Guide Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-reimagining-teams-background-beforeafter-conversations/"><u>2024 Approved Reimagining Teams' Background Before/After Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-vs-fortune-tellers-which-shines-light-on-tomorrow/"><u>AI Vs. Fortune-Tellers: Which Shines Light on Tomorrow?</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/como-usar-la-herramienta-de-union-de-imagenes-en-movavi-solucion-completa/"><u>Cómo Usar La Herramienta De Unión De Imágenes en Movavi - Solución Completa</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-instant-windows-installation-errors/"><u>Effortless Solutions for Instant Windows Installation Errors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ideal-methods-for-streaming-and-archiving-sports-events/"><u>In 2024, Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigate-the-best-practices-for-efficient-hp-notebook-screen-recording/"><u>In 2024, Navigate the Best Practices for Efficient HP Notebook Screen Recording</u></a></li>
 </ul></div>
 
