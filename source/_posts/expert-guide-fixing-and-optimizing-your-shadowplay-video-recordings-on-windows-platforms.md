@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms"
-date: 2025-01-16T16:10:44.207Z
-updated: 2025-01-22T17:38:49.152Z
+date: 2025-01-25T18:46:05.747Z
+updated: 2025-01-30T23:15:06.998Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ A screenshot of Farming Simulator 22 from Steam
 
  Launch Farming Simulator 22 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger the Farming Simulator 22 FPS dropping issue.
@@ -62,10 +66,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -86,17 +86,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -140,6 +136,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel may also improve the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -163,11 +163,11 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
 
@@ -182,16 +182,12 @@ There are mainly two methods for you to update the graphics driver:
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
 
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar (Windows 10)
 
@@ -205,6 +201,10 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -231,22 +231,16 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-accurate-speech-to-text-googles-breakthrough-approach/"><u>[New] Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-meme-mastery-strategies-for-engaging-audiences-with-fb-and-instagram-videos/"><u>[Updated] In 2024, Meme Mastery Strategies for Engaging Audiences with FB & Instagram Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-premium-vfx-setup-options/"><u>[Updated] In 2024, Premium VFX Setup Options</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-iphone-slow-motion-shooting-essentials/"><u>[Updated] IPhone Slow Motion Shooting Essentials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-hosting-and-joining-google-meet-your-free-comprehensive-guidebook/"><u>2024 Approved Hosting and Joining Google Meet Your Free, Comprehensive Guidebook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-nintendo-joy-in-the-best-cards-for-2024/"><u>Capturing Nintendo Joy in the Best Cards for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-en-ligne-de-fichiers-vob-a-format-wma-facile-et-gratuit-avec-movavi/"><u>Conversion en Ligne De Fichiers VOB À Format WMA - Facile Et Gratuit Avec Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-epson-perfection-v600-drivers-available-online/"><u>Easy Install: Epson Perfection V600 Drivers Available Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-home-entertainment-harnessing-the-power-of-series-xs-blue-ray/"><u>Elevate Home Entertainment: Harnessing the Power of Series X's Blue-Ray</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/excellent-audio-capture-on-demand/"><u>Excellent Audio Capture on Demand</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovativescreens-newrecorderx-reviewed-and-rated/"><u>In 2024, InnovativeScreens' NewRecorderX Reviewed & Rated</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlining-group-chats-on-skype-for-dual-os-environments/"><u>Streamlining Group Chats on Skype for Dual OS Environments</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ey-to-earning-on-youtube-in-depth-ad-revenue-guidebook/"><u>The Key to Earning on YouTube In-Depth Ad Revenue Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-and-gmail-collaboration-methods-for-2024/"><u>The Ultimate Zoom and Gmail Collaboration Methods for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/true-text-guardianship-openais-anti-duplicate-ai/"><u>True Text Guardianship: OpenAI’s Anti-Duplicate AI</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/youcamease-step-by-steprecording/"><u>YouCamEase Step-by-StepRecording</u></a></li>
-<li><a href="https://blog-min.techidaily.com/digiartymacx-mediatransheic/"><u>お花見限定プレゼント：DigiartyがMacX MediaTransHEIC対応無料提供中！</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-soundcheck-evaluation/"><u>[New] SoundCheck Evaluation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-straightforward-steps-upside-down-video-with-vlc-software/"><u>[New] Straightforward Steps Upside-Down Video with VLC Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-gear-360-challenger-the-best-cameras-of-the-year/"><u>[Updated] Samsung’s Gear 360 Challenger The Best Cameras of the Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-mkv-player-for-windows-and-mobile/"><u>[Updated] Ultimate MKV Player for Windows & Mobile</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y27s-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y27s Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nokia-c12-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nokia C12</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-deep-into-computer-specs-and-reviews-with-toms-hardware-hub/"><u>Dive Deep Into Computer Specs and Reviews with Tom's Hardware Hub</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-online-converter-transform-mmf-audio-files-into-wav-format/"><u>Free Online Converter: Transform MMF Audio Files Into WAV Format</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-technical-savvy-selecting-the-best-capture-tools/"><u>In 2024, Technical Savvy Selecting the Best Capture Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/strategies-for-effective-screen-sharing-via-skype-at-home-for-2024/"><u>Strategies for Effective Screen Sharing via Skype at Home for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/studio-sound-techniques-mac-basics-for-2024/"><u>Studio Sound Techniques Mac Basics for 2024</u></a></li>
 </ul></div>
 

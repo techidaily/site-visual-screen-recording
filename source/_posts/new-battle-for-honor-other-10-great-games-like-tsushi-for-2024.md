@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Battle for Honor  Other 10 Great Games Like Tsushi for 2024\""
-date: 2025-01-15T23:07:46.644Z
-updated: 2025-01-23T04:40:26.533Z
+date: 2025-01-28T21:33:02.432Z
+updated: 2025-01-30T18:57:39.372Z
 tags: 
   - screen-recording
   - ai video
@@ -136,7 +136,7 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +146,13 @@ These games like Ghost of Tsushima are unique and different in their own way but
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -170,21 +170,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-mastering-streamlabs-obs-usage/"><u>[New] 2024 Approved Step-by-Step Guide to Mastering Streamlabs OBS Usage</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-experts-guide-to-xbox-one-screen-captures/"><u>[New] 2024 Approved The Expert's Guide to Xbox One Screen Captures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-prime-collection-of-pc-screen-capture-tools-win11/"><u>[New] 2024 Approved The Prime Collection of PC Screen Capture Tools (Win11)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-snagit-screen-recorder-review-and-alternatives-for-2024/"><u>[New] Snagit Screen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-future-of-game-monitoring-advanced-alternatives-to-fbx/"><u>[Updated] 2024 Approved The Future of Game Monitoring Advanced Alternatives to FBX</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[Updated] 2024 Approved The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capturing-your-craft-minecraft-gameplay-on-a-mac/"><u>[Updated] Capturing Your Craft Minecraft Gameplay on a Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screen-capture-without-a-penny-the-top-apps-reviewed/"><u>[Updated] In 2024, Screen Capture Without a Penny The Top Apps Reviewed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-uniting-your-conference-and-youtube-google-meet-broadcast-steps/"><u>[Updated] In 2024, Uniting Your Conference and YouTube Google Meet Broadcast Steps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-quick-skill-enhancing-images-in-windows-11/"><u>2024 Approved Quick Skill Enhancing Images in Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/cut-out-controversy-refresh-your-feed-focus/"><u>Cut Out Controversy: Refresh Your Feed Focus</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-setup-guide-epson-es-400-scandriver-for-winos/"><u>Download & Setup Guide: Epson ES-400 ScanDriver for WinOS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-repair-fatal-errors-encountered-by-ghostrunner-game-on-your-windows-ael-machine/"><u>How to Repair Fatal Errors Encountered by Ghostrunner Game on Your Windows ˈæŋɡlɪʃ Machine</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-g2-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo G2</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-anydesk-setup-in-windows-11/"><u>Streamlining Your AnyDesk Setup in WIndows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-big-advantages-of-sticking-with-apple-watch-series-e-a-comparison-against-series-10-analysis-senior-editor/"><u>The Big Advantages of Sticking with Apple Watch Series E: A Comparison Against Series 10 | Analysis Senior Editor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-confusion-to-clarity-your-telegram-web-guidebook/"><u>[New] From Confusion to Clarity Your Telegram Web Guidebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-6-mc-survival-home-blueprints/"><u>[Updated] Best 6 MC Survival Home Blueprints</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-step-by-step-guide-to-instagram-image-uploads/"><u>[Updated] In 2024, Step-by-Step Guide to Instagram Image Uploads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>[Updated] Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-gopro-4k-essential-editing-tips/"><u>[Updated] Mastering GoPro 4K Essential Editing Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-beginners-companion-best-software-for-gamers-recordings-and-editing/"><u>2024 Approved A Beginner's Companion Best Software for Gamers’ Recordings & Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/el-upgrade-plans-standard-studio-or-beta-revolution/"><u>Channel Upgrade Plans Standard Studio or Beta Revolution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diving-deep-into-the-functionality-of-generative-ai-whos-advancing-the-industry/"><u>Diving Deep Into the Functionality of Generative AI: Who's Advancing the Industry?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-5-web-video-recorders/"><u>In 2024, Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-non-root-android-audio-logging-step-by-step/"><u>In 2024, Non-Root Android Audio Logging, Step by Step</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-mac-capture-hacks-top-5-methods-reviewed/"><u>Ultimate Mac Capture Hacks Top 5 Methods Reviewed</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-online-video-rotation-made-easy-top-picks-for-2024/"><u>Updated Online Video Rotation Made Easy Top Picks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vsf-video-capture-insights-a-critical-look/"><u>VSF Video Capture Insights A Critical Look</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ancient Art of Role-Playing  Evolutionary Trajectory\""
-date: 2025-01-18T00:45:30.886Z
-updated: 2025-01-22T22:51:29.492Z
+date: 2025-01-24T21:46:56.234Z
+updated: 2025-01-30T20:56:19.468Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
@@ -52,7 +56,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -62,7 +66,7 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
@@ -90,7 +94,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -123,10 +127,6 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
@@ -146,7 +146,7 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,16 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-overcome-sound-absence-on-tweeted-film-rolls/"><u>[Updated] 2024 Approved Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>[Updated] Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/icloudwhatsapp-google-drive/"><u>「ICloudと異なるWhatsAppバックアップ - Google Driveでセキュリティ強化しよう」</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-next-generation-of-green-visual-effects-tools/"><u>2024 Approved Next Generation of Green Visual Effects Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quick-guide-downloading-and-setting-up-vrecord/"><u>2024 Approved Quick Guide Downloading & Setting Up VRecord</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-reimagining-teams-background-beforeafter-conversations/"><u>2024 Approved Reimagining Teams' Background Before/After Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-vs-fortune-tellers-which-shines-light-on-tomorrow/"><u>AI Vs. Fortune-Tellers: Which Shines Light on Tomorrow?</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/como-usar-la-herramienta-de-union-de-imagenes-en-movavi-solucion-completa/"><u>Cómo Usar La Herramienta De Unión De Imágenes en Movavi - Solución Completa</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-for-instant-windows-installation-errors/"><u>Effortless Solutions for Instant Windows Installation Errors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ideal-methods-for-streaming-and-archiving-sports-events/"><u>In 2024, Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigate-the-best-practices-for-efficient-hp-notebook-screen-recording/"><u>In 2024, Navigate the Best Practices for Efficient HP Notebook Screen Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-app-insights-with-az-recorders-for-2024/"><u>[New] Comprehensive App Insights with AZ Recorders for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-useful-screen-recorder-for-teachers/"><u>[New] Useful Screen Recorder for Teachers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-htc-vives-diving-into-depth-a-vr-experience-review/"><u>[Updated] HTC Vive's Diving Into Depth A VR Experience Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-superior-soundscape-top-tunes-for-unboxing-vids/"><u>[Updated] Secrets to Superior Soundscape Top Tunes for Unboxing Vids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlockingfullpotentialwithyourcamrecorder/"><u>2024 Approved UnlockingFullPotentialWithYourCamRecorder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-marketing-game-free-50-youtube-adornments-here-for-2024/"><u>Elevate Your Marketing Game - Free 50 YouTube Adornments Here for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-complete-process-of-logging-google-voice-calls/"><u>In 2024, The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-skaldic-odyssey-ragnarok-awakens/"><u>In 2024, The Skaldic Odyssey Ragnarök Awakens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-transform-your-editing-master-the-fade-effect/"><u>In 2024, Transform Your Editing Master the Fade Effect</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-12-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi 12 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-keep-your-thunder-game-stable-and-crash-free-during-high-level-play-on-pc/"><u>Steps to Keep Your Thunder Game Stable and Crash-Free During High-Level Play on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-process-recording-youtube-livestream-on-multiple-platforms-for-2024/"><u>The Complete Process Recording YouTube Livestream on Multiple Platforms for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 6 Plus</u></a></li>
 </ul></div>
 
