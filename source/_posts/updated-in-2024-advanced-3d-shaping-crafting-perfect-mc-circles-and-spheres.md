@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Advanced 3D Shaping  Crafting Perfect MC Circles & Spheres\""
-date: 2024-07-24T14:01:15.742Z
-updated: 2024-07-25T14:01:15.742Z
+date: 2025-02-10T01:15:30.058Z
+updated: 2025-02-11T22:04:41.022Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
 # How to Build Circles and Spheres in Minecraft
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -32,9 +29,6 @@ Minecraft is famous for its cube-shaped structure. The entire world of Minecraft
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to make a circle in Minecraft: A Step by Step Guide
 
 If you have ever noticed that when we zoom in out images, small pixels are held together to form a perfect image. We have to apply the same method here. We have to take these cubes as pixels and connect them with each other for a complete picture to form a circle.
@@ -45,9 +39,6 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
 
 **Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
@@ -66,44 +57,120 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle6](https://images.wondershare.com/filmora/article-images/minecraft-make-circle6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to make a Sphere in Minecraft
 
 The only difference between making a circle and a sphere is the difference in dimensions. The circle is Two Dimensional and the sphere is three-dimensional. It is not as difficult as it seems.
 
 **Step 1:** To get started, create a tall column of the block according to the size of the sphere that you want to make. In this example, we are going to form a 16 blocks long column. You can change it according to your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
 
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
 These circles and spheres are useful in Minecraft and they play a very vital role in building your own world in Minecraft. They can be very beneficial while creating buildings, houses, and more places. These can be used as curves to give your buildings an aesthetic look and feel. But this whole process needs practice and efforts to master it and use it for your own purposes.
 
+![minecraft-make-sphere4](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere4.jpg)
+
+---
+
+#### Conclusion
+
+Creating such amazing things and sharing them on your social media and video sharing platforms can get you a lot of audience and views. Make sure to enhance your gameplay before sharing it on these platforms. Filmora X can help you take your videos to another level by using different transitions, amazing effects, several beautiful elements, and other things. Filmora X provides you with the ability to make your videos more engaging and appealing to your viewers. This will help you increase your views as well as the number of viewers.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Minecraft is famous for its cube-shaped structure. The entire world of Minecraft is based on squares and cubes. Minecraft allows you to create amazing buildings, homes, and a kingdom. To make your buildings unique and different you can add different elements and shapes in your buildings such as circles, spheres, and curves. Circle and spheres are used as decorating materials and can be very helpful in creating different things and buildings. It seems impossible to build circles and spheres using cubes. You can create a circle and sphere easily by following simple steps. If you ever look at an image of a circle after zooming in, you will notice small pixels in the form of squares that are held together to create a circle. We can use such a technique to create a circle and sphere using cubic blocks in Minecraft. We can create pixelated circles and spheres without any curves. In this article, we will illustrate how to make a circle in Minecraft and how to make a sphere in Minecraft separately.
+
+---
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to make a circle in Minecraft: A Step by Step Guide
+
+If you have ever noticed that when we zoom in out images, small pixels are held together to form a perfect image. We have to apply the same method here. We have to take these cubes as pixels and connect them with each other for a complete picture to form a circle.
+
+**Step 1:** The first step of how to make a circle in Minecraft is to decide the circumference of the circle you want to create. In this example, we are going to create a circle with a circumference of 17 blocks. You can choose any circumference depending upon the size of the circle you want. Place 17 blocks in a series to make a straight line. Now at the 9th block, which is the middle of the line, place two blocks perpendicular blocks on both sides of the line.
+
+![minecraft-make-circle1](https://images.wondershare.com/filmora/article-images/minecraft-make-circle1.jpg)
+
+**Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
+
+![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
+
+**Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
+
+![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
+
+**Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
+
+![minecraft-make-circle4](https://images.wondershare.com/filmora/article-images/minecraft-make-circle4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
+
+![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
+
+**Step 6:** Since the outer of the circle is complete, now you can either remove the center lines of the circle to make it hollow or fill it with the blocks to make it a complete filled circle and make it a place where you can stand.
+
+![minecraft-make-circle6](https://images.wondershare.com/filmora/article-images/minecraft-make-circle6.jpg)
+
+---
+
+## How to make a Sphere in Minecraft
+
+The only difference between making a circle and a sphere is the difference in dimensions. The circle is Two Dimensional and the sphere is three-dimensional. It is not as difficult as it seems.
+
+**Step 1:** To get started, create a tall column of the block according to the size of the sphere that you want to make. In this example, we are going to form a 16 blocks long column. You can change it according to your requirement.
+
+![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
+
+**Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
+
+![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
+
+**Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
+
+![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
+
+**Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
+
+These circles and spheres are useful in Minecraft and they play a very vital role in building your own world in Minecraft. They can be very beneficial while creating buildings, houses, and more places. These can be used as curves to give your buildings an aesthetic look and feel. But this whole process needs practice and efforts to master it and use it for your own purposes.
+
 ![minecraft-make-sphere4](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere4.jpg)
 
 ---
@@ -115,8 +182,9 @@ Creating such amazing things and sharing them on your social media and video sha
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -143,114 +211,10 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
 
 **Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
 
-![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
-
-**Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
-
-![minecraft-make-circle4](https://images.wondershare.com/filmora/article-images/minecraft-make-circle4.jpg)
-
-**Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
-![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
-
-**Step 6:** Since the outer of the circle is complete, now you can either remove the center lines of the circle to make it hollow or fill it with the blocks to make it a complete filled circle and make it a place where you can stand.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![minecraft-make-circle6](https://images.wondershare.com/filmora/article-images/minecraft-make-circle6.jpg)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## How to make a Sphere in Minecraft
-
-The only difference between making a circle and a sphere is the difference in dimensions. The circle is Two Dimensional and the sphere is three-dimensional. It is not as difficult as it seems.
-
-**Step 1:** To get started, create a tall column of the block according to the size of the sphere that you want to make. In this example, we are going to form a 16 blocks long column. You can change it according to your requirement.
-
-![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
-
-**Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
-
-![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
-
-**Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
-
-![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
-
-**Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
-
-These circles and spheres are useful in Minecraft and they play a very vital role in building your own world in Minecraft. They can be very beneficial while creating buildings, houses, and more places. These can be used as curves to give your buildings an aesthetic look and feel. But this whole process needs practice and efforts to master it and use it for your own purposes.
-
-![minecraft-make-sphere4](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere4.jpg)
-
----
-
-#### Conclusion
-
-Creating such amazing things and sharing them on your social media and video sharing platforms can get you a lot of audience and views. Make sure to enhance your gameplay before sharing it on these platforms. Filmora X can help you take your videos to another level by using different transitions, amazing effects, several beautiful elements, and other things. Filmora X provides you with the ability to make your videos more engaging and appealing to your viewers. This will help you increase your views as well as the number of viewers.
-
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Minecraft is famous for its cube-shaped structure. The entire world of Minecraft is based on squares and cubes. Minecraft allows you to create amazing buildings, homes, and a kingdom. To make your buildings unique and different you can add different elements and shapes in your buildings such as circles, spheres, and curves. Circle and spheres are used as decorating materials and can be very helpful in creating different things and buildings. It seems impossible to build circles and spheres using cubes. You can create a circle and sphere easily by following simple steps. If you ever look at an image of a circle after zooming in, you will notice small pixels in the form of squares that are held together to create a circle. We can use such a technique to create a circle and sphere using cubic blocks in Minecraft. We can create pixelated circles and spheres without any curves. In this article, we will illustrate how to make a circle in Minecraft and how to make a sphere in Minecraft separately.
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-## How to make a circle in Minecraft: A Step by Step Guide
-
-If you have ever noticed that when we zoom in out images, small pixels are held together to form a perfect image. We have to apply the same method here. We have to take these cubes as pixels and connect them with each other for a complete picture to form a circle.
-
-**Step 1:** The first step of how to make a circle in Minecraft is to decide the circumference of the circle you want to create. In this example, we are going to create a circle with a circumference of 17 blocks. You can choose any circumference depending upon the size of the circle you want. Place 17 blocks in a series to make a straight line. Now at the 9th block, which is the middle of the line, place two blocks perpendicular blocks on both sides of the line.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![minecraft-make-circle1](https://images.wondershare.com/filmora/article-images/minecraft-make-circle1.jpg)
-
-**Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
-
-![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
-
-**Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
 
 **Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
@@ -273,21 +237,19 @@ The only difference between making a circle and a sphere is the difference in di
 
 **Step 1:** To get started, create a tall column of the block according to the size of the sphere that you want to make. In this example, we are going to form a 16 blocks long column. You can change it according to your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
 
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
@@ -304,13 +266,9 @@ Creating such amazing things and sharing them on your social media and video sha
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -337,27 +295,26 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
 
 **Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
 
 ![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![minecraft-make-circle4](https://images.wondershare.com/filmora/article-images/minecraft-make-circle4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
 
 **Step 6:** Since the outer of the circle is complete, now you can either remove the center lines of the circle to make it hollow or fill it with the blocks to make it a complete filled circle and make it a place where you can stand.
@@ -380,9 +337,6 @@ The only difference between making a circle and a sphere is the difference in di
 
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
@@ -399,10 +353,11 @@ Creating such amazing things and sharing them on your social media and video sha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -432,8 +387,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-partnership-performed-live-tiktok-edition/"><u>[New] 2024 Approved Partnership Performed Live TikTok Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-your-shorts-are-here-no-more-waiting-game/"><u>[New] In 2024, Your Shorts Are Here – No More Waiting Game</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[Updated] In 2024, Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-insights-into-efficient-lunapic-usage/"><u>2024 Approved Expert Insights Into Efficient LunaPic Usage</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g-5g-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G 5G (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-storytelling-abilities-with-strategic-chatgpt-implementation-tips/"><u>Enhance Your Storytelling Abilities with Strategic ChatGPT Implementation Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-comparative-review-of-filmmaking-apps-filmora-and-democracy-creator/"><u>In 2024, A Comparative Review of Filmmaking Apps Filmora & Democracy Creator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-complete-walkthrough-of-vlc-capture-settings/"><u>In 2024, A Complete Walkthrough of VLC Capture Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3/"><u>In 2024, A Deeper Dive Into Documenting Gaming Sessions on the PS3</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs/"><u>In 2024, A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/"><u>In 2024, A Step-by-Step Recorder for Discord Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/oculus-quest-2-microphone-problems-fixes-for-common-issues/"><u>Oculus Quest 2 Microphone Problems: Fixes for Common Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+</ul></div>
 

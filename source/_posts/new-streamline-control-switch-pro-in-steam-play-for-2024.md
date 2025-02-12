@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Control  Switch Pro in Steam Play for 2024\""
-date: 2025-01-28T17:52:39.550Z
-updated: 2025-01-30T23:21:11.271Z
+date: 2025-02-10T01:27:01.261Z
+updated: 2025-02-12T07:03:51.398Z
 tags: 
   - screen-recording
   - ai video
@@ -52,15 +52,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
@@ -69,6 +61,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once you have charged the Pro Controller, you can press and hold the Sync button on the top of the controller for a few seconds until the indicator lights begin to flash.
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
 
@@ -85,13 +81,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 * Once Steam is set up, you can begin using it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -105,10 +101,14 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -122,7 +122,7 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Final Verdict**
@@ -146,19 +146,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-tailoring-your-youtube-video-introduction-perfectly/"><u>[New] 2024 Approved Tailoring Your YouTube Video Introduction Perfectly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-started-with-youtube-video-ad-building-without-spending/"><u>[New] In 2024, Get Started with YouTube Video Ad Building Without Spending</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>[New] The Future in Your Hands ScreenFlow's Role in MacOS Innovation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-standard-edition-review-of-djis-drone-model-3/"><u>[Updated] 2024 Approved The Standard Edition Review of DJI's Drone Model 3</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-30-best-kept-secrets-to-livestream-conferences-at-no-charge/"><u>[Updated] In 2024, 30 Best-Kept Secrets to Livestream Conferences at No Charge</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-entertainment-localized-live-streams-in-the-digital-age-2024/"><u>[Updated] Top Entertainment Localized Live Streams in the Digital Age, 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-streaming-games-with-ease-on-rust-legacy/"><u>[Updated] Ultimate Guide Streaming Games with Ease on Rust Legacy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-best-android-video-capture-software-5/"><u>[Updated] Ultimate Guide to Best Android Video Capture Software #5</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/12-best-sites-for-downloading-yt-template-videos-for-2024/"><u>12 Best Sites for Downloading YT Template Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-simple-android-voice-capture-no-root-access/"><u>In 2024, Simple Android Voice Capture - No Root Access</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-viewsense-capture-report-summary/"><u>In 2024, ViewSense Capture Report Summary</u></a></li>
-<li><a href="https://some-skills.techidaily.com/report-concerns-challenges-in-deciphering-digital-books/"><u>Report Concerns: Challenges in Deciphering Digital Books</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-performance-of-samsungs-qn55q60rafxza-a-premium-4k-tv-review/"><u>Unveiling the Performance of Samsung's QN55Q60RAFXZA: A Premium 4K TV Review</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1728490230342-windows-server/"><u>Windows Server增設多項自動複製作業計劃指南</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-embrace-the-big-picture-facebooks-full-screen-feature-explained/"><u>[New] 2024 Approved Embrace the Big Picture Facebook's Full Screen Feature Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhance-virtual-presence-mastering-zooms-snaps/"><u>[New] In 2024, Enhance Virtual Presence Mastering Zoom’s Snaps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-secure-method-storing-tweet-imagesvideos-on-your-mobile/"><u>[New] Secure Method Storing Tweet Images/Videos on Your Mobile</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-song-savers-entry-level-access-for-2024/"><u>[Updated] FB Song Savers Entry Level Access for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-online-radio-recordings-a-practical-handbook/"><u>[Updated] Free Online Radio Recordings - A Practical Handbook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-user-experience-with-personalized-youtube-card-implementation/"><u>[Updated] In 2024, Elevating User Experience with Personalized YouTube Card Implementation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/consistent-nutrition-for-your-furry-friend-using-the-petsafe-auto-feeder/"><u>Consistent Nutrition for Your Furry Friend Using the PetSafe Auto Feeder</u></a></li>
+<li><a href="https://driver-download.techidaily.com/downloading-and-installing-updated-insignia-bluetooth-adapter-drivers-on-windows/"><u>Downloading and Installing Updated Insignia Bluetooth Adapter Drivers on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-becoming-proficient-in-ez-grabber-technology/"><u>In 2024, Becoming Proficient in EZ Grabber Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/perfecting-your-podcast-top-5-mac-friendly-recorder-recommendations/"><u>Perfecting Your Podcast Top 5 Mac-Friendly Recorder Recommendations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-windows-11-webcam-recorder-lineup/"><u>Premium Windows 11 Webcam Recorder Lineup</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/renderer-resurgence-new-radeon-edition/"><u>Renderer Resurgence New Radeon Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-lenovos-video-screen-capture/"><u>The Art of Lenovo's Video Screen Capture</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-5-solutions-for-resolving-the-csgo-no-user-login-dilemma/"><u>Top 5 Solutions for Resolving the 'CSGO: No User Login' Dilemma</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-secrets-of-showmores-screen-capture-software/"><u>Unveiling the Secrets of ShowMore’s Screen Capture Software</u></a></li>
 </ul></div>
 
