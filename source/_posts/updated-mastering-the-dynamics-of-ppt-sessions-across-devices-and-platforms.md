@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Dynamics of PPT Sessions Across Devices and Platforms"
-date: 2025-01-24T19:14:23.800Z
-updated: 2025-01-30T20:34:26.792Z
+date: 2025-02-28T16:40:21.927Z
+updated: 2025-03-03T03:56:49.835Z
 tags: 
   - screen-recording
   - ai video
@@ -63,19 +63,11 @@ There you will see two options and must click one of the following options,
 
 ![Google Meet Present Now Options   ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. If the presenter decides to go with the “A Window” option then click the window that shows your PowerPoint slides then select share.
 
 ![Share PPT on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet.jpg)
 
 The slideshow will automatically start to broadcast to viewers. We are sure you are not wondering **how to present a ppt in Google Meet** anymore!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Presenting Google Slides in Google Meet on Laptop
 
@@ -86,10 +78,6 @@ So to answer your question on **how to present slide in Google Meet**,
 1. Open up your Google Slides, go over to the Google Slides webpage and browse to find the slides you have prepared.
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Open Google Meet on your browser and go on to the meeting link page. Here you have two options, one - you can join the session directly and then start presenting the screen, or two - share the screen and then join the session.
 
@@ -115,14 +103,6 @@ To be sure if the screen is being shared check the top of the iPhone or iPad and
 
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/iphone-screen-broadcast-share-powerpoint-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Presenting PowerPoint or Slides in Google Meet on Android
 
 The process of presenting a PowerPoint or Google Slides during a Google Meet session on an android is very similar to that of an Apple device.
@@ -134,10 +114,6 @@ Step 2) Join into the Google Meet session, if you have been invited into the ses
 Step 3) Upon joining the meeting, click the “More” option and tap the “Present Screen” menu.
 
 ![Share slides on Google Meet on Android ](https://images.wondershare.com/filmora/article-images/present-screen-on-google-meet-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4) After that, allow presenting and go to your PowerPoint / Google Slides to share them with participants, easy right?! Remember, participants can pause your screen presentation and start presenting their screen in between, as well.
 
@@ -156,10 +132,6 @@ If that option is not visible to the presenter, they can return to their Google 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
 
 ![stop  PPT present on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-present-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ about Presenting PowerPoint on Google Meet
 
@@ -196,20 +168,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-altering-username-on-google-meet-via-pc-and-mobile/"><u>[New] Altering Username on Google Meet via PC & Mobile</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-alternative-game-capture-software-no-more-fbx-dependence/"><u>[New] Alternative Game Capture Software No More FBX Dependence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[Updated] How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ideal-blueprint-top-6-fresh-mojave-homes/"><u>[Updated] Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix/"><u>2024 Approved Binge-Watch With Flexibility Mastering the PIP Functionality in Netflix</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-discover-top-5-ios-ps2-games-simulators/"><u>2024 Approved Discover Top 5 IOS PS2 Games Simulators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>2024 Approved YouTube Video Animation Tools and Techniques for Efficient Gif Making</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-screen-recorder-options-for-mac-not-including-bandicamp/"><u>Advanced Screen Recorder Options for Mac, Not Including Bandicamp</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/evaluating-recmeisters-innovation-in-video-capture/"><u>Evaluating Recmeister's Innovation in Video Capture</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-on-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to update drivers on Windows 11/10</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/secrets-of-storing-whatsapp-conversations-for-2024/"><u>Secrets of Storing WhatsApp Conversations for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-6-essential-guidelines-for-picking-a-perfect-selfie-stick/"><u>Top 6 Essential Guidelines for Picking a Perfect Selfie Stick</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-rise-through-the-instagram-rankings-fast/"><u>[New] 2024 Approved Rise Through the Instagram Rankings Fast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enhancing-visual-storytelling-with-impeccable-voice-over/"><u>[New] Enhancing Visual Storytelling with Impeccable Voice Over</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-5-mobile-photo-editing-tools-background-switcher/"><u>[New] Innovative 5 Mobile Photo Editing Tools Background Switcher</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-list-of-the-best-marriage-videos-celebrations-captured-online-8/"><u>[Updated] A List of the Best Marriage Videos - Celebrations Captured Online (8)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pc-upload-simplified-essential-file-transfer-strategies/"><u>[Updated] PC Upload Simplified Essential File Transfer Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-green-screen-tech-how-to-optimize-usage/"><u>[Updated] Premier Green Screen Tech How to Optimize Usage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-revealing-the-best-free-screen-capture-tools-for-your-camera/"><u>[Updated] Revealing the Best Free Screen Capture Tools for Your Camera</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-teachers-choice-top-recording-applications/"><u>2024 Approved Teachers' Choice Top Recording Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-virtual-zoos-galore-androids-best-animal-games/"><u>2024 Approved Virtual Zoos Galore Android's Best Animal Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-started-bluetooth-on-ios-explained-for-first-time-iphone-owners/"><u>Getting Started: Bluetooth on iOS Explained for First-Time iPhone Owners</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/primary-movie-document-review-and-backup-titles-for-2024/"><u>Primary Movie Document Review and Backup Titles for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/scrutinizing-vidmas-latest-screen-recording-tech-for-2024/"><u>Scrutinizing Vidma’s Latest Screen Recording Tech for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-valor-vault-excelling-with-top-adventures-in-gaming-for-2024/"><u>Virtual Valor Vault Excelling with Top Adventures in Gaming for 2024</u></a></li>
 </ul></div>
 

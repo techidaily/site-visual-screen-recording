@@ -1,7 +1,7 @@
 ---
 title: "Tips to Prevent Audio Loss in Live OBS Recording"
-date: 2025-02-07T07:21:49.728Z
-updated: 2025-02-11T23:17:21.618Z
+date: 2025-03-02T00:54:46.091Z
+updated: 2025-03-03T02:38:38.901Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
@@ -54,10 +50,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -79,10 +71,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -93,10 +81,6 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -105,10 +89,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -136,10 +116,6 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Features Why You Should Go for Filmora:**
 
 * It has both the versions for Windows and Mac
@@ -162,21 +138,18 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-your-portal-to-successful-online-marketing-our-showcase-of-over-50-free-banners-awaits-you/"><u>[New] 2024 Approved Your Portal to Successful Online Marketing - Our Showcase of Over 50 Free Banners Awaits You</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>[New] In 2024, From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-master-list-of-10-best-video-chat-programs-today/"><u>[New] Master List of 10 Best Video Chat Programs Today</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-practices-for-documenting-chat-history-on-whatsapp/"><u>[Updated] Best Practices for Documenting Chat History on WhatsApp</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-strategies-for-changing-song-pace-on-spotify-app-for-2024/"><u>[Updated] Top Strategies for Changing Song Pace on Spotify App for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-compelling-top-10-pc-cameras-for-recording/"><u>2024 Approved Compelling Top 10 PC Cameras for Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigate-nature-androids-animated-adventure-series/"><u>2024 Approved Navigate Nature Android’s Animated Adventure Series</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streaming-software-showdown-choosing-between-obs-and-streamlabs/"><u>2024 Approved Streaming Software Showdown Choosing Between OBS and Streamlabs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterclass-in-minimal-photoshop-alterations/"><u>In 2024, Masterclass in Minimal Photoshop Alterations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-virtual-conversations-key-strategies-for-effective-zoom-sessions/"><u>Mastering Virtual Conversations Key Strategies for Effective Zoom Sessions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/secret-snapsnapping-techniques-unseen-screen-captures-for-2024/"><u>Secret SnapSnapping Techniques Unseen Screen Captures for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-downloading-workout-tutorials-from-the-fitnessrxwomen-app/"><u>Step-by-Step Guide: Downloading Workout Tutorials From the FitnessRxWomen App</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/steps-to-sign-in-with-google-meet-laptop-and-mobile/"><u>Steps to Sign-In with Google Meet (Laptop & Mobile)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-5-web-video-recorders/"><u>Top 5 Web Video Recorders</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721103119137-win11-and-lenovo-blue-tooth-harmony-achieved/"><u>Win11 & Lenovo Blue-Tooth Harmony Achieved</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/xbox-hdd-guide-top-5-essential-reviews/"><u>Xbox HDD Guide Top 5 Essential Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-premier-online-calling-apps-all-free-and-user-friendly/"><u>[New] In 2024, Premier Online Calling Apps - All Free & User-Friendly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-professional-video-editing-mastery-of-strikethrough-annotations/"><u>[New] In 2024, Professional Video Editing Mastery of Strikethrough Annotations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-smartcapture-hd-v2/"><u>[New] In 2024, SmartCapture HD V2</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-10-ps5-external-hard-drives/"><u>[New] Top 10 PS5 External Hard Drives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perpetual-media-capture-utility/"><u>[Updated] In 2024, Perpetual Media Capture Utility</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-lenovo-fast-and-fuss-free-tips-for-2024/"><u>[Updated] Recording Lenovo Fast and Fuss-Free Tips for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-parametrer-des-sauvegardes-recurrentes-avec-windows-11-vers-onedrive-une-solution-facile-a-suivre/"><u>Comment Paramétrer Des Sauvegardes Récurrentes Avec Windows 11 Vers OneDrive : Une Solution Facile À Suivre !</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95937551-9781844097562-dreams-that-can-save-your-life/"><u>Dreams That Can Save Your Life | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-the-newest-hp-deskjet-2540-driver-software/"><u>Easy Guide to Downloading the Newest HP Deskjet 2540 Driver Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/follower-erosion-how-to-spot-it-on-insta/"><u>Follower Erosion How to Spot It on Insta</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-play-in-ring-of-elysium-by-preventing-game-crashes/"><u>How To Ensure Smooth Play in Ring of Elysium by Preventing Game Crashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scopesight-appraisal-review/"><u>ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://win11.techidaily.com/the-unseen-power-in-photo-erasing-on-windows/"><u>The Unseen Power in Photo Erasing on Windows</u></a></li>
 </ul></div>
 

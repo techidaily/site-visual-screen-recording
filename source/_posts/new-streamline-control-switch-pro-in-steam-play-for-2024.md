@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Control  Switch Pro in Steam Play for 2024\""
-date: 2025-02-10T01:27:01.261Z
-updated: 2025-02-12T07:03:51.398Z
+date: 2025-03-01T03:32:23.024Z
+updated: 2025-03-03T03:32:07.282Z
 tags: 
   - screen-recording
   - ai video
@@ -62,10 +62,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -80,10 +76,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -101,15 +93,7 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -120,10 +104,6 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -146,20 +126,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-embrace-the-big-picture-facebooks-full-screen-feature-explained/"><u>[New] 2024 Approved Embrace the Big Picture Facebook's Full Screen Feature Explained</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhance-virtual-presence-mastering-zooms-snaps/"><u>[New] In 2024, Enhance Virtual Presence Mastering Zoom’s Snaps</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-secure-method-storing-tweet-imagesvideos-on-your-mobile/"><u>[New] Secure Method Storing Tweet Images/Videos on Your Mobile</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-song-savers-entry-level-access-for-2024/"><u>[Updated] FB Song Savers Entry Level Access for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-online-radio-recordings-a-practical-handbook/"><u>[Updated] Free Online Radio Recordings - A Practical Handbook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-user-experience-with-personalized-youtube-card-implementation/"><u>[Updated] In 2024, Elevating User Experience with Personalized YouTube Card Implementation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/consistent-nutrition-for-your-furry-friend-using-the-petsafe-auto-feeder/"><u>Consistent Nutrition for Your Furry Friend Using the PetSafe Auto Feeder</u></a></li>
-<li><a href="https://driver-download.techidaily.com/downloading-and-installing-updated-insignia-bluetooth-adapter-drivers-on-windows/"><u>Downloading and Installing Updated Insignia Bluetooth Adapter Drivers on Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-becoming-proficient-in-ez-grabber-technology/"><u>In 2024, Becoming Proficient in EZ Grabber Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfecting-your-podcast-top-5-mac-friendly-recorder-recommendations/"><u>Perfecting Your Podcast Top 5 Mac-Friendly Recorder Recommendations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-windows-11-webcam-recorder-lineup/"><u>Premium Windows 11 Webcam Recorder Lineup</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/renderer-resurgence-new-radeon-edition/"><u>Renderer Resurgence New Radeon Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-lenovos-video-screen-capture/"><u>The Art of Lenovo's Video Screen Capture</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-5-solutions-for-resolving-the-csgo-no-user-login-dilemma/"><u>Top 5 Solutions for Resolving the 'CSGO: No User Login' Dilemma</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-secrets-of-showmores-screen-capture-software/"><u>Unveiling the Secrets of ShowMore’s Screen Capture Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elite-driving-sims-best-five-titles/"><u>[New] 2024 Approved Elite Driving Sims Best Five Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-filmmaking-made-easy-pc-mac-and-smartphone-techniques/"><u>[New] 2024 Approved Filmmaking Made Easy PC, Mac & Smartphone Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-8-recommendations-tripods-for-sharp-4k-images/"><u>[New] 2024 Approved Top 8 Recommendations Tripods for Sharp 4K Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-explore-top-10-premium-free-iosandroid-live-video-platforms-for-2024/"><u>[New] Explore Top 10 Premium-Free iOS/Android Live Video Platforms for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-capturing-high-quality-audio-in-filmmaking/"><u>[New] In 2024, Essential Tips for Capturing High-Quality Audio in Filmmaking</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ncrease-views-discover-20-prime-thumbnail-fonts-for-2024/"><u>[New] Increase Views - Discover 20 Prime Thumbnail Fonts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-tools-for-every-videographers-kit-for-2024/"><u>[Updated] Essential Tools for Every Videographer's Kit for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-storage-enhancement-for-sony-alpha-7s-ii-for-2024/"><u>[Updated] Ultimate Storage Enhancement for Sony Alpha 7S II for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-amusing-tones-bestringeonsite-roundup/"><u>2024 Approved Amusing Tones Bestringeonsite Roundup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024osmp4pc/"><u>2024年度更新！対応OS無料MP4への動画変換ガイド（PC・スマホ・タブレット）＆おすすめツール一覧</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/como-corregir-dism-error-87-por-parametro-incorrecto-en-windows-tutoria-de-5-soluciones-claras/"><u>Cómo Corregir DISM Error 87 Por Parámetro Incorrecto en Windows - Tutoría De 5 Soluciones Claras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excessive-collagen-deposition-during-repair-can-lead-to-keloids-or-hypertrophic-scars-which-are-forms-of-abnormal-fibrosis/"><u>Excessive Collagen Deposition During Repair Can Lead to Keloids or Hypertrophic Scars, Which Are Forms of Abnormal Fibrosis.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723262416220-give-new-life-to-vintage-computers-using-damn-small-linux-easy-setup-tips/"><u>Give New Life to Vintage Computers Using Damn Small Linux - Easy Setup Tips!</u></a></li>
 </ul></div>
 

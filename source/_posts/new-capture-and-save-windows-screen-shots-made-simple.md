@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture and Save  Windows Screen Shots Made Simple\""
-date: 2025-01-27T16:25:06.366Z
-updated: 2025-01-30T19:46:18.855Z
+date: 2025-02-28T19:54:30.727Z
+updated: 2025-03-02T18:27:22.970Z
 tags: 
   - screen-recording
   - ai video
@@ -62,10 +62,6 @@ The Windows Key + Shift + S keyboard shortcut can also be used to activate the S
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
 #### Step 2. Editing the Screenshot
@@ -91,10 +87,6 @@ The Share feature enables you to post the picture on social media or send it via
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
@@ -122,10 +114,6 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
 Charms were first introduced on Windows 8, but trying to snap a screenshot with the Share Charm on this version of the OS won't produce any results since the screenshot option is only available on the Windows 8.1\. You can access the Charms Bar that offers Search, Share, Start, Devices and Settings charms by either pressing the Windows+C keys or by moving the mouse cursor down from the upper right corner of the screen.
@@ -138,17 +126,9 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -184,10 +164,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,22 +179,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-in-depth-look-apowersofts-pc-screenshare-technology/"><u>[New] 2024 Approved In-Depth Look Apowersoft's PC Screenshare Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-maximize-winning-proven-tips-for-capturing-games-on-the-latest-w11/"><u>[New] 2024 Approved Maximize Winning Proven Tips for Capturing Games on the Latest W11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-visual-verve-new-era-of-radeon/"><u>[New] 2024 Approved Visual Verve New Era of Radeon</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-kid-safe-car-challenges-galore/"><u>[New] In 2024, Kid-Safe Car Challenges Galore</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mycam-vs-others-a-comparative-camera-performance-study/"><u>[New] In 2024, MyCam Vs. Others A Comparative Camera Performance Study</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-level-up-your-farming-life-explore-7-14-mods-for-2024/"><u>[New] Level Up Your Farming Life - Explore #7-14 Mods for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-allocate-more-ram-to-minecraft-for-2024/"><u>[Updated] How to Allocate More Ram to Minecraft for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-optimize-your-teams-virtual-meetings-for-2024/"><u>[Updated] How to Optimize Your Team's Virtual Meetings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-leading-edge-screen-snapshot-software/"><u>[Updated] In 2024, Leading Edge Screen Snapshot Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-matching-tunes-to-themes-in-film-clips/"><u>[Updated] Matching Tunes to Themes in Film Clips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/comparative-analysis-of-ar-stickers-focusing-on-google/"><u>Comparative Analysis of AR Stickers, Focusing on Google</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-2-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze 2 5G Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-perfect-visuals-an-advanced-course-in-vce-22/"><u>In 2024, The Path to Perfect Visuals An Advanced Course in VCE 2.2</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-hot-40i-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Hot 40i for Streaming | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-robotic-voice-generators/"><u>In 2024, Top 10 Robotic Voice Generators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/thank-you-users-discover-the-power-of-movavi-video-editor-after-installation/"><u>Thank You, Users! Discover the Power of Movavi Video Editor After Installation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-discovering-movavis-advanced-video-editor-plus-plus/"><u>[New] In 2024, Discovering Movavi's Advanced Video Editor Plus +</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-screen-and-video-recording-for-2024/"><u>[New] The Ultimate Guide to Screen and Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-tseries-youtube-revenue-strategy/"><u>[New] Unveiling TSeries' YouTube Revenue Strategy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-taming-zooms-visuals-a-step-by-step-blur-journey/"><u>[Updated] 2024 Approved Taming Zoom's Visuals A Step-by-Step Blur Journey</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncomplicated-approach-for-smooth-iphone-screening/"><u>[Updated] 2024 Approved Uncomplicated Approach for Smooth Iphone Screening</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates/"><u>[Updated] Captivating Crafting Writing Intriguing Youtube Descriptions with Templates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-androids-best-multiparty-calls/"><u>[Updated] In 2024, The Ultimate Guide to Android's Best Multiparty Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-snap-worthy-success-logging-galaxy-gaming-stories-for-2024/"><u>[Updated] Snap-Worthy Success Logging Galaxy Gaming Stories for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-snapsplit-scrutiny-for-2024/"><u>[Updated] SnapSplit Scrutiny for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac-for-2024/"><u>[Updated] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-strategies-to-shoot-a-flawless-green-screen-scene/"><u>2024 Approved Top Strategies to Shoot a Flawless Green Screen Scene</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tips-for-fixing-inability-to-make-or-receive-calls-on-android-devices/"><u>Essential Tips for Fixing Inability to Make or Receive Calls on Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-acer-device-online-free-wifi-drivers-and-step-by-step-setup-tutorials/"><u>Get Your Acer Device Online: FREE WiFi Drivers & Step-by-Step Setup Tutorials</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/reversing-your-pcs-os-securely-transitioning-from-windows-11-to-10/"><u>Reversing Your PC's OS: Securely Transitioning From Windows 11 to 10</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-vidio-files-to-mp4-format-for-pc-and-mac-users/"><u>Step-by-Step Guide: Converting Vidio Files to MP4 Format for PC & Mac Users</u></a></li>
 </ul></div>
 

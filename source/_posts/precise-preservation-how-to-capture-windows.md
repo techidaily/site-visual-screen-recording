@@ -1,7 +1,7 @@
 ---
 title: "\"Precise Preservation  How to Capture Windows\""
-date: 2025-02-08T03:56:40.890Z
-updated: 2025-02-12T04:30:52.141Z
+date: 2025-03-01T19:48:37.155Z
+updated: 2025-03-03T01:05:25.998Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ In this article, we are going to show you five different ways of creating screen
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -62,10 +58,6 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
@@ -78,10 +70,6 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
@@ -92,10 +80,6 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
@@ -103,10 +87,6 @@ The Share feature enables you to post the picture on social media or send it via
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
@@ -125,10 +105,6 @@ However, this option is only available on the Windows 10 version of the app, and
 You can launch the app from the Start menu or by typing its name in the Search Charm. When the Snipping Tool window appears on the screen you can click on the New drop-down menu and choose from, Free Form, Rectangular, Window and Full-Screen snip options. Simply click on the option that best meets your demands.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
@@ -203,18 +179,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-get-ready-to-win-more-with-this-purely-gratis-voice-modifier/"><u>[New] Get Ready to Win More with This Purely Gratis Voice Modifier</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capture-and-record-videos-from-your-webcam/"><u>Capture and Record Videos From Your Webcam</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ensuring-privacy-in-zoom-meetings-by-recording/"><u>Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/hastyhit-freezevidsnapshot/"><u>HastyHit FreezeVidSnapshot</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-13c-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi 13C phone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-depth-review-the-complete-guide-to-streamlabs-obs/"><u>In-Depth Review The Complete Guide to Streamlabs OBS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/integrating-snaps-smoothly-into-your-zoom-schedule/"><u>Integrating Snaps Smoothly Into Your Zoom Schedule</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/leading-the-charge-in-modern-presentation-recordings/"><u>Leading the Charge in Modern Presentation Recordings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210563785-9798985899108-the-message/"><u>The Message | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-itel-a60-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnet-unveils-top-enterprees-leading-the-charge-towards-the-next-digital-frontier-the-metaverse-evolution/"><u>ZDNet Unveils Top Enterprees Leading the Charge Towards the Next Digital Frontier - The Metaverse Evolution</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fade-in-fade-out-videos-in-4-easy-ways/"><u>[New] 2024 Approved Fade In Fade Out Videos in 4 Easy Ways</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-masterful-voice-modification-tools-for-smartphones/"><u>[New] 2024 Approved Masterful Voice Modification Tools for Smartphones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-easy-igtv-video-grabs-for-ios-and-android-devices/"><u>[New] In 2024, Easy IGTV Video Grabs for iOS and Android Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-change-background-on-teams-before-or-after-calling/"><u>[New] In 2024, How to Change Background on Teams Before or After Calling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-live-viewers-choice-obs-or-shadowtoolkit/"><u>[New] In 2024, Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfecting-the-art-of-documentation-in-virtual-gatherings-google-meet/"><u>[New] In 2024, Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlocking-the-full-capabilities-of-windows-11/"><u>[New] In 2024, Unlocking the Full Capabilities of Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-streamlined-techniques-for-capturing-stories-on-instagram-for-2024/"><u>[New] Streamlined Techniques for Capturing Stories on Instagram for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-infinity-refresh-top-5-hdmi-2ranetixx-gaming-screens-ps5/"><u>[Updated] 2024 Approved Infinity Refresh Top 5 HDMI 2Ranetixx Gaming Screens [PS5]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-tech-trends-leading-online-screen-capture-apps/"><u>[Updated] 2024 Approved Innovative Tech Trends Leading Online Screen Capture Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-inexpensive-pc-monitoring-software-for-2024/"><u>[Updated] Inexpensive PC Monitoring Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-is-there-a-perfect-fps-for-everyone-comparing-30-and-60-for-2024/"><u>[Updated] Is There a 'Perfect' FPS for Everyone? Comparing 30 and 60 for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own/"><u>2024 Approved Guidance Instagram Ringtone Download and Make Instagram Ringtone on Your Own</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/boost-your-portuguese-skills-with-these-six-essential-techniques/"><u>Boost Your Portuguese Skills with These Six Essential Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-wander-in-wealthy-web-words-worlds/"><u>In 2024, Wander in Wealthy Web Words Worlds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
 </ul></div>
 

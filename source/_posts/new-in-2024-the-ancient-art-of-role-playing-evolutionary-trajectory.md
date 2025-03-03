@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ancient Art of Role-Playing  Evolutionary Trajectory\""
-date: 2025-02-10T03:18:04.011Z
-updated: 2025-02-12T10:00:19.124Z
+date: 2025-02-27T20:03:41.323Z
+updated: 2025-03-02T17:02:36.884Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -60,10 +56,6 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -89,10 +81,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -110,10 +98,6 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -143,10 +127,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -164,17 +144,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-intuitive-mac-videographer-plus-voice-support/"><u>[New] 2024 Approved Intuitive Mac Videographer + Voice Support</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-dual-display-capture/"><u>[New] Dual Display Capture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-6-minecraft-oriental-house-ideas-you-should-try/"><u>[Updated] 2024 Approved Top 6 Minecraft Oriental House Ideas You Should Try</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screenstreamer-breaking-down-the-newest-recorder/"><u>[Updated] In 2024, ScreenStreamer Breaking Down the Newest Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-integrating-zoom-appointments-into-phone-and-pc-schedules-for-2024/"><u>[Updated] Integrating Zoom Appointments Into Phone & PC Schedules for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-art-of-google-meet-modifications-using-masks-and-effects-for-2024/"><u>[Updated] The Art of Google Meet Modifications Using Masks & Effects for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-windows-11-notepad-using-ai-mentor/"><u>Boost Windows 11 Notepad Using AI Mentor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discord-not-working-heres-how-to-check-if-the-problem-lies-with-your-network/"><u>Discord Not Working? Here's How to Check If The Problem Lies With Your Network</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploring-the-most-suitable-new-language-option/"><u>Exploring the Most Suitable New-Language Option</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-itel-a05s-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Itel A05s to iPod | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-best-of-home-workouts-top-yoga-channels-online/"><u>In 2024, The Best of Home Workouts Top Yoga Channels Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-causes-of-iphone-sluggishness-and-solutions-to-speed-up/"><u>Top 6 Causes of iPhone Sluggishness & Solutions to Speed Up</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-correcting-missed-audio-segments-in-obs-recordings/"><u>[New] Correcting Missed Audio Segments in OBS Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-polity-playground-quintessential-politic-simulators-review/"><u>[New] Polity Playground Quintessential Politic Simulators Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-az-recorder-expert-series-app-deep-dives/"><u>[Updated] AZ Recorder Expert Series App Deep Dives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhancing-your-media-with-professional-voiceovers-for-2024/"><u>[Updated] Enhancing Your Media With Professional Voiceovers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-avoid-hassles-simple-iphone-screen-sharing/"><u>[Updated] In 2024, Avoid Hassles Simple Iphone Screen Sharing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-sharing-content-video-posts-on-instagram-guide/"><u>[Updated] Sharing Content Video Posts on Instagram Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-best-webcam-recorders-for-windows-10/"><u>2024 Approved The Best Webcam Recorders for Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-5-pc-snipers-for-efficient-image-capture/"><u>2024 Approved The Ultimate 5 PC Snipers for Efficient Image Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-vivo-y28-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y28 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/detailed-review-on-vlcs-screenshotting/"><u>Detailed Review on VLC's Screenshotting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-c210-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia C210? Try These Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-precise-codex-of-conduct-in-the-digital-realm/"><u>In 2024, Precise Codex of Conduct in the Digital Realm</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-precision-adjustments-for-premium-zoom-audio/"><u>In 2024, Precision Adjustments for Premium Zoom Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-fixing-cannot-initialize-directx-graphics-driver-error/"><u>Solution Steps: Fixing 'Cannot Initialize DirectX Graphics Driver' Error</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-5-mac-cam-alternatives-to-elevate-your-digital-screens/"><u>Top 5 Mac Cam Alternatives to Elevate Your Digital Screens</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/tta-flac-movavi/"><u>TTA FLAC 데이터를 무료로 바꾸기: Movavi의 편리한 온라인 도구</u></a></li>
 </ul></div>
 

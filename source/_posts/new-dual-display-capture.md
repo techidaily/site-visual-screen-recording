@@ -1,7 +1,7 @@
 ---
 title: "[New] Dual Display Capture"
-date: 2025-02-08T09:13:10.114Z
-updated: 2025-02-11T18:33:14.411Z
+date: 2025-02-28T01:30:23.049Z
+updated: 2025-03-02T16:38:41.282Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ If you would like to capture footage from multiple monitors, but you are not sur
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -58,10 +54,6 @@ The first step towards setting up a screencasting session with multiple displays
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -77,10 +69,6 @@ Go to OBS Studio's main window and click on the Settings button in the lower rig
 Sum up the two values of the wider sides of the screens and insert the value you get into the Base Resolution bar. For example, if one monitor has a 1366X768 resolution and the second one has a 1024X768 resolution, you should add 1024 to the 1366 and insert the resulting value (2390) as the wide resolution value in Base Resolution Bar.
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
 
@@ -107,15 +95,7 @@ In case that you want to record your secondary monitor, we recommend you to try 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -132,16 +112,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-az-screen-recorder-comprehensive-app-review-and-alternative-for-2024/"><u>[New] AZ Screen Recorder | Comprehensive App Review & Alternative for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-beginners-walkthrough-for-screencastify-recorder/"><u>[New] In 2024, Beginner's Walkthrough for Screencastify Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-chromebooks-premier-capture-solution/"><u>[New] In 2024, Chromebook's Premier Capture Solution</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-webinar-designers-toolset/"><u>[New] Top Webinar Designer's Toolset</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-3-nintendo-switch-emulators-free-to-download/"><u>[Updated] 2024 Approved Top 3 Nintendo Switch Emulators Free to Download</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dread-hunger-stops-working-suddenly-on-windows-solutions-inside/"><u>Dread Hunger Stops Working Suddenly on Windows - Solutions Inside</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-15-pro-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-v30-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo V30 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Phone without PIN</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/joy-con-upgrade-joystick-changing-guide/"><u>Joy-Con Upgrade: Joystick Changing Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-key-tactics-procuring-premium-media-backdrops-with-ease/"><u>[New] 2024 Approved Key Tactics Procuring Premium Media Backdrops with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[New] Save and Stream GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-rediscovering-eliminated-reddit-discussions-efficiently/"><u>[Updated] 2024 Approved Rediscovering Eliminated Reddit Discussions Efficiently</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-shortcuts-to-excellent-iphone-time-lapse-videos/"><u>[Updated] 2024 Approved Shortcuts to Excellent iPhone Time Lapse Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-techniques-for-archiving-screen-conversations/"><u>[Updated] Easy Techniques for Archiving Screen Conversations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-online-meeting-applications-no-zoom/"><u>2024 Approved Premium Online Meeting Applications (No Zoom)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-s18-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo S18 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-7-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 7 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-document-total-screen-content/"><u>In 2024, Document Total Screen Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterclass-in-free-videochats-and-collaborative-screensharing/"><u>In 2024, Masterclass in FREE Videochats & Collaborative Screensharing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-quickcapture-5000-chrome-os-recording-pro/"><u>In 2024, QuickCapture 5000 Chrome OS Recording Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-video-cameras-the-leading-list-2024-edition/"><u>Prime Video Cameras The Leading List, 2024 Edition</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-detecting-and-removing-malware-from-your-pc-tips-by-yl-tech-solutions/"><u>Step-by-Step Guide: Detecting & Removing Malware From Your PC - Tips by YL Tech Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-fixing-missing-shell32dll-error-messages/"><u>Step-by-Step Tutorial for Fixing Missing Shell32.dll Error Messages</u></a></li>
 </ul></div>
 

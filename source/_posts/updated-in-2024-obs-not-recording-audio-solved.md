@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, OBS Not Recording Audio [Solved]"
-date: 2025-02-06T05:56:48.916Z
-updated: 2025-02-12T10:12:27.638Z
+date: 2025-02-23T19:35:09.358Z
+updated: 2025-03-02T16:05:13.809Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -65,14 +61,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -82,10 +70,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -105,10 +89,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -136,10 +116,6 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Features Why You Should Go for Filmora:**
 
 * It has both the versions for Windows and Mac
@@ -162,18 +138,24 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-clarity-ranking-5-excellent-live-stream-devices/"><u>[New] 2024 Approved Capturing Clarity Ranking 5 Excellent Live Stream Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[New] 2024 Approved Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-effortless-method-to-record-your-skype-sessions-on-pcmac/"><u>[New] 2024 Approved Effortless Method to Record Your Skype Sessions on PC/Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>[New] 2024 Approved Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-beatbox-recorder-a-compreeved-guide-for-2024/"><u>[New] BeatBox Recorder A Compreeved Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-benq-sw320-4k-315-inch-monitor-review/"><u>[New] BenQ SW320 4K 31.5-Inch Monitor Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-digital-documentation-mobile-and-desktop-meeting-recordings-for-2024/"><u>[New] Digital Documentation Mobile & Desktop Meeting Recordings for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[New] In 2024, Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-mirthful-melodies-comical-cover-tunes/"><u>[New] In 2024, Mirthful Melodies Comical Cover Tunes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-comprehensive-manual-mastering-mobizen-recorders/"><u>[Updated] 2024 Approved Comprehensive Manual Mastering Mobizen Recorders</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-start-recording-youtube-content-on-your-own-terms/"><u>[Updated] Start Recording YouTube Content on Your Own Terms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/an-ipv6-address-consists-of-128-bits-typically-represented-as-eight-groups-of-four-hexadecimal-digits/"><u>An IPv6 Address Consists of 128 Bits, Typically Represented as Eight Groups of Four Hexadecimal Digits.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-xs-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone XS Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-complete-guide-to-steam-switch-controller-use/"><u>[New] In 2024, A Complete Guide to Steam Switch Controller Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860089828-new-sprightly-spirits-top-kid-approved-games/"><u>[New] Sprightly Spirits Top Kid-Approved Games!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enable-vlcs-webcam-recording-for-high-quality-footage/"><u>[Updated] 2024 Approved Enable VLC's Webcam Recording for High-Quality Footage</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-journey-through-history-similar-themed-video-games-to-ghost-of-tsushima/"><u>[Updated] 2024 Approved Journey Through History Similar Themed Video Games to Ghost of Tsushima</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-cameras-for-windows-11-pro-review-of-the-latest-gear-for-2024/"><u>[Updated] Elite Cameras for Windows 11 - Pro Review of the Latest Gear for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-go-global-with-music-transform-your-spotify-lists-into-youtube-videos-for-2024/"><u>[Updated] Go Global with Music Transform Your Spotify Lists Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>[Updated] In 2024, Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comprehensive-techniques-pc-and-mobile-recording-meets/"><u>[Updated] In 2024, Comprehensive Techniques PC & Mobile Recording Meets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-efficient-strategies-to-record-ppt-sessions/"><u>[Updated] In 2024, Efficient Strategies to Record PPT Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-your-ppt-presentations-avoiding-common-voiceover-pitfalls/"><u>[Updated] In 2024, Elevate Your PPT Presentations Avoiding Common Voiceover Pitfalls</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-guidelines-for-creating-compelling-youtube-shorts-templates/"><u>[Updated] In 2024, Essential Guidelines for Creating Compelling YouTube Shorts Templates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>[Updated] Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-insights-best-instagram-editors-for-mobile-and-pc/"><u>2024 Approved Essential Insights Best Instagram Editors for Mobile and PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/buyers-guide-to-selecting-between-a-roku-or-fire-tv-stick/"><u>Buyer's Guide to Selecting Between a Roku or Fire TV Stick</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ideal-video-editor-unleashed-for-vimeo-videos/"><u>Ideal Video Editor Unleashed for Vimeo Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-12-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 12 How to Bypass?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-s23-tactical-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy S23 Tactical Edition to Another | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364509-9798330200931-the-secret-teachings-of-all-ages/"><u>The Secret Teachings of All Ages | Free Book</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting-for-2024/"><u>Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting for 2024</u></a></li>
 </ul></div>
 
